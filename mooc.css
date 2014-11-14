@@ -221,7 +221,14 @@ main > header > h1 {
 	padding: 12px 20px;
 	margin-bottom: 30px;
 	
-	background: linear-gradient(to right, #FFAB0E 58%, #FF960E 100%) repeat scroll 0% 0% transparent;
+	background: #ffab0e;
+	background: -moz-linear-gradient(left,  #ffab0e 58%, #ff960e 100%);
+	background: -webkit-gradient(linear, left top, right top, color-stop(58%,#ffab0e), color-stop(100%,#ff960e));
+	background: -webkit-linear-gradient(left,  #ffab0e 58%,#ff960e 100%);
+	background: -o-linear-gradient(left,  #ffab0e 58%,#ff960e 100%);
+	background: -ms-linear-gradient(left,  #ffab0e 58%,#ff960e 100%);
+	background: linear-gradient(to right,  #ffab0e 58%,#ff960e 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffab0e', endColorstr='#ff960e',GradientType=1 );
 }
 
 /* COURSE-ITEMS */
