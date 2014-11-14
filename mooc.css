@@ -471,7 +471,7 @@ main, header, nav, footer > article {
 		height: 50px;
 		position: absolute;
 		top: 5px;
-		left: 10px;
+		left: 20px;
 	}
 
 	body > header > h1 {
