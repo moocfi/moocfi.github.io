@@ -7,7 +7,8 @@ body {
 	font-family: 'Alegreya Sans', sans-serif;
 	font-size: 20px;
 	line-height: 1.3em;
-	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 /* GENERAL TYPOGRAPHY */
@@ -41,12 +42,19 @@ nav {
 	text-transform: uppercase;
 	text-align: right;
 
-	margin-top: 15px;
-
-	background: #ffab0e; 
+	background-color: #ffab0e; 
 }
 
-nav > a {
+nav ul {
+	margin-top: 18px;
+}
+
+nav ul li {
+	margin-top: 0;
+	display: inline-block;
+}
+
+nav a {
 	color: white;
 
 	border-top: 3px solid transparent;
@@ -65,19 +73,40 @@ nav > a {
 	
 }
 
-nav > a:hover {
+nav a:hover {
 	border-top: 3px solid white;
 	border-bottom: 3px solid white;
 	background: transparent;
 }
 
-nav > .current {
+nav .current {
 	background: #00747a;
 	border-radius: 10px;
 	box-shadow: inset 5px 5px 5px 0px rgba(50, 50, 50, 0.2);
 }
 
-nav > .current:hover {
+nav .current:hover {
+	background: #00747a;
+	border-top: 3px solid transparent;
+	border-bottom: 3px solid transparent;
+}
+
+#menu_toggle {
+	margin-right: 10px;
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	background: transparent;
+	display: none;
+	padding: 5px 15px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#menu_toggle:hover {
 	background: #00747a;
 	border-top: 3px solid transparent;
 	border-bottom: 3px solid transparent;
@@ -86,7 +115,7 @@ nav > .current:hover {
 /* PAGE HEADER */
 
 body > header {
-	margin-top: -15px;
+	margin-top: -45px;
 }
 
 body > header > img {
@@ -185,10 +214,11 @@ main > header > h1 {
 	font-size: 45px;
 	text-shadow: 1px 1px 1px #d48e0c;
 	color: #FFF;
+	line-height: normal;
 
 	display: block;
 	border-radius: 7px;
-	padding: 25px 20px;
+	padding: 12px 20px;
 	margin-bottom: 30px;
 	
 	background: linear-gradient(to right, #FFAB0E 58%, #FF960E 100%) repeat scroll 0% 0% transparent;
@@ -212,7 +242,8 @@ main > header > h1 {
 .item > header > h1 {
 	margin-top: 0px;
 	font-size: 1.4em;
-	float: left;
+	overflow: hidden;
+	line-height: normal;
 }
 
 .item > header > .organiser {
@@ -289,7 +320,7 @@ body > footer > article > section {
 	display: table-cell;
 	text-align: left;
 
-	width: 365px;
+	max-width: 365px;
 	margin: 10px;
 	padding: 10px;
 
@@ -322,6 +353,12 @@ body > footer .sourceforge:before {
 
 footer #license p img {
 	float: right;
+}
+
+footer #license > img {
+	display: block;
+	max-width: 100%;
+	height: auto;
 }
 
 /* TWITTER TEMPLATE THING */
@@ -376,7 +413,7 @@ main, header, nav, footer > article {
 	}
 
 	body > footer > article > section {
-		display: inline-block;
+		display: block;
 		border: 0;
 		margin: auto;
 		min-width: 51%;
@@ -385,12 +422,21 @@ main, header, nav, footer > article {
 
 @media all and (max-width: 760px) {
 
+	html {
+		background: #ffffff;
+	}
+
+	main > header > h1 {
+		border-radius: 0;
+	}
+
 	body > header > h1 > p {
 		font-size: 20px;
 	}
 
 	main {
 		padding: 0;
+		background: #F2F2F2;
 	}
 
 	.item, 
@@ -404,34 +450,91 @@ main, header, nav, footer > article {
 		margin-left: auto;
 		margin-right: auto; 
 	}
-}
 
-@media all and (max-width: 670px) {
+	.banner,
+	.banner * {
+		display: none;
+	}
+
+	body > header {
+		margin-top: 0px
+	}
 
 	body > header > img {
+		height: 50px;
+		position: absolute;
+		top: 5px;
+		left: 10px;
+	}
+
+	body > header > h1 {
 		float: none;
-		display: block;
+		clear: both;
+		max-width: 360px;
+		text-align: center;
 		margin-left: auto;
 		margin-right: auto;
+		line-height: 0.75em;
 	}
 
 	/* Collapse NAV */
+	nav {
+		min-height: 60px;
+	}
 
-	/* Remove main header h1 rouding */
+	nav a, nav ul, nav li {
+		display: none;
+	}
 
-	/* Center MOOC-logo  */
+	#menu_toggle {
+		display: inline-block;
+		float: right;
+	}
 
-	/* Make sure logo texts look nice */
-}
+	nav.active {
+		margin-top: -5px;
+	}
 
+	nav.active ul {
+		margin-top: 0;
+	}
 
-@media all and (max-width: 460px) {
+	nav.active ul,
+	nav.active li,
+	nav.active li a {
+		display: block;
+	}
 
-	/* Remove banner */
+	nav.active ul {
+		padding-bottom: 5px;
+		padding-left: 0px;
+	}
 
-	/* Fix logo texts, again */
+	nav.active li {
+		text-align: left;
+	}
 
-	/* Set sensible min width ( 250px? ) to all elements */
+	nav.active li a {
+		border: 0;
+		margin: 5px 0px 4px 0px;
+		transition: none; 
+		-webkit-transition: none; 
+		-moz-transition: none;
+	}
+
+	nav.active li a:hover {
+		border: 0;
+	}
+
+	nav .current,
+	nav .current:hover {
+		background: 0;
+		box-shadow: none;
+	}
+
+	nav a.active:hover {
+		display: none;
+	}
 }
 
 /* SILLY HACKS */

@@ -15,10 +15,14 @@
 
 	<body>
 		<nav>
-			<a href="index.html">Etusivu</a>
-			<a class="current" href="kurssisivu.html">Kurssit</a>
-			<a href="infosivu.html">Mikä MOOC?</a>
-			<a href="english.html">In English</a>
+			<a id="menu_toggle">&#9776;</a>
+
+			<ul>
+				<li><a href="index.html">Etusivu</a></li>
+				<li><a class="current" href="kurssisivu.html">Kurssit</a></li>
+				<li><a href="infosivu.html">Mikä MOOC?</a></li>
+				<li><a href="english.html">In English</a></li>
+			</ul>
 		</nav>
 		<header>
 			<img src="img/logo.png" />
@@ -171,9 +175,9 @@
 					<p class="sourceforge">Virheraportit <a href="#">SourceForge</a></p>
 				</section>
 				<section id="license">
-					<img src="img/helsingin-yliopisto-computer-science.png" width="338" height="111" alt="Helsingin yliopisto - Department of computer science">
+					<img src="img/helsingin-yliopisto-computer-science.png" alt="Helsingin yliopisto - Department of computer science">
 					<p>
-						<img src="img/copyright.png" width="88" height="31" alt="Creative Commons copyright"> 
+						<img src="img/copyright.png" alt="Creative Commons copyright"> 
 						Sivuston kaikki materiaali on lisensoitu Creative Commons BY-NC-SA-lisenssillä 
 					</p>
 				</section>
@@ -192,7 +196,15 @@
 	            	dots: true,
   					infinite: true,
   					autoplay: true,
-  					autoplaySpeed: 4000
+  					autoplaySpeed: 4000,
+  					arrows: false
+	            });
+
+	            var menuButton = $('#menu_toggle');
+	            menuButton.click(function() {
+	            	menuButton.toggleClass('active');
+	            	$('nav').toggleClass('active');
+	            	$('body > header > img').toggleClass('invisible');
 	            });
 	        });
 	    </script>
