@@ -1,0 +1,442 @@
+html {
+	background: #f2f2f2 url(img/header-bg.png) repeat-x;
+}
+
+body {
+	color: #333333; 
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 20px;
+	line-height: 1.3em;
+	margin: auto;
+}
+
+/* GENERAL TYPOGRAPHY */
+
+h1 {
+	font-family: "Open Sans Condensed",sans-serif;
+	font-weight: 300;
+}
+
+a {
+	color: #00747a; 
+	text-decoration: none; 
+	transition: all 0.25s ease-in-out; 
+	-webkit-transition: all 0.25s ease-in-out; 
+	-moz-transition: all 0.25s ease-in-out;
+}
+
+ul li {
+	list-style-type: circle;
+}
+
+a:hover {
+	background: #d5eff0;
+}
+
+/* NAV BAR */
+
+nav {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 25px;
+	text-transform: uppercase;
+	text-align: right;
+
+	margin-top: 15px;
+
+	background: #ffab0e; 
+}
+
+nav > a {
+	color: white;
+
+	border-top: 3px solid transparent;
+	border-bottom: 3px solid transparent;
+	border-radius: 10px;
+
+	text-shadow: 1px 1px 1px #d48e0c;
+	text-decoration: none;
+	
+	padding: 5px 20px;
+	margin: 6px 0 0 15px;
+
+	transition: all 0.25s ease-in-out; 
+	-webkit-transition: all 0.25s ease-in-out; 
+	-moz-transition: all 0.25s ease-in-out;
+	
+}
+
+nav > a:hover {
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	background: transparent;
+}
+
+nav > .current {
+	background: #00747a;
+	border-radius: 10px;
+	box-shadow: inset 5px 5px 5px 0px rgba(50, 50, 50, 0.2);
+}
+
+nav > .current:hover {
+	background: #00747a;
+	border-top: 3px solid transparent;
+	border-bottom: 3px solid transparent;
+}
+
+/* PAGE HEADER */
+
+body > header {
+	margin-top: -15px;
+}
+
+body > header > img {
+	float: left;
+}
+
+body > header > h1 {
+	float: left;
+	text-transform: uppercase;
+	line-height: 1.8em; 
+	padding: 0 20px;
+}
+
+body > header > h1 > p {
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 30px; 
+	font-weight: normal;
+}
+
+body > header > h1 > p:first-child {
+	border-bottom: 1px solid black;
+	margin-bottom: 0px;
+	margin-top: 20px;
+}
+
+body > header > h1 > p:last-child {
+	margin-top: 0px;
+}
+
+/* BREADCRUMBS */
+
+#breadcrumb {
+	clear: both;
+	list-style: none;
+}
+
+#breadcrumb li {
+	display: inline;
+	font-size: 18px;
+}
+
+#breadcrumb li:first-child:before {
+	content: "";
+}
+
+#breadcrumb li:before {
+	content: "\00BB \0020";
+}
+
+/* MAIN CONTENT */
+
+main {
+	margin: 0 auto;
+	overflow: hidden;
+	clear: both;
+	text-align: justify;
+}
+
+main * {
+	text-align: left;
+}
+
+main > header {
+	margin: auto;
+	height: auto;
+	width: 100%;
+	display: inline-block;
+}
+
+#banner {
+	width: 100%;
+	height: auto;
+}
+
+.slick-slide img {
+	max-width:100%;
+}
+
+.slick-dots {
+	position: absolute;
+	bottom: -22px;
+	text-align: right;
+}
+
+.slick-dots li button:before {
+	font-size: 20px;
+	color: #3dbba6;
+}
+
+.slick-dots li.slick-active button:before {
+	color: #e8e8e8;
+}
+
+main > header > h1 {
+	font-weight: 300;
+	font-size: 45px;
+	text-shadow: 1px 1px 1px #d48e0c;
+	color: #FFF;
+
+	display: block;
+	border-radius: 7px;
+	padding: 25px 20px;
+	margin-bottom: 30px;
+	
+	background: linear-gradient(to right, #FFAB0E 58%, #FF960E 100%) repeat scroll 0% 0% transparent;
+}
+
+/* COURSE-ITEMS */
+
+.item {
+	display: inline-block;
+	vertical-align: top;
+	width: 310px;
+	background-color: white;
+	margin-bottom: 25px;
+	padding: 20px;
+}
+
+.item > header {
+	padding-top: 10px;
+}
+
+.item > header > h1 {
+	margin-top: 0px;
+	font-size: 1.4em;
+	float: left;
+}
+
+.item > header > .organiser {
+	width: 30px;
+	height: auto;
+	float: left;
+	margin-right: 5px;
+}
+
+.item > section {
+	clear:both;
+}
+
+#twitter {
+	float: right;
+	margin-left: 50px;
+	height: 350px
+}
+
+#twitter > header > h1 {
+	width: 100%;
+}
+
+#twitter img {
+	width: 45px;
+}
+
+.call_to_action,
+.call_to_action:visited {
+	color: white;
+	background-color: #3dbba6;
+	text-align: center;
+	padding: 20px;
+	display: block;
+	margin: 0 -20px -20px -20px;
+	text-shadow: #696969 1px 1px 1px;
+}
+
+.call_to_action:hover {
+	background-color: #00747a;
+}
+
+.call_to_action:first-line {
+	font-size: 1.5em;
+}
+
+.not_now,
+.not_now:visited {
+	background-color: #c0c0c0;
+}
+
+.not_now:hover {
+	background-color: #c0c0c0;
+}
+
+
+/* FOOTER */
+
+body > footer {	
+	width: 100%;
+	background-color: white;
+	padding: 30px 0px;
+}
+
+body > footer > article {
+	max-width: 1150px;
+	display: table;
+	table-layout: fixed;
+	margin: auto;
+}
+
+body > footer > article > section {
+	vertical-align: top;
+	display: table-cell;
+	text-align: left;
+
+	width: 365px;
+	margin: 10px;
+	padding: 10px;
+
+	border-right: 1px solid black;
+}
+
+body > footer > article > section:last-child {
+	border-right: none;
+}
+
+body > footer .facebook:before,
+body > footer .irc:before,
+body > footer .sourceforge:before {
+	margin-right: 10px;
+	position: relative;
+	top: 12px;
+}
+
+body > footer .facebook:before {
+	content: url(img/social-media-facebook.png);
+}
+
+body > footer .irc:before {
+	content: url(img/social-media-irc.png);
+}
+
+body > footer .sourceforge:before {
+	content: url(img/social-media-sourceforge.png);
+}
+
+footer #license p img {
+	float: right;
+}
+
+/* TWITTER TEMPLATE THING */
+.feed {border-bottom: solid 3px #f2f2f2; width: 350px;}
+.feed h5 {margin: 5px 20px -3px 5px; font-size: .8em; font-weight: 600;}
+.feed p {font-size: .9em}
+.feed td {vertical-align: top;}
+.feed-logo {margin: 5px 0 3px 0; height:50px; width: auto; }
+.feed-date {font-size: .75em; color: #b0b0b0}
+
+main, header, nav, footer > article {
+	max-width: 1150px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* MEDIATYPES */
+@media all and (max-width: 1160px) {
+
+	body > header > h1 > p {
+		font-size: 25px;
+	}
+
+	main {
+		padding: 30px;
+	}
+
+	.item {
+		width: 43%;
+	}
+
+	.item:nth-child(odd) {
+		float: right;
+	}
+
+	.item:nth-child(even) {
+		float: left;
+	}
+
+	#twitter {
+		margin-left: 0;
+		float: right;
+	}
+
+	.item:nth-of-type(2) {
+		float: left;
+	}
+
+	body > footer > article {
+		display: block;
+		text-align: center;
+	}
+
+	body > footer > article > section {
+		display: inline-block;
+		border: 0;
+		margin: auto;
+		min-width: 51%;
+	}
+}
+
+@media all and (max-width: 760px) {
+
+	body > header > h1 > p {
+		font-size: 20px;
+	}
+
+	main {
+		padding: 0;
+	}
+
+	.item, 
+	#twitter,
+	.item:nth-child(odd),
+	.item:nth-child(even),
+	.item:nth-of-type(2) {
+		display: block;
+		float: none;
+		width: 90%;
+		margin-left: auto;
+		margin-right: auto; 
+	}
+}
+
+@media all and (max-width: 670px) {
+
+	body > header > img {
+		float: none;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	/* Collapse NAV */
+
+	/* Remove main header h1 rouding */
+
+	/* Center MOOC-logo  */
+
+	/* Make sure logo texts look nice */
+}
+
+
+@media all and (max-width: 460px) {
+
+	/* Remove banner */
+
+	/* Fix logo texts, again */
+
+	/* Set sensible min width ( 250px? ) to all elements */
+}
+
+/* SILLY HACKS */
+.invisible {
+	height: 0;
+	margin: 0;
+	padding: 0;
+}

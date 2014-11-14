@@ -6,159 +6,195 @@
 		<title>MOOC</title>
 		<meta name="viewport" content="initial-scale=1.0, width=device-width"> 
 		
-		<link rel="stylesheet" href="style.css">
-		<link href="alegrya-alt" rel="stylesheet" type="text/css">
-		<link href="open-alt" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+		<link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:400,700|Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="normalize.css">
+		<link rel="stylesheet" href="mooc.css">
 		<link rel="icon" type="image/png" href="img/favicon.png">
-		<style type="text/css"></style>
 	</head>
 
 	<body>
-		<section id="header" class="wrapper">
-			<ul id="menu" class="right">
-				<li><a class="current" href="http://www.kikatus.com/misc/MOOC/#">Etusivu</a></li>
-				<li><a href="http://www.kikatus.com/misc/MOOC/#">Kurssit</a></li>
-				<li><a href="http://www.kikatus.com/misc/MOOC/#">Mikä MOOC?</a></li>
-				<li><a href="http://www.kikatus.com/misc/MOOC/#">In English</a></li>
-			</ul>	
-			<section id="logo"></section>
-			<section id="intro">Massiiviset avoimet verkkokurssit<span id="intro-tag">Massive open online courses&nbsp;·&nbsp;mooc.fi</span></section>
-			<section id="breadcrumb"><a href="http://www.kikatus.com/misc/MOOC/#">Etusivu</a></section>
-		</section>
+		<nav>
+			<a href="index.html">Etusivu</a>
+			<a class="current" href="kurssisivu.html">Kurssit</a>
+			<a href="infosivu.html">Mikä MOOC?</a>
+			<a href="english.html">In English</a>
+		</nav>
+		<header>
+			<img src="img/logo.png" />
+			<h1>
+				<p>Massiiviset avoimet verkkokurssit</p>
+				<p>Massive open online courses&nbsp;·&nbsp;mooc.fi</p>
+			</h1>
+		</header>
 
+		<main>
+			<header>
+				<ul id="breadcrumb">
+					<li><a href="#">MOOC.FI</a></li>
+					<li><a href="#">Kurssit</a></li>
+				</ul>
 
-		<section class="wrapper">
-			<section class="banner">
-				<img class="banner" src="img/Banneri.jpg" alt="MOOC">
-			</section>
+				<div class="banner">
+					<div><img src="img/Banneri-2.jpg" alt="MOOC"></div>
+					<div><img src="img/Banneri-2.jpg" alt="MOOC"></div>
+					<div><img src="img/Banneri-2.jpg" alt="MOOC"></div>
+				</div>
+				
+				<h1>Kaikille avoimet MOOC-kurssit</h1>
+			</header>
 
-			<h1>Kaikille avoimet MOOC-kurssit</h1>
+			<article class="item" id="twitter">
+				<header>
+					<h1>Pysy ajan tasalla - <a href="#">Twitter</a></h1>
+				</header>
+				<section>
+      				<p>
+      					<a class="twitter-timeline" data-widget-id="345975149150998528" href="https://twitter.com/mooc1" width="720" height="300" data-chrome="nofooter noborders noheader transparent">
+      						Twiittejä käyttäjältä @mooc1
+  						</a>
+      					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  					</p>
+				</section>
+			</article>
 
-			<section class="element-container">
-				<section class="course-box simple-shadow">
-					<img class="uni-logo" src="img/liekki.jpg" alt="university logo">
-					<h4><a href="http://mooc.cs.helsinki.fi/wepa">Algoritmien MOOC</a></h4>
+			<article class="item">
+				<header>
+					<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
+					<h1><a href="http://mooc.cs.helsinki.fi/wepa">Algoritmien MOOC</a></h1>
+				</header>
+				<section>
 					<p>Algoritmien avoin massiivinen verkkokurssi eli AlgoMOOC tarjoaa lisähaastetta perus-MOOCin eli Ohjelmoinnin avoimen massiivisen verkkokurssin suorittajille ja muille kiinnostuneille.</p>
-					<a href="http://mooc.cs.helsinki.fi/wepa" class="course-box-button green">
-						<span class="status">Kurssi meneillään</span>
-						<span class="date"></span>
+
+					<a class="call_to_action" href="http://mooc.cs.helsinki.fi/wepa" class="course-box-button green">
+						Kurssi meneillään
 					</a>
 				</section>
+			</article>
 
-				<section class="course-box simple-shadow">
-					<img class="uni-logo" src="img/aalto.png" alt="university logo">
-					<h4><a href="http://mooc.aalto.fi/ohjelmointi/">Ohjelmointia Scalalla</a></h4>
+			<article class="item">
+				<header>
+					<img class="organiser" src="img/aalto.png" alt="Aalto University">
+					<h1><a href="http://mooc.aalto.fi/ohjelmointi/">Ohjelmointia Scalalla</a></h1>
+				</header>
+				<section>
 					<ul>
 						<li>Ei esitietovaatimuksia.</li>
 						<li>Kurssi vastaa Aalto yliopiston kursseja Ohjelmointi 1 ja osittain Ohjelmointistudio 2.</li>
 						<li>Kurssilla opit ohjelmoinnin perusteet käyttäen modernia Scala-ohjelmointikieltä ja saat yliopistotutkintoon sopivia opintopisteitä.</li>
 					</ul>
-					<a href="http://mooc.aalto.fi/ohjelmointi/" class="course-box-button green">
-						<span class="status">Ilmottaudu mukaan!</span>
-						<span class="date">Ilmoittautuminen aukeaa 1.9.2014</span>
+
+					<a class="call_to_action" href="http://mooc.aalto.fi/ohjelmointi/" class="course-box-button green">
+						Ilmottaudu mukaan!<br>
+						Ilmoittautuminen aukeaa 1.9.2014
 					</a>
 				</section>
+			</article>
 
-			</section>
-
-			<section class="element-container">
-				<section class="course-box simple-shadow">
-					<img class="uni-logo" src="img/liekki.jpg" alt="university logo">
-					<h4><a href="http://mooc.cs.helsinki.fi/2014-ohjelmointi">Ohjelmoinnin MOOC, osa 2</a></h4>
+			<article class="item">
+				<header>
+					<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
+					<h1><a href="http://mooc.cs.helsinki.fi/2014-ohjelmointi">Ohjelmoinnin MOOC, osa 2</a></h1>
+				</header>
+				<section>
 					<ul>
 						<li>Ei esitietovaatimuksia.</li>
 						<li>Kurssi vastaa Helsingin yliopiston kursseja Ohjelmoinnin perusteet ja Ohjelmoinnin jatkokurssi.</li>
 						<li>Kurssin suorittaminen ei mahdollista opinto-oikeutta (opinto-oikeuden mahdollistava kurssi järjestetään keväisin).</li>
 					</ul>
-					<a href="http://mooc.cs.helsinki.fi/2014-ohjelmointi" class="course-box-button red">
-						<span class="status">Kurssi meneillään</span>
-						<span class="date">Seuraava kurssi 20.-25.4.2014</span>
+
+					<a class="call_to_action not_now" href="http://mooc.cs.helsinki.fi/2014-ohjelmointi">
+						Kurssi meneillään<br>
+						Seuraava kurssi 20.-25.4.2014
 					</a>
 				</section>
+			</article>
 
-				<section class="course-box simple-shadow">
-					<img class="uni-logo" src="img/liekki.jpg" alt="university logo">
-					<h4><a href="http://mooc.cs.helsinki.fi/clojure">Functional programming with Clojure</a></h4>
+			<article class="item">
+				<header>
+					<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
+					<h1><a href="http://mooc.cs.helsinki.fi/2014-ohjelmointi">Ohjelmoinnin MOOC, osa 2</a></h1>
+				</header>
+				<section>
 					<p>The course is an introduction to functional programming with a dynamically typed language Clojure. We start with an introduction to Clojure; its syntax and development environment. Clojure has a good selection of data structures and we cover most of them. We also go through the basics of recursion and higher-order functions. The course material is in English.</p>
-					<a href="http://mooc.cs.helsinki.fi/clojure" class="course-box-button green">
-						<span class="status">Ilmottaudu mukaan!</span>
-						<span class="date">Ilmoittautuminen aukeaa 1.9.2014</span>
+
+					<a href="http://mooc.cs.helsinki.fi/clojure" class="call_to_action">
+						Ilmottaudu mukaan! <br>
+						Ilmoittautuminen aukeaa 1.9.2014
 					</a>
 				</section>
-				
-			</section>
+			</article>
 
-			<section class="element-container">
-				<section class="course-box simple-shadow">
-					<img class="uni-logo" src="img/liekki.jpg" alt="university logo">
-					<h4><a href="http://mooc.cs.helsinki.fi/programming-part1">Object oriented programming with Java, part 1</a></h4>
+			<article class="item">
+				<header>
+					<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
+					<h1><a href="http://mooc.cs.helsinki.fi/programming-part1">Object oriented programming with Java, part 1</a></h1>
+				</header>
+				<section>
 					<p>In the course, you will learn all the basics of computer programming, algorithms and object-oriented programming using the Java programming language. The course includes comprehensive course materials and plenty of programming exercises, each tested using our automatic testing service Test My Code.</p>
-					<a href="http://mooc.cs.helsinki.fi/programming-part1" class="course-box-button green">
-						<span class="status">No deadlines, self-paced - start any time</span>
+
+					<a class="call_to_action" href="kurssisivu.html" class="course-box-button green">
+						No deadlines, self-paced - start any time
 					</a>
 				</section>
+			</article>
 
-				<section class="course-box simple-shadow">
-					<img class="uni-logo" src="img/liekki.jpg" alt="university logo">
-					<h4><a href="kurssisivu.html">Object oriented programming with Java, part 2</a></h4>
+			<article class="item">
+				<header>
+					<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
+					<h1><a href="kurssisivu.html">Object oriented programming with Java, part 2</a></h1>
+				</header>
+				<section>
 					<p>This course is a direct continuaton of the course Object-Oriented Programming with Java, part I (including week numbering). In Part II, we will dwell deeper into the world of object-oriented programming.</p>
-					<a href="kurssisivu.html" class="course-box-button green">
-						<span class="status">No deadlines, self-paced - start any time</span>
+
+					<a class="call_to_action" href="kurssisivu.html">
+						No deadlines, self-paced - start any time
 					</a>
 				</section>
+			</article>
 
-				<section class="course-box simple-shadow">
-					<h4>Pysy ajan tasalla - <a href="#">Twitter</a></h4>
-					<table class="feed course-box">
-						<tbody><tr class="feed">
-							<td>
-								<img class="feed-logo" src="img/logo.png" alt="MOOC">
-							</td>
-							<td>
-								<h5>Username</h5>
-								<p>Stop working and save right now!</p>
-								<p class="feed-date">8 June</p>
-							</td>						
-						</tr>
-						<tr>
-							<td>
-								<img class="feed-logo" src="img/logo.png" alt="MOOC">
-							</td>
-							<td>
-								<h5>Username</h5>
-								<p>"The life of the designer is a life fight against uglyness" - Massimo Vignelli</p>
-								<p class="feed-date">7 June</p>
-							</td>						
-						</tr>
-					</tbody>
-					</table>
+			<article class="item invisible">
+				<!-- Ignore me, but keep me last -->
+			</article>
+		</main>
+
+		<footer>
+			<article>
+				<section id="about">
+						<p>
+							<a href="#">MOOC</a> eli “massive open online course” tarkoittaa tapaa järjestää osallistujamäärältään skaalautuvia mutta opettajaresurssien käytöltään rajattuja, helposti ylläpidettäviä verkkokursseja. MOOCien perusajatuksen mukaisesti kurssille osallistumisen kynnys on hyvin matala, eikä kurssin keskeyttämisestä ole sanktioita.
+						</p>
 				</section>
-			</section>
+				<section id="contact">
+					<p class="facebook">Tiedotus <a href="#">Twitter</a> &amp; <a href="http://www.kikatus.com/misc/MOOC/#">Facebook</a></p>
+					<p class="irc">Ohjaus <a href="#">#mooc.fi @ IRCNet</a></p>
+					<p class="sourceforge">Virheraportit <a href="#">SourceForge</a></p>
+				</section>
+				<section id="license">
+					<img src="img/helsingin-yliopisto-computer-science.png" width="338" height="111" alt="Helsingin yliopisto - Department of computer science">
+					<p>
+						<img src="img/copyright.png" width="88" height="31" alt="Creative Commons copyright"> 
+						Sivuston kaikki materiaali on lisensoitu Creative Commons BY-NC-SA-lisenssillä 
+					</p>
+				</section>
+			</article>
+		</footer>
 
-		</section>
+		<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+		<script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+		<script type="text/javascript" src="slick/slick.min.js"></script>
 
-		<section id="footer">
-			<table class="wrapper">
-				<tbody><tr>
-					<td class="footer-intro">
-						<a href="http://www.kikatus.com/misc/MOOC/#">MOOC</a> pork belly beef landjaeger, beef ribs frankfurter chuck boudin salami shankle ball tip pig. Meatloaf strip steak spare ribs leberkas salami. Tri-tip ground round pork meatball chuck landjaeger andouille. Sausage drumstick pork loin, beef ribs biltong tail kielbasa. Pig tri-tip drumstick, turducken beef shank pork loin jowl ham hock. Tri-tip ground round pork meatball chuck landjaeger andouille.</td>
-					<td class="footer-social">
-						<ul>
-							<li class="facebook">Tiedotus <a href="http://www.kikatus.com/misc/MOOC/#">Twitter</a> &amp; <a href="http://www.kikatus.com/misc/MOOC/#">Facebook</a></li>
-							<li class="irc">Ohjaus <a href="http://www.kikatus.com/misc/MOOC/#">IRCnet #mooc.fi</a></li>
-							<li class="sourceforge">Virheraportit <a href="http://www.kikatus.com/misc/MOOC/#">SourceForge</a></li>
-						</ul>
-					</td>
-					<td class="footer-copy">
-						<img src="img/helsingin-yliopisto-computer-science.png" width="338" height="111" alt="Helsingin yliopisto - Department of computer science">
-						<span class="block">
-							<img src="img/copyright.png" width="88" height="31" alt="Creative Commons copyright" class="right"> 
-							Sivuston kaikki materiaali on lisensoitu Creative Commons BY-NC-SA-lisenssillä 
-						</span>
-					</td>
-				</tr>
-			</tbody></table>
-		</section>
 
+
+	    <script type="text/javascript">
+	        $(document).ready(function(){
+	            $('.banner').slick({
+	            	dots: true,
+  					infinite: true,
+  					autoplay: true,
+  					autoplaySpeed: 4000
+	            });
+	        });
+	    </script>
 	</body>
 </html>
