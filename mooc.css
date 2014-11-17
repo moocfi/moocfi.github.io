@@ -323,25 +323,29 @@ body > footer {
 
 body > footer > article {
 	max-width: 1150px;
-	display: table;
-	table-layout: fixed;
 	margin: auto;
 }
 
 body > footer > article > section {
 	vertical-align: top;
-	display: table-cell;
+	display: inline-block;
 	text-align: left;
 
-	max-width: 365px;
-	margin: 10px;
-	padding: 10px;
+	width: 350px;
+	padding: 23px;
 
 	border-right: 1px solid black;
 }
 
+body > footer > article > section:first-child {
+	margin-left: 0%;
+	padding-left: 0%;
+}
+
 body > footer > article > section:last-child {
 	border-right: none;
+	padding-right: 0%;
+	margin-right: 0%;
 }
 
 body > footer .facebook:before,
@@ -374,21 +378,20 @@ footer #license > img {
 	height: auto;
 }
 
-/* TWITTER TEMPLATE THING */
-.feed {border-bottom: solid 3px #f2f2f2; width: 350px;}
-.feed h5 {margin: 5px 20px -3px 5px; font-size: .8em; font-weight: 600;}
-.feed p {font-size: .9em}
-.feed td {vertical-align: top;}
-.feed-logo {margin: 5px 0 3px 0; height:50px; width: auto; }
-.feed-date {font-size: .75em; color: #b0b0b0}
-
 main, header, nav, footer > article {
 	max-width: 1150px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
+/* Fix whitespace between inline-block footer sections */
+#contact, #license {
+	margin-left: -4px;
+}
+
 /* MEDIATYPES */
+
+/* Two column */
 @media all and (max-width: 1160px) {
 
 	body > header > h1 > p {
@@ -426,13 +429,36 @@ main, header, nav, footer > article {
 	}
 
 	body > footer > article > section {
-		display: block;
+		display: inline-block;
 		border: 0;
 		margin: auto;
-		min-width: 51%;
+		min-width: 0px;
+		width: initial;
+	}
+
+	#about {
+		width: 300px;
+	}
+
+	#contact {
+		width: 300px;
+		position: relative;
+		top: -30px;
+	}
+
+	#license img {
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	footer #license p img {
+		float: none;
+		display: block;
+		margin-bottom: 10px;
 	}
 }
 
+/* Single column */
 @media all and (max-width: 760px) {
 
 	html {
