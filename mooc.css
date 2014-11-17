@@ -530,16 +530,18 @@ main, header, nav, footer > article {
 	}
 
 	#menu_toggle {
-		display: inline-block;
-		float: right;
-	}
-
-	nav.active {
-		margin-top: -5px;
+		position: absolute;
+		right: 0px;
+		top: 0px;
+		display: block;
 	}
 
 	nav.active ul {
+		position:absolute;
+		top: 55px;
 		margin-top: 0;
+		background-color: #ffab0e; 
+		width: 100%;
 	}
 
 	nav.active ul,
@@ -554,6 +556,7 @@ main, header, nav, footer > article {
 	}
 
 	nav.active li {
+		margin-left: 75px;
 		text-align: left;
 	}
 
@@ -583,7 +586,7 @@ main, header, nav, footer > article {
 /* Really small screens */
 @media all and (max-width: 500px) {
 
-	body > header:after {
+	nav:after {
 		content: "MOOC.FI";
 		position: absolute;
 		top: 17px;
