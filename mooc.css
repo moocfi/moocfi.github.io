@@ -255,13 +255,13 @@ main > header > h1 {
 .item > header > h1 {
 	margin-top: 0px;
 	font-size: 1.4em;
-	overflow: hidden;
 	line-height: normal;
 }
 
-.item > header > .organiser {
-	width: 30px;
-	height: auto;
+.item .organiser {
+	width: auto;
+	height: 1em;
+	margin-top: 0.2em;
 	float: left;
 	margin-right: 5px;
 }
