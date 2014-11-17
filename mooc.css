@@ -18,6 +18,22 @@ h1 {
 	font-weight: 300;
 }
 
+article > section > header > h1 {
+	font-size: 1.75em;
+}
+
+article > section > h1 {
+	font-size: 1.5em;
+}
+
+article > section > h2 {
+	font-size: 1.25em;
+}
+
+article > section > h3 {
+	font-size: 1.1em;
+}
+
 a {
 	color: #00747a; 
 	text-decoration: none; 
@@ -36,7 +52,7 @@ a:hover {
 
 /* NAV BAR */
 
-nav {
+body > nav {
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 25px;
 	text-transform: uppercase;
@@ -45,16 +61,16 @@ nav {
 	background-color: #ffab0e; 
 }
 
-nav ul {
+body > nav ul {
 	margin-top: 18px;
 }
 
-nav ul li {
+body > nav ul li {
 	margin-top: 0;
 	display: inline-block;
 }
 
-nav a {
+body > nav a {
 	color: white;
 
 	border-top: 3px solid transparent;
@@ -73,19 +89,19 @@ nav a {
 	
 }
 
-nav a:hover {
+body > nav a:hover {
 	border-top: 3px solid white;
 	border-bottom: 3px solid white;
 	background: transparent;
 }
 
-nav .current {
+body > nav .current {
 	background: #00747a;
 	border-radius: 10px;
 	box-shadow: inset 5px 5px 5px 0px rgba(50, 50, 50, 0.2);
 }
 
-nav .current:hover {
+body > nav .current:hover {
 	background: #00747a;
 	border-top: 3px solid transparent;
 	border-bottom: 3px solid transparent;
@@ -113,10 +129,125 @@ nav .current:hover {
 	border-bottom: 3px solid transparent;
 }
 
+/* SIDE NAV */
+
+main.has-aside article,
+main.has-aside > header {
+	width: 65%;
+	float: left;
+}
+
+main.has-aside article {
+	background-color: white;
+	padding: 10px;
+	margin-bottom: 40px;
+}
+
+main.has-aside article > header h1 {
+	font-weight: 300;
+	font-size: 45px;
+	text-shadow: 1px 1px 1px #d48e0c;
+	color: #FFF;
+	line-height: normal;
+
+	display: block;
+	border-radius: 7px;
+	padding: 12px 20px;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	
+	background: #ffab0e;
+	background: -moz-linear-gradient(left,  #ffab0e 58%, #ff960e 100%);
+	background: -webkit-gradient(linear, left top, right top, color-stop(58%,#ffab0e), color-stop(100%,#ff960e));
+	background: -webkit-linear-gradient(left,  #ffab0e 58%,#ff960e 100%);
+	background: -o-linear-gradient(left,  #ffab0e 58%,#ff960e 100%);
+	background: -ms-linear-gradient(left,  #ffab0e 58%,#ff960e 100%);
+	background: linear-gradient(to right,  #ffab0e 58%,#ff960e 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffab0e', endColorstr='#ff960e',GradientType=1 );
+}
+
+aside {
+	width: 350px;
+	float: right;
+	border-bottom: 1px solid #e2e2e2;
+	border-top: 1px solid #fff;
+	line-height: 1.3em;
+}
+
+aside nav {
+	border-bottom: 1px solid #e2e2e2;
+	border-top: 1px solid #fff;
+}
+
+aside nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+aside nav li {
+	list-style: none; 
+	text-transform: uppercase;
+	margin: 0;
+	border-top: 1px solid #e2e2e2;
+	border-bottom: 1px solid #fff;
+}
+
+aside nav li li {
+	text-transform: none;
+	border: 0 none;
+	background: red;
+}
+
+aside nav a {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 25px;
+	color: #4c4c4c;
+	display: block;
+	padding: 15px;
+}
+
+aside nav a:hover {
+	background: #fff;
+}
+
+aside nav li li a {
+	background: #3ebba7; 
+	color: #fff; 
+	padding: 10px 15px; 
+	text-shadow: 1px 1px 1px #005357;
+}
+
+aside nav .current {
+	background: #00747a;  
+	border: 0 none;
+}
+
+aside nav .current a {
+	color: #fff;
+}
+
+aside nav .current a:hover {
+	background: #00747a;
+}
+
+aside nav .current li a:hover {
+	background: #4dd0bb;
+}
+
+aside nav li ul .current a,
+aside nav li ul .current a:hover {
+	background: #30a491;
+}
+
+aside nav ul ul {
+	padding-left: 0px;
+}
+
 /* PAGE HEADER */
 
 body > header {
 	margin-top: -45px;
+	clear:both;
 }
 
 body > header > img {
