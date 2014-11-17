@@ -533,6 +533,10 @@ main, header, nav, footer > article {
 		padding: 30px;
 	}
 
+	aside {
+		width: 30%;
+	}
+
 	.item {
 		width: 43%;
 	}
@@ -652,11 +656,13 @@ main, header, nav, footer > article {
 	}
 
 	/* Collapse NAV */
-	nav {
+	body > nav {
 		min-height: 60px;
 	}
 
-	nav a, nav ul, nav li {
+	body > nav a, 
+	body > nav ul, 
+	body > nav li {
 		display: none;
 	}
 
@@ -667,7 +673,7 @@ main, header, nav, footer > article {
 		display: block;
 	}
 
-	nav.active ul {
+	body > nav.active ul {
 		position:absolute;
 		top: 55px;
 		margin-top: 0;
@@ -675,23 +681,23 @@ main, header, nav, footer > article {
 		width: 100%;
 	}
 
-	nav.active ul,
-	nav.active li,
-	nav.active li a {
+	body > nav.active ul,
+	body > nav.active li,
+	body > nav.active li a {
 		display: block;
 	}
 
-	nav.active ul {
+	body > nav.active ul {
 		padding-bottom: 5px;
 		padding-left: 0px;
 	}
 
-	nav.active li {
+	body > nav.active li {
 		margin-left: 75px;
 		text-align: left;
 	}
 
-	nav.active li a {
+	body > nav.active li a {
 		border: 0;
 		margin: 5px 0px 4px 0px;
 		transition: none; 
@@ -699,17 +705,17 @@ main, header, nav, footer > article {
 		-moz-transition: none;
 	}
 
-	nav.active li a:hover {
+	body > nav.active li a:hover {
 		border: 0;
 	}
 
-	nav .current,
-	nav .current:hover {
+	body > nav .current,
+	body > nav .current:hover {
 		background: 0;
 		box-shadow: none;
 	}
 
-	nav a.active:hover {
+	body > nav a.active:hover {
 		display: none;
 	}
 }
@@ -717,7 +723,7 @@ main, header, nav, footer > article {
 /* Really small screens */
 @media all and (max-width: 500px) {
 
-	nav:after {
+	body > nav:after {
 		content: "MOOC.FI";
 		position: absolute;
 		top: 17px;
