@@ -195,10 +195,15 @@ main > header {
 	max-width:100%;
 }
 
+
 .slick-dots {
-	position: absolute;
-	bottom: -22px;
+	margin: 0;
+	bottom: 5px;
 	text-align: right;
+}
+
+.slick-dots li {
+	vertical-align: bottom;
 }
 
 .slick-dots li button:before {
