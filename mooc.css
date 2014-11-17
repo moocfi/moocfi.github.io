@@ -580,6 +580,38 @@ main, header, nav, footer > article {
 	}
 }
 
+/* Really small screens */
+@media all and (max-width: 500px) {
+
+	body > header:after {
+		content: "MOOC.FI";
+		position: absolute;
+		top: 17px;
+		left: 100px;
+		color: white;
+		font-family: "Open Sans Condensed",sans-serif;
+		font-weight: bold;
+	}
+
+	body > header > h1 {
+		display: none;
+	}
+
+	main > header > h1 {
+		font-size: 1.3em;
+	}
+
+	#breadcrumb {
+		display: none;
+	}
+
+	#about,
+	#contact,
+	#license {
+		max-width: 80%
+	}
+}
+
 /* SILLY HACKS */
 .invisible {
 	height: 0;
