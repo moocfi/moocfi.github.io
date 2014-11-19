@@ -129,7 +129,7 @@ body > nav .current:hover {
 	border-bottom: 3px solid transparent;
 }
 
-/* SIDE NAV */
+/* MAIN WITH SIDE NAV */
 
 main.has-aside article,
 main.has-aside > header {
@@ -166,12 +166,37 @@ main.has-aside article > header h1 {
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffab0e', endColorstr='#ff960e',GradientType=1 );
 }
 
+/* SIDE NAV */
+
 aside {
 	width: 350px;
+	clear:both;
 	float: right;
 	border-bottom: 1px solid #e2e2e2;
 	border-top: 1px solid #fff;
 	line-height: 1.3em;
+}
+
+aside header {
+	background: #00747a;  
+	text-transform: uppercase;
+	margin: 0;
+}
+
+aside header h1 {
+	line-height: normal;
+	font-size: 1.3em;
+	padding: 0px;
+	margin: 0px;
+}
+
+aside header h1 a,
+aside header h1 a:hover {
+	font-family: "Open Sans Condensed",sans-serif;
+	font-size: 25px;
+	color: #fff;
+	display: block;
+	padding: 10px 15px;
 }
 
 aside nav {
@@ -180,74 +205,47 @@ aside nav {
 }
 
 aside nav ul {
+
 	margin: 0;
 	padding: 0;
 }
 
-aside nav li {
-	list-style: none; 
-	text-transform: uppercase;
-	margin: 0;
-	border-top: 1px solid #e2e2e2;
-	border-bottom: 1px solid #fff;
-}
-
-aside nav li li {
+aside nav ul li {
+	list-style-type: none;
 	text-transform: none;
 	border: 0 none;
 	background: red;
 }
 
-aside nav a {
+aside nav ul li a {
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 25px;
-	color: #4c4c4c;
 	display: block;
 	padding: 15px;
-}
-
-aside nav a:hover {
-	background: #fff;
-}
-
-aside nav li li a {
+	color: #fff;
 	background: #3ebba7; 
-	color: #fff; 
 	padding: 10px 15px; 
 	text-shadow: 1px 1px 1px #005357;
 }
 
-aside nav .current {
-	background: #00747a;  
-	border: 0 none;
-}
-
-aside nav .current a {
-	color: #fff;
-}
-
-aside nav .current a:hover {
+aside nav ul li a:hover {
 	background: #00747a;
 }
 
-aside nav .current li a:hover {
-	background: #4dd0bb;
+aside nav ul .current a {
+	background: #30A491;
 }
 
-aside nav li ul .current a,
-aside nav li ul .current a:hover {
-	background: #30a491;
-}
-
-aside nav ul ul {
-	padding-left: 0px;
+aside nav ul .current a:hover {
+	background: #00747a;
 }
 
 /* PAGE HEADER */
 
 body > header {
 	margin-top: -45px;
-	clear:both;
+	max-width: 100%;
+	clear: both;
 }
 
 body > header > img {
@@ -313,7 +311,7 @@ main * {
 main > header {
 	margin: auto;
 	height: auto;
-	width: 100%;
+	max-width: 100%;
 	display: inline-block;
 }
 
@@ -568,6 +566,7 @@ main, header, nav, footer > article {
 	}
 
 	body > footer > article > section {
+		height: 275px;
 		display: inline-block;
 		border: 0;
 		margin: auto;
@@ -580,9 +579,14 @@ main, header, nav, footer > article {
 	}
 
 	#contact {
+		padding-top: 0;
 		width: 300px;
 		position: relative;
 		top: -30px;
+	}
+
+	#contact p:first-child {
+		padding-top: 0;
 	}
 
 	#license img {
@@ -602,6 +606,10 @@ main, header, nav, footer > article {
 
 	html {
 		background: #ffffff;
+	}
+
+	main > header {
+		width: 100%;
 	}
 
 	main > header > h1 {
@@ -718,10 +726,49 @@ main, header, nav, footer > article {
 	body > nav a.active:hover {
 		display: none;
 	}
+
+	main.has-aside,
+	main.has-aside > header,
+	main.has-aside article {
+		width: auto;
+	}
+
+	#breadcrumb {
+		display: none;
+	}
+
+	aside {
+		clear: none;
+		width: 100%;
+	}
+
+	aside header {
+		display: none;
+	}
+
+	aside nav ul {
+		text-align: center;
+	}
+
+	aside nav ul li {
+		display: block;
+		width: 47%;
+		margin: 5px 5px;
+	}
+
+	aside nav ul li:nth-child(odd) {
+		margin-left: 2%;
+		float: left;
+	}
+
+	aside nav ul li:nth-child(even) {
+		float: right;
+		margin-right: 2%;
+	}
 }
 
 /* Really small screens */
-@media all and (max-width: 500px) {
+@media all and (max-width: 475px) {
 
 	body > nav:after {
 		content: "MOOC.FI";
@@ -741,8 +788,12 @@ main, header, nav, footer > article {
 		font-size: 1.3em;
 	}
 
-	#breadcrumb {
-		display: none;
+	aside nav ul li,
+	aside nav ul li:nth-child(odd),
+	aside nav ul li:nth-child(even) {
+		margin: 5px 0;
+		float: none;
+		width: 100%;
 	}
 
 	#about,
