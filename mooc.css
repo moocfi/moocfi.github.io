@@ -275,6 +275,10 @@ body > header > h1 > p:last-child {
 	margin-top: 0px;
 }
 
+body > header.no-nav {
+	margin-top: 20px;
+}
+
 /* BREADCRUMBS */
 
 #breadcrumb {
@@ -393,6 +397,20 @@ main > header > h1 {
 	margin-top: 0.2em;
 	float: left;
 	margin-right: 5px;
+}
+
+.item * {
+	clear: both;
+}
+
+.item .time_estimate {
+	float:left;
+	display: block;
+}
+
+.item .prerequisites {
+	float: right;
+	display: block;
 }
 
 .item > section {
@@ -752,7 +770,7 @@ main, header, nav, footer > article {
 
 	aside nav ul li {
 		display: block;
-		width: 47%;
+		width: 46%;
 		margin: 5px 5px;
 	}
 

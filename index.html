@@ -10,165 +10,82 @@
 		<link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:400,700|Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="normalize.css">
 		<link rel="stylesheet" href="mooc.css">
+		<link rel="stylesheet" href="mooc-intro.css">
 		<link rel="icon" type="image/png" href="img/favicon.png">
 	</head>
 
 	<body>
-		<nav>
-			<a id="menu_toggle">&#9776;</a>
-
-			<ul>
-				<li><a class="current" href="index.html">Etusivu</a></li>
-				<li><a href="kurssisivu.html">Kurssit</a></li>
-				<li><a href="infosivu.html">Mikä MOOC?</a></li>
-				<li><a href="english.html">In English</a></li>
-			</ul>
-		</nav>
-		<header>
+		<header class="no-nav">
 			<img src="img/logo.png" />
-			<h1>
-				<p>Massiiviset avoimet verkkokurssit</p>
-				<p>Massive open online courses&nbsp;·&nbsp;mooc.fi</p>
-			</h1>
 		</header>
 
+		<div class="ribbon">
+			<a href="#">Also in english!</a>
+		</div>
+
 		<main>
-			<header>
-				<ul id="breadcrumb">
-					<li><a href="#">MOOC.FI</a></li>
-					<li><a href="#">Kurssit</a></li>
-				</ul>
+			<article>
+				<header>
+					<h1>Haluatko oppia ohjelmoimaan?</h1>
+					<h2>Vai osaatko jo ja haluat kehittää itseäsi?</h2>
 
-				<div class="banner">
-					<div><img src="img/Banneri-2.jpg" alt="MOOC"></div>
-					<div><img src="img/Banneri-2.jpg" alt="MOOC"></div>
-					<div><img src="img/Banneri-2.jpg" alt="MOOC"></div>
+					<p>MOOC.FI on Helsingin Yliopiston ja yhteistyölaitosten tarjoama kokoelma <em>täysin ilmaisia</em> yliopistotason ohjelmointikursseja. Kurssien sisältö vastaa täysin korkeakouluopiskelijoiden opintoja.<p>
+
+					<p>Kurssitarjonnastamme löytyy sisältöä sekä täydelliselle noviisille että vanhalle konkarille.</p>
+				</header>
+
+				<div class="two-column">
+					<section class="item">
+						<header>
+							<h1>
+								Aloita tästä
+							</h1>
+						</header>
+
+						<section>
+							<p>Opi <em>Java</em>, eräs maailman suosituimmista ohjelmointikielistä helposti tämän seitsemän viikkoa kestävän kurssin avulla.</p>
+
+							<p>Kurssilla <em>ei</em> ole esitietovaatimuksia.</p>
+
+							<p>Tämän kurssin suoritettuasi voit päästä Helsingin Yliopistoon opiskelemaan tietojenkäsittelytiedettä.</p>
+
+							<p>Kurssi alkaa 23.1.2015.</p>
+
+							<p>Erillistä ilmoittautumista ei tarvita.</p>
+						</section>
+
+						<a class="call_to_action" href="#">Kurssille!</a>
+					</section>
+
+					<section class="item">
+						<header>
+							<h1>Kehitä taitojasi</h1>
+						</header>
+
+						<section>
+							<p>Tarjoamme myös valtavan skaalan muita ohjelmointikursseja erilaisista tekniikoista ja kielistä.</p>
+
+							<p>Haluatko oppia toteuttamaan esimerkiksi pilvessä toimivia verkkopalveluita Javan ja Spring-frameworking avulla?</p>
+
+							<p>Opi funtionaalista ohjelmointia Scalan tai Clojuren avulla.</p>
+
+							<p>Perehdy algoritmien maailmaan.</p>
+						</section>
+
+						<a class="call_to_action" href="#">Selaa kursseja</a>
+					</section>
 				</div>
-				
-				<h1>Kaikille avoimet MOOC-kurssit</h1>
-			</header>
 
-			<article class="item" id="twitter">
 				<header>
-					<h1>
-						<img class="organiser" src="img/twitter.png" alt="University of Helsinki">
-						Pysy ajan tasalla - <a href="#">Twitter</a>
-					</h1>
+					<h1>Oletko opettaja?</h1>
 				</header>
+
 				<section>
-      				<p>
-      					<a class="twitter-timeline" data-widget-id="345975149150998528" href="https://twitter.com/mooc1" width="720" height="300" data-chrome="nofooter noborders noheader transparent">
-      						Twiittejä käyttäjältä @mooc1
-  						</a>
-      					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-  					</p>
-				</section>
-			</article>
+					<p>Tarjoamme opettajille ohjelmoinnin perusteet Java-ohjelmointikiellä kattavan kurssin kaiken materiaalin, sekä ohjeet kurssin käyntiin saamiseen. Saat täysin ilmaiseksi käyttöösi yliopistotason kurssimateriaalin ja tehtävät. Lisäksi teemme ja tarkastamme kokeen puolestasi.</p>
 
-			<article class="item">
-				<header>
-					<h1>
-						<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
-						<a href="http://mooc.cs.helsinki.fi/wepa">Algoritmien MOOC</a>
-					</h1>
-				</header>
-				<section>
-					<p>Algoritmien avoin massiivinen verkkokurssi eli AlgoMOOC tarjoaa lisähaastetta perus-MOOCin eli Ohjelmoinnin avoimen massiivisen verkkokurssin suorittajille ja muille kiinnostuneille.</p>
+					<p>Koskaan ei ole ohjelmointiopetuksen järjestäminen ollut näin helppoa.</p>
 
-					<a class="call_to_action" href="http://mooc.cs.helsinki.fi/wepa" class="course-box-button green">
-						Kurssi meneillään
-					</a>
-				</section>
-			</article>
-
-			<article class="item">
-				<header>
-					<h1>
-						<img class="organiser" src="img/aalto.png" alt="Aalto University">
-						<a href="http://mooc.aalto.fi/ohjelmointi/">Ohjelmointia Scalalla</a>
-					</h1>
-				</header>
-				<section>
-					<ul>
-						<li>Ei esitietovaatimuksia.</li>
-						<li>Kurssi vastaa Aalto yliopiston kursseja Ohjelmointi 1 ja osittain Ohjelmointistudio 2.</li>
-						<li>Kurssilla opit ohjelmoinnin perusteet käyttäen modernia Scala-ohjelmointikieltä ja saat yliopistotutkintoon sopivia opintopisteitä.</li>
-					</ul>
-
-					<a class="call_to_action" href="http://mooc.aalto.fi/ohjelmointi/" class="course-box-button green">
-						Ilmottaudu mukaan!<br>
-						Ilmoittautuminen aukeaa 1.9.2014
-					</a>
-				</section>
-			</article>
-
-			<article class="item">
-				<header>
-					<h1>
-						<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
-						<a href="http://mooc.cs.helsinki.fi/2014-ohjelmointi">Ohjelmoinnin MOOC, osa 2</a>
-					</h1>
-				</header>
-				<section>
-					<ul>
-						<li>Ei esitietovaatimuksia.</li>
-						<li>Kurssi vastaa Helsingin yliopiston kursseja Ohjelmoinnin perusteet ja Ohjelmoinnin jatkokurssi.</li>
-						<li>Kurssin suorittaminen ei mahdollista opinto-oikeutta (opinto-oikeuden mahdollistava kurssi järjestetään keväisin).</li>
-					</ul>
-
-					<a class="call_to_action not_now" href="http://mooc.cs.helsinki.fi/2014-ohjelmointi">
-						Kurssi meneillään<br>
-						Seuraava kurssi 20.-25.4.2014
-					</a>
-				</section>
-			</article>
-
-			<article class="item">
-				<header>
-					<h1>
-						<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
-						<a href="http://mooc.cs.helsinki.fi/2014-ohjelmointi">Functional programming with Clojure</a>
-					</h1>
-				</header>
-				<section>
-					<p>The course is an introduction to functional programming with a dynamically typed language Clojure. We start with an introduction to Clojure; its syntax and development environment. Clojure has a good selection of data structures and we cover most of them. We also go through the basics of recursion and higher-order functions. The course material is in English.</p>
-
-					<a href="http://mooc.cs.helsinki.fi/clojure" class="call_to_action">
-						Ilmottaudu mukaan! <br>
-						Ilmoittautuminen aukeaa 1.9.2014
-					</a>
-				</section>
-			</article>
-
-			<article class="item">
-				<header>
-					<h1>
-						<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
-						<a href="http://mooc.cs.helsinki.fi/programming-part1">Object oriented programming with Java, part 1</a>
-					</h1>
-				</header>
-				<section>
-					<p>In the course, you will learn all the basics of computer programming, algorithms and object-oriented programming using the Java programming language. The course includes comprehensive course materials and plenty of programming exercises, each tested using our automatic testing service Test My Code.</p>
-
-					<a class="call_to_action" href="kurssisivu.html" class="course-box-button green">
-						No deadlines, self-paced - start any time
-					</a>
-				</section>
-			</article>
-
-			<article class="item">
-				<header>
-					<h1>
-						<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
-						<a href="kurssisivu.html">Object oriented programming with Java, part 2</a>
-					</h1>
-				</header>
-				<section>
-					<p>This course is a direct continuaton of the course Object-Oriented Programming with Java, part I (including week numbering). In Part II, we will dwell deeper into the world of object-oriented programming.</p>
-
-					<a class="call_to_action" href="kurssisivu.html">
-						No deadlines, self-paced - start any time
-					</a>
+					<a class="call_to_action" href="#">Tutustu kurssitarjontaan</a>
 				</section>
 			</article>
 		</main>
@@ -194,29 +111,5 @@
 				</section>
 			</article>
 		</footer>
-
-		<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
-		<script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-		<script type="text/javascript" src="slick/slick.min.js"></script>
-
-
-
-	    <script type="text/javascript">
-	        $(document).ready(function(){
-	            $('.banner').slick({
-	            	dots: true,
-  					infinite: true,
-  					autoplay: true,
-  					autoplaySpeed: 4000,
-  					arrows: false
-	            });
-
-	            var menuButton = $('#menu_toggle');
-	            menuButton.click(function() {
-	            	menuButton.toggleClass('active');
-	            	$('body > nav').toggleClass('active');
-	            });
-	        });
-	    </script>
 	</body>
 </html>
