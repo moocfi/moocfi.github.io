@@ -194,6 +194,7 @@ aside header h1 a,
 aside header h1 a:hover {
 	font-family: "Open Sans Condensed",sans-serif;
 	font-size: 25px;
+	background: none;
 	color: #fff;
 	display: block;
 	padding: 10px 15px;
