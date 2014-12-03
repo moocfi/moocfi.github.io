@@ -300,9 +300,18 @@ body > header.no-nav {
 	content: "\00BB \0020";
 }
 
-/* COURSE LANGUAGE SELECTOR */
+/* COURSE LANGUAGE AND DIFFICULTY SELECTORS */
 
-#lang_selector li {
+#lang_selector {
+	float: left;
+}
+
+#difficulty_selector {
+	float: right;
+}
+
+#lang_selector li,
+#difficulty_selector li {
 	list-style: none;
 	display: inline-block;
 	margin-right: 10px;

@@ -51,9 +51,24 @@
 						<label for="show_english">In English</label>
 					</li>
 				</ul>
+
+				<ul id="difficulty_selector">
+					<li>
+						<input type="checkbox" id="show_easy" data-difficulty="easy" checked="checked">
+						<label for="show_finnish">Helpot</label>
+					</li>
+					<li>
+						<input type="checkbox" data-difficulty="medium" id="show_medium" checked="checked">
+						<label for="show_english">Keskivaikeat</label>
+					</li>
+					<li>
+						<input type="checkbox" data-difficulty="hard" id="show_hard" checked="checked">
+						<label for="show_english">Vaikeat</label>
+					</li>
+				</ul>
 			</header>
 
-			<article class="item" lang="fi">
+			<article class="item" lang="fi" data-difficulty="medium">
 				<header>
 					<h1>
 						<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
@@ -82,7 +97,7 @@
 				</section>
 			</article>
 
-			<article class="item" lang="fi">
+			<article class="item" lang="fi" data-difficulty="medium">
 				<header>
 					<h1>
 						<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
@@ -111,7 +126,7 @@
 				</section>
 			</article>
 
-			<article class="item" lang="fi">
+			<article class="item" lang="fi" data-difficulty="easy">
 				<header>
 					<h1>
 						<img class="organiser" src="img/aalto.png" alt="Aalto University">
@@ -142,7 +157,7 @@
 				</section>
 			</article>
 
-			<article class="item" lang="fi">
+			<article class="item" lang="fi" data-difficulty="easy">
 				<header>
 					<h1>
 						<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
@@ -170,7 +185,7 @@
 				</section>
 			</article>
 
-			<article class="item" lang="en">
+			<article class="item" lang="en" data-difficulty="easy">
 				<header>
 					<h1>
 						<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
@@ -198,7 +213,7 @@
 				</section>
 			</article>
 
-			<article class="item" lang="en">
+			<article class="item" lang="en" data-difficulty="easy">
 				<header>
 					<h1>
 						<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
@@ -226,7 +241,7 @@
 				</section>
 			</article>
 
-			<article class="item" lang="en">
+			<article class="item" lang="en" data-difficulty="easy">
 				<header>
 					<h1>
 						<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
@@ -280,6 +295,11 @@
 		<script>
 			$('#lang_selector *').click(function () {
 				$('.item:lang(' + $(this).attr('lang') + ')').toggle();
+			});
+
+			$('#difficulty_selector *').click(function () {
+				$('.item[data-difficulty="' + $(this).attr('data-difficulty') + '"]').toggle();
+				console.log($(this).attr('data-difficulty'));
 			});
 		</script>
 	</body>
