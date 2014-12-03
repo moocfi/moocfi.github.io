@@ -40,9 +40,20 @@
 				</ul>
 				
 				<h1>Kaikille avoimet MOOC-kurssit</h1>
+
+				<ul id="lang_selector">
+					<li>
+						<input type="checkbox" id="show_finnish"  lang="fi" checked="checked">
+						<label for="show_finnish">Suomeksi</label>
+					</li>
+					<li>
+						<input type="checkbox" id="show_english" lang="en" checked="checked">
+						<label for="show_english">In English</label>
+					</li>
+				</ul>
 			</header>
 
-			<article class="item" id="twitter">
+			<article class="item" lang="fi">
 				<header>
 					<h1>
 						<img class="organiser" src="img/twitter.png" alt="University of Helsinki">
@@ -59,7 +70,7 @@
 				</section>
 			</article>
 
-			<article class="item">
+			<article class="item" lang="fi">
 				<header>
 					<h1>
 						<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
@@ -75,7 +86,7 @@
 				</section>
 			</article>
 
-			<article class="item">
+			<article class="item" lang="fi">
 				<header>
 					<h1>
 						<img class="organiser" src="img/aalto.png" alt="Aalto University">
@@ -96,7 +107,7 @@
 				</section>
 			</article>
 
-			<article class="item">
+			<article class="item" lang="fi">
 				<header>
 					<h1>
 						<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
@@ -117,7 +128,7 @@
 				</section>
 			</article>
 
-			<article class="item">
+			<article class="item" lang="en">
 				<header>
 					<h1>
 						<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
@@ -134,7 +145,7 @@
 				</section>
 			</article>
 
-			<article class="item">
+			<article class="item" lang="en">
 				<header>
 					<h1>
 						<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
@@ -150,7 +161,7 @@
 				</section>
 			</article>
 
-			<article class="item">
+			<article class="item" lang="en">
 				<header>
 					<h1>
 						<img class="organiser" src="img/liekki.jpg" alt="University of Helsinki">
@@ -189,28 +200,12 @@
 			</article>
 		</footer>
 
-		<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
-		<script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-		<script type="text/javascript" src="slick/slick.min.js"></script>
+		<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
 
-
-
-	    <script type="text/javascript">
-	        $(document).ready(function(){
-	            $('.banner').slick({
-	            	dots: true,
-  					infinite: true,
-  					autoplay: true,
-  					autoplaySpeed: 4000,
-  					arrows: false
-	            });
-
-	            var menuButton = $('#menu_toggle');
-	            menuButton.click(function() {
-	            	menuButton.toggleClass('active');
-	            	$('body > nav').toggleClass('active');
-	            });
-	        });
-	    </script>
+		<script>
+			$('#lang_selector *').click(function () {
+				$('.item:lang(' + $(this).attr('lang') + ')').toggle();
+			});
+		</script>
 	</body>
 </html>

@@ -299,6 +299,14 @@ body > header.no-nav {
 	content: "\00BB \0020";
 }
 
+/* COURSE LANGUAGE SELECTOR */
+
+#lang_selector li {
+	list-style: none;
+	display: inline-block;
+	margin-right: 10px;
+}
+
 /* MAIN CONTENT */
 
 main {
