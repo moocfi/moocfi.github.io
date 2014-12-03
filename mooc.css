@@ -351,6 +351,13 @@ main > header > h1 {
 
 /* COURSE-ITEMS */
 
+/* "justify" last line of items */
+.items:after {
+	content: "";
+	display: inline-block;
+    width: 100%;
+}
+
 .item {
 	display: inline-block;
 	vertical-align: top;
@@ -396,18 +403,20 @@ main > header > h1 {
 	clear:both;
 }
 
-#twitter {
-	float: right;
-	margin-left: 50px;
-	height: 350px
+.item .organiser {
+	width: auto;
+	height: 1em;
+	margin-top: 0.2em;
+	float: left;
+	margin-right: 5px;
 }
 
-#twitter > header > h1 {
-	width: 100%;
+.item * {
+	clear: both;
 }
 
-#twitter img {
-	width: 45px;
+.item > section {
+	clear:both;
 }
 
 .call_to_action,
@@ -536,27 +545,6 @@ main, header, nav, footer > article {
 		width: 43%;
 	}
 
-	.item:nth-child(odd) {
-		float: right;
-		clear:right;
-	}
-
-	.item:nth-child(even) {
-		float: left;
-		clear:left;
-	}
-
-	#twitter {
-		margin-left: 0;
-		float: right;
-		clear:none;
-	}
-
-	.item:nth-of-type(2) {
-		float: left;
-		clear:none;
-	}
-
 	body > footer > article {
 		display: block;
 		text-align: center;
@@ -623,10 +611,8 @@ main, header, nav, footer > article {
 	}
 
 	.item, 
-	#twitter,
 	.item:nth-child(odd),
-	.item:nth-child(even),
-	.item:nth-of-type(2) {
+	.item:nth-child(even){
 		display: block;
 		float: none;
 		width: 90%;
