@@ -315,37 +315,8 @@ main * {
 main > header {
 	margin: auto;
 	height: auto;
-	max-width: 100%;
-	display: inline-block;
-}
-
-#banner {
 	width: 100%;
-	height: auto;
-}
-
-.slick-slide img {
-	max-width:100%;
-}
-
-
-.slick-dots {
-	margin: 0;
-	bottom: 5px;
-	text-align: right;
-}
-
-.slick-dots li {
-	vertical-align: bottom;
-}
-
-.slick-dots li button:before {
-	font-size: 20px;
-	color: #3dbba6;
-}
-
-.slick-dots li.slick-active button:before {
-	color: #e8e8e8;
+	display: inline-block;
 }
 
 main > header > h1 {
