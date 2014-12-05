@@ -323,7 +323,6 @@ main {
 	margin: 0 auto;
 	overflow: hidden;
 	clear: both;
-	text-align: justify;
 }
 
 main * {
@@ -361,7 +360,6 @@ main > header > h1 {
 
 /* COURSE-ITEMS */
 
-/* "justify" last line of items */
 .items:after {
 	content: "";
 	display: inline-block;
@@ -566,8 +564,14 @@ main, header, nav, footer > article {
 		width: 30%;
 	}
 
+	.items {
+		text-align: justify;
+	}
+
 	.item {
 		width: 43%;
+		margin-left: 0;
+		margin-right: 0;
 	}
 
 	body > footer > article {
