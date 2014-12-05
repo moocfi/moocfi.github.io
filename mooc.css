@@ -316,6 +316,24 @@ body > header.no-nav {
 	list-style: none;
 	display: inline-block;
 	margin-right: 10px;
+	line-height: 1em;
+	padding: 3px;
+}
+
+#lang_selector input[type=checkbox],
+#difficulty_selector input[type=checkbox] {
+	display: inline-block;
+	
+}
+
+#lang_selector label,
+#difficulty_selector label {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 5px;
+	margin-right: 10px;
+	position: relative;
+	top: -2px;
 }
 
 /* MAIN CONTENT */
@@ -643,7 +661,7 @@ main, header, nav, footer > article {
 	#difficulty_selector,
 	#lang_selector {
 		float: none;
-		margin: 5px 0px;
+		margin: 15px 0px;
 	}
 
 	.item, 
