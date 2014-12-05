@@ -668,7 +668,7 @@ main, header, nav, footer > article {
 	body > header > img {
 		height: 50px;
 		position: absolute;
-		top: 5px;
+		top: 12px;
 		left: 20px;
 	}
 
