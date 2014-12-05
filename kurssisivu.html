@@ -129,5 +129,18 @@
 				</section>
 			</article>
 		</footer>
+
+		<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+
+	    <script type="text/javascript">
+	        $(document).ready(function(){
+
+	            var menuButton = $('#menu_toggle');
+	            menuButton.click(function() {
+	            	menuButton.toggleClass('active');
+	            	$('body > nav').toggleClass('active');
+	            });
+	        });
+	    </script>
 	</body>
 </html>

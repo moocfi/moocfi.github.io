@@ -293,6 +293,18 @@
 		<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
 
 		<script>
+			$(document).ready(function(){
+	
+				var menuButton = $('#menu_toggle');
+
+				menuButton.click(function() {
+					menuButton.toggleClass('active');
+					$('body > nav').toggleClass('active');
+				});
+			});
+		</script>
+
+		<script>
 			$('#lang_selector *').click(function () {
 				$('.item:lang(' + $(this).attr('lang') + ')').toggle();
 			});
