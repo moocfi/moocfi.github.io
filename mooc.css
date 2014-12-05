@@ -308,6 +308,7 @@ body > header.no-nav {
 
 #difficulty_selector {
 	float: right;
+	margin-right: 50px;
 }
 
 #lang_selector li,
@@ -637,6 +638,12 @@ main, header, nav, footer > article {
 	main {
 		padding: 0;
 		background: #F2F2F2;
+	}
+
+	#difficulty_selector,
+	#lang_selector {
+		float: none;
+		margin: 5px 0px;
 	}
 
 	.item, 
