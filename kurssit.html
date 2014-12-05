@@ -289,11 +289,11 @@
 		<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
 
 		<script>
-			$(document).ready(function(){
+			$(document).ready(function () {
 	
 				var menuButton = $('#menu_toggle');
 
-				menuButton.click(function() {
+				menuButton.click(function () {
 					menuButton.toggleClass('active');
 					$('body > nav').toggleClass('active');
 				});
@@ -301,13 +301,31 @@
 		</script>
 
 		<script>
+			function toggleCourses() {
+				$('.item').each( function () {
+					var thisLang = $(this).attr('lang');
+					var langSelected = $('#lang_selector *[type=checkbox]:lang(' + thisLang + ')').prop('checked');
+					
+					var thisDifficulty = $(this).attr('data-difficulty');
+					var difficultySelected = $('#difficulty_selector *[data-difficulty=' + thisDifficulty + ']').prop('checked');
+
+					$(this).toggle(langSelected && difficultySelected);
+				});
+			}
+
 			$('#lang_selector *').click(function () {
-				$('.item:lang(' + $(this).attr('lang') + ')').toggle();
+				toggleCourses();
 			});
 
 			$('#difficulty_selector *').click(function () {
-				$('.item[data-difficulty="' + $(this).attr('data-difficulty') + '"]').toggle();
-				console.log($(this).attr('data-difficulty'));
+				toggleCourses();
+			});
+
+			$(document).ready(function () {
+				if(window.location.search.contains('en')) {
+					$('#show_finnish').attr('checked', false);
+					$('#show_finnish').click();
+				}
 			});
 		</script>
 	</body>
