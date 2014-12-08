@@ -95,7 +95,7 @@ article > section > .call_to_action {
 	text-align: center;
 }
 
-.item > section {
+.item > section:nth-of-type(1) {
 	min-height: 350px;
 }
 
