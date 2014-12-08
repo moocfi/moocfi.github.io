@@ -63,6 +63,7 @@ body > nav {
 
 body > nav ul {
 	margin-top: 18px;
+	z-index: 1;
 }
 
 body > nav ul li {
