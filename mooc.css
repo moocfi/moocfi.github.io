@@ -18,6 +18,10 @@ h1 {
 	font-weight: 300;
 }
 
+p {
+	padding: 5px;
+}
+
 article > section > header > h1 {
 	font-size: 1.75em;
 }
