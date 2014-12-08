@@ -392,6 +392,8 @@ main > header > h1 {
 	background-color: white;
 	margin: 10px 15px;
 	padding: 20px;
+	padding-bottom: 0px;
+	position: relative;
 }
 
 .item > header {
@@ -461,31 +463,36 @@ main > header > h1 {
 	clear:both;
 }
 
-.call_to_action,
-.call_to_action:visited {
+.call_to_action {
+	margin-top: 10px;
+}
+
+.call_to_action a,
+.call_to_action a:visited {
+	width: 100%;
+	margin: 0px -20px 0px -20px;
 	color: white;
 	background-color: #3dbba6;
 	text-align: center;
 	padding: 20px;
 	display: block;
-	margin: 0 -20px -20px -20px;
 	text-shadow: #696969 1px 1px 1px;
 }
 
-.call_to_action:hover {
+.call_to_action a:hover {
 	background-color: #00747a;
 }
 
-.call_to_action:first-line {
+.call_to_action a:first-line {
 	font-size: 1.5em;
 }
 
-.not_now,
-.not_now:visited {
+.not_now a,
+.not_now: avisited {
 	background-color: #c0c0c0;
 }
 
-.not_now:hover {
+.not_now a:hover {
 	background-color: #c0c0c0;
 }
 
@@ -496,6 +503,7 @@ body > footer {
 	width: 100%;
 	background-color: white;
 	padding: 30px 0px;
+	margin-top: 50px;
 }
 
 body > footer > article {

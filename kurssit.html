@@ -81,12 +81,13 @@
 						<section class="explanation">Ken tietää, ken arvaa</section>
 					</section>
 				</header>
-				<section>
+				<section class="description">
 					<p>Tutustu verkossa (esim. pilvipalvelussa) sijaitsevien palvelin&shy;ohjelmistojen toteuttamiseen.</p>
 					<p>Kurssin ohjelmointi&shy;kieli on Java, jonka lisäksi hyödynnämme Spring-sovelluskehystä.</p>
 
 					<p>Vastaa Helsingin yliopiston kurssia <em>Web-palvelin&shy;ohjelmointi (Java)</em>.</p>
-
+				</section>
+				<section class="call_to_action">
 					<a class="call_to_action" href="http://mooc.cs.helsinki.fi/wepa">
 						Kurssi meneillään
 					</a>
@@ -111,12 +112,13 @@
 						<section class="explanation">Itse tehtävien rooli aika-arviosta on suhteellisen vähäinen, arviolta 25h. Eniten aikaa vie materiaalin opiskelu.</section>
 					</section>
 				</header>
-				<section>
+				<section class="description">
 					<p>Mikä tietorakenne on tehokkain missäkin käytössä? Kuinka järjestän mahdollisimman nopeasti? Algoritmien verkko&shy;kurssilla opit mikä tekee ratkaisusta tehokkaan.</p>
 
 					<p>Tehtävät vastaavat Helsingin yliopiston kurssia <em>Tieto&shy;rakenteen ja algoritmit</em>.</p>
-
-					<a class="call_to_action" href="http://mooc.cs.helsinki.fi/wepa">
+				</section>
+				<section class="call_to_action">
+					<a  href="http://mooc.cs.helsinki.fi/wepa">
 						Kurssi meneillään
 					</a>
 				</section>
@@ -141,12 +143,13 @@
 						<section class="explanation">Ken tietää, ken arvaa.</section>
 					</section>
 				</header>
-				<section>
+				<section class="description">
 					<p>Opi ohjelmoinnin perusteet modernilla Scala-ohjelmointi&shy;kielellä.</p>
 
 					<p>Kurssi vastaa Aalto yliopiston kursseja <em>Ohjelmointi 1</em> ja osittain <em>Ohjelmointistudio 2</em>. Saat kurssista yliopisto&shy;tutkintoon sopivia opinto&shy;pisteitä.</p>
-
-					<a class="call_to_action" href="http://mooc.aalto.fi/ohjelmointi/">
+				</section>
+				<section class="call_to_action">
+					<a  href="http://mooc.aalto.fi/ohjelmointi/">
 						Ilmottaudu mukaan!<br>
 						Ilmoittautuminen aukeaa 1.9.2014
 					</a>
@@ -170,11 +173,12 @@
 						<section class="explanation">Ken tietää, ken arvaa.</section>
 					</section>
 				</header>
-				<section>
+				<section class="description">
 					<p>Opi Java, eräs maailman suosituimmista ohjelmointi&shy;kielistä helposti tämän seitsemän viikkoa kestävän kurssin avulla.</p>
 					<p>Kurssi vastaa Helsingin yliopiston kursseja <em>Ohjelmoinnin perusteet</em> ja <em>Ohjelmoinnin jatkokurssi</em></p>
-
-					<a class="call_to_action not_now" href="http://mooc.cs.helsinki.fi/2014-ohjelmointi">
+				</section>
+				<section class="call_to_action not_now">
+					<a  href="http://mooc.cs.helsinki.fi/2014-ohjelmointi">
 						Kurssi meneillään<br>
 						Seuraava kurssi 20.-25.4.2014
 					</a>
@@ -198,11 +202,13 @@
 						<section class="explanation">Ken tietää, ken arvaa.</section>
 					</section>
 				</header>
-				<section>
+				<section class="description">
 					<p>Learn functional programming with Clojure.</p>
 					<p>The course includes Clojure basics, recursion and higher-order functions.</p>
 					<p>The course material is in English.</p>
-					<a href="http://mooc.cs.helsinki.fi/clojure" class="call_to_action">
+				</section>
+				<section class="call_to_action">
+					<a  href="http://mooc.cs.helsinki.fi/clojure">
 						Ilmottaudu mukaan! <br>
 						Ilmoittautuminen aukeaa 1.9.2014
 					</a>
@@ -226,13 +232,15 @@
 						<section class="explanation">Who knows</section>
 					</section>
 				</header>
-				<section>
+				<section class="description">
 					<p>Learn the basics of computer programming, algorithms and object-oriented programming using the Java programming language.</p>
 
 					<p>The course includes comprehensive course materials and plenty of programming exercises, each tested using our automatic testing service.</p>
-
-					<a class="call_to_action" href="kurssisivu.html">
-						No deadlines, self-paced - start any time
+				</section>
+				<section class="call_to_action">
+					<a  href="kurssisivu.html">
+						No deadlines<br>
+						Self-paced - start any time
 					</a>
 				</section>
 			</article>
@@ -254,11 +262,13 @@
 						<section class="explanation">Who knows</section>
 					</section>
 				</header>
-				<section>
+				<section class="description">
 					<p>This course is a direct continuation of the course Object-Oriented Programming with Java, part I (including week numbering). In Part II, we will dwell deeper into the world of object-oriented programming.</p>
-
-					<a class="call_to_action" href="kurssisivu.html">
-						No deadlines, self-paced - start any time
+				</section>
+				<section class="call_to_action">
+					<a  href="kurssisivu.html">
+						No deadlines <br>
+						Self-paced - start any time
 					</a>
 				</section>
 			</article>
@@ -289,6 +299,51 @@
 		<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
 
 		<script>
+			var equalheight = function(container) {
+
+				$('> .description', container).height('auto');
+
+				var rows = {};
+				var items = $(container);
+				items.each(function() {
+					var topPosition = $(this).position().top;
+					if(rows[topPosition] === undefined) {
+						rows[topPosition] = new Array();
+					}
+					rows[topPosition].push(this);
+				});
+				for (var row in rows) {
+					var rowMaxHeight = 0;
+					for (var i = 0; i < rows[row].length; i++) {
+						var item = rows[row][i];
+						if($(item).height() > rowMaxHeight) {
+							rowMaxHeight = $(item).height();
+						}
+					}
+					for (var i = 0; i < rows[row].length; i++) {
+						var item = rows[row][i];
+						var section = $('> .description', item);
+						section.height(
+							// The body text is increased by however much the 
+							// total element height differs from the tallest element on the row.
+							section.height() + rowMaxHeight - $(item).height()
+						);
+					}
+				}
+
+			}
+
+			$(window).load(function() {
+				equalheight('.items .item:visible');
+			});
+
+
+			$(window).resize(function(){
+				equalheight('.items .item:visible');
+			});
+		</script>
+
+		<script>
 			$(document).ready(function () {
 	
 				var menuButton = $('#menu_toggle');
@@ -301,7 +356,7 @@
 		</script>
 
 		<script>
-			function toggleCourses() {
+			toggleCourses = function() {
 				$('.item').each( function () {
 					var thisLang = $(this).attr('lang');
 					var langSelected = $('#lang_selector *[type=checkbox]:lang(' + thisLang + ')').prop('checked');
@@ -315,16 +370,20 @@
 
 			$('#lang_selector *').click(function () {
 				toggleCourses();
+				equalheight('.items .item:visible');
 			});
 
 			$('#difficulty_selector *').click(function () {
 				toggleCourses();
+				equalheight('.items .item:visible');
 			});
 
 			$(document).ready(function () {
-				if(window.location.search.contains('en')) {
+				if(window.location.search.indexOf('en') != -1) {
+					console.log("has 'en'");
 					$('#show_finnish').attr('checked', false);
-					$('#show_finnish').click();
+					toggleCourses();
+					equalheight('.items .item:visible');
 				}
 			});
 		</script>
