@@ -341,6 +341,16 @@ body > header.no-nav {
 	margin-right: 10px;
 	position: relative;
 	top: -2px;
+	width: 90px;
+	height: 40px;
+}
+
+#lang_selector label {
+	line-height: 40px;
+}
+
+#difficulty_selector label {
+	line-height: 20px;
 }
 
 /* MAIN CONTENT */
