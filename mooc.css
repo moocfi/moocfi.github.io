@@ -20,6 +20,8 @@ h1 {
 
 p {
 	padding: 0px 5px;
+	margin-top: 10px;
+	margin-bottom: 5px;
 }
 
 article > section > header > h1 {
@@ -472,7 +474,7 @@ main > header > h1 {
 }
 
 .call_to_action {
-	margin-top: 10px;
+	margin-top: 40px;
 }
 
 .call_to_action a,
