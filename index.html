@@ -42,7 +42,7 @@
 							</h1>
 						</header>
 
-						<section>
+						<section class="description">
 							<p>Opi <em>Java</em>, eräs maailman suosituimmista ohjelmointikielistä helposti tämän seitsemän viikkoa kestävän kurssin avulla.</p>
 
 							<p>Kurssilla <em>ei</em> ole esitietovaatimuksia.</p>
@@ -63,7 +63,7 @@
 							<h1>Kehitä taitojasi</h1>
 						</header>
 
-						<section>
+						<section class="description">
 							<p>Tarjoamme myös valtavan skaalan muita kursseja erilaisista ohjelmointi&shy;tekniikoista ja -kielistä.</p>
 
 							<p>Toteuta pilvessä toimivia verkkopalveluita Javan ja Spring-frameworking avulla.</p>
@@ -81,9 +81,18 @@
 			<article>
 				<header>
 					<h1>Oletko opettaja?</h1>
+
+					<p>Listen. Strange women lying in ponds distributing swords is no basis for a system of government. Supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony.</p>
 				</header>
 
-				<section>
+				<div class="two-column">
+<section class="item">
+					<header>
+						<h1>Tarjoa laadukasta ohjelmointi&shy;opetusta</h1>
+						<h2>Ilmaiseksi ja helposti</h2>
+					</header>
+
+				<section class="description">
 					<p>Tarjoamme opettajille ohjelmoinnin perusteet Java-ohjelmointikiellä kattavan kurssin kaiken materiaalin, sekä ohjeet kurssin käyntiin saamiseen. Saat täysin ilmaiseksi käyttöösi yliopistotason kurssimateriaalin ja tehtävät. Lisäksi teemme ja tarkastamme kokeen puolestasi.</p>
 
 					<p>Koskaan ei ole ohjelmointiopetuksen järjestäminen ollut näin helppoa.</p>
@@ -91,6 +100,29 @@
 				<section class="call_to_action">
 					<a href="mooc.html#opettajalle">Opettajan opas</a>
 				</section>
+					</section>
+
+					<section class="item">
+						<header>
+							<h1>Stressaako uusi opetus&shy;suunnitelma?</h1>
+							<h2>Ei hätää, me autamme</h2>
+						</header>
+
+						<section class="description">
+							<p>Listen, lad.  I've built this kingdom up from nothing.  When
+						      I started here, all there was was swamp.  All the kings said I was
+						      daft to build a castle in a swamp, but I built it all the same,
+						      just to show 'em.  It sank into the swamp.  So, I built a second one.
+						      That sank into the swamp.  So I built a third one.  That burned down,
+						      fell over, then sank into the swamp.  But the fourth one stayed up.
+						      An' that's what your gonna get, lad -- the strongest castle in these
+						      islands.</p>
+						</section>
+						<section class="call_to_action">
+							<a class="call_to_action" href="kurssit.html">There are some who call me... Tim?</a>
+						</section>
+					</section>
+				</div>
 			</article>
 		</main>
 
@@ -115,5 +147,19 @@
 				</section>
 			</article>
 		</footer>
+
+		<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+		<script src="js/mooc.js"></script>
+
+		<script>
+			$(window).load(function() {
+				equalheight('.two-column .item');
+			});
+
+
+			$(window).resize(function(){
+				equalheight('.two-column .item');
+			});
+		</script>
 	</body>
 </html>

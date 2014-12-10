@@ -411,6 +411,10 @@ main > header > h1 {
 	line-height: normal;
 }
 
+.item > header > h2 {
+	text-align: center;
+}
+
 .difficulty,
 .time_estimate {
 	margin: 0px;

@@ -296,40 +296,24 @@
 		</footer>
 
 		<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+		<script src="js/mooc.js"></script>
 
 		<script>
-			var equalheight = function(container) {
+			$(document).ready(function () {
 
-				$('> .description', container).height('auto');
-
-				var rows = {};
-				var items = $(container);
-				items.each(function() {
-					var topPosition = $(this).position().top;
-					if(rows[topPosition] === undefined) {
-						rows[topPosition] = new Array();
-					}
-					rows[topPosition].push(this);
-				});
-				for (var row in rows) {
-					var rowMaxHeight = 0;
-					for (var i = 0; i < rows[row].length; i++) {
-						var item = rows[row][i];
-						if($(item).height() > rowMaxHeight) {
-							rowMaxHeight = $(item).height();
-						}
-					}
-					for (var i = 0; i < rows[row].length; i++) {
-						var item = rows[row][i];
-						var section = $('> .description', item);
-						section.height(
-							// The body text is increased by however much the 
-							// total element height differs from the tallest element on the row.
-							section.height() + rowMaxHeight - $(item).height()
-						);
-					}
+				if(window.location.search.indexOf('en') != -1) {
+					$('#show_finnish').attr('checked', false);
+					toggleCourses();
+					equalheight('.items .item:visible');
 				}
-			}
+	
+				var menuButton = $('#menu_toggle');
+
+				menuButton.click(function () {
+					menuButton.toggleClass('active');
+					$('body > nav').toggleClass('active');
+				});
+			});
 
 			$(window).load(function() {
 				equalheight('.items .item:visible');
@@ -339,32 +323,7 @@
 			$(window).resize(function(){
 				equalheight('.items .item:visible');
 			});
-		</script>
 
-		<script>
-			$(document).ready(function () {
-	
-				var menuButton = $('#menu_toggle');
-
-				menuButton.click(function () {
-					menuButton.toggleClass('active');
-					$('body > nav').toggleClass('active');
-				});
-			});
-		</script>
-
-		<script>
-			toggleCourses = function() {
-				$('.item').each( function () {
-					var thisLang = $(this).attr('lang');
-					var langSelected = $('#lang_selector *[type=checkbox]:lang(' + thisLang + ')').prop('checked');
-					
-					var thisDifficulty = $(this).attr('data-difficulty');
-					var difficultySelected = $('#difficulty_selector *[data-difficulty=' + thisDifficulty + ']').prop('checked');
-
-					$(this).toggle(langSelected && difficultySelected);
-				});
-			}
 
 			$('#lang_selector *').click(function () {
 				toggleCourses();
@@ -374,15 +333,6 @@
 			$('#difficulty_selector *').click(function () {
 				toggleCourses();
 				equalheight('.items .item:visible');
-			});
-
-			$(document).ready(function () {
-				if(window.location.search.indexOf('en') != -1) {
-					console.log("has 'en'");
-					$('#show_finnish').attr('checked', false);
-					toggleCourses();
-					equalheight('.items .item:visible');
-				}
 			});
 		</script>
 	</body>
