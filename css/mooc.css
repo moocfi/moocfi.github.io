@@ -1,5 +1,5 @@
 html {
-	background: #f2f2f2 url(img/header-bg.png) repeat-x;
+	background: #f2f2f2 url(../img/header-bg.png) repeat-x;
 }
 
 body {
@@ -562,15 +562,15 @@ body > footer .sourceforge:before {
 }
 
 body > footer .facebook:before {
-	content: url(img/social-media-facebook.png);
+	content: url(../img/social-media-facebook.png);
 }
 
 body > footer .irc:before {
-	content: url(img/social-media-irc.png);
+	content: url(../img/social-media-irc.png);
 }
 
 body > footer .sourceforge:before {
-	content: url(img/social-media-sourceforge.png);
+	content: url(../img/social-media-sourceforge.png);
 }
 
 footer #license p img {
