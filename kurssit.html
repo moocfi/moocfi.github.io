@@ -35,38 +35,7 @@
 			</h1>
 		</header>
 
-		<main class="items">
-			<header>
-				<ul id="breadcrumb">
-					<li><a href="index.html">MOOC.FI</a></li>
-					<li><a href="#">Kurssit</a></li>
-				</ul>
-				
-				<h1>Kaikille avoimet MOOC-kurssit</h1>
-
-				<ul id="lang_selector">
-					<li>
-						<input type="checkbox" id="show_finnish"  lang="fi" checked="checked">
-						<label for="show_finnish">Suomeksi</label>
-					</li>
-					<li>
-						<input type="checkbox" id="show_english" lang="en" checked="checked">
-						<label for="show_english">In English</label>
-					</li>
-				</ul>
-
-				<ul id="difficulty_selector">
-					<li>
-						<input type="checkbox" id="show_beginner" data-difficulty="beginner" checked="checked">
-						<label for="show_beginner">Aloittelijalle <br> Beginners</label>
-					</li>
-					<li>
-						<input type="checkbox" id="show_advanced" data-difficulty="advanced" checked="checked">
-						<label for="show_advanced">Konkarille <br> Advanced</label>
-					</li>
-				</ul>
-			</header>
-
+		<main class="items no-header">
 			<article class="item" lang="fi" data-difficulty="advanced">
 				<header>
 					<h1>
@@ -303,14 +272,7 @@
 		<script src="js/mooc.js"></script>
 
 		<script>
-			$(document).ready(function () {
-
-				if(window.location.search.indexOf('en') != -1) {
-					$('#show_finnish').attr('checked', false);
-					toggleCourses();
-					equalheight('.items .item:visible');
-				}
-	
+			$(document).ready(function () {	
 				var menuButton = $('#menu_toggle');
 
 				menuButton.click(function () {
@@ -325,17 +287,6 @@
 
 
 			$(window).resize(function(){
-				equalheight('.items .item:visible');
-			});
-
-
-			$('#lang_selector *').click(function () {
-				toggleCourses();
-				equalheight('.items .item:visible');
-			});
-
-			$('#difficulty_selector *').click(function () {
-				toggleCourses();
 				equalheight('.items .item:visible');
 			});
 		</script>

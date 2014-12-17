@@ -308,52 +308,6 @@ body > header.no-nav {
 	content: "\00BB \0020";
 }
 
-/* COURSE LANGUAGE AND DIFFICULTY SELECTORS */
-
-#lang_selector {
-	float: left;
-}
-
-#difficulty_selector {
-	float: right;
-	margin-right: 50px;
-}
-
-#lang_selector li,
-#difficulty_selector li {
-	list-style: none;
-	display: inline-block;
-	margin-right: 10px;
-	line-height: 1em;
-	padding: 3px;
-}
-
-#lang_selector input[type=checkbox],
-#difficulty_selector input[type=checkbox] {
-	display: inline-block;
-	
-}
-
-#lang_selector label,
-#difficulty_selector label {
-	display: inline-block;
-	vertical-align: middle;
-	margin-left: 5px;
-	margin-right: 10px;
-	position: relative;
-	top: -2px;
-	width: 90px;
-	height: 40px;
-}
-
-#lang_selector label {
-	line-height: 40px;
-}
-
-#difficulty_selector label {
-	line-height: 20px;
-}
-
 /* MAIN CONTENT */
 
 main {
@@ -393,6 +347,12 @@ main > header > h1 {
 	background: -ms-linear-gradient(left,  #ffab0e 58%,#ff960e 100%);
 	background: linear-gradient(to right,  #ffab0e 58%,#ff960e 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffab0e', endColorstr='#ff960e',GradientType=1 );
+}
+
+/* ALTERNATIVE WHITESPACE IF NO MAIN CONTENT HEADER */
+
+.no-header {
+	margin-top: 400px;
 }
 
 /* COURSE-ITEMS */
