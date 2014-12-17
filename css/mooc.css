@@ -516,6 +516,11 @@ body > footer > article > section:last-child {
 #contact {
 	border-left: 2px solid #f2f2f2;
 	border-right: 2px solid #f2f2f2;
+}
+
+#contact .facebook,
+#contact .irc,
+#contact .sourceforge {
 	position: relative;
 	top: -30px;
 }
@@ -607,10 +612,15 @@ main, header, nav, footer > article {
 		width: 300px;
 	}
 
+	#contact .facebook,
+	#contact .irc,
+	#contact .sourceforge {
+		top: 0px;
+	}
+
 	#contact {
 		padding-top: 0;
 		width: 300px;
-		top: 0;
 		border-right: 0px;
 	}
 
