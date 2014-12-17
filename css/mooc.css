@@ -391,6 +391,7 @@ main > header > h1 {
 .difficulty,
 .time_estimate {
 	margin: 0px;
+	margin-bottom: 10px;
 	color: #00747a;
 	position: relative;
 	display: inline-block;
