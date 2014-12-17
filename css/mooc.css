@@ -500,8 +500,6 @@ body > footer > article > section {
 
 	width: 350px;
 	padding: 23px;
-
-	border-right: 1px solid black;
 }
 
 body > footer > article > section:first-child {
@@ -604,8 +602,8 @@ main, header, nav, footer > article {
 	#contact {
 		padding-top: 0;
 		width: 300px;
-		position: relative;
-		top: -30px;
+		top: 0;
+		border-right: 0px;
 	}
 
 	#contact p:first-child {
@@ -781,6 +779,15 @@ main, header, nav, footer > article {
 		float: right;
 		margin-right: 2%;
 	}
+
+	#about,
+	#contact,
+	#license {
+		height: auto;
+		width: 80%;
+		text-align: center;
+		border: 0px;
+	}
 }
 
 /* Really small screens */
@@ -810,12 +817,6 @@ main, header, nav, footer > article {
 		margin: 5px 0;
 		float: none;
 		width: 100%;
-	}
-
-	#about,
-	#contact,
-	#license {
-		max-width: 80%
 	}
 }
 
