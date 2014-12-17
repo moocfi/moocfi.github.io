@@ -513,34 +513,42 @@ body > footer > article > section:last-child {
 	margin-right: 0%;
 }
 
-body > footer .facebook:before,
-body > footer .irc:before,
-body > footer .sourceforge:before {
+#contact {
+	border-left: 2px solid #f2f2f2;
+	border-right: 2px solid #f2f2f2;
+	position: relative;
+	top: -30px;
+}
+
+#contact .facebook:before,
+#contact .irc:before,
+#contact .sourceforge:before {
 	margin-right: 10px;
 	position: relative;
 	top: 12px;
 }
 
-body > footer .facebook:before {
+#contact .facebook:before {
 	content: url(../img/social-media-facebook.png);
 }
 
-body > footer .irc:before {
+#contact .irc:before {
 	content: url(../img/social-media-irc.png);
 }
 
-body > footer .sourceforge:before {
+#contact .sourceforge:before {
 	content: url(../img/social-media-sourceforge.png);
 }
 
-footer #license p img {
+#license p img {
 	float: right;
 }
 
-footer #license > img {
+#license > img {
 	display: block;
 	max-width: 100%;
 	height: auto;
+	margin-bottom: 30px;
 }
 
 main, header, nav, footer > article {
