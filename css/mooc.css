@@ -655,6 +655,10 @@ main, header, nav, footer > article {
 		border-radius: 0;
 	}
 
+	.no-header {
+		margin-top: 0px;
+	}
+
 	body > header > h1 > p {
 		font-size: 20px;
 	}
