@@ -117,11 +117,6 @@ footer {
 		float: right;
 		margin: auto;
 	}
-
-	.two-column > *:nth-child(odd),
-	.item:nth-child(odd) {
-		float: left;
-	}
 }
 
 @media all and (max-width: 760px) {
