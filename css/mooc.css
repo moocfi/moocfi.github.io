@@ -105,6 +105,7 @@ body > nav a:hover {
 body > nav .current {
 	background: #00747a;
 	border-radius: 10px;
+	text-shadow: none;
 	box-shadow: inset 5px 5px 5px 0px rgba(50, 50, 50, 0.2);
 }
 
