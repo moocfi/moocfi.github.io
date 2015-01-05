@@ -470,12 +470,13 @@ main > header > h1 {
 }
 
 .not_now a,
-.not_now: avisited {
+.not_now a:visited {
 	background-color: #c0c0c0;
 }
 
 .not_now a:hover {
 	background-color: #c0c0c0;
+	cursor: default;
 }
 
 
