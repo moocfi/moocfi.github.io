@@ -401,33 +401,6 @@ main > header > h1 {
 	float: right;
 }
 
-.difficulty:hover,
-.time_estimate:hover {
-	cursor: help;
-}
-
-.explanation {
-	display: none;
-
-	position:absolute;
-	width: 275px;
-	padding: 10px;
-	background: white;
-	border: 1px solid #F2F2F2;
-	border-radius: 5px;
-	font-weight: normal;
-	color: black;
-}
-
-.difficulty:hover .explanation {
-	display: block;
-}
-
-.time_estimate:hover .explanation {
-	display: block;
-	right: 0;
-}
-
 .item .organiser {
 	width: auto;
 	height: 1em;
