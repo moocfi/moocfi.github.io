@@ -1,0 +1,18 @@
+{% capture path %}{{ page.dir | prepend: site.baseurl }}{% endcapture %}
+<aside>
+	<header>
+		<h1>
+			<a href="{{ "/" | prepend: path }}">Olio-ohjelmointia Javalla</a>
+		</h1>
+	</header>
+	<nav class="sidenav">
+		<ul>
+			<li><a href="{{ "/ilmoittautuminen-ja-alkutoimet.html" | prepend: path }}">Ilmoittautuminen ja alkutoimet</a></li>
+			<li><a href="{{ "/ohjeita.html" | prepend: path }}">Ohjeita</a></li>
+			<li><a href="http://2014-ohjelmointi.mooc.fi/">Materiaali</a></li>
+			<li><a href="{{ "tiedoksi-opettajille.html" | prepend: path }}">Tiedoksi opettajille</a></li>
+			<li><a href="{{ "hy-opiskelijoille" | prepend: path }}">Helsingin yliopiston opiskelijoille</a></li>
+			<li><a href="http://tmc.mooc.fi/mooc/courses/20/points">Tulostaulu</a></li>
+		</ul>
+	</nav>
+</aside>

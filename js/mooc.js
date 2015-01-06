@@ -57,3 +57,10 @@ var toggleCourses = function() {
 		$(this).toggle(langSelected && difficultySelected);
 	});
 }
+
+$(window).load(function() {
+	equalheight('.item:visible');
+});
+$(window).resize(function(){
+	equalheight('.item:visible');
+});

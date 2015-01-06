@@ -1,154 +1,94 @@
-<!DOCTYPE html>
+---
+layout: landing
+resources:
+  css:
+    - "/css/mooc-intro.css"
+---
+<article>
+	<header>
+		<h1>Haluatko oppia ohjelmoimaan?</h1>
+		<h2>Onko aika syventää osaamista?</h2>
 
-<html>
-	<head>
-		<meta charset="UTF-8">
-		<title>MOOC</title>
-		<meta name="viewport" content="initial-scale=1.0, width=device-width"> 
+		<p>MOOC.FI tarjoaa täysin ilmaisia yliopistotason ohjelmointikursseja kenelle tahansa.</p>
+		<p>Kurssitarjonnastamme löydät opeteltavaa olit sitten ohjelmoinnista kiinnostunut aloittelija, tai taitojasi syventävä peruskoodari.</p>
+	</header>
 
-		<link rel="dns-prefetch" href="//fonts.googleapis.com">
-		<link rel="dns-prefetch" href="//code.jquery.com">
-		
-		<link href='//fonts.googleapis.com/css?family=Alegreya+Sans:400|Noto+Sans:400,700|Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="css/normalize.css">
-		<link rel="stylesheet" href="css/mooc.css">
-		<link rel="stylesheet" href="css/mooc-intro.css">
-		<link rel="icon" type="image/png" href="img/favicon.png">
-	</head>
+	<div class="two-column">
+		<section class="item">
+			<header>
+				<h1>
+					Aloittelija?
+				</h1>
+			</header>
 
-	<body>
-		<header class="no-nav">
-			<img src="img/logo.png" />
-		</header>
+			<section class="description">
+				<p>Opi Java-ohjelmointikielen perusteet neljätoista viikkoa kestävällä kurssilla.</p>
+				<p>Java on eräs maailman käytetyimmistä ohjelmointikielistä. Tästä huolimatta kurssi <strong>ei</strong> vaadi mitään esitietoja.</p>
+				<p>Kurssin kautta voit jopa saada  opiskelupaikan Helsingin yliopistoon.</p>
 
-		<div class="ribbon">
-			<a href="english.html">Also in english!</a>
-		</div>
+			</section>
+			<section class="call_to_action">
+				<a href="http://mooc.cs.helsinki.fi/2014-ohjelmointi">
+					Aloita tästä! <br />
+					Seuraava kurssi alkaa 23.1.2015
+				</a>
+			</section>
+		</section>
 
-		<main>
-			<article>
-				<header>
-					<h1>Haluatko oppia ohjelmoimaan?</h1>
-					<h2>Onko aika syventää osaamista?</h2>
+		<section class="item">
+			<header>
+				<h1>Syvennä taitojasi</h1>
+			</header>
 
-					<p>MOOC.FI tarjoaa täysin ilmaisia yliopistotason ohjelmointikursseja kenelle tahansa.</p>
-					<p>Kurssitarjonnastamme löydät opeteltavaa olit sitten ohjelmoinnista kiinnostunut aloittelija, tai taitojasi syventävä peruskoodari.</p>
-				</header>
+			<section class="description">
+				<p>Tarjoamme myös paljon muita kursseja erilaisista ohjelmointiin liittyvistä aiheista.</p>
+				<p>Opi toteuttamaan verkkopalveluja tai ohjelmoimaan uusilla ohjelmointikielillä.</p>
+				<p>Mullista käsityksesi ohjelmoinnista tutustumalla funktionaalisiin ohjelmointikieliin, Scalaan ja Clojureen. </p>
+				<p>Sukella algoritmien maailmaan ja opi ratkaisemaan monimutkaisia ongelmia tehokkaasti.</p>
+			</section>
+			<section class="call_to_action">
+				<a class="call_to_action" href="kurssit.html">Tutki kurssitarjontaa</a>
+			</section>
+		</section>
+	</div>
+</article>
+<article>
+	<header>
+		<h1>Oletko opettaja?</h1>
 
-				<div class="two-column">
-					<section class="item">
-						<header>
-							<h1>
-								Aloittelija?
-							</h1>
-						</header>
+		<h2>MOOCin käyttö opetuksessa</h2>
 
-						<section class="description">
-							<p>Opi Java-ohjelmointikielen perusteet neljätoista viikkoa kestävällä kurssilla.</p>
-							<p>Java on eräs maailman käytetyimmistä ohjelmointikielistä. Tästä huolimatta kurssi <strong>ei</strong> vaadi mitään esitietoja.</p>
-							<p>Kurssin kautta voit jopa saada  opiskelupaikan Helsingin yliopistoon.</p>
+		<p>Ohjelmointitaito korostuu jatkuvasti nykyajan maailmassa ja opetuksessa. Haluammekin siis tukea oppilaitoksia ja opettajia ohjelmoinnin opetuksen järjestämisessä.</p>
+	</header>
 
-						</section>
-						<section class="call_to_action">
-							<a href="http://mooc.cs.helsinki.fi/2014-ohjelmointi">
-								Aloita tästä! <br />
-								Seuraava kurssi alkaa 23.1.2015
-							</a>
-						</section>
-					</section>
+	<div class="two-column">
+		<section class="item">
+			<header>
+				<h1>Näin järjestät kurssin</h1>
+			</header>
 
-					<section class="item">
-						<header>
-							<h1>Syvennä taitojasi</h1>
-						</header>
+			<section class="description">
+				<p>Avustamme kaikki kiinnostuneita kouluja järjestämään ohjelmoinnin perusopetusta.</p>
+				<p>Tarjoamme käyttöösi kaiken kurssilla tarvittavan materiaalin aina koekysymyksiin asti.</p>
+				<p>Sinun ei edes tarvitse huolehtia tehtävistä tai tentistä: tehtävät tarkastetaan automaattisesti ja valmiit tenttivastaukset voit vain lähettää meille tarkastusta varten.</p>
+			</section>
+			<section class="call_to_action">
+				<a href="mooc.html#opettajalle">Lue lisää</a>
+			</section>
+		</section>
 
-						<section class="description">
-							<p>Tarjoamme myös paljon muita kursseja erilaisista ohjelmointiin liittyvistä aiheista.</p>
-							<p>Opi toteuttamaan verkkopalveluja tai ohjelmoimaan uusilla ohjelmointikielillä.</p>
-							<p>Mullista käsityksesi ohjelmoinnista tutustumalla funktionaalisiin ohjelmointikieliin, Scalaan ja Clojureen. </p>
-							<p>Sukella algoritmien maailmaan ja opi ratkaisemaan monimutkaisia ongelmia tehokkaasti.</p>
-						</section>
-						<section class="call_to_action">
-							<a class="call_to_action" href="kurssit.html">Tutki kurssitarjontaa</a>
-						</section>
-					</section>
-				</div>
-			</article>
-			<article>
-				<header>
-					<h1>Oletko opettaja?</h1>
+		<section class="item">
+			<header>
+				<h1>Stressaako uusi opetus&shy;suunnitelma?</h1>
+			</header>
 
-					<h2>MOOCin käyttö opetuksessa</h2>
-
-					<p>Ohjelmointitaito korostuu jatkuvasti nykyajan maailmassa ja opetuksessa. Haluammekin siis tukea oppilaitoksia ja opettajia ohjelmoinnin opetuksen järjestämisessä.</p>
-				</header>
-
-				<div class="two-column">
-					<section class="item">
-						<header>
-							<h1>Näin järjestät kurssin</h1>
-						</header>
-
-						<section class="description">
-							<p>Avustamme kaikki kiinnostuneita kouluja järjestämään ohjelmoinnin perusopetusta.</p>
-							<p>Tarjoamme käyttöösi kaiken kurssilla tarvittavan materiaalin aina koekysymyksiin asti.</p>
-							<p>Sinun ei edes tarvitse huolehtia tehtävistä tai tentistä: tehtävät tarkastetaan automaattisesti ja valmiit tenttivastaukset voit vain lähettää meille tarkastusta varten.</p>
-						</section>
-						<section class="call_to_action">
-							<a href="mooc.html#opettajalle">Lue lisää</a>
-						</section>
-					</section>
-
-					<section class="item">
-						<header>
-							<h1>Stressaako uusi opetus&shy;suunnitelma?</h1>
-						</header>
-
-						<section class="description">
-							<p>Lähivuosina kaikki opettelevat ohjelmointia peruskoulusta asti. Tämä vaatii opettajilta ohjelmointiosaamista.</p>
-							<p>Tarjoamme opettajille suunnattua materiaalia, joka auttaa ohjelmointiopetuksen järjestämisessä sekä opettaa tarvittavat perustaidot myös sinulle.</p>
-						</section>
-						<section class="call_to_action not_now">
-							<a href="#">Lisätietoja keväällä 2015</a>
-						</section>
-					</section>
-				</div>
-			</article>
-		</main>
-
-		<footer>
-			<article>
-				<section id="about">
-					<p>MOOC.FI tarjoaa täysin ilmaisia yliopistotason ohjelmointikursseja kenelle tahansa.</p>
-					<p>Kurssitarjonnastamme löydät opeteltavaa olit sitten ohjelmoinnista kiinnostunut aloittelija, tai taitojasi syventävä peruskoodari.</p>
-				</section>
-				<section id="contact">
-					<p class="facebook">Tiedotus <a href="#">Twitter</a> &amp; <a href="http://www.kikatus.com/misc/MOOC/#">Facebook</a></p>
-					<p class="irc">Ohjaus <a href="#">#mooc.fi @ IRCNet</a></p>
-					<p class="sourceforge">Virheraportit <a href="#">SourceForge</a></p>
-				</section>
-				<section id="license">
-					<img src="img/helsingin-yliopisto-computer-science.png" alt="Helsingin yliopisto - Department of computer science">
-					<p>
-						<img src="img/copyright.png" alt="Creative Commons copyright"> 
-						Sivuston kaikki materiaali on lisensoitu Creative Commons BY-NC-SA-lisenssillä 
-					</p>
-				</section>
-			</article>
-		</footer>
-
-		<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-		<script src="js/mooc.js"></script>
-
-		<script>
-			$(window).load(function() {
-				equalheight('.two-column .item');
-			});
-
-
-			$(window).resize(function(){
-				equalheight('.two-column .item');
-			});
-		</script>
-	</body>
-</html>
+			<section class="description">
+				<p>Lähivuosina kaikki opettelevat ohjelmointia peruskoulusta asti. Tämä vaatii opettajilta ohjelmointiosaamista.</p>
+				<p>Tarjoamme opettajille suunnattua materiaalia, joka auttaa ohjelmointiopetuksen järjestämisessä sekä opettaa tarvittavat perustaidot myös sinulle.</p>
+			</section>
+			<section class="call_to_action not_now">
+				<a href="#">Lisätietoja keväällä 2015</a>
+			</section>
+		</section>
+	</div>
+</article>
