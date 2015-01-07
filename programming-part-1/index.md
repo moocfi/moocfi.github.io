@@ -37,33 +37,6 @@ After you are finished, go to [part II]({{ "/programming-part-2/" | prepend: sit
 	- Sorting
 	- Searching
 
-# About the organizing institution
+{% include course/programming/contact-information.md irc="irc-guide.html" google-groups="google-groups.html" %}
 
-The [Department of Computer Science](http://www.cs.helsinki.fi/en) at the [University of Helsinki](http://www.helsinki.fi/university), has been chosen by the Finnish Higher Education Evaluation Council as a Centre of Excellence in Finnish University Education for 2007-2009 and 2010-2012. Teachers at the department have also been awarded the most prestiguous teacher awards (Magister Bonus prize in 2006 and 2011, and Eino Kaila prize in 2009). The latest turn in the long-term development of education at the department is the [RAGE (Agile education research)](http://www.cs.helsinki.fi/rage) research group, exploring and developing education with light and highly reactive educational structures, aiming to provide a massive increase in interaction between students and teachers.
-
-The Linkki Centre organizes outreach activites in computer science under the Science Education Centre LUMA. Activities organized by the centre include clubs and camps organized for children and youth, coaching for comptetitive programming contests (such as the International Olympiad in Informatics) and courses for inservice teachers.
-
-The MOOC courses are organized by the Department of Computer Science and the Linkki Centre operating at the department; the RAGE research group is responcible for teaching and course arrengements. The Technology Industries of Finland Centennial Foundation has funded some parts of the operation.
-
-# Contact information
-
-## Help with the exercises
-
-- [IRC](irc-guide.html) (Internet Relay Chat)
-	- Average response time 20 minutes
-	- The official course staff are moderators and have an @ sign in front of their name.
-	- Channel #mooc.fi @IRCnet
-- [Google Groups](google-groups.html)
-	-  Average response time 2 working days
-
-## Technical issues and bugs
-
-- Use our [ticket system](https://sourceforge.net/p/mooc-issues/tickets/) to report the issue
-
-## Other business
-
-- Send mail to mooc@cs.helsinki.fi
-	- The email address is intended for administrative use only. For assistance with exercises see above.
-
-[![Linkki](img/linkki-logo.png)](http://linkki.cs.helsinki.fi/)
-[![Rage](img/rage.png)](http://www.cs.helsinki.fi/rage)
+{% include course/programming/about-organizinging-institution.md %}
