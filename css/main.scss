@@ -3,28 +3,32 @@
 ---
 @charset "utf-8";
 
+/**
+ *	TYPOGRAPHY
+ */
+$logo-font: "Alegreya Sans", sans-serif;
+$nav-font: "Open Sans Condensed", sans-serif;
+$header-font: "Open Sans Condensed", sans-serif;
+$body-font: "Noto Sans", sans-serif;
 
+$font-size: 16px;
+$font-weight: 400;
 
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+/**
+ *	COLORS
+ */
+$page-bg: #f2f2f2;
+$text-bg: white;
+$cta: #3dbba6;
+$brand: #D48E0C;
 
-$spacing-unit:     30px;
+$logo-font-color: black;
+$header-font-color: black;
+$body-font-color: #333333;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
+$link-color: #00747a;
+$link-hover-color: #d5eff0;
+$link-visited-color: #00747a;
 
 // Using media queries with like this:
 // @include media-query($palm) {
@@ -43,7 +47,13 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
+	"normalize"
+	,"layout"
+    ,"typography"
+    ,"theme"
+    ,"widgets/nav"
+    ,"widgets/sidebar"
+    ,"widgets/breadcrumbs"
+    ,"widgets/footer"
+    ,"_syntax-highlighting"
 ;

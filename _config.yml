@@ -4,7 +4,10 @@ baseurl: ""
 url: "http://moocfi.github.io"
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+
+sass:
+  style: :compressed
 
 navigation:
   "Etusivu": "/"
@@ -15,8 +18,7 @@ navigation:
 resources:
   css:
     - "//fonts.googleapis.com/css?family=Alegreya+Sans:400|Noto+Sans:400,700|Open+Sans+Condensed:300,700"
-    - "/css/normalize.css"
-    - "/css/mooc.css"
+    - "/css/main.css"
   js:
     - "//code.jquery.com/jquery-1.11.0.min.js"
     - "/js/mooc.js"

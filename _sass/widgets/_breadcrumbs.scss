@@ -1,0 +1,24 @@
+#breadcrumb {
+	clear: both;
+	list-style: none;
+}
+
+#breadcrumb li {
+	display: inline;
+	font-size: 18px;
+}
+
+#breadcrumb li:first-child:before {
+	content: "";
+}
+
+#breadcrumb li:before {
+	content: "\00BB \0020";
+}
+
+@media all and (max-width: 760px) {
+
+	#breadcrumb {
+		display: none;
+	}
+}

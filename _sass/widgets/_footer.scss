@@ -1,0 +1,146 @@
+/* FOOTER */
+
+body > footer {	
+	width: 100%;
+	background-color: white;
+	padding: 30px 0px;
+	margin-top: 50px;
+}
+
+body > footer > article {
+	max-width: 1150px;
+	margin: auto;
+}
+
+body > footer > article > section {
+	vertical-align: top;
+	display: inline-block;
+	text-align: left;
+	width: 350px;
+	padding: 23px;
+}
+
+body > footer > article > section:first-child {
+	margin-left: 0%;
+	padding-left: 0%;
+}
+
+body > footer > article > section:last-child {
+	border-right: none;
+	padding-right: 0%;
+	margin-right: 0%;
+}
+
+#contact {
+	border-left: 2px solid #f2f2f2;
+	border-right: 2px solid #f2f2f2;
+}
+
+#contact .facebook,
+#contact .irc,
+#contact .sourceforge {
+	position: relative;
+	top: -30px;
+}
+
+#contact .facebook:before,
+#contact .irc:before,
+#contact .sourceforge:before {
+	margin-right: 10px;
+	position: relative;
+	top: 12px;
+}
+
+#contact .facebook:before {
+	content: url(../img/social-media-facebook.png);
+}
+
+#contact .irc:before {
+	content: url(../img/social-media-irc.png);
+}
+
+#contact .sourceforge:before {
+	content: url(../img/social-media-sourceforge.png);
+}
+
+#license p img {
+	float: right;
+}
+
+#license > img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin-bottom: 30px;
+}
+
+main, header, nav, footer > article {
+	max-width: 1150px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Fix whitespace between inline-block footer sections */
+#contact, #license {
+	margin-left: -4px;
+}
+
+@media all and (max-width: 1160px) {
+
+	body > footer > article {
+		display: block;
+		text-align: center;
+	}
+
+	body > footer > article > section {
+		height: 275px;
+		display: inline-block;
+		border: 0;
+		margin: auto;
+		min-width: 0px;
+		width: initial;
+	}
+
+	#about {
+		width: 300px;
+	}
+
+	#contact .facebook,
+	#contact .irc,
+	#contact .sourceforge {
+		top: 0px;
+	}
+
+	#contact {
+		padding-top: 0;
+		width: 300px;
+		border-right: 0px;
+	}
+
+	#contact p:first-child {
+		padding-top: 0;
+	}
+
+	#license img {
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	footer #license p img {
+		float: none;
+		display: block;
+		margin-bottom: 10px;
+	}
+}
+
+@media all and (max-width: 760px) {
+
+	#about,
+	#contact,
+	#license {
+		height: auto;
+		width: 80%;
+		text-align: center;
+		border: 0px;
+	}
+}
