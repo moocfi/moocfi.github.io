@@ -1,8 +1,8 @@
 header: Olio-ohjelmointia Javalla
 navigation:
-  "Ilmoittautuminen ja alkutoimet": "/ilmoittautuminen-ja-alkutoimet.html"
-  "Ohjeita": "/ohjeita.html"
+  "Ilmoittautuminen ja alkutoimet": "ilmoittautuminen-ja-alkutoimet.html"
+  "Ohjeita": "ohjeita.html"
   "Materiaali": "http://2014-ohjelmointi.mooc.fi/"
-  "Tiedoksi opettajille": "/tiedoksi-opettajille.html"
-  "Helsingin yliopiston opiskelijoille": "/hy-opiskelijoille.html"
+  "Tiedoksi opettajille": "tiedoksi-opettajille.html"
+  "Helsingin yliopiston opiskelijoille": "hy-opiskelijoille.html"
   "Tulostaulu": "http://tmc.mooc.fi/mooc/courses/20/points"
