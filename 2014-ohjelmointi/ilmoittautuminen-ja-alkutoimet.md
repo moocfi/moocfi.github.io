@@ -30,15 +30,15 @@ Toimiakseen NetBeans vaatii Javan ohjelmistokehitystyökalut eli JDK:n.
 
 1. JDK:n asennus
 
-    Jos tiedät että koneessasi on jo JDK 7 tai uudempi, voit siirtyä seuraavaan vaiheeseen.
+	Jos tiedät että koneessasi on jo JDK 7 tai uudempi, voit siirtyä seuraavaan vaiheeseen.
 
-    Lataa JDK:n uusin versio "Java SE Development Kit 8u5" (tai uudempi) osoitteesta [http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/). Jos koneesi on Linux, ks. myös maininta alla.
+	Lataa JDK:n uusin versio "Java SE Development Kit 8u5" (tai uudempi) osoitteesta [http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/). Jos koneesi on Linux, ks. myös maininta alla.
 
-    Hyväksy lisenssi, valitse koneeseesi sopiva versio ja suorita asennus
+	Hyväksy lisenssi, valitse koneeseesi sopiva versio ja suorita asennus
 
-    - Windowsissa asentaminen onnistuu nappia painamalla, kuten minkä tahansa muun Windows-ohjelman asentaminen.
-    - Macissa asennus tapahtuu kuin minkä tahansa dmg-paketin asennus. HUOM. Tarvitset Mac OS X 10.7.3:n (Lion) tai uudemman OS X -version.
-    - Useimmissa Linux-järjestelmissä saat Java 7 version suoraan suoraan pakettienhallinnasta, ja sen käyttäminen käy hyvin. Debian-pohjaisissa Linuxeissa (esim. Ubuntu) riittää paketin openjdk-7-jdk asentaminen. Voit asentaa sen komentoriviltä komennolla apt-get install openjdk-7-jdk -y, tai Synaptic Package managerin avulla. Mikäli tuoretta Javaa ei pakettienhallinnasta löydy, tapahtuu asentaminen purkamalla Oraclen sivulla oleva .tar.gz-päätteinen pakattu tiedosto sopivaan paikkaan.
+	- Windowsissa asentaminen onnistuu nappia painamalla, kuten minkä tahansa muun Windows-ohjelman asentaminen.
+	- Macissa asennus tapahtuu kuin minkä tahansa dmg-paketin asennus. HUOM. Tarvitset Mac OS X 10.7.3:n (Lion) tai uudemman OS X -version.
+	- Useimmissa Linux-järjestelmissä saat Java 7 version suoraan suoraan pakettienhallinnasta, ja sen käyttäminen käy hyvin. Debian-pohjaisissa Linuxeissa (esim. Ubuntu) riittää paketin openjdk-7-jdk asentaminen. Voit asentaa sen komentoriviltä komennolla apt-get install openjdk-7-jdk -y, tai Synaptic Package managerin avulla. Mikäli tuoretta Javaa ei pakettienhallinnasta löydy, tapahtuu asentaminen purkamalla Oraclen sivulla oleva .tar.gz-päätteinen pakattu tiedosto sopivaan paikkaan.
 
 2. NetBeansin asennus
 
