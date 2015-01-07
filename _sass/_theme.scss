@@ -23,14 +23,14 @@ main.has-aside article {
 	background-color: white;
 }
 
-.not_now a,
-.not_now a:visited {
-	background-color: #c0c0c0;
-}
-
 .call_to_action a,
 .call_to_action a:visited {
 	background-color: #3dbba6;
+}
+
+.not_now a,
+.not_now a:visited {
+	background-color: #c0c0c0;
 }
 
 .not_now a:hover {
