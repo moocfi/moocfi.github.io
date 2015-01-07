@@ -1,0 +1,155 @@
+body {
+	color: $body-font-color;
+	font-family: $body-font;
+	font-size: $font-size;
+	font-weight: $font-weight;
+}
+
+/**
+ * HEADERS
+ */
+h1, h2, h3, h4 {
+	font-family: $header-font;
+	font-weight: 300;
+}
+
+header h1 {
+	font-size: 1.75em;
+}
+
+h1 {
+	font-size: 1.5em;
+}
+
+h2 {
+	font-size: 1.25em;
+}
+
+h3 {
+	font-size: 1.1em;
+}
+
+/**
+ * BODY
+ */
+
+p {
+	padding: 0px 5px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+a {
+	color: $link-color;
+
+	text-decoration: none; 
+	transition: all 0.25s ease-in-out; 
+	-webkit-transition: all 0.25s ease-in-out; 
+	-moz-transition: all 0.25s ease-in-out;
+
+	&:hover {
+		background: $link-hover-color;
+	}
+
+	&:visited {
+		background: $link-visited-color;
+	}
+}
+
+ul > li {
+	list-style-type: circle;
+}
+
+/**
+ * NAVIGATION
+ */
+
+body > nav {
+	font-family: $nav-font;
+	font-size: 25px;
+	text-transform: uppercase;
+}
+
+body > header > h1 {
+	text-transform: uppercase;
+	line-height: 1.8em; 
+}
+
+body > header > h1 > p {
+	font-family: $logo-font;
+	font-size: 30px; 
+	font-weight: normal;
+}
+
+/**
+ *
+ */
+ main.has-aside article > header h1 {
+	font-weight: 300;
+	font-size: 45px;
+	text-shadow: 1px 1px 1px #d48e0c;
+	color: #FFF;
+	line-height: normal;
+}
+
+main > header h1 {
+	font-weight: 300;
+	font-size: 45px;
+	text-shadow: 1px 1px 1px #d48e0c;
+	color: #FFF;
+	line-height: normal;
+}
+
+.item > header h1 {
+	margin-top: 0px;
+	font-size: 1.8em;
+	line-height: normal;
+}
+
+.item > header h2 {
+	text-align: center;
+}
+
+.call_to_action a,
+.call_to_action a:visited {
+	color: white;
+	text-align: center;
+	text-shadow: #696969 1px 1px 1px;
+
+	&:hover {
+		background-color: #00747a;
+	}
+
+	&:first-line {
+		font-size: 1.5em;
+	}
+}
+
+@media all and (max-width: 1160px) {
+
+	body > header > h1 > p {
+		font-size: 25px;
+	}
+
+	.items {
+		text-align: justify;
+	}
+}
+
+@media all and (max-width: 760px) {
+
+	body > header > h1 > p {
+		font-size: 20px;
+	}
+
+	body > header > h1 {
+		line-height: 0.75em;
+	}
+}
+
+@media all and (max-width: 475px) {
+
+	main > header > h1 {
+		font-size: 1.3em;
+	}
+}

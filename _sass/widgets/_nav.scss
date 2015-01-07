@@ -1,0 +1,136 @@
+body > nav {
+	text-align: right;
+}
+
+body > nav a {
+	color: white;
+	text-shadow: 1px 1px 1px #d48e0c;
+	text-decoration: none;
+	border-top: 3px solid transparent;
+	border-bottom: 3px solid transparent;
+	border-radius: 10px;
+	transition: all 0.25s ease-in-out; 
+	-webkit-transition: all 0.25s ease-in-out; 
+	-moz-transition: all 0.25s ease-in-out;
+
+	&:hover {
+		border-top: 3px solid white;
+		border-bottom: 3px solid white;
+		background: transparent;
+	}
+
+	&.current {
+		background: #00747a;
+		border-radius: 10px;
+		text-shadow: none;
+		box-shadow: inset 5px 5px 5px 0px rgba(50, 50, 50, 0.2);
+	}
+
+	&.current:hover {
+		background: #00747a;
+		border-top: 3px solid transparent;
+		border-bottom: 3px solid transparent;
+	}
+}
+
+#menu_toggle {
+	margin-right: 10px;
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	background: transparent;
+	display: none;
+	padding: 5px 15px;
+	cursor: pointer;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+#menu_toggle:hover {
+	background: #00747a;
+	border-top: 3px solid transparent;
+	border-bottom: 3px solid transparent;
+}
+
+@media all and (max-width: 760px) {
+
+	/* Collapse NAV */
+	body > nav {
+		min-height: 60px;
+	}
+
+	body > nav a, 
+	body > nav ul, 
+	body > nav li {
+		display: none;
+	}
+
+	#menu_toggle {
+		position: absolute;
+		right: 0px;
+		top: 0px;
+		display: block;
+	}
+
+	body > nav.active ul {
+		position:absolute;
+		top: 55px;
+		margin-top: 0;
+		background-color: #ffab0e; 
+		width: 100%;
+	}
+
+	body > nav.active ul,
+	body > nav.active li,
+	body > nav.active li a {
+		display: block;
+	}
+
+	body > nav.active ul {
+		padding-bottom: 5px;
+		padding-left: 0px;
+	}
+
+	body > nav.active li {
+		margin-left: 75px;
+		text-align: left;
+	}
+
+	body > nav.active li a {
+		border: 0;
+		margin: 5px 0px 4px 0px;
+		transition: none; 
+		-webkit-transition: none; 
+		-moz-transition: none;
+	}
+
+	body > nav.active li a:hover {
+		border: 0;
+	}
+
+	body > nav .current,
+	body > nav .current:hover {
+		background: 0;
+		box-shadow: none;
+	}
+
+	body > nav a.active:hover {
+		display: none;
+	}
+}
+
+@media all and (max-width: 475px) {
+
+	body > nav:after {
+		content: "MOOC.FI";
+		position: absolute;
+		top: 17px;
+		left: 100px;
+		color: white;
+		font-family: "Open Sans Condensed",sans-serif;
+		font-weight: bold;
+	}
+}

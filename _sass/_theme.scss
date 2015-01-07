@@ -1,0 +1,55 @@
+html {
+	background: #f2f2f2 url(../img/header-bg.png) repeat-x;
+}
+
+main > header h1,
+main.has-aside article > header h1 {
+	
+	background: #ffab0e;
+	background: -moz-linear-gradient(left,  #ffab0e 58%, #ff960e 100%);
+	background: -webkit-gradient(linear, left top, right top, color-stop(58%,#ffab0e), color-stop(100%,#ff960e));
+	background: -webkit-linear-gradient(left,  #ffab0e 58%,#ff960e 100%);
+	background: -o-linear-gradient(left,  #ffab0e 58%,#ff960e 100%);
+	background: -ms-linear-gradient(left,  #ffab0e 58%,#ff960e 100%);
+	background: linear-gradient(to right,  #ffab0e 58%,#ff960e 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffab0e', endColorstr='#ff960e',GradientType=1 );
+}
+
+main.has-aside article {
+	background-color: white;
+}
+
+.item {
+	background-color: white;
+}
+
+.not_now a,
+.not_now a:visited {
+	background-color: #c0c0c0;
+}
+
+.call_to_action a,
+.call_to_action a:visited {
+	background-color: #3dbba6;
+}
+
+.not_now a:hover {
+	background-color: #c0c0c0;
+}
+
+@media all and (max-width: 760px) {
+
+	html {
+		background: white;
+	}
+
+	main {
+		background: #F2F2F2;
+	}
+
+	main > header > h1 {
+		border-radius: 0;
+	}
+}
+
+	
