@@ -32,24 +32,20 @@ sidenav: 2014-ohjelmointi
 
 6. KYSYÄKSENI APUA VIRHEESEEN, KUINKA NÄYTÄN KOODINI HELPOSTI AVUNANTAJALLE VERKON YLITSE?
 
-	Voit käyttää "pastebiniä"; esimerkiksi rakentamaamme [http://paste.mooc.fi](http://paste.mooc.fi -palvelua) -palvelua.
+	Voit käyttää "pastebiniä"; esimerkiksi rakentamaamme [http://paste.mooc.fi](http://paste.mooc.fi) -palvelua.
 
 7. VOINKO TEHDÄ TEHTÄVIÄ KAHDELLA ERI KONEELLA?
 
 	Voit. Jos TMC-liitännäisen sisältävä NetBeans on asennettu molemmille koneille, ei ongelmaa ole.
 
 	Tekemiäsi tehtäviä voi myös siirtää koneelta toiselle:
-
 	- Manuaalinen kopiointi TMC palvelimelta
-		
 		1. Olet tehnyt tehtävän X koneella A ja palauttanut sen TMC:lle. Voit palauttaa siis keskeneräisen tehtävän palvelimelle ja ladata sen sieltä myöhemmin.
 		2. Jos haluat tekemäsi koodin koneelle B, voit ensin joutua lataamaan tehtäväpohjan:
 			- Mikäli et ole vielä ratkaissut tehtävää, latautuu tehtäväpohja koneellesi muiden tehtäväpohjien mukana.
 			- Mikäli olet jo tehtävän ratkaissut, valitse NetBeansin TMC-valikosta "Download old completed exercises" niin saat tehtäväpohjan ladattua.
 		3. Voit ladata palauttamiesi tehtävien koodit osoitteesta [https://tmc.mooc.fi/mooc](https://tmc.mooc.fi/mooc), kirjautumalla sinne sisään näet kaikki palvelimelle lähettämäsi ratkaisut. Helpoimmalla pääset kopioimalla koodin suoraan selaimesta NetBeansiin, mutta voit ladata koodin myös zip-pakkauksessa.
-
 	- Ulkopuolisen palvelun hyödyntäminen
-		
 		Esimerkiksi [DropBoxilla](https://www.dropbox.com/) voit helposti synkronoida kansion useamman koneen välillä. Tässä siis ideana, että laittaa DropBoxin synkronoimaan kansion, johon NetBeans tehtävät lataa. Näet tämän kansion TMC:n asetuksista.
 	- USB-tikun käyttö
 		
@@ -105,10 +101,11 @@ Allaolevat ohjeet löytyvät myös kurssimateriaalista ja osa niistä tulee ajan
 
 	On kuitenkin mahdollista pyytää NetBeansia täydentämään automaattisesti metodirungot toteuttavalle luokalle. Kun olet määritellyt luokan toteuttavan rajapinnan, eli kirjoittanut
 	
-	    public class Luokka implements Rajapinta {
-	         
-	    }
-	 
+	```java
+	public class Luokka implements Rajapinta {
+
+	}
+	```
 
 	NetBeans värjää luokan nimen punaisella. Mene rivin vasemmassa reunassa olevan lamppusymbolin kohdalle, klikkaa ja valitse Implement all abstract methods ja metodirungot ilmestyvät koodiin!
 
