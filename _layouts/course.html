@@ -2,9 +2,12 @@
 layout: default
 ---
 {% if page.sidenav %}
-	{% include_relative sidenav.html %}
+	{% include course/sidenav.html %}
 {% endif %}
 
 <article>
+	<header>
+		<h1>{{page.title}}</h1>
+	</header>
 	{{ content }}
 </article>

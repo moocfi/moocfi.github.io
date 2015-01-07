@@ -1,0 +1,15 @@
+{% capture path %}{{ page.dir | prepend: site.baseurl }}{% endcapture %}
+<aside>
+	<header>
+		<h1>
+			<a href="{{ "/" | prepend: path }}">{{site.data.navs[page.sidenav].header}}</a>
+		</h1>
+	</header>
+	<nav class="sidenav">
+		<ul>
+			{% for link in site.data.navs[page.sidenav].navigation %}
+			<li><a href="{% if link[1] contains "//" %}{{link[1]}}{% else %}{{link[1] | prepend: path }}{% endif %}"{% if page.url contains link[1] %} class="current"{% endif %}>{{link[0]}}</a></li>
+			{% endfor %}
+		</ul>
+	</nav>
+</aside>
