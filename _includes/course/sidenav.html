@@ -8,7 +8,7 @@
 	<nav class="sidenav">
 		<ul>
 			{% for link in site.data.navs[page.sidenav].navigation %}
-			<li><a href="{% if link[1] contains "//" %}{{link[1]}}{% else %}{{link[1] | prepend: path }}{% endif %}"{% if page.url contains link[1] %} class="current"{% endif %}>{{link[0]}}</a></li>
+			<li><a href="{{link[1]}}"{% if page.url contains link[1] %} class="current"{% endif %}>{{link[0]}}</a></li>
 			{% endfor %}
 		</ul>
 	</nav>
