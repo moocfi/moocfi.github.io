@@ -236,4 +236,17 @@ img {
 	body > header > h1 {
 		display: none;
 	}
+
+	main.has-aside,
+	main.has-aside > header,
+	main.has-aside article {
+		width: 100%;
+		padding: 0;
+	}
+
+	main.has-aside article > header h1 {
+		width: 100%;
+		border-radius: 0;
+	}
+
 }
