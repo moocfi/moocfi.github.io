@@ -1,12 +1,26 @@
-/**
- * Syntax highlighting styles
- */
+code {
+    background: #ededed;
+    padding: 0.1em 0.5em;
+    font-size: 0.8em;
+    border-radius: 0.1em;
+    font-family: monospace;
+}
+
 .highlight {
+
 	border: 1px solid black;
 	padding: 0 15px;
 	border-radius: 5px;
     background: #fff;
-    margin-bottom: 15px;
+    margin: 0;
+
+    code {
+        background: none;
+    }
+
+    pre {
+        margin: 0;
+    }
 
     .c     { color: #998; font-style: italic } // Comment
     .err   { color: #a61717; background-color: #e3d2d2 } // Error
