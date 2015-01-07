@@ -163,6 +163,10 @@ main > header > h1 {
 	display: block;
 }
 
+img {
+	max-width: 100%;
+}
+
 @media all and (max-width: 1160px) {
 
 	main {
