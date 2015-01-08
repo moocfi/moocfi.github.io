@@ -1,6 +1,7 @@
 ---
 # Compiled by jekyll
 ---
+@charset "utf-8";
 
 body {
 	line-height: normal;
@@ -56,12 +57,14 @@ body > header > img {
 .ribbon p a:before {
   	left: 0;
 }
+
 .ribbon p a:after {
   	right: 0;
-}​
+}
 
-article {
+main article {
 	clear: both;
+	background: none;
 }
 
 article > header {
