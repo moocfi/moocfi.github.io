@@ -46,18 +46,6 @@ var equalheight = function(container) {
 	}
 }
 
-var toggleCourses = function() {
-	$('.item').each( function () {
-		var thisLang = $(this).attr('lang');
-		var langSelected = $('#lang_selector *[type=checkbox]:lang(' + thisLang + ')').prop('checked');
-		
-		var thisDifficulty = $(this).attr('data-difficulty');
-		var difficultySelected = $('#difficulty_selector *[data-difficulty=' + thisDifficulty + ']').prop('checked');
-
-		$(this).toggle(langSelected && difficultySelected);
-	});
-}
-
 $(window).load(function() {
 	equalheight('.item:visible');
 });
