@@ -2,7 +2,7 @@
 title: Algoritmien MOOC
 layout: course
 main-class: has-aside
-sidenav: 2014-ohjelmointi
+sidenav: 2014-algoritmit
 ---
 Algoritmit, eli "mekaaniset toimintaohjeet ongelmien ratkaisemiseen", ovat oleellinen osa ohjelmointia ja tietojenkäsittelytiedettä. Esimerkki algoritmista on alakoulussa opittu tapa suorittaa kertolasku, allekkainlasku.
 

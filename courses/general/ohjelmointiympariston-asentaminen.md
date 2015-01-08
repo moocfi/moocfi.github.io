@@ -40,7 +40,7 @@ Lataa käyttöjärjestelmällesi sopiva TMC-liitännäisen sisältävä NetBeans
 
 **Jos et jostain syystä saanut NetBeansia ja TMC-liitännäistä toimimaan edellisten asennusohjeiden avulla, voit kokeilla seuraavaa, hieman monimutkaisempaa vaihtoehtoa, jossa NetBeans ja TMC-liitännäinen asennetaan erikseen.**
 
-Lataa uusin NetBeans osoitteesta <https://netbeans.org/downloads/> suosittelemme käyttämään *All* versiota toimivuuden takaamiseksi kaikilla kursseilla.
+Lataa uusin NetBeans osoitteesta <https://netbeans.org/downloads/> suosittelemme käyttämään *All-pakettia* toimivuuden takaamiseksi kaikilla kursseilla.
 
 Suorita asentaminen
 
@@ -85,7 +85,7 @@ Aloitetaan TMC-liitännäisen asennus.
 6. Pääset takaisin plugins-ikkunaan. Valitse ikkunasta välilehti Available Plugins, ja kirjoita Search-kenttään TMC.
 7. Klikkaa Install-ruksi valituksi ja paina install
 8. Hyväksy lisenssiehdot asennuksen aikana
-	1. Vastaa mahdollisiin kysymyksiin *Continue*
+	1. Vastaa mahdollisiin kysymyksiin *Continue* jatkaaksesi asennusta
 9. Kun asennus on valmis käynnistä NetBeans uudelleen
 
 # Tehtävien tekeminen ja palautus
@@ -98,3 +98,7 @@ Kun käynnistät TMC-liitännäisen sisältävän NetBeansin ensimmäistä kerta
 4. Paina *Refresh list* kurssilistauksen päivittämiseksi
 5. Valitse suoritettava kurssi *Current course*-kohdasta
 6. Olet nyt valmis ja voit aloittaa tehtävien tekemisen painamalla *OK*
+
+Seuraava video näyttää miten tehtävien tekeminen ja palauttaminen NetBeansilla ja TMC:llä tapahtuu.
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/sQYq2LISMRU" frameborder="0" allowfullscreen></iframe>

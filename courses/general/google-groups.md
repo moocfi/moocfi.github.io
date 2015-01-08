@@ -1,8 +1,6 @@
 ---
 title: Google Groups
 layout: course
-main-class: has-aside
-sidenav: programming-part-2
 ---
 <iframe id="forum_embed"
   src="javascript:void(0)"

@@ -1,40 +1,40 @@
 ---
 title: Ohjeita
 layout: course
-main-class: has-aside
-sidenav: 2014-ohjelmointi
 ---
-# USEIN KYSYTTYJÄ KYSYMYKSIÄ
+# Usein kysyttyjä kysymyksiä
 
-1. EN OSAA TEHDÄ TEHTÄVÄÄ N?
+1. En osaa tehdä tehtävää N?
 
 	Apua tehtävän tekemiseen löydät materiaalista sekä internetistä. Erityisen suositeltavaa on liittyä IRCnetissä olevalle kanavalle #mooc.fi, katso lisäohjeita seuraavasta [http://mooc.cs.helsinki.fi/content/irc-ohjeet](http://mooc.cs.helsinki.fi/content/irc-ohjeet)
 
-2. MITEN ESITÄN ONGELMANI IRC:SSÄ?
+2. Miten esitän ongelmani IRC:ssä?
 
 	*"Don't ask to ask, just ask"*
 
-	Esitä ongelmasi suoraan, kanavalla joku vastaa sinulle aikanaan (arviolta noin 5-20 minuutin kuluessa). Jos kysymys koskee koodia, jaa koodi seuraavasti: NetBeanssissa paina **TMC -> Send code to TMC Pastebin -> Send ->** kopioi saamasi linkki ja lähetä se kysymyksesi yhteydessä.
+	Lue [IRC-ohjeet](irc-ohjeet.html)
 
-3. TEHTÄVÄN N TESTEISSÄ ON ONGELMA?
+3. Tehtävän N testeissä on ongelma?
 
 	Jos huomaat, että jonkun tehtävän testissä on ongelma, esim. huono virheilmoitus, voit pyytää kurssihenkilökuntaa tarkastamaan asian. 
 
-	Käytä ongelmien raportointiin osoitteessa [http://sourceforge.net/p/mooc-issues/tickets/](http://sourceforge.net/p/mooc-issues/tickets/) olevaa bugiträkkeriä
+	Käytä ongelmien raportointiin osoitteessa <http://sourceforge.net/p/mooc-issues/tickets/>
 
-4. MISTÄ NÄEN MITÄ TEHTÄVIÄ OLEN JO PALAUTTANUT JA MILLOIN TEHTÄVÄT PITÄISI PALAUTTAA?
+4. Mistä näen mitä tehtäviä olen jo palauttanut ja milloin tehtävät pitäisi palauttaa?
 
-	TMC-palvelimen pääsivulta [https://tmc.mooc.fi/mooc/](https://tmc.mooc.fi/mooc/) pääset kurssin sivulle [https://tmc.mooc.fi/mooc/courses/20/](https://tmc.mooc.fi/mooc/courses/20/), jolla on näkyvissä tehtävien deadlinet ja omat palautuksesi. Jo palauttamiesi tehtävien esimerkkivastaukset näet klikkaamalla tehtävän nimeä.
+	TMC-palvelimen pääsivulta <https://tmc.mooc.fi/mooc/> pääset kurssin sivulle, jossa on näkyvissä mm. tehtävien deadlinet. Kirjautumalla näet omat palautuksesi sekä pääset tarkastelemaan palauttamiesi tehtävien esimerkkivastauksia.
 
-5. SALASANANI ON UNOHTUNUT, MITÄ TEEN?
+5. Salasanani on unohtunut, mitä teen?
 
 	Voit asettaa itsellesi uuden salasanan TMC-palvelimella osoitteessa [https://tmc.mooc.fi/mooc/password_reset_keys/new](https://tmc.mooc.fi/mooc/password_reset_keys/new)
 
-6. KYSYÄKSENI APUA VIRHEESEEN, KUINKA NÄYTÄN KOODINI HELPOSTI AVUNANTAJALLE VERKON YLITSE?
+6. Kysyäkseni apua virheeseen, kuinka näytän koodini helposti avunantajalle verkon ylitse?
 
-	Voit käyttää "pastebiniä"; esimerkiksi rakentamaamme [http://paste.mooc.fi](http://paste.mooc.fi) -palvelua.
+	Mikäli kurssilla on käytössä NetBeans-ohjelmointiympäristö ja kysymyksesi koskee koodia, jaa koodi seuraavasti: NetBeanssissa paina **TMC -> Send code to TMC Pastebin -> Send ->** kopioi saamasi linkki ja lähetä se kysymyksesi yhteydessä.
 
-7. VOINKO TEHDÄ TEHTÄVIÄ KAHDELLA ERI KONEELLA?
+	Muussa tapauksessa voit voit käyttää jotakin "pastebiniä"; esimerkiksi rakentamaamme <http://paste.mooc.fi> -palvelua.
+
+7. Voinko tehdä tehtäviä kahdella eri koneella?
 
 	Voit. Jos TMC-liitännäisen sisältävä NetBeans on asennettu molemmille koneille, ei ongelmaa ole.
 
@@ -50,52 +50,47 @@ sidenav: 2014-ohjelmointi
 	- USB-tikun käyttö
 		
 		Voit kopioida tehtävät käsin USB-tikulle ja sieltä toiselle koneelle.
-8. KAIKKI TEHTÄVÄT EIVÄT LATAUDU?
+8. Kaikki tehtävät eivät lataudu?
 
 	Jos käy niin, että osa tehtävistä ei näytä latautuvan koneellesi, toimi seuraavasti:
 
 	1. Katso NetBeansin TMC-valikon Settings-valikosta minne TMC tallentaa tehtäväpohjat (project folder).
 	2. Kurssin tehtävät tallentuvat ko. kansion alikansioon 2014-mooc-no-deadline/
 	3. Valitse NetBeansin File-valikosta "Open project", etsi kansio, jonne TMC-tallettaa tehtävät ja valitse avattaville projekteille "Open project".
-9. NETBEANSIN ASENNUS EI ONNISTUNUT SIVULLA ILMOITTAUTUMINEN JA ALKUTOIMET OLEVAN OHJEEN MUKAAN?
 
-	Jos et jostain syystä saanut NetBeansia ja TMC-liitännäistä toimimaan sivulla "Ilmoittautuminen ja alkutoimet" olevan asennusohjeen mukaan, voit kokeilla [täällä](http://mooc.cs.helsinki.fi/2014-ohjelmointi/netbeansin-ja-tmc-liit%C3%A4nn%C3%A4isen-asentaminen) olevaa, hieman monimutkaisempaa vaihtoehtoa, jossa NetBeans ja TMC-liitännäinen asennetaan erikseen.
-
-10. VOINKO PALAUTTAA TEHTÄVÄN PALVELIMELLE MONTA KERTAA?
+9. Voinko palauttaa tehtävän palvelimelle monta kertaa?
 
 	Voit. Palautuskertoja palvelimelle ei ole rajoitettu. Pisteiden saantiin riittää, että saat ne jollain palautuskerralla.
 
- 
-
-# NETBEANSILLA TYÖSKENTELYÄ HELPOTTAVIA NÄPPÄINKOMENTOJA YM.
+# NetBeansilla työskentelyä helpottavia näppäinkomentoja ym.
 
 Allaolevat ohjeet löytyvät myös kurssimateriaalista ja osa niistä tulee ajankohtaiseksi vasta kurssin puolivälin jälkeen.
 
-1. AUTOMAATTINEN SYSTEM.OUT.PRINTLN
+1. Automaattinen System.out.println
 
 	Kirjoita sout ja paina tabulaattoria (q:n vasemmalla puolella oleva näppäin), editoriin tulee automaattisesti System.out.println
 
-2. AUTOMAATTINEN SISENNYS
+2. Automaattinen sisennys
 
 	Aktivoi editori-ikkunaan tiedosto, jonka haluat sisentää. Paina yhtä aikaa alt, shift ja f. Vaihtoehtoisesti voit valita yläpalkista Source ja sen alta format
 
-3. KOODIN AUTOMAATTINEN TÄYDENNYS
+3. Koodin automaattinen täydennys
 
 	Jos ohjelmassasi on käytössä esim. muuttuja String sukunimi;, ei koko muuttujan nimeä tarvitse välttämättä joka kerta kirjoittaa kokonaan. Kokeile mitä tapahtuu kun kirjoitat s ja sen jälkeen painat yhtäaikaa ctrl ja välilyönti.
 
-4. UUDELLEENNIMENTÄ
+4. Uudelleennimentä
 
 	Muuttujat, metodit ja luokat kannattaa nimetä kuvaavasti. Usein käy, että nimi on hieman epäkuvaava ja tulee tarve nimen muuttamiselle. NetBeans:issa tämä on todella helppoa. Maalaa huono nimi jostain kohtaa koodiasi hiirellä. Paina (yhtäaikaa) ctrl ja r ja kirjoita muuttujalle/metodille uusi nimi. Nimi muuttuu kaikkialta ohjelmasta!
 
-5. TYHJÄN RIVIN NYKYISEN RIVIN ALAPUOLELLE
+5. Tyhjän rivin nykyisen rivin alapuolelle
 
 	Koodiin saa tehtyä uuden tyhjän painamalla shift+enter, oli osoitin missä kohtaa riviä tahansa.
 
-6. KONSTRUKTORIEN, GETTERIEN JA SETTERIEN AUTOMAATTINEN LUOMINEN
+6. Konstruktorien, getterien ja setterien automaattinen luominen
 
 	Mene luokan koodilohkon sisäpuolelle mutta kaikkien metodien ulkopuolelle ja paina yhtä aikaa ctrl ja välilyönti. Jos luokallasi on esim. oliomuuttuja , tarjoaa NetBeans mahdollisuuden luoda (eli generoida) oliomuuttujalle getteri- ja setterimetodit sekä konstruktorin, joka asettaa oliomuuttujalle alkuarvon.
 
-7. IMPLEMENT ALL ABSTRACT METHODS
+7. Implement all abstract methods
 
 	Oletetaan että ohjelmassasi on rajapinta, ja olet tekemässä rajapinnan toteuttavaa luokkaa . Joudut näkemään hieman vaivaa kirjoittaessasi toteuttavaan luokkaan rajapinnan määrittelemien metodien esittelyrivit.
 
@@ -109,7 +104,7 @@ Allaolevat ohjeet löytyvät myös kurssimateriaalista ja osa niistä tulee ajan
 
 	NetBeans värjää luokan nimen punaisella. Mene rivin vasemmassa reunassa olevan lamppusymbolin kohdalle, klikkaa ja valitse Implement all abstract methods ja metodirungot ilmestyvät koodiin!
 
-8. CLEAN AND BUILD
+8. Clean and build
 
 	Tietyissä tilanteissa NetBeans saattaa mennä sekaisin ja yrittää ajaa koodista versiota, joka ei huomioi kaikkia koodiin kirjoitettuja muutoksia. Yleensä huomaat tilanteen siten, että jotain "outoa" vaikuttaa tapahtuvan. Ongelman korjaa usein Clean and build -operaation suorittaminen. Operaatio löytyy Run-valikosta ja sen voi suorittaa myös painamalla harja ja vasara -symbolia. Clean and build poistaa koodista olemassa olevat käännetyt versiot ja tekee uuden käännöksen.
 
