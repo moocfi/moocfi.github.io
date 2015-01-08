@@ -2,7 +2,7 @@
 title: Esitietovaatimukset ja kurssin suorittaminen
 layout: course
 main-class: has-aside
-sidenav: 2014-algoritmit
+sidenav: 2014-wepa
 ---
 Kurssilla oletetaan Java-ohjelmointikielen tuntemus kurssin Olio-ohjelmointia Javalla laajuudessa. Lisäksi, osallistujilta oletetaan omatoimisuutta kurssilla tarvittavien tietojen etsimisessä ja avun hakemisessa. Kurssilla saa tarvittaessa vertaistukea IRC:ssä (#mooc.fi) sekä kurssia varten pystytetyssä Piazza-foorumissa.
 
