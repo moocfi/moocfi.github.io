@@ -80,12 +80,16 @@ body > header > h1 > p {
 /**
  *
  */
- main.has-aside article > header h1 {
+ main article > header h1 {
 	font-weight: 300;
 	font-size: 45px;
 	text-shadow: 1px 1px 1px #d48e0c;
 	color: #FFF;
 	line-height: normal;
+}
+
+.item header h1 {
+	text-shadow: none;
 }
 
 main > header h1 {
