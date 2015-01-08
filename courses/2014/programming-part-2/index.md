@@ -9,7 +9,7 @@ This course is a direct continuaton of the course [Object-Oriented Programming w
 The course consists of six weeklys sets of tasks. The material is likely to contain minor errors such as poor error messages or faulty tests. Should you encounter these, please let us know!
 
 
-{% include course/programming/contact-information.md irc="irc-guide.html" google-groups="google-groups.html" %}
+{% include courses/programming/contact-information.md irc="irc-guide.html" google-groups="google-groups.html" %}
 
 # Schedule
 
@@ -31,4 +31,4 @@ The course consists of six weeklys sets of tasks. The material is likely to cont
 	- Enum
 	- Recap
 
-{% include course/programming/about-organizinging-institution.md %}
+{% include courses/programming/about-organizinging-institution.md %}

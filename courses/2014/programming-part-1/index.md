@@ -37,6 +37,6 @@ After you are finished, go to [part II]({{ "/programming-part-2/" | prepend: sit
 	- Sorting
 	- Searching
 
-{% include course/programming/contact-information.md irc="irc-guide.html" google-groups="google-groups.html" %}
+{% include courses/programming/contact-information.md irc="irc-guide.html" google-groups="google-groups.html" %}
 
-{% include course/programming/about-organizinging-institution.md %}
+{% include courses/programming/about-organizinging-institution.md %}
