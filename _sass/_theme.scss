@@ -3,7 +3,7 @@ html {
 }
 
 main > header h1,
-main.has-aside article > header h1 {
+main article > header h1 {
 	
 	background: #ffab0e;
 	background: -moz-linear-gradient(left,  #ffab0e 58%, #ff960e 100%);
@@ -21,6 +21,11 @@ main article {
 
 .item {
 	background-color: white;
+}
+
+.item > header h1 {
+	background: none;
+	padding: 0;
 }
 
 .call_to_action a,

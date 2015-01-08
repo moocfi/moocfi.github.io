@@ -59,7 +59,7 @@ body > header.no-nav {
  * CONTENT WITH SIDENAV
  */
 
-main.has-aside article > header h1 {
+main article > header h1 {
 	display: block;
 	border-radius: 7px;
 	padding: 12px 20px;
@@ -100,6 +100,10 @@ main > header > h1 {
 	border-radius: 7px;
 	padding: 12px 20px;
 	margin-bottom: 30px;
+}
+
+article {
+	padding: 10px;
 }
 
 .no-header {
