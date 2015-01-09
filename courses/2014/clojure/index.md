@@ -21,7 +21,7 @@ The course is based on previous courses given at Helsinki Metropolia University 
 
 # Completing the course
 
-The course is completed by programming solutions to exercises embedded in the course material. The course relies heavily on the use of [third party cloud services](http://mooc.cs.helsinki.fi/clojure/behind-scenes). To complete the course, you must register to GitHub for an account. No other registration is reguired. [The material will guide you in setting up necessary tools and submitting solutions ››](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html)
+The course is completed by programming solutions to exercises embedded in the course material. The course relies heavily on the use of [third party cloud services](behind-the-scenes.html). To complete the course, you must register to GitHub for an account. No other registration is reguired. [The material will guide you in setting up necessary tools and submitting solutions ››](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html)
 
 - - -
 

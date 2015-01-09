@@ -12,4 +12,4 @@ Keväällä järjestettävässä MOOC-kurssissa on jälleen koetilaisuuksia, joi
 
 # OHJEITA KOKEESEEN
 
-[http://mooc.cs.helsinki.fi/content/ohjeita-kokeeseen](http://mooc.cs.helsinki.fi/content/ohjeita-kokeeseen)
+Kannattaa lukea [ohjeita kokeeseen]({{"/courses/general/ohjelmointi/ohjeita-kokeeseen.html" | prepend: site.baseurl }}) sivu ennen kokeeseen osallistumista.

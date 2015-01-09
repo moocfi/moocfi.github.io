@@ -10,11 +10,16 @@ navigation:
     ext: true
     target: _blank
   -
+    name: Ilmoittautuminen ja alkutoimet
+    path: /courses/general/ohjelmointi/ilmoittautuminen-ja-alkutoimet.html
+    base: true
+    target: _blank
+  -
     name: Opettajille ja opiskelijoille
     path: /opettajille-ja-opiskelijoille.html
   -
     name: Ohjeita
-    path: /courses/general/ohjelmointi/ohjeita.html
+    path: /courses/general/ohjelmointi/
     base: true
     target: _blank
   -

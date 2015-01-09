@@ -1,7 +1,15 @@
 ---
-title: Ohjelmointiympäristön asentaminen
+title: Ilmoittautuminen ja alkutoimet
 layout: course
+main-class: has-aside
+sidenav: general/ohjelmointi
 ---
+# Ilmoittautuminen
+
+Luo itsellesi käyttäjätunnus Test My Code (eli TMC) -palvelimelle osoitteessa [http://tmc.mooc.fi/mooc/user/new](http://tmc.mooc.fi/mooc/user/new)
+
+Jos sinulla on jo käyttäjätunnus TMC:hen, voit käyttää vanhaa tunnustasi. Varmista että muistat salasanasi oikein ja pääset kirjautumaan osoitteeseen [http://tmc.mooc.fi/mooc/](http://tmc.mooc.fi/mooc/)
+
 # JDK:n asennus
 	
 Jos tiedät että koneessasi on jo JDK 8 tai uudempi, voit siirtyä seuraavaan vaiheeseen. Mikäli kurssilla ei ole mainintaa Java 8:n käytöstä, toimivat usein vanhemmatkin versiot (>=JDK 1.6). 

@@ -1,6 +1,8 @@
 ---
 title: Instructions
 layout: course
+main-class: has-aside
+sidenav: general/programming
 ---
 # Frequently asked questions
 

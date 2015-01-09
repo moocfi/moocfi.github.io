@@ -1,3 +1,14 @@
+---
+title: How to get started
+layout: course
+main-class: has-aside
+sidenav: general/programming
+---
+# Registration
+Create yourself an account to the Test My Code (TMC) server in address <https://tmc.mooc.fi/mooc/user/new>
+
+If you already have an account in TMC, you do not need a new one. Ensure that you remember your password by logging in to  <https://tmc.mooc.fi/mooc/>.
+
 # Installation of the programming environment
 
 In the course we'll be using version 8.0 of the NetBeans Integrated Development Enviroinment and the TMC plugin to download and submit the programming assignments. NetBeans requires Java development kit (JDK) to be installed.
@@ -29,3 +40,21 @@ In the course we'll be using version 8.0 of the NetBeans Integrated Development 
 		- The installation is done by executing the installation script by giving the command ./tmc-netbeans_mooc_tmcbeans-linux.sh in the directory where the file is located
 			- The script can be executed only if it has been given right permissions eg. with command `chmod o+x tmc-netbeans_mooc_tmcbeans-linux.sh`.
 			- In Ubuntu, for example, the execution permissions can be given using the File browser  by right clicking the script and selecting Properties / Permissions / Allow executing file as program. After doing this, the script can be executed by clicking it.
+
+# Completing and submitting the programming assignments
+
+When you start NetBeans with TMC for the first time, the below window should open. If it does not open, you can find it from the TMC / Settings in NetBeans menu bar.
+
+![tmc-settings]({{ "/img/programming/tmc-settings.png" | prepend: site.baseurl }})
+
+Give the Username and Password that you gave during registration.
+
+Press the button "refresh list" and select course from "Current course".
+
+By pressing "ok" the assignment "projects" are downloaded to your computer.
+
+The next video shows how to program and submit the assignments using TMC/NetBeans.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/ZFsg0Uh0UVE" frameborder="0" allowfullscreen></iframe>
+
+Now you are finally ready to start the course!

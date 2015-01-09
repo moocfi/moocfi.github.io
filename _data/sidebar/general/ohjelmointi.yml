@@ -1,0 +1,15 @@
+header: Ohjeita
+path: /courses/general/ohjelmointi
+navigation:
+  -
+    name: Ilmoittautuminen ja alkutoimet
+    path: /ilmoittautuminen-ja-alkutoimet.html
+  -
+    name: IRC-ohjeet
+    path: /irc-ohjeet.html
+  -
+    name: Google Groups
+    path: /google-groups.html
+  -
+    name: Ohjeita kokeeseen
+    path: /ohjeita-kokeeseen.html

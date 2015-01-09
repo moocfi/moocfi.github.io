@@ -1,18 +1,20 @@
 ---
 title: Ohjeita
 layout: course
+main-class: has-aside
+sidenav: general/ohjelmointi
 ---
 # Usein kysyttyjä kysymyksiä
 
 1. En osaa tehdä tehtävää N?
 
-	Apua tehtävän tekemiseen löydät materiaalista sekä internetistä. Erityisen suositeltavaa on liittyä IRCnetissä olevalle kanavalle #mooc.fi, katso lisäohjeita seuraavasta [http://mooc.cs.helsinki.fi/content/irc-ohjeet](http://mooc.cs.helsinki.fi/content/irc-ohjeet)
+	Apua tehtävän tekemiseen löydät materiaalista sekä internetistä. Erityisen suositeltavaa on liittyä IRCnetissä olevalle kanavalle #mooc.fi, katso lisäohjeita seuraavasta [IRC-ohjeet]({{"/courses/general/ohjelmointi/irc-ohjeet.html" | prepend: site.baseurl }})
 
 2. Miten esitän ongelmani IRC:ssä?
 
 	*"Don't ask to ask, just ask"*
 
-	Lue [IRC-ohjeet](irc-ohjeet.html)
+	Lue [IRC-ohjeet]({{"/courses/general/ohjelmointi/irc-ohjeet.html" | prepend: site.baseurl }})
 
 3. Tehtävän N testeissä on ongelma?
 

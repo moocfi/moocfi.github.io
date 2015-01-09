@@ -1,8 +1,12 @@
 ---
 title: IRC Guide
 layout: course
+main-class: has-aside
+sidenav: general/programming
 ---
 Our courses use IRC where you can discuss course topics and get support for the exercises from the course organizers as well as other participants. Even if most of the conversation on the channel is in Finnish **don't be afraid to post your questions in English**.
+
+**Average response time is 20 minutes.**
 
 If you are unfamiliar with IRC, you can reach our channel by using third party IRC clients:
 

@@ -2,11 +2,11 @@
 title: Google Groups
 layout: course
 main-class: has-aside
-sidenav: general/programming
+sidenav: general/ohjelmointi
 ---
-Post your question to our Google Groups. You may also access it through [Google's interface](https://groups.google.com/forum/#!forum/moocfi).
+Voit esittää kysymyksiä Google Groupsissa. Voit halutessasi käyttää palvelua myös [Googlen käyttöliittymästä](https://groups.google.com/forum/#!forum/moocfi).
 
-**Average response time is 2 working days.**
+**Keskimääräinen vastausaika on kaksi työpäivää.**
 
 <iframe id="forum_embed"
   src="javascript:void(0)"

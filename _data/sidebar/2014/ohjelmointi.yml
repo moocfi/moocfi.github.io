@@ -2,11 +2,13 @@ header: Olio-ohjelmointia Javalla
 path: /courses/2014/ohjelmointi
 navigation:
   -
-    name: Ilmoittatuminen ja alkutoimet
-    path: /ilmoittautuminen-ja-alkutoimet.html
+    name: Ilmoittautuminen ja alkutoimet
+    path: /courses/general/ohjelmointi/ilmoittautuminen-ja-alkutoimet.html
+    base: true
+    target: _blank
   -
     name: Ohjeita
-    path: /courses/general/ohjelmointi/ohjeita.html
+    path: /courses/general/ohjelmointi/
     base: true
     target: _blank
   -

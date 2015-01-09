@@ -3,7 +3,9 @@ path: /courses/2013/programming-part-1
 navigation:
   -
     name: How to get started
-    path: /registration-and-how-to-get-started.html
+    path: /courses/general/programming/how-to-get-started.html
+    base: true
+    target: _blank
   -
     name: Material
     path: http://mooc.cs.helsinki.fi/programming-part1/material
@@ -11,7 +13,7 @@ navigation:
     target: _blank
   -
     name: Instructions
-    path: /courses/general/programming/instructions.html
+    path: /courses/general/programming/
     base: true
     target: _blank
   -
