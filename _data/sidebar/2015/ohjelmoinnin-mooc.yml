@@ -1,0 +1,7 @@
+header: Ohjelmoinnin MOOC
+path: /courses/2015/ohjelmoinnin-mooc
+navigation:
+  -
+    name: Tulossa...
+    path: "#"
+    ext: true

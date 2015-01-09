@@ -2,7 +2,7 @@
 title: Tiedoksi opettajille
 layout: course
 main-class: has-aside
-sidenav: 2014-ohjelmointi
+sidenav: 2014/ohjelmointi
 ---
 Helsingin yliopisto järjestää kokonaan etäopiskeluna suoritettavan kaikille avoimen verkkokurssin tietokoneohjelmoinnista (MOOC). Kurssi on tehtäväperustainen siten, että oppimateriaali "opettaa itse itsensä" tehtävistä saatavan automaattisen palautteen kautta. Kurssi vastaa sisällöltään, toiminnaltaan ja vaatimuksiltaan täsmällisesti Helsingin yliopiston tietojenkäsittelytieteen laitoksen kurssia [Ohjelmoinnin perusteet](http://www.cs.helsinki.fi/courses/581325) (5 op) ja [Ohjelmoinnin jatkokurssi](http://www.cs.helsinki.fi/courses/582103/) (5 op).
 

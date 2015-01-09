@@ -1,0 +1,21 @@
+header: Algoritmien MOOC
+path: /courses/2014/algoritmit
+navigation:
+  -
+    name: Materiaali
+    path: http://algoritmit.mooc.fi/
+    ext: true
+    target: _blank
+  -
+    name: SpeedRun Challenge
+    path: /speedrun-challenge.html
+  -
+    name: Ohjeita
+    path: /courses/general/ohjelmointi/ohjeita.html
+    base: true
+    target: _blank
+  -
+    name: Tulostaulu
+    path: http://tmc.mooc.fi/mooc/courses/19/points?sort_by=total_points
+    ext: true
+    target: _blank

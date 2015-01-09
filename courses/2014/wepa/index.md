@@ -2,7 +2,7 @@
 title: Web-palvelinohjelmointi
 layout: course
 main-class: has-aside
-sidenav: 2014-wepa
+sidenav: 2014/wepa
 ---
 Web-palvelinohjelmointi on kaikille avoin ohjelmointikurssi, jossa tutustutaan nykyaikaisten, skaalautuvien ja virheenkestävien web-sovellusten toteuttamiseen [Spring-sovelluskehyksen](http://spring.io/) avulla. Kurssille osallistuminen vaatii rekisteröitymisen TMC-palvelimelle jonne tehtäviä myös palautetaan -- ohjeet tarvittavien työvälineiden asentamiseen löytyy kurssimateriaalin kohdasta "Kurssin työvälineet". 
 

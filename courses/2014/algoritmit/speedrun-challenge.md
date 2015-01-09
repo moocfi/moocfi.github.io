@@ -2,7 +2,7 @@
 title: Algoritmien MOOCin SpeedRun Challenge
 layout: course
 main-class: has-aside
-sidenav: 2014-algoritmit
+sidenav: 2014/algoritmit
 ---
 **Algoritmien MOOC julkaistaan 7.3.2014 kello 18.00.** Tällöin avautuvat kurssin kuusi ensimmäistä tehtäväsettiä. Haastamme kaikki algoritmien vääntämisestä kiinnostuneet mukaan kisaamaan siitä, kuka kykenee koodamaan nopeiten kaikki ensimmäisen kuuden setin tehtävät. Palkinnoksi lupaamme kolmelle nopeimmalle t-paidat sekä tietenkin mainetta ja kunniaa. *Et kuitenkaan voi osallistua kilpailuun, jos olet jo tehnyt tehtävät edellisen Algoritmien MOOC:in tai Helsingin yliopiston kurssin Tietorakenteet ja algoritmit yhteydessä.*
 

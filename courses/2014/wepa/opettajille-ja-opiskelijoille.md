@@ -2,7 +2,7 @@
 title: Opettajille ja opiskelijoille
 layout: course
 main-class: has-aside
-sidenav: 2014-wepa
+sidenav: 2014/wepa
 ---
 Kurssi vastaa [Helsingin yliopiston tietojenkäsittelytieteen laitoksen](http://www.cs.helsinki.fi/home/) kurssia [Web-palvelinohjelmointi](http://www.cs.helsinki.fi/en/courses/582353) (5 opintopistettä).
 

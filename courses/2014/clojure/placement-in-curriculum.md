@@ -2,7 +2,7 @@
 title: Placement in curriculum
 layout: course
 main-class: has-aside
-sidenav: clojure
+sidenav: 2014/clojure
 ---
 The course *Functional programming with Clojure* is an optional undergraduate course at the Department of Computer Science, University of Helsinki. This course is run by students of the department, as empowering our enthusiastic and skilled students to deliver courses has been our tradition.
 

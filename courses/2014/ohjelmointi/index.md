@@ -2,7 +2,7 @@
 title: Olio-ohjelmointia Javalla
 layout: course
 main-class: has-aside
-sidenav: 2014-ohjelmointi
+sidenav: 2014/ohjelmointi
 ---
 Ohjelmointi on tietokoneen käskemistä. Kurssilla perehdytään algoritmien laatimiseen ja nykyaikaisen ohjelmoinnin perusideoihin. Opiskelijalta ei edellytetä ennakkotietoja ohjelmoinnista.
 

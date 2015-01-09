@@ -1,15 +1,36 @@
-{% capture path %}{{ page.dir | prepend: site.baseurl }}{% endcapture %}
+{% assign url_parts = page.sidenav | split: '/' %}
+{% assign sidebar = site.data.sidebar %}
+{% for part in url_parts %}
+	{% assign sidebar = sidebar[part] %}
+{% endfor %}
 <aside>
 	<header>
 		<h1>
-			<a href="{{ "/" | prepend: path }}">{{site.data.navs[page.sidenav].header}}</a>
+			<a href="{{ "/" | prepend: sidebar.path | prepend: site.baseurl }}">{{sidebar.header}}</a>
 		</h1>
 	</header>
 	<nav class="sidenav">
 		<ul>
-			{% for link in site.data.navs[page.sidenav].navigation %}
-			<li><a href="{{link[1]}}"{% if page.url contains link[1] %} class="current"{% endif %}>{{link[0]}}</a></li>
+			{% for link in sidebar.navigation %}
+			<li>
+				{% if link.ext or link.base %}
+					{% assign href = link.path %}
+				{% else %}
+					{% assign href = link.path | prepend: sidebar.path %}
+				{% endif %}
+				<a href="{% if ext %}{{href}}{% else %}{{href | prepend: site.baseurl }}{% endif %}"{% if href == page.url %} class="current"{% endif %}{% if link.target %} target="{{link.target}}"{% endif %}>
+					{{link.name}}
+				</a>
+			</li>
 			{% endfor %}
 		</ul>
 	</nav>
+	{% for img in sidebar.imgs %}
+		{% if img.href %}
+		<a href="{{img.href}}"><img src="{{img.src}}"></a>
+		{% else %}
+		<img src="{{img.src}}" />
+		{% endif %}
+	{% endfor %}
 </aside>
+

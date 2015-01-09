@@ -1,0 +1,22 @@
+header: Functional programming with Clojure
+path: /courses/2014/clojure
+navigation:
+  -
+    name: Material and course content
+    path: http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html
+    ext: true
+  -
+    name: Scoreboard
+    path: http://iloveponies.github.io/120-hour-epic-sax-marathon/scoreboard.html
+    ext: true
+  -
+    name: Placement in curriculum
+    path: /placement-in-curriculum.html
+  -
+    name: Help with exercises
+    path: /courses/general/programming/irc-guide.html
+    base: true
+    target: _blank
+  -
+    name: Behind the scenes
+    path: /behind-the-scenes.html

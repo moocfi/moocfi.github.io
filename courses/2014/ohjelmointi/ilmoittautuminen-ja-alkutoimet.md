@@ -2,7 +2,7 @@
 title: Ilmoittautuminen ja alkutoimet
 layout: course
 main-class: has-aside
-sidenav: 2014-ohjelmointi
+sidenav: 2014/ohjelmointi
 ---
 # Ilmoittautuminen
 
@@ -10,7 +10,7 @@ Luo itsellesi käyttäjätunnus Test My Code (eli TMC) -palvelimelle osoitteessa
 
 Jos sinulla on jo käyttäjätunnus TMC:hen, voit käyttää vanhaa tunnustasi. Varmista että muistat salasanasi oikein ja pääset kirjautumaan osoitteeseen [http://tmc.mooc.fi/mooc/](http://tmc.mooc.fi/mooc/)
 
-Seuraa [ohjelmointiympäristön asennus]({{"/courses/general/ohjelmointiympariston-asentaminen.html" | prepend: site.baseurl }}) sivulta löytyviä ohjeita.
+Seuraa [ohjelmointiympäristön asennus]({{"/courses/general/ohjelmointi/ohjelmointiympariston-asentaminen.html" | prepend: site.baseurl }}) sivulta löytyviä ohjeita.
 
 # Helsingin yliopiston opiskelija
 

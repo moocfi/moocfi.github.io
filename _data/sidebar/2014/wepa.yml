@@ -1,0 +1,24 @@
+header: Web-palvelinohjelmointi
+path: /courses/2014/wepa
+navigation:
+  -
+    name: Esitietovaatimukset ja kurssin suorittaminen
+    path: /esitietovaatimukset-ja-kurssin-suorittaminen.html
+  -
+    name: Kurssin materiaali ja tehtävät
+    path: http://wepa.mooc.fi/
+    ext: true
+    target: _blank
+  -
+    name: Opettajille ja opiskelijoille
+    path: /opettajille-ja-opiskelijoille.html
+  -
+    name: Ohjeita
+    path: /courses/general/ohjelmointi/ohjeita.html
+    base: true
+    target: _blank
+  -
+    name: Tulostaulu
+    path: http://tmc.mooc.fi/mooc/courses/22/points?sort_by=total_points
+    ext: true
+    target: _blank

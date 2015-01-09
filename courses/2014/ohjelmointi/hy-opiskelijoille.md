@@ -2,7 +2,7 @@
 title: Helsingin yliopiston opiskelijoille
 layout: course
 main-class: has-aside
-sidenav: 2014-ohjelmointi
+sidenav: 2014/ohjelmointi
 ---
 # Kurssin suorittaminen
 

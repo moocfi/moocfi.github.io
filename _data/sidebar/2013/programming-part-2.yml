@@ -1,0 +1,31 @@
+header: Object-Oriented programming II
+path: /courses/2013/programming-part-2
+navigation:
+  -
+    name: How to get started
+    path: /registration-and-how-to-get-started.html
+  -
+    name: Material
+    path: http://mooc.cs.helsinki.fi/programming-part2/material-0
+    ext: true
+    target: _blank
+  -
+    name: Instructions
+    path: /courses/general/programming/instructions.html
+    base: true
+    target: _blank
+  -
+    name: IRC guide
+    path: /courses/general/programming/irc-guide.html
+    base: true
+    target: _blank
+  -
+    name: Google Groups
+    path: /courses/general/programming/google-groups.html
+    base: true
+    target: _blank
+  -
+    name: Scoreboard
+    path: http://tmc.mooc.fi/mooc/courses/17/points
+    ext: true
+    target: _blank

@@ -2,7 +2,7 @@
 title: Algoritmien MOOC
 layout: course
 main-class: has-aside
-sidenav: 2014-algoritmit
+sidenav: 2014/algoritmit
 ---
 Algoritmit, eli "mekaaniset toimintaohjeet ongelmien ratkaisemiseen", ovat oleellinen osa ohjelmointia ja tietojenkäsittelytiedettä. Esimerkki algoritmista on alakoulussa opittu tapa suorittaa kertolasku, allekkainlasku.
 
@@ -18,6 +18,6 @@ AlgoMOOC-kurssilla ei ole erillistä oppimateriaalia. Tehtävät liittyvät Hels
 
 # Ilmoittautuminen ja tehtävien tekeminen
 
-Osallistuaksesi AlgoMOOCiin tulee sinulla täytyy olla tunnus MOOCin mahdollistavaan [TestMyCode-palveluumme](http://tmc.mooc.fi/mooc). Jos olet jo kirjautunut Ohjelmoinnin MOOCin yhteydessä, se riittää. Jos et ole vielä [asentanut NetBeansia ja TMC-lisäosaa](alkutoimet.html), tee se ennen kuin aloitat.
+Osallistuaksesi AlgoMOOCiin tulee sinulla täytyy olla tunnus MOOCin mahdollistavaan [TestMyCode-palveluumme](http://tmc.mooc.fi/mooc). Jos olet jo kirjautunut Ohjelmoinnin MOOCin yhteydessä, se riittää. Jos et ole vielä [asentanut NetBeansia ja TMC-lisäosaa]({{"/courses/general/ohjelmointi/ohjelmointiympariston-asennus.html" | prepend: site.baseurl }}), tee se ennen kuin aloitat.
 
 Pääset käsiksi AlgoMOOC-tehtäviin vaihtamalla NetBeansin TMC/Settings-valikosta kurssiksi **k2014-algomooc**. Kun palaat jälleen tekemään Ohjelmoinnin MOOCin tehtäviä, joudut vaihtamaan kurssiksi **k2014-mooc**.

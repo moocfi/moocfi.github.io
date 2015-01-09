@@ -2,7 +2,7 @@
 title: Object-Oriented programming with Java, part I
 layout: course
 main-class: has-aside
-sidenav: programming-part-1
+sidenav: 2013/programming-part-1
 ---
 **Welcome to [University of Helsinki](http://helsinki.fi/university)'s massive open online course (MOOC) on object-oriented programming!** 
 
@@ -14,7 +14,7 @@ Unlike many programming courses found online, ours is completely unabridged: the
 
 This is the first course in our computer science learning track and we use industry strength tools from day one. Therefore the course is about programming in a real integrated development environment (IDE) and not in the browser or an educational IDE. The page '[How to get started](registration-and-how-to-get-started.html)' will explain the details for setting up all necessary tools.
 
-After you are finished, go to [part II]({{ "/programming-part-2/" | prepend: site.baseurl }}). 
+After you are finished, go to [part II]({{ "/courses/2013/programming-part-2/" | prepend: site.baseurl }}). 
 
 # Schedule
 
@@ -37,6 +37,6 @@ After you are finished, go to [part II]({{ "/programming-part-2/" | prepend: sit
 	- Sorting
 	- Searching
 
-{% include courses/programming/contact-information.md irc="irc-guide.html" google-groups="google-groups.html" %}
+{% include courses/programming/contact-information.md %}
 
 {% include courses/programming/about-organizinging-institution.md %}

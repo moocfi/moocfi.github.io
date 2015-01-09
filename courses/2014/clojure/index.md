@@ -2,7 +2,7 @@
 title: Functional programming with Clojure
 layout: course
 main-class: has-aside
-sidenav: clojure
+sidenav: 2014/clojure
 ---
 ```clojure
 (defn hello [name]
