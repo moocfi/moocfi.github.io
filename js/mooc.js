@@ -11,6 +11,12 @@ $(document).ready(function(){
 	        window.location.hash = target;
 	    });
 	});
+	
+	var menuButton = $('#menu_toggle');
+	menuButton.click(function() {
+		menuButton.toggleClass('active');
+		$('body > nav').toggleClass('active');
+	});
 });
 
 var equalheight = function(container) {
