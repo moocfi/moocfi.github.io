@@ -8,9 +8,7 @@ navigation:
     target: _blank
   -
     name: Material
-    path: http://mooc.cs.helsinki.fi/programming-part2/material-0
-    ext: true
-    target: _blank
+    path: material
   -
     name: Instructions
     path: /courses/general/programming/
