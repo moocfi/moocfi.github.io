@@ -8,7 +8,7 @@ navigation:
     target: _blank
   -
     name: Material
-    path: material
+    path: /material
   -
     name: Instructions
     path: /courses/general/programming/
