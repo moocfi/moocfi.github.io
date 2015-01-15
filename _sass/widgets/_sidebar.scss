@@ -80,7 +80,11 @@ aside nav ul .current {
 	}
 
 	aside header {
-		display: none;
+		margin: 10px;
+	}
+
+	aside nav {
+		border: 0;
 	}
 
 	aside nav ul {
@@ -94,17 +98,23 @@ aside nav ul .current {
 	}
 
 	aside nav ul li:nth-child(odd) {
-		margin-left: 2.5%;
+		margin-left: 10px;
 		float: left;
+		clear: left;
 	}
 
 	aside nav ul li:nth-child(even) {
+		margin-right: 10px;
 		float: right;
-		margin-right: 2%;
+		clear: right;
 	}
 }
 
 @media all and (max-width: 475px) {
+
+	aside header {
+		margin: 10px 0;
+	}
 
 	aside nav ul li,
 	aside nav ul li:nth-child(odd),
