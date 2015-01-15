@@ -25,3 +25,11 @@
     font-family: "Open Sans Condensed",sans-serif;
     font-weight: 300;
 }
+
+.exercise > header h1.open {
+    background: url("/img/arrow-up.png") no-repeat scroll right 50% #3EBBA7;
+
+    &:hover {
+        background: url("/img/arrow-up.png") no-repeat scroll right 50% #139197;
+    }
+}
