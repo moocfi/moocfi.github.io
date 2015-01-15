@@ -39,7 +39,8 @@ p {
 	margin-bottom: 5px;
 }
 
-a {
+a,
+input[type=submit] {
 	color: $link-color;
 
 	text-decoration: none; 
