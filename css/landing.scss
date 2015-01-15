@@ -50,11 +50,18 @@ article > section {
 }
 
 article > section > .call_to_action {
-	padding: 30px;
 	max-width: 600px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 0px;
+}
+
+.items {
+	text-align: justify;
+}
+
+.items > * {
+	text-align: left;
 }
 
 .item > header > h1 {
@@ -64,21 +71,12 @@ article > section > .call_to_action {
 
 .item {
 	width: 40%;
-	margin-left: 2%;
-	margin-right: 1%;
 }
 
-.item:nth-child(even) {
-	float: right;
-	margin-left: 2%;
-	margin-right: 1%;
-}
-
-.single-column .item {
+.alone {
+	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	float: none;
-	display: block;
 }
 
 footer {
@@ -87,11 +85,7 @@ footer {
 
 @media all and (max-width: 1160px) {
 
-	.item:nth-child(even) {
-		float: right;
-	}
-
-	.single-column .item {
+	.alone {
 		width: 60%;
 	}
 }
@@ -106,16 +100,12 @@ footer {
 		display: none;
 	}
 
-	.two-column .item,
-	.single-column .item {
+	.item,
+	.alone {
 		width: auto;
-		float: none;
-		display: block;
 	}
 
-	.item:nth-child(odd),
-	.item:nth-child(even) {
-		float: none;
+	.item {
 		margin: 20px auto;
 	}
 }

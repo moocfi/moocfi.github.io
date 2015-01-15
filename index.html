@@ -4,7 +4,7 @@ resources:
   css:
     - "/css/landing.css"
 ---
-<article>
+<article class="items">
 	<header>
 		<h1>Haluatko oppia ohjelmoimaan?</h1>
 		<h2>Onko aika syventää osaamista?</h2>
@@ -13,46 +13,45 @@ resources:
 		<p>Kurssitarjonnastamme löydät opeteltavaa olit sitten ohjelmoinnista kiinnostunut aloittelija, tai taitojasi syventävä peruskoodari.</p>
 	</header>
 
-	<div class="two-column">
-		<section class="item">
-			<header>
-				<h1>
-					Aloittelija?
-				</h1>
-			</header>
+	<section class="item">
+		<header>
+			<h1>
+				Aloittelija?
+			</h1>
+		</header>
 
-			<section class="description">
-				<p>Opi Java-ohjelmointikielen perusteet neljätoista viikkoa kestävällä kurssilla.</p>
-				<p>Java on eräs maailman käytetyimmistä ohjelmointikielistä. Tästä huolimatta kurssi <strong>ei</strong> vaadi mitään esitietoja.</p>
-				<p>Kurssin kautta voit jopa saada  opiskelupaikan Helsingin yliopistoon.</p>
+		<section class="description">
+			<p>Opi Java-ohjelmointikielen perusteet neljätoista viikkoa kestävällä kurssilla.</p>
+			<p>Java on eräs maailman käytetyimmistä ohjelmointikielistä. Tästä huolimatta kurssi <strong>ei</strong> vaadi mitään esitietoja.</p>
+			<p>Kurssin kautta voit jopa saada  opiskelupaikan Helsingin yliopistoon.</p>
 
-			</section>
-			<section class="call_to_action">
-				<a href="{{ "/courses/2015/ohjelmoinnin-mooc/" | prepend: site.baseurl }}">
-					Aloita tästä! <br />
-					Seuraava kurssi alkaa 23.1.2015
-				</a>
-			</section>
 		</section>
-
-		<section class="item">
-			<header>
-				<h1>Syvennä taitojasi</h1>
-			</header>
-
-			<section class="description">
-				<p>Tarjoamme myös paljon muita kursseja erilaisista ohjelmointiin liittyvistä aiheista.</p>
-				<p>Opi toteuttamaan verkkopalveluja tai ohjelmoimaan uusilla ohjelmointikielillä.</p>
-				<p>Mullista käsityksesi ohjelmoinnista tutustumalla funktionaalisiin ohjelmointikieliin, Scalaan ja Clojureen. </p>
-				<p>Sukella algoritmien maailmaan ja opi ratkaisemaan monimutkaisia ongelmia tehokkaasti.</p>
-			</section>
-			<section class="call_to_action">
-				<a class="call_to_action" href="kurssit.html">Tutki kurssitarjontaa</a>
-			</section>
+		<section class="call_to_action">
+			<a href="{{ "/courses/2015/ohjelmoinnin-mooc/" | prepend: site.baseurl }}">
+				Aloita tästä! <br />
+				Seuraava kurssi alkaa 23.1.2015
+			</a>
 		</section>
-	</div>
+	</section>
+
+	<section class="item">
+		<header>
+			<h1>Syvennä taitojasi</h1>
+		</header>
+
+		<section class="description">
+			<p>Tarjoamme myös paljon muita kursseja erilaisista ohjelmointiin liittyvistä aiheista.</p>
+			<p>Opi toteuttamaan verkkopalveluja tai ohjelmoimaan uusilla ohjelmointikielillä.</p>
+			<p>Mullista käsityksesi ohjelmoinnista tutustumalla funktionaalisiin ohjelmointikieliin, Scalaan ja Clojureen. </p>
+			<p>Sukella algoritmien maailmaan ja opi ratkaisemaan monimutkaisia ongelmia tehokkaasti.</p>
+		</section>
+		<section class="call_to_action">
+			<a class="call_to_action" href="kurssit.html">Tutki kurssitarjontaa</a>
+		</section>
+	</section>
 </article>
-<article>
+
+<article class="items">
 	<header>
 		<h1>Oletko opettaja?</h1>
 
@@ -61,62 +60,58 @@ resources:
 		<p>Ohjelmointitaito korostuu jatkuvasti nykyajan maailmassa ja opetuksessa. Haluammekin siis tukea oppilaitoksia ja opettajia ohjelmoinnin opetuksen järjestämisessä.</p>
 	</header>
 
-	<div class="two-column">
-		<section class="item">
-			<header>
-				<h1>Näin järjestät kurssin</h1>
-			</header>
+	<section class="item">
+		<header>
+			<h1>Näin järjestät kurssin</h1>
+		</header>
 
-			<section class="description">
-				<p>Avustamme kaikki kiinnostuneita kouluja järjestämään ohjelmoinnin perusopetusta.</p>
-				<p>Tarjoamme käyttöösi kaiken kurssilla tarvittavan materiaalin aina koekysymyksiin asti.</p>
-				<p>Sinun ei edes tarvitse huolehtia tehtävistä tai tentistä: tehtävät tarkastetaan automaattisesti ja valmiit tenttivastaukset voit vain lähettää meille tarkastusta varten.</p>
-			</section>
-			<section class="call_to_action">
-				<a href="mooc.html#opettajalle">Lue lisää</a>
-			</section>
+		<section class="description">
+			<p>Avustamme kaikki kiinnostuneita kouluja järjestämään ohjelmoinnin perusopetusta.</p>
+			<p>Tarjoamme käyttöösi kaiken kurssilla tarvittavan materiaalin aina koekysymyksiin asti.</p>
+			<p>Sinun ei edes tarvitse huolehtia tehtävistä tai tentistä: tehtävät tarkastetaan automaattisesti ja valmiit tenttivastaukset voit vain lähettää meille tarkastusta varten.</p>
 		</section>
-
-		<section class="item">
-			<header>
-				<h1>Stressaako uusi opetus&shy;suunnitelma?</h1>
-			</header>
-
-			<section class="description">
-				<p>Lähivuosina kaikki opettelevat ohjelmointia peruskoulusta asti. Tämä vaatii opettajilta ohjelmointiosaamista.</p>
-				<p>Tarjoamme opettajille suunnattua materiaalia, joka auttaa ohjelmointiopetuksen järjestämisessä sekä opettaa tarvittavat perustaidot myös sinulle.</p>
-			</section>
-			<section class="call_to_action not_now">
-				<a href="#">Lisätietoja keväällä 2015</a>
-			</section>
+		<section class="call_to_action">
+			<a href="mooc.html#opettajalle">Lue lisää</a>
 		</section>
-	</div>
+	</section>
+
+	<section class="item">
+		<header>
+			<h1>Stressaako uusi opetus&shy;suunnitelma?</h1>
+		</header>
+
+		<section class="description">
+			<p>Lähivuosina kaikki opettelevat ohjelmointia peruskoulusta asti. Tämä vaatii opettajilta ohjelmointiosaamista.</p>
+			<p>Tarjoamme opettajille suunnattua materiaalia, joka auttaa ohjelmointiopetuksen järjestämisessä sekä opettaa tarvittavat perustaidot myös sinulle.</p>
+		</section>
+		<section class="call_to_action not_now">
+			<a href="#">Lisätietoja keväällä 2015</a>
+		</section>
+	</section>
 </article>
 <article>
 	<header>
 		<h1>Haluatko päivityksiä uusista kursseistamme?</h1>
 	</header>
 
-	<div class="single-column">
-		<section class="item">
-			<header>
-				<h1>Jätä sähköpostiosoitteesi</h1>
-			</header>
+	<section class="item alone">
+		<header>
+			<h1>Jätä sähköpostiosoitteesi</h1>
+		</header>
 
-			<form action="http://jamo.us8.list-manage1.com/subscribe/post?u=db82662e446284fd41bd8370e&amp;id=46d3d4ede3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate >
-				<section class="description">
-					<p>Lähetämme tiedon aina kun uusia kursseja julkaistaan.</p>
+		<form action="http://jamo.us8.list-manage1.com/subscribe/post?u=db82662e446284fd41bd8370e&amp;id=46d3d4ede3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate >
+			<section class="description">
+				<p>Lähetämme tiedon aina kun uusia kursseja julkaistaan.</p>
 
-					<p>
-						<label for="EMAIL">Sähköpostiosoite:</label>
-						<input type="text" name="EMAIL" id="EMAIL"><br>
-					</p>
-				</section>
+				<p>
+					<label for="EMAIL">Sähköpostiosoite:</label>
+					<input type="text" name="EMAIL" id="EMAIL"><br>
+				</p>
+			</section>
 
-				<section class="call_to_action">
-					<input type="submit" value="Lähetä">
-				</section>
-			</form>
-		</section>
-	</div>
+			<section class="call_to_action">
+				<input type="submit" value="Lähetä">
+			</section>
+		</form>
+	</section>
 </article>
