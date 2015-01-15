@@ -111,7 +111,8 @@ main > header h1 {
 }
 
 .call_to_action a,
-.call_to_action a:visited {
+.call_to_action a:visited,
+.call_to_action input {
 	color: white;
 	text-align: center;
 	text-shadow: #696969 1px 1px 1px;
@@ -123,6 +124,10 @@ main > header h1 {
 	&:first-line {
 		font-size: 1.5em;
 	}
+}
+
+.call_to_action input {
+	font-size: 1.5em;
 }
 
 @media all and (max-width: 1160px) {
