@@ -6,6 +6,7 @@
 }
 
 .exercise > header {
+    cursor: pointer;
     background: url("/img/arrow-down.png") no-repeat scroll right 50% #3EBBA7;
     transition: all 0.25s ease-in-out; 
     -webkit-transition: all 0.25s ease-in-out; 
