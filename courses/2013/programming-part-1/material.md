@@ -12,3 +12,5 @@ sidenav: 2013/programming-part-1
 - [Week 4](http://mooc.cs.helsinki.fi/programming-part1/material-2013/week-4)
 - [Week 5](http://mooc.cs.helsinki.fi/programming-part1/material-2013/week-5)
 - [Week 6](http://mooc.cs.helsinki.fi/programming-part1/material-2013/week-6)
+
+After you are finished, go to [part II]({{ "/courses/2013/programming-part-2/" | prepend: site.baseurl }}).
