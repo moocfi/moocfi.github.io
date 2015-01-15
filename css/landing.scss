@@ -118,30 +118,4 @@ footer {
 		float: none;
 		margin: 20px auto;
 	}
-
-	.ribbon a {
-		-webkit-transform: rotate(25deg);
-		-moz-transform:    rotate(25deg);
-		-ms-transform:     rotate(25deg);
-		-o-transform:      rotate(25deg);
-		top: 30px;
-	}
-}
-
-@media all and (max-width: 475px) {
-
-	.ribbon {
-		left: 0;
-		width: 100%;
-	}
-
-	.ribbon a {
-		width: 100%;
-		-webkit-transform: none;
-		-moz-transform:    none;
-		-ms-transform:     none;
-		-o-transform:      none;
-		top: 30px;
-		left: 0;
-	}
 }
