@@ -41,67 +41,36 @@ body {
 body > header {
     max-width: 100%;
     margin: 0;
-    clear: none;
-}
-
-body header .organiser {
-    float: right;
-    background: white;
-
-    &:hover {
-        background: white;
-    }
-}
-
-body header .mooc {
-    float: left;
-    background: white;
-
-    &:hover {
-        background: white;
-    }
-}
-
-body header .organiser a,
-body header .mooc a {
-    width: 100%;
-    height: 100%;
+    margin-bottom: 30px;
 }
 
 body header nav {
     text-align: center;
     width: 100%;
     max-width: 100%;
-
-    background: #FFF;
-    background: -moz-linear-gradient(top, #fff 0%, #fff 130px, #f2f2f2 131px, #f2f2f2 100%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fff), color-stop(130px,#fff), color-stop(131px,#f2f2f2), color-stop(100%,#f2f2f2));
-    background: -webkit-linear-gradient(top, #fff 0%,#fff 130px,#f2f2f2 131px, #f2f2f2 100%);
-    background: -o-linear-gradient(top, #fff 0%, #fff 130px, #f2f2f2 131px, #f2f2f2 100%);
-    background: -ms-linear-gradient(top, #fff 0%, #fff 130px, #f2f2f2 131px, #f2f2f2 100%);
-    background: linear-gradient(to bottom, #fff 0%, #fff 130px, #f2f2f2 131px, #f2f2f2 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f2f2f2',GradientType=0 );
 }
 
 body header nav ul {
+    background: #00747A;
     margin: 0;
     padding: 0;
-    word-spacing: 0px;    
+    word-spacing: 0px;
 }
     
 
-body header nav li{
-    width: 130px;
-    height: 130px;
+body header nav li {
+    height: 65px;
     display: inline-block;
     margin: 0;
-    margin-bottom: -5px;
-    padding: 0;
-    background: #00747A;
-    position: relative;
+    margin-left: -5px;
+    padding: 0px 15px;
 
     &:hover {
         background: #139197;
+    }
+
+    &:nth-of-type(1) {
+        border-left: 0;
     }
 }
 
@@ -122,22 +91,17 @@ body header nav li.closed {
         font-size: 16px;
         padding: 10px 0px;
         z-index: 98;
-        width: 100%;
         position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
+        left: 0;
     }
 }
 
 body header nav li a {
+    height: 65px;
+    line-height: 65px;
     color: white;
     font-family: "Open Sans Condensed", sans-serif;
-    font-size: 2em;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    font-size: 1.5em;
 
     &:hover {
         background: none;
@@ -145,12 +109,28 @@ body header nav li a {
 }
 
 body header nav li.current a {
+    font-size: 1.3em;
     font-weight: 700;
 }
 
-body header nav li img {
-    width: auto;
-    max-height: 100%;
+.organiser,
+.mooc {
+    height: 130px;
+    width: 130px;
+
+    &:hover {
+        background: none;
+    }
+}
+
+.organiser {
+    float: right;
+    margin-left: 10px;
+}
+
+.mooc {
+    margin-right: 10px;
+    float: left;
 }
 
 #by-line {
@@ -193,4 +173,16 @@ section > h3 {
 
 section > h4 {
     font-size: 30px;
+}
+
+@media all and (max-width: 760px) {
+
+    body header nav li {
+        clear: both;
+    }
+
+    .mooc,
+    .organiser {
+        clear: none;
+    }
 }
