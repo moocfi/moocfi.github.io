@@ -76,7 +76,6 @@ main article {
 article > header {
 	max-width: 610px;
 	margin-top: 100px;
-	margin-bottom: 100px;
 }
 
 article > header > h1{
@@ -108,16 +107,23 @@ article > section > .call_to_action {
 	text-align: center;
 }
 
-.two-column > * {
+.item {
 	width: 40%;
 	margin-left: 2%;
 	margin-right: 1%;
 }
 
-.two-column > *:nth-child(even) {
+.item:nth-child(even) {
 	float: right;
 	margin-left: 2%;
 	margin-right: 1%;
+}
+
+.single-column .item {
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+	display: block;
 }
 
 footer {
@@ -125,10 +131,12 @@ footer {
 }
 
 @media all and (max-width: 1160px) {
-	.two-column > *:nth-child(even)
 	.item:nth-child(even) {
 		float: right;
-		margin: auto;
+	}
+
+	.single-column .item {
+		width: 60%;
 	}
 }
 
@@ -142,21 +150,18 @@ footer {
 		display: none;
 	}
 
-	.two-column > * {
+	.two-column .item
+	.single-column .item {
 		width: 100%;
 		float: none;
 		display: block;
 	}
 
-	.two-column > *:nth-child(even)
-	.two-column > *:nth-child(odd),
 	.item:nth-child(odd),
 	.item:nth-child(even) {
 		float: none;
 		margin: 20px auto;
 	}
-
-
 
 	.ribbon a {
 		-webkit-transform: rotate(25deg);

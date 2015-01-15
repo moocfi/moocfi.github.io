@@ -4,7 +4,7 @@ html {
 
 main > header h1,
 main article > header h1 {
-	
+
 	background: #ffab0e;
 	background: -moz-linear-gradient(left,  #ffab0e 58%, #ff960e 100%);
 	background: -webkit-gradient(linear, left top, right top, color-stop(58%,#ffab0e), color-stop(100%,#ff960e));
@@ -29,8 +29,10 @@ main article {
 }
 
 .call_to_action a,
+.call_to_action input,
 .call_to_action a:visited {
 	background-color: #3dbba6;
+	border: 0;
 }
 
 .not_now a,
@@ -57,4 +59,4 @@ main article {
 	}
 }
 
-	
+

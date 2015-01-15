@@ -160,11 +160,13 @@ article {
 }
 
 .call_to_action a,
+.call_to_action input,
 .call_to_action a:visited {
 	width: 100%;
 	margin: 0px -20px 0px -20px;
 	padding: 20px;
 	display: block;
+	box-sizing: content-box;
 }
 
 img {
@@ -204,14 +206,14 @@ img {
 		width: auto;
 	}
 
-	.item, 
+	.item,
 	.item:nth-child(odd),
 	.item:nth-child(even){
 		display: block;
 		float: none;
 		width: 90%;
 		margin-left: auto;
-		margin-right: auto; 
+		margin-right: auto;
 	}
 
 	body > header {
