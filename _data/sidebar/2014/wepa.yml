@@ -22,8 +22,3 @@ navigation:
     path: /courses/general/ohjelmointi/
     base: true
     target: _blank
-  -
-    name: Tulostaulu
-    path: http://tmc.mooc.fi/mooc/courses/22/points?sort_by=total_points
-    ext: true
-    target: _blank
