@@ -75,7 +75,8 @@ main article {
 
 article > header {
 	max-width: 610px;
-	margin-top: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 
 article > header > h1{
@@ -131,6 +132,7 @@ footer {
 }
 
 @media all and (max-width: 1160px) {
+
 	.item:nth-child(even) {
 		float: right;
 	}
@@ -150,9 +152,9 @@ footer {
 		display: none;
 	}
 
-	.two-column .item
+	.two-column .item,
 	.single-column .item {
-		width: 100%;
+		width: auto;
 		float: none;
 		display: block;
 	}
