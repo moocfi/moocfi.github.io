@@ -1,0 +1,26 @@
+.exercise {
+    border: 1px solid #3EBBA7;
+    border-radius: 7px;
+    margin: 10px 0px;
+
+}
+
+.exercise > header {
+    background: url("/img/arrow-down.png") no-repeat scroll right 50% #3EBBA7;
+    transition: all 0.25s ease-in-out; 
+    -webkit-transition: all 0.25s ease-in-out; 
+    -moz-transition: all 0.25s ease-in-out;
+
+    &:hover {
+        background: url("/img/arrow-down.png") no-repeat scroll right 50% #139197;
+    }
+}
+
+.exercise > header h1 {
+    color: #fff;
+    margin: 0;
+    padding: 10px;
+    font-size: 30px;
+    font-family: "Open Sans Condensed",sans-serif;
+    font-weight: 300;
+}

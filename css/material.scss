@@ -3,39 +3,13 @@
 ---
 @charset "utf-8";
 
-.exercise {
-    border: 1px solid #3EBBA7;
-    border-radius: 7px;
-    margin: 10px 0px;
-
-}
-
-.exercise > header {
-    background: url("/img/arrow-down.png") no-repeat scroll right 50% #3EBBA7;
-    transition: all 0.25s ease-in-out; 
-    -webkit-transition: all 0.25s ease-in-out; 
-    -moz-transition: all 0.25s ease-in-out;
-
-    &:hover {
-        background: url("/img/arrow-down.png") no-repeat scroll right 50% #139197;
-    }
-}
-
-.exercise > header h1 {
-    color: #fff;
-    margin: 0;
-    padding: 10px;
-    font-size: 30px;
-    font-family: "Open Sans Condensed",sans-serif;
-    font-weight: 300;
-}
+@import 
+    "variables"
+    ,"widgets/exercise"
+    ;
 
 html {
-    background: #f2f2f2;
-}
-
-body {
-    width: 100%;
+    background: $page-bg;
 }
 
 body > header {
@@ -51,7 +25,7 @@ body header nav {
 }
 
 body header nav ul {
-    background: #00747A;
+    background: $link-color;
     margin: 0;
     padding: 0;
     word-spacing: 0px;
@@ -66,7 +40,7 @@ body header nav li {
     padding: 0px 15px;
 
     &:hover {
-        background: #139197;
+        background: lighten($link-color, 6.5%);
     }
 
     &:nth-of-type(1) {
@@ -75,11 +49,11 @@ body header nav li {
 }
 
 body header nav li.current {
-    background: #139197;
+    background: lighten($link-color, 6.5%);
 }
 
 body header nav li.closed {
-    background: #0A6266;
+    background: darken($link-color, 5%);
     position: relative;
 
 
@@ -100,7 +74,7 @@ body header nav li a {
     height: 65px;
     line-height: 65px;
     color: white;
-    font-family: "Open Sans Condensed", sans-serif;
+    font-family: $nav-font;
     font-size: 1.5em;
 
     &:hover {
