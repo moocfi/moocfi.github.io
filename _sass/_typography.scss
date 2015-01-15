@@ -139,6 +139,10 @@ main > header h1 {
 	.items {
 		text-align: justify;
 	}
+
+	.items > * {
+		text-align: left;
+	}
 }
 
 @media all and (max-width: 760px) {
