@@ -1,7 +1,7 @@
 # Site settings
 title: MOOC.fi
 baseurl: ""
-url: "http://www.mooc.fi"
+url: "http://mooc.fi"
 
 # Build settings
 markdown: redcarpet
