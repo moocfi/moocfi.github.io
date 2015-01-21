@@ -20,8 +20,8 @@ Hyväksy lisenssi ja valitse koneeseesi sopiva versio ja suorita asennus.
 
 - **Windows**: Asentaminen onnistuu nappia painamalla, kuten minkä tahansa muun Windows-ohjelman asentaminen.
 - **OS X** (Mac): Asennus tapahtuu kuin minkä tahansa dmg-paketin asennus. HUOM. Tarvitsee Mac OS X 10.8 (Mountain Lion) tai uudemman OS X version. Oracle tarjoaa tarkemman kuvaksen javan asentamisesta: <http://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html>
-- **Linux**: JDK:n versiota 8 ei saa vielä juuri minkään diston paketinhallinsta suoraan vaan asentaminen täytyy tehdä käsin purkamalla Oraclen sivuilta löytyvä paketti sopivaan paikkaan. 
-	Vanhempi JDK löytyy kuitenkin useimmista pakettienhallinntajärjestelmistä suoraan. Sillon   riittää paketin *openjdk-7-jdk* asentaminen. 
+- **Linux**: JDK:n versiota 8 ei saa vielä juuri minkään distron paketinhallinasta suoraan vaan asentaminen täytyy tehdä käsin purkamalla Oraclen sivuilta löytyvä paketti sopivaan paikkaan.
+	Vanhempi JDK löytyy kuitenkin useimmista pakettienhallinntajärjestelmistä suoraan. Sillon riittää paketin *openjdk-7-jdk* asentaminen.
 
 # NetBeansin asentaminen TMC-liitännäisellä
 
