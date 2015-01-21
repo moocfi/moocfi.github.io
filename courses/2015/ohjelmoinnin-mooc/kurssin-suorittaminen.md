@@ -26,6 +26,6 @@ Ohjelmoinnin MOOC -kurssin voi suorittaa neljällä tavalla:
   
 4. Opinto-oikeutta hakien: osalla kurssin suorittajista on mahdollista saada opinto-oikeus Helsingin yliopistoon sekä tutkinnon kaksi pakollista ohjelmointikurssia suoritetuksi:
   - Suorita jokaisesta tehtäväsetistä/viikosta vähintään 90% pisteistä (jokainen tehtävän alikohta lasketaan yhdeksi pisteeksi, alikohdattomat tehtävät ovat yhden pisteen arvoisia). 
-  - Toimita hakemus 9.4.2015 klo 15:00 mennessä Helsingin yliopiston Matemaattis-luonnontieteelliseen tiedekuntaan.
-  - Osallistu kurssin jälkeen näyttökokeeseen ja haastatteluun (ilmoittaudu haastatteluun ajoissa MOOCin aikana tulevan sähköpostin ohjeiden mukaan).
+  - Ilmoittaudu haastatteluun ajoissa MOOCin aikana tulevan sähköpostin ohjeiden mukaan.
   - Hakijoista kutsutaan haastatteluun ne hakukelpoiset hakijat, jotka ovat tehneet hyväksytyn määrän pisteitä ja pakolliset tehtävät.
+  - Osallistu näyttökokeeseen ja haastatteluun.
