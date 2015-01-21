@@ -26,3 +26,5 @@ Viikko 11  | 10.4.     | 26.4.     |  Perintä
 Viikko 12  | 17.4.     | 3.5.      |  Tiedostoon kirjoittaminen, graafiset käyttöliittymät
 Viikko 13  | 24.4.     | 10.5.     |  Säännölliset lausekkeet, iteraattori, enum
 Viikko 14  | 1.5.      | 17.5.     |  Kertausta
+
+Haastattelut alkavat huhtikuun lopulla.
