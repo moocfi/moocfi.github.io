@@ -1,40 +1,33 @@
 table {
-  margin: 15px 0;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 15px 0px;
   border-spacing: 0;
   border-collapse: collapse;
+  background: $text-bg;
+  max-width: 100%;
 }
 
 th {
-  padding: 3px;
-  background: $brand;
-  font-family: $header-font;
-  color: white;
-  font-weight: 300;
-  font-size: 1.6em;
-}
-
-tr {
-  margin: 0px 5px;
+  text-align: left;
+  padding: 0px 15px;
 }
 
 td {
-  padding: 5px 5px;
+  padding: 5px 15px;
+  vertical-align: top;
 }
 
 @media all and (min-width: 476px) {
 
-th {
+  th {
 
-  &:first-child {
-    border-bottom-left-radius: 5px;
-    border-top-left-radius: 5px;
-  }
+    &:first-child {
+      border-bottom-left-radius: 5px;
+      border-top-left-radius: 5px;
+    }
 
-  &:last-child {
-    border-bottom-right-radius: 5px;
-    border-top-right-radius: 5px;
+    &:last-child {
+      border-bottom-right-radius: 5px;
+      border-top-right-radius: 5px;
+    }
   }
-}
 }
