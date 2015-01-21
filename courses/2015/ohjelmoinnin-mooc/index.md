@@ -15,7 +15,7 @@ Ohjelmointi on tietokoneen käskemistä. Kurssilla perehdytään algoritmien laa
 
 **Opettaja tai opinto-ohjaaja!** 
 
-Haluatko ottaa kurssin tai sen osan osaksi lukiosi oppitarjontaa? Mahtava ajatus! Sano opiskelijoillesi, että he osallistuvat kurssille ja järjestä halutessasi yhteisiä aikoja tehtävien tekemiseen. Kun tulee kokeen aika, ota meihin yhteyttä ( mooc@cs.helsinki.fi ) ja lähetämme sinulle kurssikokeen. Korjaamme kokeet puolestasi.
+Haluatko ottaa kurssin tai sen osan osaksi lukiosi oppitarjontaa? Mahtava ajatus! Sano opiskelijoillesi, että he osallistuvat kurssille ja järjestä halutessasi yhteisiä aikoja tehtävien tekemiseen. Kun tulee kokeen aika, ota meihin yhteyttä (<mooc@cs.helsinki.fi>) ja lähetämme sinulle kurssikokeen. Korjaamme kokeet puolestasi.
 
 Useat lukiot ovat tarjonneet ohjelmointikurssin suorituksesta lukiokursseja. Tämän lisäksi kurssisuorituksen voi hyväksilukea osaksi Helsingin yliopiston opintoja. 
 

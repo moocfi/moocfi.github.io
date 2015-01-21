@@ -1,4 +1,9 @@
-**MOOC on väylä yliopistoon!**
+---
+title: MOOC on väylä yliopistoon
+layout: course
+main-class: has-aside
+sidenav: 2015/ohjelmoinnin-mooc
+---
 
 Ohjelmoinnin MOOC -kurssimme antaa mahdollisuuden päästä opiskelemaan tietojenkäsittelytieteen laitokselle, matemaattis-luonnontieteelliseen tiedekuntaan, Helsingin yliopistoon.
 
@@ -8,11 +13,11 @@ Mikäli kirjoitat ylioppilaaksi tai saavutat muun korkeakoulukelpoisuuden syksyl
 
 Opinto-oikeutta hakiessasi sinun täytyy toimittaa matemaattis-luonnontieteelliselle tiedekunnalle hakulomake. Tarkka takaraja hakemuksen toimittamiselle on 9.4. klo 15:00. Eli vaikka kurssi on vielä kesken ja kurssiin liittyvä näyttökoe/haastattelu pidetään vasta toukokuussa, tulee hakulomake toimittaa ehdottomasti tiedekuntaan edellä mainittuun päivämäärään mennessä!
 
-HUOMIO! Hakulomakkeella laitat hakuperusteeksi MOOCin. Lisäksi sinulta kysytään "korkeakoulukelpoisuuden tuottava tutkinto ja suoritusvuosi". Älä laita siihen MOOCin suoritusvuotta, vaan kirjoita siihen itseäsi koskeva tutkintotieto tyyppiä "Ylioppilas 2015" tai "Datanomi 2014" tms.
+**HUOMIO!** Hakulomakkeella laitat hakuperusteeksi MOOCin. Lisäksi sinulta kysytään "korkeakoulukelpoisuuden tuottava tutkinto ja suoritusvuosi". Älä laita siihen MOOCin suoritusvuotta, vaan kirjoita siihen itseäsi koskeva tutkintotieto tyyppiä "Ylioppilas 2015" tai "Datanomi 2014" tms.
 
-TOINEN HUOMIO! Jos haluat saada tiedon hakulomakkeen perille tulemisesta, lähetä jo hakulomakkeen mukana omalla nimelläsi ja riittävällä postimerkillä varustettu postikortti, sekä pyyntö siitä, että tiedekunta ilmoittaa hakulomakkeen saapumisesta.
+**TOINEN HUOMIO!** Jos haluat saada tiedon hakulomakkeen perille tulemisesta, lähetä jo hakulomakkeen mukana omalla nimelläsi ja riittävällä postimerkillä varustettu postikortti, sekä pyyntö siitä, että tiedekunta ilmoittaa hakulomakkeen saapumisesta.
  
-**Hyödyllistä tietoa**
+# Hyödyllistä tietoa
 
 MOOC-kurssin kautta opintopaikan varmistamalla olet jo hoitanut osan alkupään opinnoistasi ennen opiskelun alkamista! Tarjolla on siis lentävä lähtö omiin opintoihisi.
 
@@ -20,7 +25,7 @@ Opinto-oikeuteen liittyvät säännöt ovat tarkkoja ja pysyviä, eikä niistä 
 
 Suosittelemme, että vaikka haet opiskelupaikkaa MOOCin kautta, niin (mikäli mahdollista) haet paikkaa myös yhteisvalinnan kautta. Tämä siksi, että mikäli kurssi jää sinulta jostakin syystä kesken esimerkiksi viimeisellä viikolla, niin sinulla on varasuunnitelma olemassa. Näyttökokeen tuloksen saat tietää ennen yhteisvalinnan pääsykoetta, johonka voit sitten olla osallistumatta mikäli sait opiskelupaikan MOOCin kautta.
 
-**Byrokratia ja vastuut**
+# Byrokratia ja vastuut
 
 Opinto-oikeuden saaminen yliopistoon perustuu yliopistolakiin, mistä johtuen opintoikeuden saamisprosessi on hieman monimutkainen. Prosessissa on eri tahoja, joilla on erilaisia vastuita. Alla on selitystä siitä, miten vastuut jakaantuvat ja mihin tahoon kannattaa olla yhteydessä eri tilanteissa:
 
@@ -29,8 +34,8 @@ Ennen kuin tiedekunta myöntää opinto-oikeuden, tiedekunta pyytää puoltolaus
 Suomessa lait (ml. yliopistolaki) säätää *eduskunta* ja niitä (usein) valmistellaan ministeriössä. Opetus- ja kulttuuriministeriössä valmistellaan lakimuutosta, jonka mukaan ne joilla ei ole opinto-oikeutta hakisivat eri reittiä yliopistoon kuin ne joilla jo on opiskelupaikka. Tämä saattaa vaikuttaa siihen, että jos saat MOOCin kautta opinto-oikeuden, niin et voi hakea yhteishaussa yliopistoihin. Nykylain mukaan tämä ei ole mahdollista. Lain etenemisestä kannattaa olla yhteydessä ministeriöön tai eduskuntaan.
  
 
-**Linkit**
+# Linkit
 
-Helsingin yliopiston matemaattisluonnontieteellisen tiedekunnan sivu MOOC-erillishausta
-Tietojenkäsittelytieteen laitos
-Yliopistolaki
+- [Helsingin yliopiston matemaattisluonnontieteellisen tiedekunnan sivu MOOC-erillishausta](http://www.helsinki.fi/ml/valinnat/mooc.html)
+- [Tietojenkäsittelytieteen laitos](http://www.cs.helsinki.fi/)
+- [Yliopistolaki](http://www.finlex.fi/fi/laki/alkup/2009/20090558)
