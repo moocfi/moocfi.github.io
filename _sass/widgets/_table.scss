@@ -1,22 +1,19 @@
 table {
-  margin: 15px 0;
+  margin: 15px 0px;
   border-spacing: 0;
   border-collapse: collapse;
+  background: $text-bg;
+  max-width: 100%;
 }
 
 th {
-  padding: 3px;
-  background: $brand;
-  font-family: $header-font;
-  color: white;
-  font-weight: 300;
-  font-size: 1.6em;
   text-align: left;
-  padding: 0px 5px;
+  padding: 0px 15px;
 }
 
 td {
-  padding: 5px 5px;
+  padding: 5px 15px;
+  vertical-align: top;
 }
 
 @media all and (min-width: 476px) {

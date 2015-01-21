@@ -18,7 +18,7 @@ Viikko 4   | 13.2.      | 8.3.      |  Olioiden alkeet
 Viikko 5   | 20.2.      | 15.3.     |  Olioihin tutustuminen jatkuu
 Viikko 6   | 27.2.      | 22.3.     |  Olioihin tutustuminen jatkuu, taulukot
 Viikko 7   | 6.3.       | 29.3.     |  Järjestäminen ja etsintä
-Viikko 8   | 13.3.      | 5.4.      |  Assosiaatiotaulukko (HashMap)
+Viikko 8   | 13.3.      | 5.4.      |  Assosiaatio&shy;taulukko (HashMap)
 Viikko 9   | 20.3.      | 12.4.     |  Rajapinnat
 Viikko 10  | 27.3.      | 19.4.     |  Poikkeukset ja tiedostojen lukeminen
 Pääsiäisloma |||
