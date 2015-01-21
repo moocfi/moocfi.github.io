@@ -14,7 +14,7 @@ Ohjelmointi on tietokoneen käskemistä. Kurssilla perehdytään algoritmien laa
 
 ## Kurssin suorittaminen
 
-1. [Tee alkutoimet]({{ "/courses/general/ohjelmointi/ilmoittautuminen-ja-alkutoimet.html" | prepend: site.baseurl }})
+1. [Tee alkutoimet]({{ "/courses/general/ohjelmointi/asentaminen/" | prepend: site.baseurl }})
 2. [Lue materiaalia ja tee sen tehtäviä](http://2014-ohjelmointi.mooc.fi/)
 3. [Lue ohjeita ja pyydä apua]({{ "/courses/general/ohjelmointi/" | prepend: site.baseurl }})
 4. [Suorita kurssi opinahjossasi](tiedoksi-opettajille.html) tai vaan omaksi iloksesi

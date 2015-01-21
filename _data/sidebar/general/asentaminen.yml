@@ -1,0 +1,18 @@
+header: Ilmoittautuminen ja alkutoimet
+path: /courses/general/ohjelmointi/asentaminen
+navigation:
+  -
+    name: Windows
+    path: /windows/
+  -
+    name: OS X
+    path: /os-x/
+  -
+    name: Linux
+    path: /linux/
+  -
+    name: TMC-Liitännäinen
+    path: /tmc-liitannainen.html
+  -
+    name: Tehtävien tekeminen ja palautus
+    path: /tehtavien-tekeminen-ja-palautus.html

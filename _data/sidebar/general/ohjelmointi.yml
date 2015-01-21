@@ -3,7 +3,7 @@ path: /courses/general/ohjelmointi
 navigation:
   -
     name: Ilmoittautuminen ja alkutoimet
-    path: /ilmoittautuminen-ja-alkutoimet.html
+    path: /asentaminen/
   -
     name: IRC-ohjeet
     path: /irc-ohjeet.html

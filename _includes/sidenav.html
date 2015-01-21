@@ -18,7 +18,8 @@
 				{% else %}
 					{% assign href = link.path | prepend: sidebar.path %}
 				{% endif %}
-				<a href="{% if ext %}{{href}}{% else %}{{href | prepend: site.baseurl }}{% endif %}"{% if href == page.url %} class="current"{% endif %}{% if link.target %} target="{{link.target}}"{% endif %}>
+				{% assign page_url = page.url | replace:'index.html','' %}
+				<a href="{% if ext %}{{href}}{% else %}{{href | prepend: site.baseurl }}{% endif %}"{% if href == page_url %} class="current"{% endif %}{% if link.target %} target="{{link.target}}"{% endif %}>
 					{{link.name}}
 				</a>
 			</li>

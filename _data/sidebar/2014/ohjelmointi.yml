@@ -3,7 +3,7 @@ path: /courses/2014/ohjelmointi
 navigation:
   -
     name: Ilmoittautuminen ja alkutoimet
-    path: /courses/general/ohjelmointi/ilmoittautuminen-ja-alkutoimet.html
+    path: /courses/general/ohjelmointi/asentaminen/
     base: true
     target: _blank
   -
