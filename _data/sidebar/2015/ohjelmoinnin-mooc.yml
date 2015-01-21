@@ -2,6 +2,14 @@ header: Ohjelmoinnin MOOC
 path: /courses/2015/ohjelmoinnin-mooc
 navigation:
   -
-    name: Tulossa...
-    path: "#"
-    ext: true
+    name: Aloittaminen ja materiaali
+    path: /aloittaminen-ja-materiaali.html
+  -
+    name: Aikataulu ja sisältö
+    path: /aikataulu.html
+  -
+    name: Kurssin suorittaminen
+    path: /kurssin-suorittaminen.html
+  -
+    name: Väylänä yliopistoon
+    path: /opinto-oikeus.html
