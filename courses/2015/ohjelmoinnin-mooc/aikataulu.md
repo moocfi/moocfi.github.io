@@ -10,7 +10,7 @@ Kunkin viikon tekemiseen kannattaa aiemmasta ohjelmointitaustasta riippuen varat
 Varaamme oikeuden aikataulun ja aiheiden muutoksiin, kuitenkin niin, että jokaisen viikon tehtäväsettiä on mahdollista suorittaa vähintään kahden viikon ajan eivätkä alla nähdyt palautusten takarajat tule aikaistumaan.
 
            | Julkaisu  | Deadline | Aiheet
----------- | --------- | -------- | -------
+---------- | :-------: | :------: | -------
 Viikko 1   | 23.1      | 22.2     |  syöte, tulostus, valintalause, toiston alkeet
 Viikko 2   | 30.1      | 22.2     |  toistolause, metodien alkeet
 Viikko 3   | 6.2       | 1.3      |  metodit ja listat (ArrayList)
