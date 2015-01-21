@@ -5,9 +5,9 @@ main-class: has-aside
 sidenav: 2015/ohjelmoinnin-mooc
 ---
 
-Kurssi koostuu neljästätoista viikoittaisesta tehtäväsetistä. 
-Kunkin viikon tekemiseen kannattaa aiemmasta ohjelmointitaustasta riippuen varata aikaa noin 5-20 tuntia. 
-Varaamme oikeuden aikataulun ja aiheiden muutoksiin, kuitenkin niin, että jokaisen viikon tehtäväsettiä on mahdollista suorittaa vähintään kahden viikon ajan eivätkä alla nähdyt palautusten takarajat tule aikaistumaan.
+Kurssi koostuu neljästätoista tehtäväsarjasta. 
+Kunkin tehtäväsarjan tekemiseen kannattaa aiemmasta ohjelmointitaustasta riippuen varata aikaa noin 5-20 tuntia. 
+Varaamme oikeuden aikataulun ja aiheiden muutoksiin, kuitenkin niin, että jokaista tehtäväsettiä on mahdollista suorittaa vähintään kahden viikon ajan, eivätkä alla nähdyt palautusten takarajat tule aikaistumaan.
 
 Aikataulu  | Julkaisu  | Deadline | Aiheet
 :--------- |:--------- |:-------- |:-------
