@@ -1,7 +1,5 @@
 table {
   margin: 15px 0;
-  margin-left: auto;
-  margin-right: auto;
   border-spacing: 0;
   border-collapse: collapse;
 }
@@ -13,10 +11,8 @@ th {
   color: white;
   font-weight: 300;
   font-size: 1.6em;
-}
-
-tr {
-  margin: 0px 5px;
+  text-align: left;
+  padding: 0px 5px;
 }
 
 td {
@@ -25,16 +21,16 @@ td {
 
 @media all and (min-width: 476px) {
 
-th {
+  th {
 
-  &:first-child {
-    border-bottom-left-radius: 5px;
-    border-top-left-radius: 5px;
-  }
+    &:first-child {
+      border-bottom-left-radius: 5px;
+      border-top-left-radius: 5px;
+    }
 
-  &:last-child {
-    border-bottom-right-radius: 5px;
-    border-top-right-radius: 5px;
+    &:last-child {
+      border-bottom-right-radius: 5px;
+      border-top-right-radius: 5px;
+    }
   }
-}
 }
