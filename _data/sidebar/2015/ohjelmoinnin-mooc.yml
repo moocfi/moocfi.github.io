@@ -2,7 +2,7 @@ header: Ohjelmoinnin MOOC
 path: /courses/2015/ohjelmoinnin-mooc
 navigation:
   -
-    name: Aloittaminen ja materiaali
+    name: Aloittaminen
     path: /aloittaminen-ja-materiaali.html
   -
     name: Materiaali
