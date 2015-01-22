@@ -1,0 +1,106 @@
+body > header {
+    max-width: 100%;
+    min-height: 45px;
+    margin: 0;
+    margin-bottom: 30px;
+    background: $link-color;
+}
+
+nav {
+	max-width: 100%;
+}
+
+#week-selector-toggle {
+	color: white;
+	position: absolute;
+	top: 5px;
+	right: 20px;
+	font-size: 1.5em;
+}
+
+#week-selector ul {
+	display: none;
+	margin-top: 0;
+	padding: 0 5%;
+	background: $link-color;
+}
+
+#week-selector.active ul {
+	display: block;
+}
+
+#week-selector li {
+	list-style-type: none;
+	list-style-position: inside;
+	padding: 5px 5px;
+	margin-bottom: 1px;
+
+	&:hover,
+	&.current {
+		background: lighten($link-color, 6.5%);
+	}
+
+	&.closed {
+		background: darken($link-color, 5%);
+	    position: relative;
+
+	    &:hover:after {
+	    	text-align: center;
+	    	width: 90%;
+	        background: #333;
+	        background: rgba(0,0,0,.8);
+	        color: #fff;
+	        content: attr(title);
+	        padding: 10px 5%;
+	        z-index: 98;
+	        position: absolute;
+	        left: 0;
+	        top: 0;
+	    }
+	}
+}
+
+#week-selector a {
+    color: white;
+    font-family: $nav-font;
+    font-size: 1.5em;
+
+    &:hover {
+	    background: none;
+    }
+}
+
+#week-selector li.current a {
+	font-size: 1.3em;
+	font-weight: 700;
+}
+
+@media all and (min-width: 761px) {
+
+	#week-selector-toggle {
+		display: none;
+	}
+
+	#week-selector {
+		display: block;
+	}
+
+	#week-selector ul {
+		display: block;
+		word-spacing: 0;
+		padding: 0;
+		text-align: center;
+	}
+
+	#week-selector li {
+		display: inline-block;
+		min-height: 50px;
+		padding: 10px 15px;
+		margin: 0;
+	}
+
+	#week-selector a {
+		min-height: 50px;
+		line-height: 50px;
+	}
+}
