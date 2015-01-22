@@ -7,7 +7,7 @@ sidenav: 2015/ohjelmoinnin-mooc
 
 Keväällä 2015 järjestettävä ohjelmoinnin MOOC antaa mahdollisuuden päästä opiskelemaan tietojenkäsittelytieteen laitokselle, matemaattis-luonnontieteelliseen tiedekuntaan, Helsingin yliopistoon.
 
-Kurssilla aktiivisesti opiskelemalla ja hyvin menestymällä – keräämällä yli 90% viikoittaisista pisteistä joka viikko – saat kutsun näyttökokeeseen, jonka menestyksekkäästi suorittamalla sinulla on mahdollisuus saada opinto-oikeus tietojenkäsittelytieteen luonnontieteen kandidaatin (LuK) ja filosofian maisterin (FM) tutkintoihin.
+Kurssilla aktiivisesti opiskelemalla ja hyvin menestymällä – keräämällä yli 90% viikoittaisista pisteistä joka viikko – saat kutsun näyttökokeeseen, jonka menestyksekkäästi suorittamalla sinulla on mahdollisuus saada opinto-oikeus tietojenkäsittelytieteen luonnontieteen kandidaatin (LuK) ja filosofian maisterin (FM) tutkintoihin. Näyttökokeeseen kuuluu ohjelmointitehtävä ja haastattelu, jonka lisäksi hakijoita pyydetään näyttökoekutsun yhteydessä lähettämään motivaatiokirje.
 
 MOOC-kurssi on osa [yhteishakua](http://www.helsinki.fi/ml/valinnat/hakeminen.html). Saadaksesi opiskelupaikan MOOCin kautta, sinun tulee osallistua yhteishakuun. Tutustu ohjeisiin sivulla [http://www.helsinki.fi/ml/valinnat/hakeminen.html](http://www.helsinki.fi/ml/valinnat/hakeminen.html). 
 
