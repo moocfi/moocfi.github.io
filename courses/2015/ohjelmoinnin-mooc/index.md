@@ -1,5 +1,5 @@
 ---
-title: Ohjelmoinnin MOOC - 2015
+title: Ohjelmoinnin MOOC &ndash; 2015
 layout: course
 main-class: has-aside
 sidenav: 2015/ohjelmoinnin-mooc
