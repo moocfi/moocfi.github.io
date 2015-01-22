@@ -5,6 +5,11 @@ navigation:
     name: Aloittaminen ja materiaali
     path: /aloittaminen-ja-materiaali.html
   -
+    name: Materiaali
+    path: http://2015-ohjelmointi.mooc.fi
+    ext: true
+    target: _blank
+  -
     name: Aikataulu ja sisältö
     path: /aikataulu.html
   -
