@@ -58,6 +58,18 @@ ul > li {
 }
 
 /**
+ * Fix anchor bgcolor visible in a tags that contain an img tag
+ */
+
+a img {
+	vertical-align: middle;
+}
+
+p a img {
+	background: $text-bg;
+}
+
+/**
  * NAVIGATION
  */
 
