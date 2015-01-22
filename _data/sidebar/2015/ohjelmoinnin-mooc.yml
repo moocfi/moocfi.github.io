@@ -13,3 +13,7 @@ navigation:
   -
     name: Väylänä yliopistoon
     path: /opinto-oikeus.html
+  -
+    name: Tulostaulu
+    path: /tulostaulu.html
+    target: _blank
