@@ -12,6 +12,7 @@ var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
 eventer(messageEvent,function(e) {
     var key = e.message ? "message" : "data";
     var data = e[key];
+    console.log(e);
     document.getElementById("pistelista-iframe").style.height = data + 'px';
 },false);
 </script>
