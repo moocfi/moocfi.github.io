@@ -38,7 +38,7 @@ MOOC-kurssin kautta opintopaikan varmistamalla olet jo hoitanut osan tärkeistä
 
 Suosittelemme, että vaikka haet opiskelupaikkaa MOOCin kautta, niin haet paikkaa myös yhteishaussa olevan pääsykokeen kautta. Tämä siksi, että mikäli kurssi jää sinulta jostakin syystä kesken esimerkiksi viimeisellä viikolla, niin sinulla on varasuunnitelma olemassa. Näyttökokeen tuloksen saat tietää ennen yhteisvalinnan pääsykoetta, jolloin voit olla osallistumatta pääsykokeeseen mikäli sait opiskelupaikan MOOCin kautta.
 
-Lisätietoja MOOC-väylästä matemaattis-luonnontieteellisen tiedekunnan tietojenkäsittelytieteen opintojen valintasivujen kohdasta [Valinta tiedekilpailuissa menestymisen tai aiempien opintosuoritusten perusteella](http://www.helsinki.fi/ml/valinnat/tkt.html). 
+Lisätietoja MOOC-väylästä matemaattis-luonnontieteellisen tiedekunnan tietojenkäsittelytieteen opintojen valintasivujen kohdasta [valinta tiedekilpailuissa menestymisen tai aiempien opintosuoritusten perusteella](http://www.helsinki.fi/ml/valinnat/tkt.html). 
 
 <!--
 # Byrokratia ja vastuut
