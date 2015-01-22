@@ -23,7 +23,7 @@ Aloitetaan TMC-liitännäisen asennus.
     
     3.1. Kirjoita kenttään *Name* esimerkiksi "TMC".
 
-    3.2. Kopioi URL-kenttään teksti: <http://update.testmycode.net/tmc-netbeans_mooc/updates.xml>.
+    3.2. Kopioi URL-kenttään teksti: <http://update.testmycode.net/tmc-netbeans_mooc/updates.xml>
 
 4. Pääset takaisin plugins-ikkunaan. Valitse ikkunasta välilehti Available Plugins, ja kirjoita Search-kenttään TMC.
     
