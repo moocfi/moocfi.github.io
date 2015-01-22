@@ -1,5 +1,5 @@
 ---
-title: NetBeansin asentaminen TMC-liitännäisellä (5/6)
+title: NetBeansin asentaminen TMC-liitännäisellä
 layout: course
 main-class: has-aside
 sidenav: general/asentaminen

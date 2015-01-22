@@ -1,5 +1,5 @@
 ---
-title: Tehtävien tekeminen ja palautus (6/6)
+title: Tehtävien tekeminen ja palautus
 layout: course
 main-class: has-aside
 sidenav: general/asentaminen

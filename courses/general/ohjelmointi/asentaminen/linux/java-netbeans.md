@@ -1,5 +1,5 @@
 ---
-title: Java kehitysympäristön ja NetBeansin asentaminen (4/6)
+title: Java kehitysympäristön ja NetBeansin asentaminen
 layout: course
 main-class: has-aside
 sidenav: general/asentaminen

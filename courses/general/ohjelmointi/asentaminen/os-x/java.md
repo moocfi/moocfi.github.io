@@ -1,5 +1,5 @@
 ---
-title: Java kehitysympäristön asennus (4/6)
+title: Java kehitysympäristön asennus
 layout: course
 main-class: has-aside
 sidenav: general/asentaminen

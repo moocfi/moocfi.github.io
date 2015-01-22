@@ -1,5 +1,5 @@
 ---
-title: Windows asennusohjeet (3/6)
+title: Windows asennusohjeet
 layout: course
 main-class: has-aside
 sidenav: general/asentaminen

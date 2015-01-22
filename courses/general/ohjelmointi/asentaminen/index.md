@@ -1,5 +1,5 @@
 ---
-title: Ilmoittautuminen ja alkutoimet (1/6)
+title: Ilmoittautuminen ja alkutoimet
 layout: course
 main-class: has-aside
 sidenav: general/asentaminen

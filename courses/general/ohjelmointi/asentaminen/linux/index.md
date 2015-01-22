@@ -1,5 +1,5 @@
 ---
-title: Linux asennusohjeet (3/6)
+title: Linux asennusohjeet
 layout: course
 main-class: has-aside
 sidenav: general/asentaminen

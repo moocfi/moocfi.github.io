@@ -1,5 +1,5 @@
 ---
-title: Ohjelmointiympäristön asentaminen (2/6)
+title: Ohjelmointiympäristön asentaminen
 layout: course
 main-class: has-aside
 sidenav: general/asentaminen

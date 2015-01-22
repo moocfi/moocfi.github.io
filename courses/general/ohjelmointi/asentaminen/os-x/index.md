@@ -1,5 +1,5 @@
 ---
-title: OS X Asennusohjeet (3/6)
+title: OS X Asennusohjeet
 layout: course
 main-class: has-aside
 sidenav: general/asentaminen

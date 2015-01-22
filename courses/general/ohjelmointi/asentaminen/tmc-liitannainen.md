@@ -1,5 +1,5 @@
 ---
-title: TMC-liitännäisen asentaminen (5/6)
+title: TMC-liitännäisen asentaminen
 layout: course
 main-class: has-aside
 sidenav: general/asentaminen

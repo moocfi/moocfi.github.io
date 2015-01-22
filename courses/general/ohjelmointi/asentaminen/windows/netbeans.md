@@ -1,5 +1,5 @@
 ---
-title: NetBeansin asentaminen (4.5/6)
+title: NetBeansin asentaminen
 layout: course
 main-class: has-aside
 sidenav: general/asentaminen
