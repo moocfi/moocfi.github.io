@@ -85,7 +85,7 @@ main, header, nav, footer > article {
 	margin-left: -4px;
 }
 
-@media all and (max-width: 1160px) {
+@media all and (max-width: 1165px) {
 
 	body > footer > article {
 		display: block;
@@ -121,9 +121,8 @@ main, header, nav, footer > article {
 		padding-top: 0;
 	}
 
-	#license img {
-		margin-right: auto;
-		margin-left: auto;
+	#license {
+		text-align: center;
 	}
 
 	footer #license p img {
