@@ -5,7 +5,7 @@ resources:
   script:
     - 
       "window.addEventListener('message', function(event) {
-        console.log(event.data);
+        document.getElementById('pistelista-iframe').style.height = event.data + 'px';
       }, false);"
 ---
 
