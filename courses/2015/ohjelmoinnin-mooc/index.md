@@ -5,7 +5,7 @@ main-class: has-aside
 sidenav: 2015/ohjelmoinnin-mooc
 ---
 
-**Kurssi alkaa 23.1.2015**
+**Kurssi on alkanut**
 
 Ohjelmointi on tietokoneen käskemistä. Kurssilla perehdytään algoritmien laatimiseen ja nykyaikaisen ohjelmoinnin perusideoihin. Opiskelijalta ei edellytetä ennakkotietoja ohjelmoinnista.
 
@@ -19,4 +19,4 @@ Haluatko ottaa kurssin tai sen osan osaksi lukiosi oppitarjontaa? Mahtava ajatus
 
 Useat lukiot ovat tarjonneet ohjelmointikurssin suorituksesta lukiokursseja. Tämän lisäksi kurssisuorituksen voi hyväksilukea osaksi Helsingin yliopiston opintoja. 
 
-**Lisätietoja lähempänä kurssin alkua. Erillistä ilmoittatumista ei tarvita.**
+**Valitse ["Aloittaminen ja materiaali"](aloittaminen-ja-materiaali.html) alkuun pääsemiseksi.**
