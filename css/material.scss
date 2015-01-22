@@ -82,3 +82,19 @@ section > h4 {
         clear: none;
     }
 }
+
+@media all and (max-width: 500px) {
+
+    .mooc + p {
+        clear: both;
+    }
+}
+
+
+@media all and (max-width: 300px) {
+    .mooc,
+    .organiser {
+        width: 49%;
+        margin: 0;
+    }
+}
