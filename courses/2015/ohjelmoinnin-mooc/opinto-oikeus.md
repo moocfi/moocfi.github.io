@@ -5,11 +5,21 @@ main-class: has-aside
 sidenav: 2015/ohjelmoinnin-mooc
 ---
 
-Ohjelmoinnin MOOC -kurssimme antaa mahdollisuuden päästä opiskelemaan tietojenkäsittelytieteen laitokselle, matemaattis-luonnontieteelliseen tiedekuntaan, Helsingin yliopistoon.
+Keväällä 2015 järjestettävä ohjelmoinnin MOOC antaa mahdollisuuden päästä opiskelemaan tietojenkäsittelytieteen laitokselle, matemaattis-luonnontieteelliseen tiedekuntaan, Helsingin yliopistoon.
 
-Kurssilla aktiivisesti opiskelemalla ja hyvin menestymällä – tekemällä yli 90% viikoittaisista tehtävistä joka viikko – saat kutsun haastattelu/näyttökokeeseen, jonka menestyksekkäästi suorittamalla sinulla on mahdollisuus saada opinto-oikeus tietojenkäsittelytieteen luonnontieteen kandidaatin (LuK) ja filosofian maisterin (FM) tutkintoihin. 
+Kurssilla aktiivisesti opiskelemalla ja hyvin menestymällä – keräämällä yli 90% viikoittaisista pisteistä joka viikko – saat kutsun näyttökokeeseen, jonka menestyksekkäästi suorittamalla sinulla on mahdollisuus saada opinto-oikeus tietojenkäsittelytieteen luonnontieteen kandidaatin (LuK) ja filosofian maisterin (FM) tutkintoihin.
+
+MOOC-kurssi on osa [yhteishakua](http://www.helsinki.fi/ml/valinnat/hakeminen.html). Saadaksesi opiskelupaikan MOOCin kautta, sinun tulee osallistua yhteishakuun. Tutustu ohjeisiin sivulla [http://www.helsinki.fi/ml/valinnat/hakeminen.html](http://www.helsinki.fi/ml/valinnat/hakeminen.html). 
+
+<!--
+Saadaksesi opiskelupaikan, sinun tulee osallistua yhteishakuun. MOOC
+
+Opiskelupaikan hakeminen MOOCin kautta 
+
+Kun haet opiskelupaikkaa MOOCin kautta, osallistu yhteishakuun.
 Saamasi opiskelupaikka vahvistetaan, kun olet saavuttanut korkeakoulukelpoisuuden. Mikäli kirjoitat ylioppilaaksi keväällä 2015 tai saavutat muun korkeakoulukelpoisuuden 29.7.2015 mennessä, voit hakea tietojenkäsittelytieteen koulutusohjelmaan kevään 2015 haussa. 
 Mikäli kirjoitat ylioppilaaksi tai saavutat muun korkeakoulukelpoisuuden syksyllä 2015 tai keväällä 2016, voit hakea opinto-oikeutta keväällä 2016 päättyvässä haussa.
+-->
 
 <!-- 
 Opinto-oikeutta hakiessasi sinun täytyy toimittaa matemaattis-luonnontieteelliselle tiedekunnalle hakulomake. Tarkka takaraja hakemuksen toimittamiselle on 9.4. klo 15:00. Eli vaikka kurssi on vielä kesken ja kurssiin liittyvä näyttökoe/haastattelu pidetään vasta toukokuussa, tulee hakulomake toimittaa ehdottomasti tiedekuntaan edellä mainittuun päivämäärään mennessä!
@@ -22,17 +32,20 @@ Opinto-oikeutta hakiessasi sinun täytyy toimittaa matemaattis-luonnontieteellis
 
 # Hyödyllistä tietoa
 
-MOOC-kurssin kautta opintopaikan varmistamalla olet jo hoitanut osan alkupään opinnoistasi ennen opiskelun alkamista! Tarjolla on siis lentävä lähtö omiin opintoihisi.
+MOOC-kurssin kautta opintopaikan varmistamalla olet jo hoitanut osan tärkeistä opinnoistasi ennen opiskelun alkamista! Tarjolla on siis lentävä lähtö omiin opintoihisi.
 
-**Opinto-oikeuteen liittyvät säännöt ovat tarkkoja ja pysyviä, eikä niistä voida joustaa.** Muista siksi aina aloittaa kurssi ja sen tehtävät ajoissa, sillä sinun tulee ilmoittautumisen lisäksi saada vähintään 90% pisteistä jokaisesta tehtäväsarjasta sekä suorittaa jokainen pakolliseksi merkitty tehtävä annettuihin aikarajoihin mennessä. Lisäaikaa tehtäviin ei voida antaa, joten huolehdi että ehdit tehdä tehtäväsarjat aina ajoissa! Pisteitä saa yhden jokaisesta tehtävän alakohdasta, ja alakohdattomista tehtävistä saa yhden pisteen.
+**Opinto-oikeuteen liittyvät säännöt ovat tarkkoja ja pysyviä, eikä niistä voida joustaa.** Muista siksi aina aloittaa kurssi ja sen tehtävät ajoissa, sillä sinun tulee ilmoittautumisen lisäksi saada vähintään 90% pisteistä jokaisesta tehtäväsarjasta annettuihin aikarajoihin mennessä. Lisäaikaa tehtävien tekoon ei voida antaa, joten huolehdi että ehdit tehdä tehtäväsarjat aina ajoissa! Pisteitä saa yhden jokaisesta tehtävän alakohdasta, ja alakohdattomista tehtävistä saa yhden pisteen. Selitystehtävät ovat myös kahden pisteen arvoisia.
 
-Suosittelemme, että vaikka haet opiskelupaikkaa MOOCin kautta, niin (mikäli mahdollista) haet paikkaa myös yhteisvalinnan kautta. Tämä siksi, että mikäli kurssi jää sinulta jostakin syystä kesken esimerkiksi viimeisellä viikolla, niin sinulla on varasuunnitelma olemassa. Näyttökokeen tuloksen saat tietää ennen yhteisvalinnan pääsykoetta, johonka voit sitten olla osallistumatta mikäli sait opiskelupaikan MOOCin kautta.
+Suosittelemme, että vaikka haet opiskelupaikkaa MOOCin kautta, niin haet paikkaa myös yhteishaussa olevan pääsykokeen kautta. Tämä siksi, että mikäli kurssi jää sinulta jostakin syystä kesken esimerkiksi viimeisellä viikolla, niin sinulla on varasuunnitelma olemassa. Näyttökokeen tuloksen saat tietää ennen yhteisvalinnan pääsykoetta, jolloin voit olla osallistumatta pääsykokeeseen mikäli sait opiskelupaikan MOOCin kautta.
 
+Lisätietoja MOOC-väylästä matemaattis-luonnontieteellisen tiedekunnan tietojenkäsittelytieteen opintojen valintasivujen kohdasta [Valinta tiedekilpailuissa menestymisen tai aiempien opintosuoritusten perusteella](http://www.helsinki.fi/ml/valinnat/tkt.html). 
+
+<!--
 # Byrokratia ja vastuut
 
 Opinto-oikeuden saaminen yliopistoon perustuu [yliopistolakiin](http://www.finlex.fi/fi/laki/alkup/2009/20090558), mistä johtuen opintoikeuden saamisprosessi on hieman monimutkainen. Prosessissa on eri tahoja, joilla on erilaisia vastuita. Alla on selitystä siitä, miten vastuut jakaantuvat ja mihin tahoon kannattaa olla yhteydessä eri tilanteissa:
 
-**Helsingin yliopiston matemaattisluonnontieteellinen tiedekunta** vastaa opinto-oikeuden virallisesta myöntämisestä. Tiedekunta on se taho, joka osaa vastata, että oletko mystisen ulkomailla hankkimasi tutkinnon myötä korkeakoulukelpoinen, onko hakemuspaperisi tullut määräajassa perille ja milloin opinto-oikeuden myöntökirje tulee postissa. Eli kaikki viralliset asiat haussa, jotka eivät liity itse MOOC-kurssiin, kuuluvat tiedekunnalle.
+**Helsingin yliopiston matemaattisluonnontieteellinen tiedekunta** vastaa opinto-oikeuden virallisesta myöntämisestä. Tiedekunta on se taho, joka osaa vastata, että oletko esimerkiksi ulkomailla hankkimasi tutkinnon myötä korkeakoulukelpoinen, täytitkö yhteishakulomakkeen määräajassa, ja milloin opinto-oikeuden saamisesta tulee tietoa. Kaikki viralliset asiat haussa, jotka eivät liity itse MOOC-kurssiin, kuuluvat tiedekunnalle.
 
 Ennen kuin tiedekunta myöntää opinto-oikeuden, tiedekunta pyytää puoltolausuntoa tietojenkäsittelytieteen laitokselta. **Tietojenkäsittelytieteen laitos** järjestää MOOC-kurssin ja siihen perustuvan näyttökokeen haastatteluineen. Lausunto perustuu siihen, kuinka menestyksekkäästi hakija on suoriutunut kurssista ja näyttökokeesta. Kaikki tällä sivustolta löytyvät yhteystiedot ovat laitoksen yhteystietoja. Niiden yhteystietojen kautta kannattaa siis kysellä kaikkea, mikä liittyy itse kurssin suorittamiseen ja näyttökokeeseen.
 
@@ -44,3 +57,4 @@ Suomessa lait (ml. yliopistolaki) säätää *eduskunta* ja niitä (usein) valmi
 - [Helsingin yliopiston matemaattisluonnontieteellisen tiedekunnan sivu tietojenkäsittelytieteen valintaperusteista](http://www.helsinki.fi/ml/valinnat/tkt.html "")
 - [Tietojenkäsittelytieteen laitos](http://www.cs.helsinki.fi/)
 - [Yliopistolaki](http://www.finlex.fi/fi/laki/alkup/2009/20090558)
+-->
