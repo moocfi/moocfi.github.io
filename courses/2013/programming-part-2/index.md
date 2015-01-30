@@ -3,6 +3,7 @@ title: Object-Oriented programming with Java, part II
 layout: course
 main-class: has-aside
 sidenav: 2013/programming-part-2
+english: true
 ---
 This course is a direct continuaton of the course [Object-Oriented Programming with Java, part I]({{ "/courses/2013/programming-part-1/" | prepend: site.baseurl }}) (including week numbering). In Part II, we will dwell deeper into the world of object-oriented programming. The course includes comprehensive course materials and plenty of programming exercises, each tested using our automatic testing service [Test My Code](https://github.com/testmycode/tmc-server).
 

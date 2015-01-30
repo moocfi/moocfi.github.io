@@ -3,6 +3,7 @@ title: Google Groups
 layout: course
 main-class: has-aside
 sidenav: general/programming
+english: true
 ---
 Post your question to our Google Groups. You may also access it through [Google's interface](https://groups.google.com/forum/#!forum/moocfi).
 

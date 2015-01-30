@@ -3,6 +3,7 @@ title: Behind the scenes
 layout: course
 main-class: has-aside
 sidenav: 2014/clojure
+english: true
 ---
 The course works on top of a number of services and tools. What follows is a short description of the infrastructure.
 

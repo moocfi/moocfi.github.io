@@ -3,6 +3,7 @@ title: Object-Oriented programming with Java, part I
 layout: course
 main-class: has-aside
 sidenav: 2013/programming-part-1
+english: true
 ---
 **Welcome to [University of Helsinki](http://helsinki.fi/university)'s massive open online course (MOOC) on object-oriented programming!** 
 

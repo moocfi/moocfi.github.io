@@ -3,6 +3,7 @@ title: How to get started
 layout: course
 main-class: has-aside
 sidenav: general/programming
+english: true
 ---
 # Registration
 Create yourself an account to the Test My Code (TMC) server in address <https://tmc.mooc.fi/mooc/user/new>

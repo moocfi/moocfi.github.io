@@ -17,7 +17,12 @@ layout: compress
 			{{ content }}
 		</main>
 
-		{% include footer.html %}
+		{% if page.english %}
+			{% include footer-en.html %}
+		{% else %}
+			{% include footer.html %}
+		{% endif %}
+
 		{% include foot.html %}
 
 	</body>
