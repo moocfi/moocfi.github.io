@@ -12,14 +12,14 @@ Ohjelmointi on tietokoneen käskemistä. Kurssilla perehdytään algoritmien laa
 - Tämän kurssin suorittamisesta ei myöskään järjestetä loppukuulusteluita ([Helsingin yliopiston opiskelijoita lukuunottamatta](hy-opiskelijoille.html)), eikä siitä lähetetä suoritustodistuksia.
 - Halutessaan muut opinahjot saavat kurssin materiaalin perusteella järjestää omia loppukuulusteluitaan.
 
-## Kurssin suorittaminen
+# Kurssin suorittaminen
 
 1. [Tee alkutoimet]({{ "/courses/general/ohjelmointi/asentaminen/" | prepend: site.baseurl }})
 2. [Lue materiaalia ja tee sen tehtäviä](http://2014-ohjelmointi.mooc.fi/)
 3. [Lue ohjeita ja pyydä apua]({{ "/courses/general/ohjelmointi/" | prepend: site.baseurl }})
 4. [Suorita kurssi opinahjossasi](tiedoksi-opettajille.html) tai vaan omaksi iloksesi
 
-## Sisältö
+# Sisältö
 
 Kurssi järjestetään Helsingin yliopistossa ohjattuna ja aikataulutettuna kurssina jossa uudet tehtävät ilmestuvät viikottain. Tämän vuoksi MOOC-kurssin materiaali ja tehtävät on jaoteltu viikkokohtaisesti. Kaikki kurssin tehtävät saa kuitenkin tehdä vaikka viikossa!
 

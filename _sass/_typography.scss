@@ -8,26 +8,22 @@ body {
 /**
  * HEADERS
  */
-h1, h2, h3, h4 {
+h1, h2, h3 {
 	font-family: $header-font;
 	font-weight: 300;
 	padding: 0px 5px;
 }
 
-header h1 {
+h1 {
 	font-size: 1.75em;
 }
 
-h1 {
+h2 {
 	font-size: 1.5em;
 }
 
-h2 {
-	font-size: 1.25em;
-}
-
 h3 {
-	font-size: 1.1em;
+	font-size: 1.25em;
 }
 
 /**
