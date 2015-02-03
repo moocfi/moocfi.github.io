@@ -1,0 +1,23 @@
+.actions {
+	text-align: center;
+	margin: 8px;
+}
+
+.actions .action {
+	min-width: 64px;
+	line-height: 36px;
+	min-height: 36px;
+	vertical-align: middle;
+	padding: 0px 8px;
+	margin: 6px 4px;
+	text-transform: uppercase;
+	font-weight: 700;
+	display: inline-block;
+	border: 1px solid #00747A;
+	border-radius: 3px;
+}
+
+.actions .action.primary {
+	background: #00747A;
+	color: white;
+}
