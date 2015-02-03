@@ -17,10 +17,14 @@ Ohjelmoinnin MOOC on verkkokurssi, jossa perehdytään algoritmien laatimiseen j
 Ennen kuin voit aloittaa tehtävien tekemisen, tulee sinun suorittaa muutamia aloitustoimenpiteitä. 
 
 <div class="actions">
-	<a class="action primary" href="/courses/general/ohjelmointi/asentaminen/" target="_blank">Jatka asennusohjeisiin</a>
-	<a class="action" href="http://2015-ohjelmointi.mooc.fi/">Suoraan materiaaliin</a>
+	<a class="action primary" href="/courses/general/ohjelmointi/asentaminen/" target="_blank">Asennusohjeisiin</a>
 </div>
 
+Tehtyäsi kaikki asennustoimenpiteet ja rekisteröityäsi käyttäjätunnuksen TestMyCode -palveluun, voit jatkaa materiaalin ja aloittaa kurssin suorittamisen. Onnea kurssille!
+
+<div class="actions">
+	<a class="action" href="http://2015-ohjelmointi.mooc.fi/">Materiaaliin</a>
+</div>
 
 # Opettaja tai opinto-ohjaaja!
 
