@@ -1,8 +1,8 @@
 ---
-title: IRC-ohjeet
+title: Tukikanavat &ndash; IRC-ohjeet
 layout: course
 main-class: has-aside
-sidenav: general/ohjelmointi
+sidenav: general/ohjeita
 ---
 
 MOOCilla on keskustelukanava [IRC:ssä](http://fi.wikipedia.org/wiki/IRC). IRC-kanavalla voit keskustella muiden MOOCia suorittavien kanssa sekä saada tukea tehtävien tekemiseen sekä MOOCin järjestäjiltä että kurssitovereiltasi.

@@ -1,12 +1,25 @@
 ---
-title: Ilmoittautuminen ja alkutoimet
+title: Ympäristön asentaminen
 layout: course
 main-class: has-aside
-sidenav: general/asentaminen
+sidenav: general/ohjeita
 ---
 
-Kurssin välineiden käyttöönotto sisältää kaksi askelta:
+Tehtävien tekemiseen tarvitset kolme eri komponenttia:
 
-1. Luo itsellesi käyttäjätunnus Test My Code (eli TMC) -palvelimelle osoitteessa [http://tmc.mooc.fi/mooc/user/new](http://tmc.mooc.fi/mooc/user/new). Jos sinulla on jo käyttäjätunnus TMC:hen, voit käyttää vanhaa tunnustasi. Varmista että muistat salasanasi oikein ja pääset kirjautumaan osoitteeseen [http://tmc.mooc.fi/mooc/](http://tmc.mooc.fi/mooc/).
+1. Java 8 -ohjelmistokehityspaketin
+2. Netbeans -kehitysympäristön
+3. TestMyCode -liitännäisen
 
-2. Asenna kurssilla käytettävä [ohjelmointiympäristö]({{"/courses/general/ohjelmointi/asentaminen/ohjelmointiymparisto.html" | prepend: site.baseurl }}).
+Sinun täytyy myös luoda itsellesi käyttäjätunnus TestMyCode-palveluumme. Tästä lisää asennusohjeen lopussa.
+
+Mikäli et vielä ole asentanut Java 8 -ohjelmistokehityspakettia, suosittelemme että asennat Javan ja Netbeansin samalla kertaa Oracle-yhtiön tarjoamasta paketista.
+
+Valitse tämä vaihtoehto myös jos et ole varma oletko jo aiemmin asentanut Java 8 -ohjelmistokehityspaketin
+
+Mikäli tietokoneellasi on jo valmiiksi asennettuna Java 8 -ohjelmistokehityspaketti (JDK), suosittelemme käyttämään TMCBeans -pakettia, joka sisältää Netbeans-ympäristön sekä TestMyCode-liitännäisen yhdessä paketissa.
+
+<div class="actions">
+	<a class="action primary" href="/courses/general/ohjelmointi/asentaminen/netbeans">Netbeans &amp; Java</a>
+	<a class="action" href="/courses/general/ohjelmointi/asentaminen/tmcbeans">TMCBeans</a>
+</div>

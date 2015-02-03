@@ -1,8 +1,8 @@
 ---
-title: TMC-liitännäisen asentaminen
+title: Ympäristön asentaminen &ndash; TMC
 layout: course
 main-class: has-aside
-sidenav: general/asentaminen
+sidenav: general/ohjeita
 ---
 Jotta tehtävien palauttaminen onnistuisi, on NetBeansiin asennettava TMC-liitännäinen.
 
@@ -44,4 +44,12 @@ Aloitetaan TMC-liitännäisen asennus.
 
 	![NetBeans Plugins Source]({{"/img/install/plugin-install/plugin-17.png" | prepend: site.baseurl}})
 
-Jatka [tehtävien tekeminen ja palautus]({{"/courses/general/ohjelmointi/asentaminen/tehtavien-tekeminen-ja-palautus.html" | prepend: site.baseurl }}) osioon.
+# Seuraavaksi
+
+Onnistuneen asennuksen jälkeen, siirry luomaan itsellesi käyttäjätunnusta TestMyCode -tarkistusjärjestelmäämme. 
+
+Mikäli olet jo aiemmin luonut käyttäjätunnuksen esimerkiksi jotain toista kurssiamme varten, voit käyttää sitä ja siirtyä takaisin kurssille.
+
+<div class="actions">
+    <a class="action" href="/courses/general/ohjelmointi/rekisteroityminen">Siirry luomaan tunnuksia</a>
+</div>

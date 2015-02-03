@@ -1,0 +1,21 @@
+header: Alkutoimet
+path: /courses/general/ohjelmointi
+navigation:
+  -
+    name: Ympäristön asentaminen
+    path: /asentaminen/
+  -
+    name: Rekisteröityminen
+    path: /rekisteroityminen/
+  -
+    name: Tehtävien tekeminen ja palauttaminen
+    path: /tehtavien-tekeminen-ja-palauttaminen/  
+  -
+    name: Tukikanavat
+    path: /tukikanavat/
+  -
+    name: Usein kysyttyjä kysymyksiä
+    path: /ukk/
+  -
+    name: Ohjeita kokeeseen
+    path: /ohjeita-kokeeseen/

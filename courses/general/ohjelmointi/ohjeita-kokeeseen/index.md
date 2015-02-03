@@ -2,7 +2,7 @@
 title: Ohjeita kokeeseen
 layout: course
 main-class: has-aside
-sidenav: general/ohjelmointi
+sidenav: general/ohjeita
 ---
 **KOE TEHDÄÄN KOKONAAN PAPERILLE. TIETOKONEIDEN YMS. KÄYTTÖ ON KIELLETTY.**
 

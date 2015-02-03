@@ -1,8 +1,8 @@
 ---
-title: Google Groups
+title: Tukikanavat &ndash; Google Groups
 layout: course
 main-class: has-aside
-sidenav: general/ohjelmointi
+sidenav: general/ohjeita
 ---
 Voit esittää kysymyksiä Google Groupsissa. Voit halutessasi käyttää palvelua myös [Googlen käyttöliittymästä](https://groups.google.com/forum/#!forum/moocfi).
 
