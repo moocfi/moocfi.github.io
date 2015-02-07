@@ -14,5 +14,5 @@ Luo seuraavaksi itsellesi käyttäjätunnus TestMyCode -palautusjärjestelmääm
 Tunnusten luomisen jälkeen tutustu ohjeeseen tehtävien tekemisestä ja palauttamisesta
 
 <div class="actions">
-	<a class="action" href="/courses/general/ohjelmointi/tehtavien-tekeminen-ja-palauttaminen">Tehtävien tekeminen ja palauttaminen</a>
+	<a class="action" href="/courses/general/ohjelmointi/tehtavien-tekeminen-ja-palauttaminen/">Tehtävien tekeminen ja palauttaminen</a>
 </div>

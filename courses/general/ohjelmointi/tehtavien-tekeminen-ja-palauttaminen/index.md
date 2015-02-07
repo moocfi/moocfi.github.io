@@ -10,7 +10,7 @@ Kun käynnistät TMC-liitännäisen sisältävän NetBeansin ensimmäistä kerta
 2. Syötä käyttäjätunnusta vastaava salasana kenttään *Password*
 3. Varmista että *Server address* kentässä oleva osoite on <https://tmc.mooc.fi/mooc>
 4. Paina *Refresh list* kurssilistauksen päivittämiseksi
-    ![]({{"/img/install/tmc-setup/setup-3.png" | prepend: site.baseurl}})
+    ![TMC Settings esimerkki]({{"/img/install/tmc-setup/setup-3.png" | prepend: site.baseurl}})
 5. Valitse suoritettava kurssi *Current course* -pudotusvalikosta. 
 	- Mikäli suoritat kevään 2015 ohjelmoinnin MOOC -kurssia, valitse **k2015-ohjelmointi**
 	- Mikäli suoritat jotain muuta kurssia, katso kurssisi tunnus kurssin sivuilta
@@ -25,8 +25,8 @@ Seuraavalla videolla näytetään miten tehtävien tekeminen ja palauttaminen Ne
 Saatuasi tehtävien palauttamisen toimimaan, olet nyt valmis aloittamaan kurssimateriaalin lukemisen ja tehtävien tekemisen. Voit kuitenkin halutessasi tutustua tarjoamiimme tukikanaviin sekä eräisiin usein kysyttyihin kysymyksiin alla olevien linkkien kautta.
 
 <div class="actions">
-	<a class="action" href="/courses/general/ohjelmointi/tukikanavat">Tukikanavat</a>
-	<a class="action" href="/courses/general/ohjelmointi/ukk">Usein kysytyt kysymykset</a>
+	<a class="action" href="/courses/general/ohjelmointi/tukikanavat/">Tukikanavat</a>
+	<a class="action" href="/courses/general/ohjelmointi/ukk/">Usein kysytyt kysymykset</a>
 </div>
 
 Onnea kurssille!

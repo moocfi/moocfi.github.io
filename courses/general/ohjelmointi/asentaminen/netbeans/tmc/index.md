@@ -51,5 +51,5 @@ Onnistuneen asennuksen jälkeen, siirry luomaan itsellesi käyttäjätunnusta Te
 Mikäli olet jo aiemmin luonut käyttäjätunnuksen esimerkiksi jotain toista kurssiamme varten, voit käyttää sitä ja siirtyä takaisin kurssille.
 
 <div class="actions">
-    <a class="action" href="/courses/general/ohjelmointi/rekisteroityminen">Siirry luomaan tunnuksia</a>
+    <a class="action" href="/courses/general/ohjelmointi/rekisteroityminen/">Siirry luomaan tunnuksia</a>
 </div>

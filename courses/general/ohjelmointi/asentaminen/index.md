@@ -20,6 +20,6 @@ Valitse tämä vaihtoehto myös jos et ole varma oletko jo aiemmin asentanut Jav
 Mikäli tietokoneellasi on jo valmiiksi asennettuna Java 8 -ohjelmistokehityspaketti (JDK), suosittelemme käyttämään TMCBeans -pakettia, joka sisältää Netbeans-ympäristön sekä TestMyCode-liitännäisen yhdessä paketissa.
 
 <div class="actions">
-	<a class="action primary" href="/courses/general/ohjelmointi/asentaminen/netbeans">Netbeans &amp; Java</a>
-	<a class="action" href="/courses/general/ohjelmointi/asentaminen/tmcbeans">TMCBeans</a>
+	<a class="action primary" href="/courses/general/ohjelmointi/asentaminen/netbeans/">Netbeans &amp; Java</a>
+	<a class="action" href="/courses/general/ohjelmointi/asentaminen/tmcbeans/">TMCBeans</a>
 </div>

@@ -5,7 +5,7 @@ main-class: has-aside
 sidenav: general/ohjeita
 ---
 
-**Huom:** Tämä asennusohje olettaa että tietokoneellasi on asennettuna Java 8 -ohjelmistokehityspaketti (JDK). Mikäli et ole varma oletko asentanut kyseisen paketin tietokoneellesi, suosittelemme että siirryt [Netbeans &amp; Java](/courses/general/ohjelmointi/asentaminen/netbeans) -asennusohjeeseen.
+**Huom:** Tämä asennusohje olettaa että tietokoneellasi on asennettuna Java 8 -ohjelmistokehityspaketti (JDK). Mikäli et ole varma oletko asentanut kyseisen paketin tietokoneellesi, suosittelemme että siirryt [Netbeans &amp; Java](/courses/general/ohjelmointi/asentaminen/netbeans/) -asennusohjeeseen.
 
 Ympäristön asentaminen tapahtuu eri tavalla eri käyttöjärjestelmillä. Valitse alta oma käyttöjärjestelmäsi:
 
@@ -21,7 +21,7 @@ Lataa TMC-NetBeansin uusin versio [tästä](http://update.testmycode.net/install
 
 Mikäli asentaminen onnistui ongelmitta jatka [seuraavaan vaiheeseen](#seuraavaksi).
 
-Jos asentaminen epäonnistui varmista että JDK on asennettuna ja yritä asentamista uudelleen. Mikäli asentaminen ei vieläkään onnistu voit kokeilla myös seuraavia ohjeita [NetBeansin ja TMC-liitännäisen asennus erikseen](/courses/general/ohjelmointi/asentaminen/netbeans#windows).
+Jos asentaminen epäonnistui varmista että JDK on asennettuna ja yritä asentamista uudelleen. Mikäli asentaminen ei vieläkään onnistu voit kokeilla myös seuraavia ohjeita [NetBeansin ja TMC-liitännäisen asennus erikseen](/courses/general/ohjelmointi/asentaminen/netbeans/#windows).
 
 # Mac OS X
 
@@ -33,7 +33,7 @@ Asentaminen tapahtuu purkamalla ladattu tiedosto ja suorittamalla pakkauksesta p
 
 Mikäli asentaminen onnistui ongelmitta jatka [seuraavaan vaiheeseen](#seuraavaksi).
 
-Jos asentaminen epäonnistui varmista että JDK on asennettuna ja yritä asentamista uudelleen. Mikäli asentaminen ei vieläkään onnistu voit kokeilla myös seuraavia ohjeita [NetBeansin ja TMC-liitännäisen asennus erikseen](/courses/general/ohjelmointi/asentaminen/netbeans#mac-os-x).
+Jos asentaminen epäonnistui varmista että JDK on asennettuna ja yritä asentamista uudelleen. Mikäli asentaminen ei vieläkään onnistu voit kokeilla myös seuraavia ohjeita [NetBeansin ja TMC-liitännäisen asennus erikseen](/courses/general/ohjelmointi/asentaminen/netbeans/#mac-os-x).
 
 # Linux
 
@@ -53,7 +53,7 @@ chmod o+x tmc-netbeans_mooc_tmcbeans-linux.sh
 
 Mikäli asentaminen onnistui ongelmitta jatka [seuraavaan vaiheeseen](#seuraavaksi).
 
-Jos asentaminen epäonnistui varmista että JDK on asennettuna ja yritä asentamista uudelleen. Mikäli asentaminen ei vieläkään onnistu voit kokeilla myös seuraavia ohjeita [NetBeansin ja TMC-liitännäisen asennus erikseen](/courses/general/ohjelmointi/asentaminen/netbeans#linux).
+Jos asentaminen epäonnistui varmista että JDK on asennettuna ja yritä asentamista uudelleen. Mikäli asentaminen ei vieläkään onnistu voit kokeilla myös seuraavia ohjeita [NetBeansin ja TMC-liitännäisen asennus erikseen](/courses/general/ohjelmointi/asentaminen/netbeans/#linux).
 
 # Seuraavaksi
 
@@ -62,5 +62,5 @@ Onnistuneen asennuksen jälkeen, siirry luomaan itsellesi käyttäjätunnusta Te
 Mikäli olet jo aiemmin luonut käyttäjätunnuksen esimerkiksi jotain toista kurssiamme varten, voit käyttää sitä ja siirtyä takaisin kurssille.
 
 <div class="actions">
-	<a class="action" href="/courses/general/ohjelmointi/rekisteroityminen">Siirry luomaan tunnuksia</a>
+	<a class="action" href="/courses/general/ohjelmointi/rekisteroityminen/">Siirry luomaan tunnuksia</a>
 </div>

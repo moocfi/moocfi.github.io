@@ -16,7 +16,7 @@ Keskimääräinen vastausaika IRC:ssä on vuorokaudenajasta riippuen **5-20 minu
 Voit käyttää IRC:ä joko tietokoneelle asennettavan asiakasohjelman kautta, tai sivullamme olevan selaimessa toimivat upotteen kautta.
 
 <div class="actions">
-	<a class="action" href="/courses/general/ohjelmointi/tukikanavat/irc" target="_blank">IRC upote</a>
+	<a class="action" href="/courses/general/ohjelmointi/tukikanavat/irc/" target="_blank">IRC upote</a>
 	<a class="action" href="/courses/general/ohjelmointi/tukikanavat/irc/ohjeet/" target="_blank">IRC ohjeet</a>
 </div>
 
