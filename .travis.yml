@@ -9,7 +9,7 @@ before_script:
   - bundle exec jekyll build
 
 script:
-  - rake test
+  - bundle exec rake test
 
 # branch whitelist
 branches:
