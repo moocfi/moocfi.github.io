@@ -3,6 +3,7 @@ language: ruby
 script: ./script/cibuild
 
 cache: bundler
+sudo: false
 
 before_script:
   - bundle exec jekyll build
