@@ -29,6 +29,8 @@ resources:
     - "//code.jquery.com/jquery-1.11.0.min.js"
     - "/js/mooc.js"
 
+exclude: [vendor]
+
 defaults:
   -
     scope:
