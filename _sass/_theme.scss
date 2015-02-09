@@ -29,12 +29,13 @@ main article {
 }
 
 .not_now a,
+.not_now input,
 .not_now a:visited {
 	background-color: #c0c0c0;
-}
 
-.not_now a:hover {
-	background-color: #c0c0c0;
+	&:hover {
+		background-color: #c0c0c0;
+	}
 }
 
 @media all and (max-width: 760px) {
