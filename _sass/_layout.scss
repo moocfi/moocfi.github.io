@@ -41,14 +41,15 @@ body > header > h1 {
 	padding: 0 20px;
 }
 
-body > header > h1 > p:first-child {
-	border-bottom: 1px solid black;
-	margin-bottom: 0px;
-	margin-top: 52px;
-}
-
-body > header > h1 > p:last-child {
+body > header > h1 > span {
+	display: block;
 	margin-top: 0px;
+
+	&:first-child {
+		border-bottom: 1px solid black;
+		margin-bottom: 0px;
+		margin-top: 45px;
+	}
 }
 
 body > header.no-nav {
