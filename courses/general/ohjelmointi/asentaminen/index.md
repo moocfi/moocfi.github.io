@@ -23,3 +23,5 @@ Mikäli tietokoneellasi on jo valmiiksi asennettuna Java 8 -ohjelmistokehityspak
 	<a class="action primary" href="/courses/general/ohjelmointi/asentaminen/netbeans/">Netbeans &amp; Java</a>
 	<a class="action" href="/courses/general/ohjelmointi/asentaminen/tmcbeans/">TMCBeans</a>
 </div>
+
+Ulkopuoliset tahot ovat myös tuottaneet komentorivikäyttöisen [TMC.py](https://github.com/JuhaniImberg/tmc.py) -python asiakasohjelman. MOOC.FI ei kuitenkaan tarjoa tämän työkalun käyttöön mitään tukea.
