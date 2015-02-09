@@ -27,7 +27,7 @@ resources:
 
 		</section>
 		<section class="call_to_action">
-			<a href="{{ "/courses/2015/ohjelmoinnin-mooc/" | prepend: site.baseurl }}">
+			<a href="{{ "/courses/2015/ohjelmoinnin-mooc/" | prepend: site.baseurl }}" onclick="ga('send', 'event', 'button', 'click', 'k2015-aloita-tasta')">
 				Aloita tästä!
 			</a>
 		</section>
@@ -109,7 +109,7 @@ resources:
 			</section>
 
 			<section class="call_to_action">
-				<input type="submit" value="Lähetä">
+				<input type="submit" value="Lähetä" onclick="ga('send','event','button','click','subscribe')">
 			</section>
 		</form>
 	</section>
