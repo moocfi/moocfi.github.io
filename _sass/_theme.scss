@@ -26,15 +26,20 @@ main article {
 .call_to_action a:visited {
 	background-color: #3dbba6;
 	border: 0;
+
+	//Fix for Safari input styles
+	-webkit-appearance: none;
+  border-radius: 0
 }
 
 .not_now a,
+.not_now input,
 .not_now a:visited {
 	background-color: #c0c0c0;
-}
 
-.not_now a:hover {
-	background-color: #c0c0c0;
+	&:hover {
+		background-color: #c0c0c0;
+	}
 }
 
 @media all and (max-width: 760px) {

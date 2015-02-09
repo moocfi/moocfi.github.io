@@ -2,7 +2,7 @@
 
 1. En osaa tehdä tehtävää N?
 
-	Apua tehtävän tekemiseen löydät materiaalista sekä internetistä. Erityisen suositeltavaa on liittyä IRCnetissä olevalle kanavalle #mooc.fi, katso lisäohjeita seuraavasta [IRC ohjeet]({{"/courses/general/irc-ohjeet.html" | prepend: site.baseurl }}).
+	Apua tehtävän tekemiseen löydät materiaalista sekä internetistä. Erityisen suositeltavaa on liittyä IRCnetissä olevalle kanavalle #mooc.fi, katso lisäohjeita seuraavasta [IRC ohjeet]({{"/courses/general/tukikanavat/irc/ohjeet/" | prepend: site.baseurl }}).
 
 2. Miten esitän ongelmani IRC:ssä?
 
