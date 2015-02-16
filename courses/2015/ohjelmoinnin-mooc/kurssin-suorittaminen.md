@@ -10,7 +10,7 @@ Ohjelmoinnin MOOC -kurssin voi suorittaa neljällä tavalla:
 1. Fiilispohjalta tai olemassaolevan ohjelmointitaidon kertaamiseksi: 
   - Kurssille ilmoittautuminen ei velvoita mihinkään, eli osallistua voi ihan vain huvin vuoksi. 
   - Nimeään tai yhteystietojaan (sähköpostia lukuunottamatta) ei tällöin tarvitse ilmoittaa. 
-
+  - Eteneminen kurssilla ei edellytä tehtävien palauttamista. Voit siis jatkaa kurssilla vaikka jollakin viikolla tehtävien tekeminen jäisikin vähemmälle.
 
 2. Opintojasi (muu kuin Helsingin yliopisto) varten:
   - Kurssin voi suorittaa joko 5 op (7 ensimmäistä viikkoa) tai 5+5 op:n (koko kurssi) laajuisena.
@@ -18,11 +18,10 @@ Ohjelmoinnin MOOC -kurssin voi suorittaa neljällä tavalla:
   - Pakollinen minimimäärä tehtyjen tehtävien suhteen riippuu koulustasi -- me emme sitä aseta. Kurssin menestyksekäs suoritus on tyypillisesti kuitenkin mahdollista vain kun teet säännöllisesti suurimman osan viikoittaisista tehtävistä.
   - Saat kurssin suorittamisesta diplomin sekä kurssisuorituksen jos tulet opiskelemaan Helsingin yliopistoon.
 
-
 3. Opintojasi (Helsingin yliopisto) varten:
   - Suosittelemme että osallistut tietojenkäsittelytieteen laitoksen normaalisti järjestämille kursseille Ohjelmoinnin perusteet ja Ohjelmoinnin jatkokurssi.
   - Voit kuitenkin myös suorittaa kurssit tekemällä MOOC:in ja osallistumalla tietojenkäsittelytieteen laitoksen tentteihin. 
- 
+  - Eteneminen kurssilla ei edellytä tehtävien palauttamista. Voit siis jatkaa kurssilla vaikka jollakin viikolla tehtävien tekeminen jäisikin vähemmälle. 
   
 4. Opinto-oikeutta hakien: osalla kurssin suorittajista on mahdollista saada opinto-oikeus Helsingin yliopistoon sekä tutkinnon kaksi pakollista ohjelmointikurssia suoritetuksi:
   - Suorita jokaisesta tehtäväsetistä/viikosta vähintään 90% pisteistä (jokainen tehtävän alikohta lasketaan yhdeksi pisteeksi, alikohdattomat tehtävät ovat yhden pisteen arvoisia, ja jokainen selitystehtävä on kahden pisteen arvoinen). 
