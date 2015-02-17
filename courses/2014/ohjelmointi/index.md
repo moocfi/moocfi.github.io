@@ -4,6 +4,9 @@ layout: course
 main-class: has-aside
 sidenav: 2014/ohjelmointi
 ---
+
+**Kurssille ei voi enää ilmoittautua. Kevään 2015 kurssi löytyy [täältä](/courses/2015/ohjelmoinnin-mooc/).**
+
 Ohjelmointi on tietokoneen käskemistä. Kurssilla perehdytään algoritmien laatimiseen ja nykyaikaisen ohjelmoinnin perusideoihin. Opiskelijalta ei edellytetä ennakkotietoja ohjelmoinnista.
 
 - MOOCien perusajatuksen mukaisesti kurssille osallistumisen kynnys on hyvin matala (joten nimimerkillä ilmoittautuminen sallitaan), eikä kurssin keskeyttämisestä ole sanktioita. 
