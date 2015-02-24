@@ -34,12 +34,13 @@ nav {
 
 #week-selector.active ul {
 	display: block;
+	padding-top: 40px;
 }
 
 #week-selector li {
 	list-style-type: none;
 	list-style-position: inside;
-	padding: 5px 5px;
+	padding: 0;
 	margin-bottom: 1px;
 
 	&:hover,
@@ -49,21 +50,22 @@ nav {
 
 	&.closed {
 		background: darken($link-color, 5%);
-	    position: relative;
+	  position: relative;
 
-	    &:hover:after {
-	    	text-align: center;
-	    	width: 90%;
-	        background: #333;
-	        background: rgba(0,0,0,.8);
-	        color: #fff;
-	        content: attr(title);
-	        padding: 10px 5%;
-	        z-index: 98;
-	        position: absolute;
-	        left: 0;
-	        top: 0;
-	    }
+    &:hover:after {
+    	text-align: center;
+    	width: 100%;
+      background: #333;
+      background: rgba(0,0,0,.8);
+      color: #fff;
+      content: attr(title);
+      z-index: 98;
+      position: absolute;
+      left: 0;
+      top: 50%;
+  		transform: translateY(-50%);
+  		padding: 5px 0;
+    }
 	}
 }
 
@@ -71,6 +73,8 @@ nav {
     color: white;
     font-family: $nav-font;
     font-size: 1.5em;
+    display: block;
+    padding: 10px 10px;
 
     &:hover {
 	    background: none;
@@ -96,13 +100,12 @@ nav {
 		display: block;
 		word-spacing: 0;
 		padding: 0;
-		text-align: justify;
+		text-align: center;
 	}
 
 	#week-selector li {
 		display: inline-block;
 		min-height: 50px;
-		padding: 10px 15px;
 		margin: 0;
 	}
 
