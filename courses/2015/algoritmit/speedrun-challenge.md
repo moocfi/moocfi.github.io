@@ -8,7 +8,7 @@ sidenav: 2015/algoritmit
 
 Kisan etenemistä voi seurata <https://tmc.mooc.fi/mooc/courses/29/points?sort_by=total_points>, johon osallistujien oikein palauttamat tehtävät kirjautuvat. 
 
-Mikäli mahdollista, pyydämme myös osallistujia ottamaan screencasteja koodaamisestaan ja laittamaan ne jonnekkin nettiin. Näin voimme myöhemmin fiilistellä osallistujien ihmeellisiä ohjelmatekeleitä sekä koodin aiheuttamia kääntäjän virheilmoituksia.
+Mikäli mahdollista, pyydämme osallistujia ottamaan screencasteja koodaamisestaan ja laittamaan ne jonnekkin nettiin. Näin voimme myöhemmin fiilistellä osallistujien ihmeellisiä ohjelmatekeleitä sekä koodin aiheuttamia kääntäjän virheilmoituksia.
 
 # SpeedRun Challenge 2014 – tulokset:
 
