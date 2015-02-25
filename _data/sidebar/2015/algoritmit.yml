@@ -2,11 +2,6 @@ header: Algoritmien MOOC
 path: /courses/2015/algoritmit
 navigation:
   -
-    name: Tehtävät
-    path: http://mooc.fi/algomooc/viikko1.html
-    ext: true
-    target: _blank
-  -
     name: SpeedRun Challenge
     path: /speedrun-challenge.html
   -
