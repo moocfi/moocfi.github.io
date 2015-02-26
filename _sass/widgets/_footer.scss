@@ -38,6 +38,7 @@ body > footer > article > section:last-child {
 
 #contact .facebook,
 #contact .irc,
+#contact .email,
 #contact .sourceforge {
 	position: relative;
 	top: -30px;
@@ -45,6 +46,7 @@ body > footer > article > section:last-child {
 
 #contact .facebook:before,
 #contact .irc:before,
+#contact .email:before,
 #contact .sourceforge:before {
 	margin-right: 10px;
 	position: relative;
@@ -57,6 +59,10 @@ body > footer > article > section:last-child {
 
 #contact .irc:before {
 	content: url(../img/social-media-irc.png);
+}
+
+#contact .email:before {
+	content: url(../img/social-media-email.png);
 }
 
 #contact .sourceforge:before {
