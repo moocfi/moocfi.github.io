@@ -20,7 +20,7 @@ Kurssi koostuu kahdestatoista tehtäväsetistä, joista kuusi ensimmäistä julk
 
 AlgoMOOC-kurssilla ei ole erillistä oppimateriaalia. Tehtävät liittyvät Helsingin yliopiston kurssin **Tietorakenteet ja algoritmit** aihepiiriin. Osa tehtävistä on mahdollista tehdä luovaa ongelmanratkaisua käyttäen, osissa sovelletaan joitain tietorakenteita ja algoritmeja ja joudut hakemaan tietoa itse esim. internetistä. 
 
-Tehtävissä käsiteltävistä tietorakenteista (linkitetty lista, binäärihakupuu, hajautustaulu, keko, verkko) löytyy tietoa kurssin luentomateriaalista: [Helsingin yliopiston Tietorakenteet -kurssin luentokalvot (Kevät 2014)](http://www.cs.helsinki.fi/u/floreen/tira2014/tira.pdf). Tutustu myös [kisakoodarin käsikirjaan](http://cses.fi/kkkk.pdf).
+Tehtävissä käsiteltävistä tietorakenteista (linkitetty lista, binäärihakupuu, hajautustaulu, keko, verkko) löytyy tietoa kurssin luentomateriaalista: [Helsingin yliopiston Tietorakenteet -kurssin luentokalvot (Kevät 2014)](http://www.cs.helsinki.fi/u/floreen/tira2014/tira.pdf). Tutustu myös [Kisakoodarin käsikirjaan](http://cses.fi/kkkk.pdf).
 
 # Ilmoittautuminen ja tehtävien tekeminen
 
