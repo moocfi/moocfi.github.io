@@ -2,6 +2,10 @@ header: Algoritmien MOOC
 path: /courses/2015/algoritmit
 navigation:
   -
+    name: Materiaali
+    path: http://mooc.fi/2015-algoritmit/
+    target: _blank
+  -
     name: SpeedRun Challenge
     path: /speedrun-challenge.html
   -
