@@ -44,36 +44,9 @@ redirect_from:
 
 		<p>Tehtävät ovat osa Helsingin yliopiston kurssia <em>Tieto&shy;rakenteen ja algoritmit</em>.</p>
 	</section>
-	<section class="call_to_action not_now">
+	<section class="call_to_action">
 		<a href="{{ "/courses/2015/algoritmit/" | prepend: site.baseurl }}">
-			<span id="counter">Kurssi alkaa<br>99:99:99</span>
-			<span id="counter-reveal" style="display: none;">Kurssi meneillään</span>
-			<script>
-			var countdown = 1425654000000;
-			var target = document.getElementById("counter");
-			var countdownInterval;
-			var countDownUpdate = function() {
-				var difference = (countdown - new Date().getTime()) / 1000;
-				if (difference <= 0) {
-					document.getElementById('counter-reveal').style.display = null;
-					target.parentNode.parentNode.className = 'call_to_action';
-					target.style.display = 'none';
-					clearInterval(countdownInterval);
-					return;
-				}
-				var hours = Math.floor(difference / (60 * 60));
-
-				var divisor_for_minutes = difference % (60 * 60);
-				var minutes = Math.floor(divisor_for_minutes / 60);
-
-				var divisor_for_seconds = divisor_for_minutes % 60;
-				var seconds = Math.floor(divisor_for_seconds);
-				target.innerHTML = "Kurssi alkaa<br>" + (hours < 10 ? '0':'') + hours + ':' + (minutes < 10 ? '0':'') + minutes + ':' + (seconds < 10 ? '0':'') + seconds;
-
-			};
-			countDownUpdate();
-			countdownInterval = setInterval(countDownUpdate,1000);
-			</script>
+			Kurssi meneillään
 		</a>
 	</section>
 </article>
