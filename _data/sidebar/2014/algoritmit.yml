@@ -21,6 +21,6 @@ navigation:
     target: _blank
   -
     name: Tulostaulu
-    path: http://tmc.mooc.fi/mooc/courses/19/points?sort_by=total_points
+    path: https://tmc.mooc.fi/mooc/courses/19/points?sort_by=total_points
     ext: true
     target: _blank

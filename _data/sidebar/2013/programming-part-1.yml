@@ -26,6 +26,6 @@ navigation:
     target: _blank
   -
     name: Scoreboard
-    path: http://tmc.mooc.fi/mooc/courses/12/points
+    path: https://tmc.mooc.fi/mooc/courses/12/points
     ext: true
     target: _blank

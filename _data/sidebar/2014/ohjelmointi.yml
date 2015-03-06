@@ -24,6 +24,6 @@ navigation:
     path: /hy-opiskelijoille.html
   -
     name: Tulostaulu
-    path: http://tmc.mooc.fi/mooc/courses/20/points
+    path: https://tmc.mooc.fi/mooc/courses/20/points
     ext: true
     target: _blank
