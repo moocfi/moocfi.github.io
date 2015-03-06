@@ -4,6 +4,7 @@ navigation:
   -
     name: Materiaali
     path: http://mooc.fi/2015-algoritmit/
+    ext: true
     target: _blank
   -
     name: SpeedRun Challenge
