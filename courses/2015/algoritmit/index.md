@@ -26,4 +26,4 @@ Tehtävissä käsiteltävistä tietorakenteista (linkitetty lista, binäärihaku
 
 Osallistuaksesi AlgoMOOCiin tulee sinulla olla tunnus [TestMyCode-palveluumme](https://tmc.mooc.fi/mooc/). Jos olet jo rekisteröitynyt Ohjelmoinnin MOOCin yhteydessä, se riittää. Jos et ole vielä [asentanut NetBeansia ja TMC-lisäosaa]({{"/courses/general/ohjelmointi/asentaminen/" | prepend: site.baseurl }}), tee se ennen kuin aloitat.
 
-Pääset käsiksi AlgoMOOC-tehtäviin vaihtamalla NetBeansin *TMC / Settings* -valikosta kurssiksi **k2015-algomooc**. Kun palaat jälleen tekemään Ohjelmoinnin MOOCin tehtäviä, joudut vaihtamaan kurssiksi **k2015-ohjelmointi**.
+Pääset käsiksi AlgoMOOC-tehtäviin vaihtamalla NetBeansin *TMC / Settings* -valikosta kurssiksi **2015-algoritmit**. Kun palaat jälleen tekemään Ohjelmoinnin MOOCin tehtäviä, joudut vaihtamaan kurssiksi **k2015-ohjelmointi**.
