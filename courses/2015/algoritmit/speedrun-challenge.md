@@ -6,7 +6,7 @@ sidenav: 2015/algoritmit
 ---
 **Algoritmien MOOC julkaistaan 6.3.2015 kello 17.00.** Tällöin avautuvat kurssin kuusi ensimmäistä tehtäväsettiä. Haastamme kaikki algoritmien vääntämisestä kiinnostuneet mukaan kisaamaan siitä, kuka kykenee koodamaan nopeiten kaikki ensimmäisen kuuden setin tehtävät. Palkinnoksi lupaamme kolmelle nopeimmalle t-paidat sekä tietenkin mainetta ja kunniaa. *Et kuitenkaan voi osallistua kilpailuun, jos olet jo tehnyt tehtävät Helsingin yliopiston kurssin Tietorakenteet ja algoritmit yhteydessä.*
 
-Kisan etenemistä voi seurata <https://tmc.mooc.fi/mooc/courses/29/points?sort_by=total_points>, johon osallistujien oikein palauttamat tehtävät kirjautuvat. 
+Kisan etenemistä voi seurata <https://tmc.mooc.fi/mooc/courses/30/points?sort_by=total_points>, johon osallistujien oikein palauttamat tehtävät kirjautuvat.
 
 Mikäli mahdollista, pyydämme osallistujia ottamaan screencasteja koodaamisestaan ja laittamaan ne jonnekkin nettiin. Näin voimme myöhemmin fiilistellä osallistujien ihmeellisiä ohjelmatekeleitä sekä koodin aiheuttamia kääntäjän virheilmoituksia.
 
