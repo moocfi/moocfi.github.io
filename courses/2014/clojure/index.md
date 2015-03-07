@@ -4,6 +4,8 @@ layout: course
 main-class: has-aside
 sidenav: 2014/clojure
 english: true
+redirect_from:
+  - /clojure/
 ---
 ```clojure
 (defn hello [name]

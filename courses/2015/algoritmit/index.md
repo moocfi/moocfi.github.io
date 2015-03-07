@@ -20,10 +20,10 @@ Kurssi koostuu kahdestatoista tehtäväsetistä, joista kuusi ensimmäistä julk
 
 AlgoMOOC-kurssilla ei ole erillistä oppimateriaalia. Tehtävät liittyvät Helsingin yliopiston kurssin **Tietorakenteet ja algoritmit** aihepiiriin. Osa tehtävistä on mahdollista tehdä luovaa ongelmanratkaisua käyttäen, osissa sovelletaan joitain tietorakenteita ja algoritmeja ja joudut hakemaan tietoa itse esim. internetistä. 
 
-Tehtävissä käsiteltävistä tietorakenteista (linkitetty lista, binäärihakupuu, hajautustaulu, keko, verkko) löytyy tietoa kurssin luentomateriaalista: [Helsingin yliopiston Tietorakenteet -kurssin luentokalvot (Kevät 2014)](http://www.cs.helsinki.fi/u/floreen/tira2014/tira.pdf). Tutustu myös [kisakoodarin käsikirjaan](http://cses.fi/kkkk.pdf).
+Tehtävissä käsiteltävistä tietorakenteista (linkitetty lista, binäärihakupuu, hajautustaulu, keko, verkko) löytyy tietoa kurssin luentomateriaalista: [Helsingin yliopiston Tietorakenteet -kurssin luentokalvot (Kevät 2014)](http://www.cs.helsinki.fi/u/floreen/tira2014/tira.pdf). Tutustu myös [Kisakoodarin käsikirjaan](http://cses.fi/kkkk.pdf).
 
 # Ilmoittautuminen ja tehtävien tekeminen
 
-Osallistuaksesi AlgoMOOCiin tulee sinulla täytyy olla tunnus [TestMyCode-palveluumme](http://tmc.mooc.fi/mooc). Jos olet jo rekisteröitynyt Ohjelmoinnin MOOCin yhteydessä, se riittää. Jos et ole vielä [asentanut NetBeansia ja TMC-lisäosaa]({{"/courses/general/ohjelmointi/asentaminen/" | prepend: site.baseurl }}), tee se ennen kuin aloitat.
+Osallistuaksesi AlgoMOOCiin tulee sinulla olla tunnus [TestMyCode-palveluumme](https://tmc.mooc.fi/mooc/). Jos olet jo rekisteröitynyt Ohjelmoinnin MOOCin yhteydessä, se riittää. Jos et ole vielä [asentanut NetBeansia ja TMC-lisäosaa]({{"/courses/general/ohjelmointi/asentaminen/" | prepend: site.baseurl }}), tee se ennen kuin aloitat.
 
-Pääset käsiksi AlgoMOOC-tehtäviin vaihtamalla NetBeansin *TMC / Settings* -valikosta kurssiksi **k2015-algomooc**. Kun palaat jälleen tekemään Ohjelmoinnin MOOCin tehtäviä, joudut vaihtamaan kurssiksi **k2015-ohjelmointi**.
+Pääset käsiksi AlgoMOOC-tehtäviin vaihtamalla NetBeansin *TMC / Settings* -valikosta kurssiksi **2015-algoritmit**. Kun palaat jälleen tekemään Ohjelmoinnin MOOCin tehtäviä, joudut vaihtamaan kurssiksi **k2015-ohjelmointi**.

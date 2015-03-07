@@ -2,6 +2,11 @@ header: Algoritmien MOOC
 path: /courses/2015/algoritmit
 navigation:
   -
+    name: Materiaali
+    path: http://mooc.fi/2015-algoritmit/
+    ext: true
+    target: _blank
+  -
     name: SpeedRun Challenge
     path: /speedrun-challenge.html
   -
@@ -16,6 +21,6 @@ navigation:
     target: _blank
   -
     name: Tulostaulu
-    path: "https://tmc.mooc.fi/mooc/courses/29/points?sort_by=total_points"
+    path: "https://tmc.mooc.fi/mooc/courses/30/points?sort_by=total_points"
     ext: true
     target: _blank
