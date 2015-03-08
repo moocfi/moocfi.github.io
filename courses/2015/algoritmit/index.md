@@ -4,7 +4,7 @@ layout: course
 main-class: has-aside
 sidenav: 2015/algoritmit
 ---
-**Kurssi alkaa 6.3.2015 17:00.**
+**Kurssi on käynnissä.**
 
 **HUOM!** Kaikki kurssin tehtävät ovat täysin uusia. Haastetta riittää myös aiempiin AlgoMOOCeihin osallistuneille.
 
