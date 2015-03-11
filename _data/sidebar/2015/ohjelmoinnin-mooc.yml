@@ -10,7 +10,10 @@ navigation:
     name: Materiaali
     path: http://2015-ohjelmointi.mooc.fi
     ext: true
-    target: _blank
+  -
+    name: Ohjeita
+    path: /courses/general/ohjelmointi/ukk/
+    base: true
   -
     name: Aikataulu ja sisältö
     path: /aikataulu.html
@@ -23,4 +26,3 @@ navigation:
   -
     name: Tulostaulu
     path: /tulostaulu.html
-    target: _blank
