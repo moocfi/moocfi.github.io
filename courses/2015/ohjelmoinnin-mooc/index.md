@@ -22,7 +22,7 @@ Ennen kuin voit aloittaa tehtävien tekemisen, tulee sinun suorittaa muutamia al
 
 Ohjelmoinnin MOOC 2015 -kurssista on tällä hetkellä käynnissä kaksi eri versiota. **Mikäli suoritat MOOCia tavoitteenasi opinto-oikeuden saaminen, sinun täytyy valita kurssiksi <em>k2015-ohjelmointi</em>**. Tällä kurssilla on ehdottomat deadlinet. Koska ensimmäinen deadline on jo mennyt, kurssin aloittaminen ei ole enää mahdollista.
 
-Mikäli suoritat kurssia omaksi iloksesi &mdash; tai aloitat vasta nyt &mdash; voit valita kurssin **<em>2015-nodl-ohjelmointi</em>**. Tällä kurssilla ei ole viikoittaisia deadlineja, vaan seuraava viikko aukeaa aina kun olet saanut vähintään 85% edeltävän viikon TMC-pisteistä. Tämän kurssin kautta **EI** ole mahdollista hakea opinto-oikeutta Helsingin Yliopistolle.
+Mikäli suoritat kurssia omaksi iloksesi &mdash; tai aloitat vasta nyt &mdash; voit valita kurssin **<em>2015-nodl-ohjelmointi</em>**. Tällä kurssilla ei ole viikoittaisia deadlineja, vaan seuraava viikko aukeaa aina kun olet saanut vähintään 85% edeltävän viikon TMC-pisteistä. Selitystehtäviin vastaaminen ei toistaiseksi ole mahdollista deadlinejen vuoksi. Tämän kurssin kautta **EI** ole mahdollista hakea opinto-oikeutta Helsingin Yliopistolle.
 
 # Materiaali
 
