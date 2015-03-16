@@ -137,8 +137,17 @@ main > header h1 {
 	}
 }
 
+/*
+ * No ::first-line for <input> in FireFox. 
+ * This caused text to have different sizes between Chrome and FF. 
+ * Fix by using hard pixels instead.
+ */
 .call_to_action input {
-	font-size: 1.5em;
+	font-size: 24px;
+
+	&:first-line {
+		font-size: 24px;
+	}
 }
 
 @media all and (max-width: 1160px) {
