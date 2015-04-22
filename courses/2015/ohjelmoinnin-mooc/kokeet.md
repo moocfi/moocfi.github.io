@@ -1,5 +1,5 @@
 ---
-title: "Tärkeää tietoa MOOC-kurssin kokeista ja näyttökokeesta."
+title: "Tärkeää tietoa MOOC-kurssin kokeista ja näyttökokeesta"
 layout: course
 main-class: has-aside
 sidenav: 2015/ohjelmoinnin-mooc
