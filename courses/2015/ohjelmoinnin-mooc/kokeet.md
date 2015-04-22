@@ -14,9 +14,9 @@ Kutsuja näyttökokeisiin lähetetään päivittäin osallistujille, jotka ovat 
 
 Jos haluat kurssista kurssitodistuksen, järjestämme Helsingin yliopiston tietojenkäsittelytieteen laitoksella kurssikokeita seuraavina ajankohtina:
 
-Keskiviikkona 6.5.2015 klo 16:00
-Perjantaina 8.5.2015 klo 16:00
-Perjantaina 15.5.2015 klo 15:00
+- Keskiviikkona 6.5.2015 klo 16:00
+- Perjantaina 8.5.2015 klo 16:00
+- Perjantaina 15.5.2015 klo 15:00
 
 Kurssikokeisiin ilmoittautuminen tapahtuu sähköisesti osoitteessa <http://goo.gl/forms/8Ws0FZLTZT>
 
