@@ -36,4 +36,4 @@ Jos haluat kurssista kurssitodistuksen, järjestämme Helsingin yliopiston tieto
 - Perjantaina 8.5.2015 klo 16:00
 - Perjantaina 15.5.2015 klo 15:00
 
-Kurssikokeisiin ilmoittautuminen tapahtuu sähköisesti osoitteessa http://goo.gl/forms/8Ws0FZLTZT
+Kurssikokeisiin ilmoittautuminen tapahtuu sähköisesti osoitteessa <http://goo.gl/forms/8Ws0FZLTZT>
