@@ -27,4 +27,13 @@ Viikko 12  | 17.4.     | 3.5.      |  Tiedostoon kirjoittaminen, graafiset käyt
 Viikko 13  | 24.4.     | 10.5.     |  Säännölliset lausekkeet, iteraattori, enum
 Viikko 14  | 1.5.      | 17.5.     |  Kertausta
 
-Haastattelut alkavat huhtikuun lopulla.
+Kutsuja näyttökokeisiin lähetetään päivittäin osallistujille, jotka ovat keränneet riittävän määrän pisteitä viikkoon 12 asti. Vaatimuksena näyttökokeeseen osallistumiselle ja mahdollisen opinto-oikeuden saamiselle on 90% pisteistä jokaiselta ensimmäiseltä 13 kurssiviikolta.
+
+
+Jos haluat kurssista kurssitodistuksen, järjestämme Helsingin yliopiston tietojenkäsittelytieteen laitoksella kurssikokeita seuraavina ajankohtina:
+
+- Keskiviikkona 6.5.2015 klo 16:00
+- Perjantaina 8.5.2015 klo 16:00
+- Perjantaina 15.5.2015 klo 15:00
+
+Kurssikokeisiin ilmoittautuminen tapahtuu sähköisesti osoitteessa http://goo.gl/forms/8Ws0FZLTZT
