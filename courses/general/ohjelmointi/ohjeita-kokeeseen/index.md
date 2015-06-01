@@ -4,9 +4,10 @@ layout: course
 main-class: has-aside
 sidenav: general/ohjeita
 ---
-**KOE TEHDÄÄN KOKONAAN PAPERILLE. TIETOKONEIDEN YMS. KÄYTTÖ ON KIELLETTY.**
 
-Koe sisältää useita pieniä ohjelmointitehtäviä. Tehtävät ovat samantyyppisiä kuin mitä harjoitustehtävissä on harjoiteltu. Kokeessa ohjelmointi tehdään paperille.
+**TÄMÄ OHJE KOSKEE VAIN KURSSEJA, JOILLE JÄRJESTETÄÄN ERILLINEN KOE.**
+
+Koe sisältää useita pieniä ohjelmointitehtäviä. Tehtävät ovat samantyyppisiä kuin mitä harjoitustehtävissä on harjoiteltu. **Koe tehdään kokonaan paperille. Tietokoneiden yms. käyttö ehdottomasti kielletty.**
 
 Kokeen kannalta kurssin kaikki viikot ovat tärkeitä, ohjelmoinnin jatkokurssi on toki peruskurssia tärkeämmässä roolissa. **Graafisiin käyttöliittymiin liittyvää ohjelmointitehtävää kokeissa ei ole. Ohjelmointitehtäviä ei myöskään tule säännöllisistä lausekkeista.**
 
