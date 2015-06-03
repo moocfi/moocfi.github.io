@@ -21,7 +21,7 @@ Ennen kuin voit aloittaa tehtävien tekemisen, tulee sinun suorittaa muutamia al
 
 Suoritettuasi asennutoimenpiteet valitse TMC:n asetuksista kurssi **<em>2015-nodl-ohjelmointi</em>**. 
 
-Kurssilla ei ole viikoittaisia deadlineja, vaan seuraava viikko aukeaa aina kun olet saanut vähintään 85% edeltävän viikon TMC-pisteistä. Selitystehtäviin vastaaminen ei toistaiseksi ole mahdollista deadlinejen vuoksi. Tämän kurssin kautta **EI** ole mahdollista hakea opinto-oikeutta Helsingin Yliopistolle.
+Kurssilla ei ole viikoittaisia deadlineja, vaan seuraava viikko aukeaa aina kun olet saanut vähintään 85% edeltävän viikon TMC-pisteistä. Tämän kurssin kautta **EI** ole mahdollista hakea opinto-oikeutta Helsingin Yliopistolle.
 
 # Materiaali
 
