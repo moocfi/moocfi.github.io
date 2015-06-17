@@ -4,6 +4,9 @@ layout: course
 main-class: has-aside
 sidenav: 2013/programming-part-1
 english: true
+redirect_from: 
+  - /programming-part1/material/
+  - /programming-part1/material.html
 ---
 **Note: each week unlocks after you have been rewarded 85% of the points from the previous week.**
 
