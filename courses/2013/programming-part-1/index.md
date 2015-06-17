@@ -4,6 +4,7 @@ layout: course
 main-class: has-aside
 sidenav: 2013/programming-part-1
 english: true
+redirect_from: /programming-part1
 ---
 **Welcome to [University of Helsinki](http://helsinki.fi/university)'s massive open online course (MOOC) on object-oriented programming!** 
 
