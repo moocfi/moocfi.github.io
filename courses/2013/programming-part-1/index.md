@@ -16,31 +16,28 @@ During this course you will learn all the basics of computer programming, algori
 
 Unlike many programming courses found online, ours is completely unabridged: the course's scope and material are **identical to our own CS1** programming courses. This first part consists of 6 sets of tasks, corresponding to the 6 weeks of effort in the course taught at [our department](http://www.cs.helsinki.fi/en).
 
-This is the first course in our computer science learning track and we use industry strength tools from day one. Therefore the course is about programming in a real integrated development environment (IDE) and not in the browser or an educational IDE. The page '[How to get started]({{ "/courses/general/programming/how-to-get-started.html" | prepend: site.baseurl }})' will explain the details for setting up all necessary tools.
+This is the first course in our computer science learning track and we use industry strength tools from day one. Therefore the course is about programming in a real integrated development environment (IDE) and not in the browser or an educational IDE.
 
-After you are finished, go to [part II]({{ "/courses/2013/programming-part-2/" | prepend: site.baseurl }}). 
+<div class="actions">
+    <a class="action primary" href="/courses/general/programming/how-to-get-started.html" target="_blank">First, set up your tools</a>
+</div>
 
-# Schedule
+After installing the required tools, you are ready start learning Java and programming.
 
-- Week 1
-	- User input
-	- Printing on screen
-	- Conditional statements
-- Week 2
-	- Loops
-	- Basics of methods
-- Week 3
-	- Methods
-	- ArrayList data structure
-- Week 4
-	- Basics of objects
-- Week 5
-	- More on objects
-- Week 6
-	- Tables
-	- Sorting
-	- Searching
+<div class="actions">
+    <a class="action" href="/courses/2013/programming-part-1/material.html" target="_blank">Start learning</a>
+</div>
 
 {% include courses/programming/contact-information.md %}
+
+# What next?
+
+Done already? If you would like to continue your journey to mastery of Java, why not try the second part of this course? 
+
+The second part provides six more weeks of material and exercises and introduces more advanced concepts such as graphical interfaces.
+
+<div class="actions">
+    <a class="action" href="/courses/2013/programming-part-2/" target="_blank">Part II of the course</a>
+</div>
 
 {% include courses/programming/about-organizinging-institution.md %}

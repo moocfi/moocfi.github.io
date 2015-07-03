@@ -6,6 +6,5 @@ The Linkki Centre organizes outreach activites in computer science under the Sci
 
 The MOOC courses are organized by the Department of Computer Science and the Linkki Centre operating at the department; the RAGE research group is responcible for teaching and course arrengements. The Technology Industries of Finland Centennial Foundation has funded some parts of the operation.
 
-
-[![Linkki]({{ "/img/linkki-logo.png" | prepend: site.baseurl }})](http://linkki.cs.helsinki.fi/)
-[![Rage]({{ "/img/rage.png" | prepend: site.baseurl }})](http://www.cs.helsinki.fi/rage)
+[<img src="{{ "/img/linkki-logo.png" | prepend: site.baseurl }}" style="max-width: 45%; display: inline-block" alt="Linkki">](http://linkki.cs.helsinki.fi/)
+[<img src="{{ "/img/rage.png" | prepend: site.baseurl }}" style="max-width: 45%; display: inline-block" alt="Linkki">](http://cs.helsinki.fi/rage)

@@ -1,6 +1,4 @@
-# Contact information
-
-## Help with the exercises
+# Help with the exercises
 
 - [IRC]({{"/courses/general/programming/irc-guide.html" | prepend: site.baseurl }}) (Internet Relay Chat)
 	- Average response time 20 minutes
@@ -9,11 +7,11 @@
 - [Google Groups]({{"/courses/general/programming/google-groups.html" | prepend: site.baseurl }})
 	-  Average response time 2 working days
 
-## Technical issues and bugs
+# Technical issues and bugs
 
 - Use our [ticket system](https://sourceforge.net/p/mooc-issues/tickets/) to report the issue
 
-## Other business
+# Other business
 
 - Send mail to <mooc@cs.helsinki.fi>
 	- The email address is intended for administrative use only. For assistance with exercises see above.
