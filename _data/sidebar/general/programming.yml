@@ -5,6 +5,9 @@ navigation:
     name: How to get started
     path: /how-to-get-started.html
   -
+    name: Certificates
+    path: /certificates.html
+  -
     name: IRC guide
     path: /irc-guide.html
   -
