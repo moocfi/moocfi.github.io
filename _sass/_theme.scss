@@ -29,7 +29,11 @@ main article {
 
 	//Fix for Safari input styles
 	-webkit-appearance: none;
-  border-radius: 0
+  border-radius: 0;
+
+	&:hover {
+		background-color: #00747a;
+	}
 }
 
 .not_now a,
@@ -39,6 +43,25 @@ main article {
 
 	&:hover {
 		background-color: #c0c0c0;
+	}
+}
+
+.call_to_action.alone {
+	width: 90%;
+
+}
+
+.call_to_action.primary a,
+.call_to_action.primary input,
+.call_to_action.primary a:visited {
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+
+	background-color: #ffab0e;
+
+	&:hover {
+		background-color: #d48e0c;
 	}
 }
 

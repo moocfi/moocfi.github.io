@@ -4,50 +4,62 @@ resources:
   css:
     - "/css/landing.css"
 ---
+
 <article class="items">
 	<header>
-		<h1>Haluatko oppia ohjelmoimaan?</h1>
-		<h2>Onko aika syventää osaamista?</h2>
+		<h1>Uusia kursseja</h1>
 
-		<p>MOOC.FI tarjoaa täysin ilmaisia yliopistotason ohjelmointikursseja kenelle tahansa.</p>
-		<p>Kurssitarjonnastamme löydät opeteltavaa olit sitten ohjelmoinnista kiinnostunut aloittelija, tai taitojasi syventävä peruskoodari.</p>
+		<p>Löydät sivuiltamme jatkuvasti uusia sekä uudistettuja avoimia verkkokursseja. Tässä muutama esimerkki huikeista oppimismahdollisuuksista:</p>
 	</header>
 
 	<section class="item">
 		<header>
 			<h1>
-				Aloittelija?
+				<img class="organiser" src="img/aalto.png" alt="Aalto University">
+				<a href="http://mooc.aalto.fi/ohjelmointi/">Ohjelmointia Scalalla</a>
 			</h1>
 		</header>
-
 		<section class="description">
-			<p>Opi Java-ohjelmointikielen perusteet tällä ilmaisella kurssilla.</p>
-			<p>Java on eräs maailman käytetyimmistä ohjelmointikielistä. Tästä huolimatta kurssi <strong>ei</strong> vaadi mitään esitietoja.</p>
-			<p>Kurssilla ei ole aikarajoja, vaan voit palauttaa tehtäviä milloin vain.</p>
-			<p>Helsingin Yliopiston opiskelijat voivat sisällyttää kurssin opintoihinsa.</p>
+			<p>Opi ohjelmoinnin perusteet modernilla Scala-ohjelmointi&shy;kielellä.</p>
+
+			<p>Kurssi vastaa Aalto yliopiston kursseja <em>Ohjelmointi 1</em> ja osittain <em>Ohjelmointistudio 2</em>. Saat kurssista yliopisto&shy;tutkintoon sopivia opinto&shy;pisteitä.</p>
 		</section>
 		<section class="call_to_action">
-			<a href="{{ "/courses/2015/ohjelmointi/" | prepend: site.baseurl }}" onclick="ga('send', 'event', 'button', 'click', 'k2015-aloita-tasta')">
-				Aloita tästä!
+			<a href="http://mooc.aalto.fi/ohjelmointi/">
+				Kurssi avautuu<br>
+				1. syyskuuta 2015
 			</a>
 		</section>
 	</section>
 
 	<section class="item">
 		<header>
-			<h1>Syvennä taitojasi</h1>
+			<h1>
+				<img class="organiser" src="img/liekki.png" alt="University of Helsinki">
+				<a href="https://courses.helsinki.fi/fi/courses/a78240/109137795">Tilastotieteen MOOC</a>
+			</h1>
 		</header>
-
 		<section class="description">
-			<p>Tarjoamme myös paljon muita kursseja erilaisista ohjelmointiin liittyvistä aiheista.</p>
-			<p>Opi toteuttamaan verkkopalveluja tai ohjelmoimaan uusilla ohjelmointikielillä.</p>
-			<p>Mullista käsityksesi ohjelmoinnista tutustumalla funktionaalisiin ohjelmointikieliin, Scalaan ja Clojureen. </p>
-			<p>Sukella algoritmien maailmaan ja opi ratkaisemaan monimutkaisia ongelmia tehokkaasti.</p>
+			<p>Tervetuloa Suomen ensimmäiselle tilastotieteen MOOC:lle!
+
+				<p>Kurssilla opit, miten tilastot syntyvät, miten niitä tulkitaan ja hyödynnetään, ja mitä ne kertovat yhteiskunnasta. Samalla tutustut tilastotieteen peruskäsitteisiin ja <nobr>-menetelmiin.</nobr></p>
 		</section>
 		<section class="call_to_action">
-			<a class="call_to_action" href="kurssit.html" onclick="ga('send', 'event', 'button', 'click', 'tutki-kurssitarjontaa')">Tutki kurssitarjontaa</a>
+			<a href="https://courses.helsinki.fi/fi/courses/a78240/109137795">
+				Kurssi avautuu<br>
+				3. syyskuuta 2015
+			</a>
 		</section>
 	</section>
+</article>
+
+<article class="call_to_action primary">
+	<header>
+		<h1>Opiskelun aloittaminen ei ole koskaan ollut näin helppoa</h1>
+		<p>MOOC.FI tarjoaa käyttöösi täysin ilmaiseksi käyttöösi suuren määrän korkeakoulutasoisia verkkokursseja. Tarjonnastamme löydät uutta ja mielenkiintoista, olit sitten täysi noviisi tai alan ammattilainen.</p>
+	</header>
+
+	<a href="kurssit.html" onclick="ga('send', 'event', 'button', 'click', 'tutustu-kurssitarjontaan')">Tutustu kurssitarjontaan</a>
 </article>
 
 <article class="items">
