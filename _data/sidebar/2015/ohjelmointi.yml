@@ -11,6 +11,9 @@ navigation:
     path: http://2015-ohjelmointi.mooc.fi
     ext: true
   -
+    name: Opiskelijalle
+    path: /opiskelijalle.html
+  -
     name: Ohjeita
     path: /courses/general/ohjelmointi/ukk/
     base: true
