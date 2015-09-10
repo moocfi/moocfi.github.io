@@ -16,7 +16,7 @@ In the course we'll be using version 8.0 of the NetBeans Integrated Development 
 
 **NOTE:** If you have an old version of NetBeans on your computer, we recommend that you remove it before installing the new version. When the installation procedure asks  if the old setting should be imported, answer "no".
 
-**Does the installation of Java to your coputer cause a security risk?** Not directly. The use of JDK and NetBeans do not cause any risk. The risks involved with Java are related to certain Web-pages that use Java-based components. Nothing we do in this course can cause any security risk to your computer. The installation of JDK also installs a Java plugin to your internet-brower. It might be wise to disable that plugin. For more information, see  <http://krebsonsecurity.com/how-to-unplug-java-from-the-browser/>. 
+**Does the installation of Java to your computer cause a security risk?** Not directly. The use of JDK and NetBeans do not cause any risk. The risks involved with Java are related to certain Web-pages that use Java-based components. Nothing we do in this course can cause any security risk to your computer. The installation of JDK also installs a Java plugin to your internet-brower. It might be wise to disable that plugin. For more information, see  <http://krebsonsecurity.com/how-to-unplug-java-from-the-browser/>. 
 
 1. Installing JDK
 	If you already have JDK 7 or newer installed, go directly to step 2.
