@@ -9,10 +9,6 @@ body {
 	line-height: normal;
 }
 
-body > header {
-
-}
-
 main article > header h1 {
 	background: none;
 	text-shadow: none;
@@ -20,6 +16,7 @@ main article > header h1 {
 }
 
 main article {
+	margin-top: 25px;
 	clear: both;
 	background: none;
 }
@@ -27,7 +24,7 @@ main article {
 article > header {
 	max-width: 610px;
 	margin-top: 0;
-	margin-bottom: 50px;
+	margin-bottom: 0;
 }
 
 article > header > h1{
@@ -51,6 +48,11 @@ article > section > .call_to_action {
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 0px;
+}
+
+.browse-courses-cta {
+	width: inherit;
+	max-width: 400px;
 }
 
 .items {

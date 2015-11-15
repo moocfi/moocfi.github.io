@@ -1,9 +1,23 @@
 body > nav {
 	text-align: right;
 	background: $brand;
+	height: 65px;
+}
+
+body > nav ul {
+	margin-top: 0;
+	padding-top: 13px;
+	z-index: 1;
+}
+
+body > nav ul li {
+	margin-top: 0;
+	display: inline-block;
 }
 
 body > nav a {
+	padding: 5px 20px;
+	margin: 6px 0 0 15px;
 	color: white;
 	text-shadow: 1px 1px 1px #d48e0c;
 	text-decoration: none;
@@ -82,6 +96,7 @@ body > nav a {
 		margin-top: 0;
 		background-color: #ffab0e; 
 		width: 100%;
+		box-shadow: 0px 3px 5px #888888;
 	}
 
 	body > nav.active ul,
@@ -121,18 +136,5 @@ body > nav a {
 
 	body > nav a.active:hover {
 		display: none;
-	}
-}
-
-@media all and (max-width: 475px) {
-
-	body > nav:after {
-		content: "MOOC.FI";
-		position: absolute;
-		top: 12px;
-		left: 100px;
-		color: white;
-		font-family: "Open Sans Condensed",sans-serif;
-		font-weight: bold;
 	}
 }
