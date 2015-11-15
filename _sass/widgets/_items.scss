@@ -1,0 +1,65 @@
+.items:after {
+	content: "";
+	display: inline-block;
+    width: 100%;
+}
+
+.item {
+	display: inline-block;
+	vertical-align: top;
+	width: 310px;
+	margin: 10px 15px;
+	padding: 20px;
+	padding-bottom: 0px;
+	position: relative;
+}
+
+.item > header {
+	padding-top: 10px;
+}
+
+.item .difficulty {
+	margin: 0px;
+	margin-bottom: 10px;
+	color: #00747a;
+	position: relative;
+	display: inline-block;
+	clear: none;
+}
+
+.item .organiser {
+	width: auto;
+	height: 1em;
+	margin-top: 0.2em;
+	float: left;
+	margin-right: 5px;
+}
+
+.item * {
+	clear: both;
+}
+
+.item > section {
+	clear:both;
+}
+
+@media all and (max-width: 1160px) {
+	.item {
+		width: 43%;
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+}
+
+@media all and (max-width: 760px) {
+	.item,
+	.item:nth-child(odd),
+	.item:nth-child(even){
+		display: block;
+		float: none;
+		width: 90%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}

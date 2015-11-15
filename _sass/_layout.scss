@@ -3,36 +3,6 @@ body {
 	margin-right: auto;
 }
 
-/**
- * LOGO
- */
-
-body > header {
-	margin-top: 0px;
-}
-
-body > header > img {
-	margin-top: -8px;
-	float: left;
-	height: 50px;
-	position: absolute;
-	top: 12px;
-	left: 20px;
-	display: inline;
-}
-
-body > header > h1 {
-	color: white;
-	display: inline;
-	position: absolute;
-	top: -18px;
-	left: 80px;
-}
-
-body > header.no-nav {
-	margin-top: 20px;
-}
-
 
 /**
  * CONTENT WITH SIDENAV
@@ -67,85 +37,12 @@ main.has-aside article {
 	clear: both;
 }
 
-main > header {
-	margin: auto;
-	height: auto;
-	width: 100%;
-	display: inline-block;
-}
-
-main > header > h1 {
-	display: block;
-	border-radius: 7px;
-	padding: 12px 20px;
-	margin-bottom: 30px;
-}
-
 article {
 	padding: 10px;
 }
 
 .no-header {
 	margin-top: 100px;
-}
-
-.items:after {
-	content: "";
-	display: inline-block;
-    width: 100%;
-}
-
-.item {
-	display: inline-block;
-	vertical-align: top;
-	width: 310px;
-	margin: 10px 15px;
-	padding: 20px;
-	padding-bottom: 0px;
-	position: relative;
-}
-
-.item > header {
-	padding-top: 10px;
-}
-
-.item .difficulty {
-	margin: 0px;
-	margin-bottom: 10px;
-	color: #00747a;
-	position: relative;
-	display: inline-block;
-	clear: none;
-}
-
-.item .organiser {
-	width: auto;
-	height: 1em;
-	margin-top: 0.2em;
-	float: left;
-	margin-right: 5px;
-}
-
-.item * {
-	clear: both;
-}
-
-.item > section {
-	clear:both;
-}
-
-.call_to_action {
-	margin-top: 40px;
-}
-
-.call_to_action a,
-.call_to_action input,
-.call_to_action a:visited {
-	width: 100%;
-	margin: 0px -20px 0px -20px;
-	padding: 20px;
-	display: block;
-	box-sizing: content-box;
 }
 
 img {
@@ -170,19 +67,9 @@ article ul {
 	main {
 		padding: 30px;
 	}
-
-	.item {
-		width: 43%;
-		margin-left: 0;
-		margin-right: 0;
-	}
 }
 
 @media all and (max-width: 760px) {
-
-	body > header > h1 {
-		top: -2px;
-	}
 
 	main {
 		padding: 0;
@@ -201,16 +88,6 @@ article ul {
 	main.has-aside article {
 		width: auto;
 	}
-
-	.item,
-	.item:nth-child(odd),
-	.item:nth-child(even){
-		display: block;
-		float: none;
-		width: 90%;
-		margin-left: auto;
-		margin-right: auto;
-	}
 }
 
 @media all and (max-width: 475px) {
@@ -226,5 +103,4 @@ article ul {
 		width: 100%;
 		border-radius: 0;
 	}
-
 }

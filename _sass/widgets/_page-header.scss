@@ -1,0 +1,13 @@
+main > header {
+	margin: auto;
+	height: auto;
+	width: 100%;
+	display: inline-block;
+}
+
+main > header > h1 {
+	display: block;
+	border-radius: 7px;
+	padding: 12px 20px;
+	margin-bottom: 30px;
+}
