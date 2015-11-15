@@ -17,6 +17,11 @@ $(document).ready(function(){
 		menuButton.toggleClass('active');
 		$('body > nav').toggleClass('active');
 	});
+
+	$('#outdated-browser-close').click(function(){
+		$('#outdated-browser').toggle();
+			document.cookie="closed_old_browser_dialog=1"
+	})
 });
 
 var equalheight = function(container) {
@@ -58,3 +63,8 @@ $(window).load(function() {
 $(window).resize(function(){
 	equalheight('.item:visible');
 });
+
+var old_browser_cookie = document.cookie.replace(/(?:(?:^|.*;\s*)closed_old_browser_dialog\s*\=\s*([^;]*).*$)|^.*$/, "$1");
+if ((!Modernizr.flexbox || !Modernizr.flexwrap) || old_browser_cookie != 1) {
+  $('#outdated-browser').toggle();
+}

@@ -27,6 +27,7 @@ resources:
     - "/css/main.css"
   js:
     - "//code.jquery.com/jquery-1.11.0.min.js"
+    - "/js/modernizer.js"
     - "/js/mooc.js"
 
 exclude: [vendor]

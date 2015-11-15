@@ -1,0 +1,22 @@
+#outdated-browser {
+	max-width: 900px;
+	margin: 10px auto 0 auto;
+	border: 1px solid #c0c0c0;
+	background: white;
+	display: none;
+}
+
+#outdated-browser p {
+	font-size: 0.75em;
+	
+}
+
+#outdated-browser-close {
+	float: right;
+	border: 1px solid #c0c0c0;
+	margin: 10px;
+
+	&:hover {
+		background: darken(white, 10);
+	}
+}
