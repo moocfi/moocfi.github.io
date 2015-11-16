@@ -20,8 +20,8 @@ $(document).ready(function(){
 
 	$('#outdated-browser-close').click(function(){
 		$('#outdated-browser').toggle();
-			document.cookie="closed_old_browser_dialog=1"
-	})
+			document.cookie="closed_old_browser_dialog=1";
+	});
 });
 
 var equalheight = function(container) {
@@ -65,6 +65,6 @@ $(window).resize(function(){
 });
 
 var old_browser_cookie = document.cookie.replace(/(?:(?:^|.*;\s*)closed_old_browser_dialog\s*\=\s*([^;]*).*$)|^.*$/, "$1");
-if ((!Modernizr.flexbox || old_browser_cookie != 1) {
+if ((!Modernizr.flexbox || old_browser_cookie != 1)) {
   $('#outdated-browser').toggle();
 }
