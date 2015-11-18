@@ -31,7 +31,7 @@ public class KoeOhjelma {
 
 Jos tehtävässä tarvitsee ArrayList-, HashMap- tai Random-luokkia, niiden metodien kuvaukset annetaan.
 
-Ohjelmoinnin perusteiden viikolla 6 käsiteltyjä järjestämisalgoritmeja ja binäärihakua ei tarvitse kokeessa muistaa ulkoa.
+Järjestämisalgoritmeja ja binäärihakua ei tarvitse kokeessa muistaa ulkoa.
 
 Paperiohjelmoinnissa ollaan myös hiukan armollisempia esim. puolipisteiden ja muiden pienten unohdusten suhteen. Kannattaa kuitenkin muistaa että esimerkiksi lohkoilla ({}) on hyvin iso merkitys ohjelman suoritukseen.
 
