@@ -3,11 +3,10 @@
 }
 
 #site-logo {
-	margin-top: -8px;
 	float: left;
 	height: 50px;
 	position: absolute;
-	top: 12px;
+	top: 7px;
 	left: 20px;
 	display: inline;
 }
@@ -16,17 +15,10 @@
 	color: white;
 	display: inline;
 	position: absolute;
-	top: -2px;
-	
+	top: -7px;
 	left: 80px;
 }
 
 #site-header.no-nav {
 	margin-top: 20px;
-}
-
-@media all and (min-width: 761px) {
-	#site-name {
-		top: -18px;
-	}
 }
