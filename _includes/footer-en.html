@@ -1,9 +1,15 @@
 <footer>
 	<article>
-	<section id="about">
-		<p>MOOC.FI is a provider of free, high quality University level courses for everyone.</p>
-		<p>Out course selection includes courses for everyone, from novice to an old hand.</p>
-	</section>
+		<section id="newsletter">
+			<form action="http://jamo.us8.list-manage1.com/subscribe/post?u=db82662e446284fd41bd8370e&amp;id=46d3d4ede3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate >
+					<p>Leave us your email and we will send you updates about our latest courses.</p>
+					<p>
+						<label for="EMAIL">Email:</label>
+						<input type="text" name="EMAIL" id="EMAIL"><br>
+						<input class="subscribe" type="submit" value="Subscribe" onclick="ga('send','event','button','click','subscribe')">
+					</p>
+			</form>
+		</section>
 	<section id="contact">
 		<p class="facebook">Information <a href="http://twitter.com/mooc1">Twitter</a> &amp; <a href="https://www.facebook.com/Moocfi">Facebook</a></p>
 		<p class="irc">Guidance <a href="{{ "/courses/general/programming/irc-guide.html" | prepend: site.baseurl }}">#mooc.fi @ IRCNet</a></p>
@@ -15,8 +21,8 @@
 			<img src="{{ "/img/helsingin-yliopisto-computer-science.png" | prepend: site.baseurl }}" alt="University of Helsinki - Department of computer science">
 		</a>
 		<p>
-			<img src="{{ "/img/copyright.png" | prepend: site.baseurl }}" alt="Creative Commons copyright"> 
-			All the material is licensed under Creative Commons BY-NC-SA. 
+			<img src="{{ "/img/copyright.png" | prepend: site.baseurl }}" alt="Creative Commons copyright">
+			All the material is licensed under Creative Commons BY-NC-SA.
 		</p>
 	</section>
 	</article>

@@ -1,0 +1,30 @@
+
+#newsletter p {
+	margin-bottom: 30px;
+}
+
+#newsletter input {
+	width: 100%;
+	display: block;
+}
+
+#newsletter label {
+	font-size: 0.8em;
+	color: lighten(#333, 25%);
+}
+
+#newsletter .subscribe {
+	line-height: 26px;
+	vertical-align: middle;
+	text-transform: uppercase;
+	font-weight: 700;
+	border: 0;
+	background: #3dbba6;
+	color: white;
+	margin: 0 auto 0 auto;
+	width: 75%;
+
+	&:hover {
+		background: #00747a;
+	}
+}
