@@ -28,8 +28,8 @@ body > nav a {
 	border-top: 3px solid transparent;
 	border-bottom: 3px solid transparent;
 	border-radius: 10px;
-	transition: all 0.25s ease-in-out; 
-	-webkit-transition: all 0.25s ease-in-out; 
+	transition: all 0.25s ease-in-out;
+	-webkit-transition: all 0.25s ease-in-out;
 	-moz-transition: all 0.25s ease-in-out;
 
 	&:hover {
@@ -83,8 +83,8 @@ body > nav a {
 		min-height: 60px;
 	}
 
-	body > nav a, 
-	body > nav ul, 
+	body > nav a,
+	body > nav ul,
 	body > nav li {
 		display: none;
 	}
@@ -100,7 +100,7 @@ body > nav a {
 		position:absolute;
 		top: 55px;
 		margin-top: 0;
-		background-color: #ffab0e; 
+		background-color: #ffab0e;
 		width: 100%;
 		-webkit-box-shadow: 0px 3px 5px #888888;
 		-moz-box-shadow: 0px 3px 5px #888888;
@@ -127,8 +127,8 @@ body > nav a {
 	body > nav.active li a {
 		border: 0;
 		margin: 5px 0px 4px 0px;
-		transition: none; 
-		-webkit-transition: none; 
+		transition: none;
+		-webkit-transition: none;
 		-moz-transition: none;
 	}
 
