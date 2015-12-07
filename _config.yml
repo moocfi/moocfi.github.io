@@ -19,6 +19,7 @@ navigation:
   "Etusivu": "/"
   "Kurssit": "/kurssit.html"
   "Mikä MOOC?": "/mooc.html"
+  "Opettajille": /opettajille.html
   "In English": "/english.html"
 
 resources:
