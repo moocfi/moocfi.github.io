@@ -11,13 +11,13 @@
 			</form>
 		</section>
 		<section id="contact">
-			<p class="facebook">Tiedotus <a href="http://twitter.com/mooc1">Twitter</a> &amp; <a href="https://www.facebook.com/Moocfi">Facebook</a></p>
+			<p class="facebook">Tiedotus <a href="http://twitter.com/mooc1" onclick="ga('send','event','link','click','twitter-outbound')">Twitter</a> &amp; <a href="https://www.facebook.com/Moocfi" onclick="ga('send','event','link','click','facebook-outbound')">Facebook</a></p>
 			<p class="irc">Ohjaus <a href="{{ "/courses/general/ohjelmointi/tukikanavat/irc/ohjeet/" | prepend: site.baseurl }}">#mooc.fi @ IRCNet</a></p>
 			<p class="email">Sähköposti <a href="mailto:mooc@cs.helsinki.fi">mooc@cs.helsinki.fi</a></p>
-			<p class="sourceforge">Virheraportit <a href="http://sourceforge.net/p/mooc-issues/tickets/">SourceForge</a></p>
+			<p class="sourceforge">Virheraportit <a href="http://sourceforge.net/p/mooc-issues/tickets/" onclick="ga('send','event','link','click','sourceforge-outbound')">SourceForge</a></p>
 		</section>
 		<section id="license">
-			<a href="http://cs.helsinki.fi">
+			<a href="http://cs.helsinki.fi" onclick="ga('send','event','link','click','cs-helsinki-outbound')">
 				<img src="{{ "/img/helsingin-yliopisto-computer-science.png" | prepend: site.baseurl }}" alt="Helsingin yliopisto - Department of computer science">
 			</a>
 			<p>
