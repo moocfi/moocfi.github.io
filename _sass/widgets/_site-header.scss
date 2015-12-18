@@ -1,5 +1,6 @@
 #site-header {
 	margin-top: 0px;
+
 }
 
 #site-logo {
@@ -9,6 +10,7 @@
 	top: 7px;
 	left: 20px;
 	display: inline;
+	z-index: 11;
 }
 
 #site-name {
@@ -17,6 +19,7 @@
 	position: absolute;
 	top: -7px;
 	left: 80px;
+	z-index: 11;
 }
 
 #site-header.no-nav {
