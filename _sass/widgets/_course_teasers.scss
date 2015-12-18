@@ -91,13 +91,17 @@
 	.course-teaser {
 		width: 350px;
 	}
+
+	.course-teaser .name {
+		font-size: 1.4em;
+	}
 }
 
 @media all and (max-width: 850px) {
 	.course-teaser {
 		width: 90%;
 		display: block;
-		margin: 10px auto;
+		margin: 10px auto 30px auto;
 
 		&:nth-child(odd) {
 			margin-right: auto;
@@ -106,5 +110,26 @@
 		&:nth-child(even) {
 			margin-left: auto;
 		}
+	}
+
+	.course-teaser .additional-info {
+		padding-bottom: 10px;
+	}
+}
+
+@media all and (max-width: 390px) {
+	.course-teaser .organiser {
+		height: 40px;
+		margin: 12px 10px 12px 10px;
+	}
+
+	.course-teaser .name {
+		line-height: normal;
+		margin-top: 17px;
+		min-height: 40px;
+	}
+
+	.course-teaser .description {
+		height: auto;
 	}
 }
