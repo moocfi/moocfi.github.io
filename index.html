@@ -20,6 +20,51 @@ resources:
 		<p>Kurssi alkaa 15.1.2016 ja neljän ensimmäisen tehtäväsetin viimeinen palautuspäivämäärä on 29.2.2016.</p>
 
 		<p>Erillistä ilmoittautumista ei tarvita. Lisää ohjeita kurssisivun julkaisun yhteydessä.</p>
+
+    <p>Kurssin julkaisuun jäljellä: <span id="countdown"></span></p>
+    <script>
+    CountDownTimer('1/15/2016 4:00 PM', 'countdown');
+
+    function CountDownTimer(dt, id)
+    {
+        var end = new Date(dt);
+
+        var _second = 1000;
+        var _minute = _second * 60;
+        var _hour = _minute * 60;
+        var _day = _hour * 24;
+        var timer;
+
+        function p(count, suffix) {
+          return count != 1 ? suffix : ''
+        }
+
+        function showRemaining() {
+            var now = new Date();
+            var distance = end - now;
+            if (distance < 0) {
+
+                clearInterval(timer);
+                document.getElementById(id).innerHTML = 'MATERIAALI JULKAISTU!';
+
+                return;
+            }
+            var days = Math.floor(distance / _day);
+            var hours = Math.floor((distance % _day) / _hour);
+            var minutes = Math.floor((distance % _hour) / _minute);
+            var seconds = Math.floor((distance % _minute) / _second);
+
+            document.getElementById(id).innerHTML = days + ' päivä' + p(days, 'ä') + ' ';
+            document.getElementById(id).innerHTML += hours + ' tunti' +p(hours, 'a') + ' ';
+            document.getElementById(id).innerHTML += minutes + ' minuutti' + p(minutes, 'a')+ ' ';
+            document.getElementById(id).innerHTML += seconds + ' sekunti' + p(seconds, 'a');
+        }
+
+        timer = setInterval(showRemaining, 1000);
+    }
+
+</script>
+
 	</header>
 </article>
 
