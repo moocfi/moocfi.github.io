@@ -34,10 +34,3 @@ Ohjelmoinnin MOOC -kurssin voi suorittaa neljällä tavalla:
 ## Opinto-oikeutta Helsingin yliopistoon hakien
 
 Kurssin suorittamalla voi hakea opinto-oikeutta Helsingin yliopistoon. Lue tarkemmat tiedot sivulta [MOOC väylänä yliopistoon](opinto-oikeus.html).
-
-
-## Selvennys tehtäväpisteistä
-
-- TODO: Kuva materiaalin tehtävästä, tehtävän avaaminen
-
-- Jokainen tehtävän alikohta lasketaan yhdeksi pisteeksi, alikohdattomat tehtävät ovat yhden pisteen arvoisia, ja jokainen selitystehtävä on kahden pisteen arvoinen. 
