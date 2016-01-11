@@ -7,9 +7,14 @@ sidenav: general/ohjeita
 
 Luo seuraavaksi itsellesi käyttäjätunnus TestMyCode -palautusjärjestelmäämme. Ilman käyttäjätunnuksia et voi palauttaa tehtäviä.
 
-<div class="actions">
-	<a class="action primary" href="https://tmc.mooc.fi/mooc/user/new" target="_blank">Luo tunnukset</a>
-</div>
+
+<iframe style="width: 95%" src="https://tmc.mooc.fi/mooc/user/new?bare_layout=1" height="550">
+	<div class="actions">
+		<a class="action primary" href="https://tmc.mooc.fi/mooc/user/new" target="_blank">Luo tunnukset</a>
+	</div>
+</iframe>
+
+
 
 Tunnusten luomisen jälkeen tutustu ohjeeseen tehtävien tekemisestä ja palauttamisesta
 

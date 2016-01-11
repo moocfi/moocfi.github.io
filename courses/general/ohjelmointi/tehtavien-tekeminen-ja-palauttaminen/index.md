@@ -12,7 +12,7 @@ Kun käynnistät TMC-liitännäisen sisältävän NetBeansin ensimmäistä kerta
 4. Paina *Refresh list* kurssilistauksen päivittämiseksi
     ![TMC Settings esimerkki]({{"/img/install/tmc-setup/setup-3.png" | prepend: site.baseurl}})
 5. Valitse suoritettava kurssi *Current course* -pudotusvalikosta. 
-	- Mikäli suoritat kevään 2015 ohjelmoinnin MOOC -kurssia, valitse **2015-nodl-ohjelmointi**
+	- Mikäli suoritat kevään 2016 ohjelmoinnin MOOC -kurssia, valitse **2016-ohjelmointi** tai **2016-nodl-ohjelmointi**.
 	- Mikäli suoritat jotain muuta kurssia, katso kurssisi tunnus kurssin sivuilta
 6. Olet nyt valmis ja voit aloittaa tehtävien tekemisen painamalla *OK*
 
