@@ -13,7 +13,8 @@
 	}
 }
 
-.course-teaser {
+.course-teaser,
+.course-teaser.single {
 	color: #333;
 	padding: 0;
 	display: inline-block;
@@ -30,7 +31,7 @@
 	}
 
 	&:nth-child(odd) {
-		margin-right: 3%;
+		//margin-right: 3%;
 	}
 
 	&:nth-child(even) {
@@ -103,10 +104,29 @@
 	.course-teaser .name {
 		font-size: 1.4em;
 	}
+
+	.course-teaser.single {
+		width: 450px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.course-teaser.single .description {
+		height: 50px;
+	}
+
+	.course-teaser.single .additional-info {
+		margin-left: 0px;
+	}
+
+	.course-teaser.single .name {
+		font-size: 1.8em;
+	}
 }
 
 @media all and (max-width: 850px) {
-	.course-teaser {
+	.course-teaser,
+	.course-teaser.single {
 		width: 90%;
 		display: block;
 		margin: 10px auto 30px auto;
@@ -120,28 +140,33 @@
 		}
 	}
 
-	.course-teaser .description {
+	.course-teaser .description,
+	.course-teaser.single .description {
 		height: auto;
 	}
 
-	.course-teaser .additional-info {
+	.course-teaser .additional-info,
+	.course-teaser.single .additional-info {
 		padding-bottom: 10px;
 	}
 }
 
 @media all and (max-width: 390px) {
-	.course-teaser .organiser {
+	.course-teaser .organiser,
+	.course-teaser.single .organiser {
 		height: 40px;
 		margin: 12px 10px 12px 10px;
 	}
 
-	.course-teaser .name {
+	.course-teaser .name,
+	.course-teaser.single .name {
 		line-height: normal;
 		margin-top: 17px;
 		min-height: 40px;
 	}
 
-	.course-teaser .description {
+	.course-teaser .description,
+	.course-teaser.single .description {
 		height: auto;
 	}
 }
