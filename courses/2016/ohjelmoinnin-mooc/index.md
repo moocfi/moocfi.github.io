@@ -18,7 +18,7 @@ Kurssilla käytettävässä työvälineessä on tarjolla kaksi rinnakkaista vers
 
 **Mikäli suoritat MOOCia tavoitteenasi opinto-oikeuden saaminen, tai haluat rytmitystä opiskeluusi, valitse kurssiksi <em>2016-ohjelmointi</em>**. Tällä kurssilla on ehdottomat deadlinet.
 
-Mikäli suoritat kurssia omaksi iloksesi, voit valita kurssin **<em>2016-nodl-ohjelmointi</em>**. Tällä kurssilla ei ole viikoittaisia deadlineja, vaan seuraava viikko aukeaa aina kun olet saanut vähintään 75 % edeltävän viikon pisteistä. Tämän kurssin kautta **EI** ole mahdollista hakea opinto-oikeutta Helsingin Yliopistolle.
+Mikäli suoritat kurssia omaksi iloksesi, voit valita kurssin ***2016-nodl-ohjelmointi***. Tällä kurssilla ei ole viikoittaisia deadlineja, vaan seuraava viikko aukeaa aina kun olet saanut vähintään 75 % edeltävän viikon pisteistä. Kurssimateriaali julkaistaan kuitenkin samaa tahtia aikarajallisen kurssin kanssa. Kurssin ***2016-nodl-ohjelmointi*** kautta **EI** ole mahdollista hakea opinto-oikeutta Helsingin Yliopistolle.
 
 # Tervetuloa ohjelmoimaan!
 

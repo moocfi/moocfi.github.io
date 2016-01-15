@@ -9,6 +9,8 @@ Kurssi koostuu neljästätoista tehtäväsarjasta.
 Kunkin tehtäväsarjan tekemiseen kannattaa varata aikaa noin 5-20 tuntia. 
 Varaamme oikeuden aikataulun ja aiheiden muutoksiin, kuitenkin niin, että jokaista tehtäväsettiä on mahdollista suorittaa vähintään kahden viikon ajan, eivätkä alla nähdyt palautusten takarajat tule aikaistumaan.
 
+Aikataulun deadlinet koskevat vain kurssia ***2016-ohjelmointi***, kurssilla ***2016-nodl-ohjelmointi*** ei ole erillisiä aikarajoja.
+
 &nbsp;
 
 Aikataulu   | Julkaisu  | Deadline  | Aiheet

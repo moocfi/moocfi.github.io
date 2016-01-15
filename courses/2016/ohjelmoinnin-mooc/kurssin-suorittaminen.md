@@ -29,8 +29,8 @@ Ohjelmoinnin MOOC -kurssin voi suorittaa neljällä tavalla:
    - jokaisesta kurssin kokeesta vähintään 50 % pisteistä.
 - Kiitettävästi hyväksyttyyn kurssisuoritukseen (arvosana 5) vaaditaan:
    - jokaisen viikon tehtäväpisteistä vähintään 90 % ja
-   - jokaisesta kurssin kokeesta vähintään 90 % pisteistä.
-  
+   - kurssin kokeista yhteensä vähintään 90 % pisteistä.
+
 ## Opinto-oikeutta Helsingin yliopistoon hakien
 
 Kurssin suorittamalla voi hakea opinto-oikeutta Helsingin yliopistoon. Lue tarkemmat tiedot sivulta [MOOC väylänä yliopistoon](opinto-oikeus.html).
