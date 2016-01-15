@@ -15,53 +15,11 @@ resources:
 <article>
 	<header>
 		<h2>Yliopistoon MOOC:n kautta</h2>
-		<p>Julkaisemme keväällä 2016 Ohjelmoinnin MOOC -kurssin, jolla opetellaan Java-ohjelmointikieltä aivan perusteista lähtien. <strong>Kurssin kautta voit saada opiskelupaikan Helsingin Yliopiston tietojenkäsittelytieteen laitokselle</strong>.</p>
+		<p>Kevään 2016 Ohjelmoinnin MOOC-kurssi on julkaistu. <strong>Kurssin kautta voit saada opiskelupaikan Helsingin Yliopiston tietojenkäsittelytieteen laitokselle</strong>.</p>
 
-		<p>Kurssi alkaa 15.1.2016 ja neljän ensimmäisen tehtäväsetin viimeinen palautuspäivämäärä on 29.2.2016.</p>
+		<p>Kurssin aikarajallisen version neljän ensimmäisen tehtäväsetin viimeinen palautuspäivämäärä on 29.2.2016.</p>
 
-		<p>Erillistä ilmoittautumista ei tarvita. Lisää ohjeita kurssisivun julkaisun yhteydessä.</p>
-
-    <p>Kurssin julkaisuun jäljellä: <span id="countdown"></span>.</p>
-    <script>
-    CountDownTimer('1/15/2016 4:00 PM', 'countdown');
-
-    function CountDownTimer(dt, id)
-    {
-        var end = new Date(dt);
-
-        var _second = 1000;
-        var _minute = _second * 60;
-        var _hour = _minute * 60;
-        var _day = _hour * 24;
-        var timer;
-
-        function p(count, suffix) {
-          return count != 1 ? suffix : ''
-        }
-
-        function showRemaining() {
-            var now = new Date();
-            var distance = end - now;
-            if (distance < 0) {
-
-                clearInterval(timer);
-                document.getElementById(id).innerHTML = 'MATERIAALI JULKAISTU!';
-
-                return;
-            }
-            var days = Math.floor(distance / _day);
-            var hours = Math.floor((distance % _day) / _hour);
-            var minutes = Math.floor((distance % _hour) / _minute);
-            var seconds = Math.floor((distance % _minute) / _second);
-
-            document.getElementById(id).innerHTML = days + ' päivä' + p(days, 'ä') + ' ';
-            document.getElementById(id).innerHTML += hours + ' tunti' +p(hours, 'a') + ' ';
-            document.getElementById(id).innerHTML += minutes + ' minuutti' + p(minutes, 'a')+ ' ';
-            document.getElementById(id).innerHTML += seconds + ' sekunti' + p(seconds, 'a');
-        }
-
-        timer = setInterval(showRemaining, 1000);
-    }
+		<p>Lue lisää <a href="/courses/2016/ohjelmoinnin-mooc/" onclick="ga('send', 'event', 'link', 'click', 'ohjelmoinnin-mooc-2016')">kurssisivulta</a> tai klikkaamalla alta laatikkoa "Ohjelmoinnin MOOC".</p>
 
 </script>
 
@@ -74,16 +32,16 @@ resources:
 	</header>
 
   <ul class="course-teasers">
-  	<li class="course-teaser">
-      <a href="/courses/2015/ohjelmointi/">
+    <li class="course-teaser">
+      <a href="/courses/2016/ohjelmoinnin-mooc/" onclick="ga('send', 'event', 'course-teaser', 'click', 'ohjelmoinnin-mooc-2016')">
         <header>
         </header>
         <img class="organiser" src="img/hy_liekki.svg" alt="University of Helsinki">
-        <h1 class="name">OhjelmointiMOOC 2015</h1>
-        <p class="description">Ei vaadi aiempaa ohjelmointikokemusta. Tehtävissä toukokuun 2016 loppuun.</p>
-        <p class="additional-info">Omaan tahtiin, ei määräaikoja</p>
-  		</a>
-  	</li>
+        <h1 class="name">Ohjelmoinnin MOOC</h1>
+        <p class="description">Ohjelmointia Javalla aivan perusteista lähtien.</p>
+        <p class="additional-info">Tältä kurssilta voi hakea yliopistoon</p>
+      </a>
+    </li>
 
     <li class="course-teaser">
       <a href="http://web-palvelinohjelmointi.github.io/" target="_blank" onclick="ga('send', 'event', 'button', 'click', 'wepa-outbound')">
@@ -91,9 +49,21 @@ resources:
         </header>
         <img class="organiser" src="img/hy_liekki.svg" alt="University of Helsinki">
         <h1 class="name">Web-palvelinohjelmointi</h1>
-        <p class="description">Opi tuottamaan moderneja web-palveluita Javalla</p>
+        <p class="description">Opi tuottamaan moderneja web-palveluita Javalla.</p>
         <p class="additional-info">Omaan tahtiin, ei määräaikoja</p>
   		</a>
   	</li>
+
+    <ul class="course-teasers">
+      <li class="course-teaser">
+        <a href="/courses/2015/ohjelmointi/" onclick="ga('send', 'event', 'course-teaser', 'click', 'ohjelmointi-mooc-2015')">
+          <header>
+          </header>
+          <img class="organiser" src="img/hy_liekki.svg" alt="University of Helsinki">
+          <h1 class="name">OhjelmointiMOOC 2015</h1>
+          <p class="description">Ei vaadi aiempaa ohjelmointikokemusta. Tehtävissä toukokuun 2016 loppuun.</p>
+          <p class="additional-info">Omaan tahtiin, ei määräaikoja</p>
+        </a>
+      </li>
   </ul>
 </article>
