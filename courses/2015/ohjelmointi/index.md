@@ -5,7 +5,7 @@ main-class: has-aside
 sidenav: 2015/ohjelmointi
 ---
 
-**HUOM! Tältä kurssilta EI voi saada yliopiston opintopaikkaa.**
+**HUOM! Tämä on vuoden 2015 kurssi. Mikäli aloitat ohjelmointia vasta nyt, suosittelemme vuoden 2016 versiota kurssista. Tältä kurssilta EI voi saada yliopiston opintopaikkaa.**
 
 Ohjelmoinnin MOOC on verkkokurssi, jossa perehdytään algoritmien laatimiseen ja nykyaikaisen ohjelmoinnin perusideoihin. Opiskelijalta ei edellytetä ennakkotietoja ohjelmoinnista.
 
