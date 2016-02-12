@@ -4,11 +4,11 @@ layout: course
 main-class: has-aside
 sidenav: 2013/programming-part-1
 english: true
-redirect_from: 
+redirect_from:
   - /programming-part1/
   - /programming-part1.html
 ---
-**Welcome to [University of Helsinki](http://helsinki.fi/university)'s massive open online course (MOOC) on object-oriented programming!** 
+**Welcome to [University of Helsinki](http://helsinki.fi/university)'s massive open online course (MOOC) on object-oriented programming!**
 
 During this course you will learn all the basics of computer programming, algorithms and object-oriented programming using the Java programming language. The course includes comprehensive course materials and plenty of programming exercises, each tested using our automatic testing service [Test My Code](https://github.com/testmycode/tmc-server).
 
@@ -32,7 +32,7 @@ After installing the required tools, you are ready start learning Java and progr
 
 # What next?
 
-Done already? If you would like to continue your journey to mastery of Java, why not try the second part of this course? 
+Done already? If you would like to continue your journey to mastery of Java, why not try the second part of this course?
 
 The second part provides six more weeks of material and exercises and introduces more advanced concepts such as graphical interfaces.
 
@@ -40,4 +40,4 @@ The second part provides six more weeks of material and exercises and introduces
     <a class="action" href="/courses/2013/programming-part-2/" target="_blank">Part II of the course</a>
 </div>
 
-{% include courses/programming/about-organizinging-institution.md %}
+{% include courses/programming/about-organizing-institution.md %}

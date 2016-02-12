@@ -4,7 +4,7 @@ layout: course
 main-class: has-aside
 sidenav: 2013/programming-part-2
 english: true
-redirect_from: 
+redirect_from:
   - /programming-part2/
   - /programming-part2.html
 ---
@@ -17,4 +17,4 @@ This course is a direct continuaton of the course [Object-Oriented Programming w
 
 {% include courses/programming/contact-information.md %}
 
-{% include courses/programming/about-organizinging-institution.md %}
+{% include courses/programming/about-organizing-institution.md %}

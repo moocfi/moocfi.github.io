@@ -16,7 +16,7 @@ In the course we'll be using version 8.0 of the NetBeans Integrated Development 
 
 **NOTE:** If you have an old version of NetBeans on your computer, we recommend that you remove it before installing the new version. When the installation procedure asks  if the old setting should be imported, answer "no".
 
-**Does the installation of Java to your computer cause a security risk?** Not directly. The use of JDK and NetBeans do not cause any risk. The risks involved with Java are related to certain Web-pages that use Java-based components. Nothing we do in this course can cause any security risk to your computer. The installation of JDK also installs a Java plugin to your internet-brower. It might be wise to disable that plugin. For more information, see  <http://krebsonsecurity.com/how-to-unplug-java-from-the-browser/>. 
+**Does the installation of Java to your computer cause a security risk?** Not directly. The use of JDK and NetBeans do not cause any risk. The risks involved with Java are related to certain Web-pages that use Java-based components. Nothing we do in this course can cause any security risk to your computer. The installation of JDK also installs a Java plugin to your internet-brower. It might be wise to disable that plugin. For more information, see  <http://krebsonsecurity.com/how-to-unplug-java-from-the-browser/>.
 
 1. Installing JDK
 	If you already have JDK 7 or newer installed, go directly to step 2.
@@ -38,7 +38,7 @@ In the course we'll be using version 8.0 of the NetBeans Integrated Development 
 	- [OS X (Mac)](http://update.testmycode.net/installers/tmc-netbeans_mooc/tmc-netbeans_mooc_tmcbeans-macosx.tgz)
 		- The installation is done by extracting the contents of the downloaded package and then running the *Netbeans with TMC Installer.app*. The installer installs TMC-NetBeans to your computer. After the installation, the program is found from the Applications-folder.
 	- [Linux](http://update.testmycode.net/installers/tmc-netbeans_mooc/tmc-netbeans_mooc_tmcbeans-linux.sh)
-		- The installation is done by executing the installation script by giving the command ./tmc-netbeans_mooc_tmcbeans-linux.sh in the directory where the file is located
+		- The installation is done by executing the installation script by giving the command `./tmc-netbeans_mooc_tmcbeans-linux.sh` in the directory where the file is located
 			- The script can be executed only if it has been given right permissions eg. with command `chmod o+x tmc-netbeans_mooc_tmcbeans-linux.sh`.
 			- In Ubuntu, for example, the execution permissions can be given using the File browser  by right clicking the script and selecting Properties / Permissions / Allow executing file as program. After doing this, the script can be executed by clicking it.
 
