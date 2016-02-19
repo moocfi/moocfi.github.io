@@ -18,9 +18,9 @@ Aikataulu   | Julkaisu  | Deadline  | Aiheet
 Viikko 1    | 15.1.     | 29.2.     |  Syöte, tulostus, valintalause, toiston alkeet
 Viikko 2    | 22.1.     | 29.2.     |  Toistolause, metodien alkeet
 Viikko 3    | 29.1.     | 29.2.     |  Metodit ja listat (ArrayList)
-Viikko 4    | 5.2.      | 29.2.     |  Olioiden alkeet, Assosiaatio&shy;taulukko (HashMap)
-Viikko 5    | 12.2.     | 7.3.      |  Satunnaisuus, Olioihin tutustuminen jatkuu
-Viikko 6    | 19.2.     | 14.3.     |  Tiedostosta lukeminen, Olioihin tutustuminen jatkuu, Taulukot
+Viikko 4    | 5.2.      | 29.2.     |  Olioiden alkeet, assosiaatio&shy;taulukko (HashMap)
+Viikko 5    | 12.2.     | 7.3.      |  Satunnaisuus, olioihin tutustuminen jatkuu
+Viikko 6    | 19.2.     | 14.3.     |  Tiedostosta lukeminen, olioihin tutustuminen jatkuu, taulukot
 Viikko 7    | 26.2.     | 21.3.     |  *TBA*
 Viikko 8    | 11.3.     | 28.3.     |  *TBA*
 Viikko 9    | 18.3.     | 4.4.      |  *TBA*
