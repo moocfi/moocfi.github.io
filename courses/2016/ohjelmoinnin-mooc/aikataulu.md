@@ -21,7 +21,7 @@ Viikko 3    | 29.1.     | 29.2.     |  Metodit ja listat (ArrayList)
 Viikko 4    | 5.2.      | 29.2.     |  Olioiden alkeet, assosiaatio&shy;taulukko (HashMap)
 Viikko 5    | 12.2.     | 7.3.      |  Satunnaisuus, olioihin tutustuminen jatkuu
 Viikko 6    | 19.2.     | 14.3.     |  Tiedostosta lukeminen, olioihin tutustuminen jatkuu, taulukot
-Viikko 7    | 26.2.     | 21.3.     |  *TBA*
+Viikko 7    | 26.2.     | 21.3.     |  Debuggauksesta, taulukot jatkuu, oliot jatkuu
 Viikko 8    | 11.3.     | 28.3.     |  *TBA*
 Viikko 9    | 18.3.     | 4.4.      |  *TBA*
 Viikko 10   | 25.3.     | 11.4.     |  *TBA*
