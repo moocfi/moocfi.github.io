@@ -30,7 +30,7 @@ Viikko 12   | 8.4.      | 25.4.     |  *TBA*
 Viikko 13   | 15.4.     | 2.5.      |  *TBA*
 Viikko 14   | 22.4.     | 9.5       |  *TBA*
 
-**Huom: Tehtäväsarjojen viimeiset palautuspäivämäärät (deadlinet) ovat ehdottomat opinto-oikeutta anoville, eikä niistä voida joustaa.**
+**Huom: Tehtäväsarjojen viimeiset palautuspäivämäärät (deadlinet) ovat ehdottomat opinto-oikeutta anoville, eikä niistä voida joustaa. Määräaikojen kellonajat ovat aina 23:55 -- viikkojen 1-4 määräaika on siis 29.2. klo 23:55.**
 
 &nbsp;
 
