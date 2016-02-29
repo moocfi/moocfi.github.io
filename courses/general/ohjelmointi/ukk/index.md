@@ -18,9 +18,9 @@ sidenav: general/ohjeita
 
 3. Tehtävän N testeissä on ongelma?
 
-	Jos huomaat, että jonkun tehtävän testissä on ongelma, esim. huono virheilmoitus, voit pyytää kurssihenkilökuntaa tarkastamaan asian. 
+	Jos huomaat, että jonkun tehtävän testissä on ongelma, esim. huono virheilmoitus, voit pyytää kurssihenkilökuntaa tarkastamaan asian.
 
-	Käytä ongelmien raportointiin osoitteessa <http://sourceforge.net/p/mooc-issues/tickets/> sijaitsevaa virheilmoitusten&shy;hallintatyökalua.
+	Raportoi mahdolliset ongelmat sähköpostiosoitteeseen <a href="mailto:mooc@cs.helsinki.fi">mooc@cs.helsinki.fi</a>. Tästä sähköpostista ei kuitenkaan anneta ohjausta tehtävien tekemiseen. Mikäli tarvitset apua tehtävän tekemisessä, tutustu <a href="/courses/general/ohjelmointi/tukikanavat">tarjolla oleviin tukikanaviin</a>.
 
 4. Mistä näen mitä tehtäviä olen jo palauttanut ja milloin tehtävät pitäisi palauttaa?
 
