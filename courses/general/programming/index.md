@@ -20,8 +20,9 @@ english: true
 2. I suspect that the tests of assignment N have some problems
 
 	It is possible that tests have some problems. If you think that is the case, ask the course personnel to check the issue.
-	
-	Problems should be reported to bug tracker in address <http://sourceforge.net/p/mooc-issues/tickets/>
+
+	Problems should be reported to us by email to <a href="mailto:mooc@cs.helsinki.fi">mooc@cs.helsinki.fi</a>. For general help with exercises, please check out our <a href="/courses/general/programming/irc-guide.html">IRC-guide</a> and <a href="/courses/general/programming/google-groups.html">Google Groups discussion forum</a>.
+
 3. How do I see what assignments I have already completed?
 
 	From the main page of TMC <https://tmc.mooc.fi/mooc/> you can navigate to the course page were all your submissions are shown. By clicking the name of an assignment you can see also the model solution in case you have solved it already.
