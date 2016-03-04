@@ -5,8 +5,10 @@
 
 	<meta property="og:site_name" content="MOOC.fi"/>
 	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
-	<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}Free, high quality online courses{% endif %}"/>
-	<meta property="og:image" content="{{ "/img/logo.png" | prepend: site.baseurl }}">
+	<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}MOOC.fi provides free and high quality programming course for everyone. We have something for everyone, from a novice to a master.{% endif %}"/>
+	<meta property="og:image" content="http://mooc.fi/img/logo.png">
+	<meta property="og:image:url" content="http://mooc.fi/img/logo.png">
+	<meta property="og:image:secure_url" content="https://mooc.fi/img/logo.png">
 
 	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 	{% if page.description %}
