@@ -23,7 +23,7 @@ Viikko 5    | 12.2.     | 7.3.      |  Satunnaisuus, olioihin tutustuminen jatku
 Viikko 6    | 19.2.     | 14.3.     |  Tiedostosta lukeminen, olioihin tutustuminen jatkuu, taulukot
 Viikko 7    | 26.2.     | 21.3.     |  Debuggauksesta, taulukot jatkuu, oliot jatkuu
 Viikko 8    | 4.3.      | 28.3.     |  Kertausta, muuttujien ja metodien tyypit, HashMap uudestaan, oliot jatkuu
-Viikko 9    | 11.3.     | 4.4.      |  *TBA*
+Viikko 9    | 11.3.     | 4.4.      |  Yliluokka Object, rajapinnat, geneerisyys, kokoelmat
 Viikko 10   | 18.3.     | 11.4.     |  *TBA*
 Viikko 11   | 1.4.      | 18.4.     |  *TBA*
 Viikko 12   | 8.4.      | 25.4.     |  *TBA*
