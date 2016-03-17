@@ -20,6 +20,26 @@ Ohjelmoinnin MOOC -kurssin voi suorittaa neljällä tavalla:
 - Jos koulusi on esimerkiksi peruskoulu, lukio tai ammattikoulu, tarjoamme opettajasi niin halutessaan kurssikokeen sekä sen tarkastuksen ilmaiseksi. Hänen tulee tällöin ottaa yhteyttä osoitteeseen <mooc@cs.helsinki.fi>.
 - Kurssin lopuksi saat diplomin, joka sisältää tiedon tekemiesi tehtävien määrästä, sekä kokeen yhteydessä myös koearvosanasi.
 
+## Opintojasi (Helsingin yliopiston Avoin yliopisto) varten
+
+- Kuka tahansa voi suorittaa MOOC-kurssin ilmaiseksi osallistumalla MOOC:n jälkeen Helsingin yliopiston Avoimen yliopiston tentteihin. 
+- Kurssin laajuus on joko 5 opintopistettä (7 ensimmäistä viikkoa, vastaa kurssia Ohjelmoinnin perusteet) tai 5+5 opintopistettä (koko kurssi, vastaa kursseja Ohjelmoinnin perusteet ja Ohjelmoinnin jatkokurssi).
+- Tentit suoritetaan verkkotentteinä, joissa on sekä ohjelmointi- että kirjallinen osuus.
+- Tenttipäiviä ovat:
+   - 9.4. (vain ensimmäiset 7 viikkoa)
+   - 16.4. (vain ensimmäiset 7 viikkoa)
+   - 21.5. (ensimmäiset 7 viikkoa tai koko kurssi)
+   - 28.5. (ensimmäiset 7 viikkoa tai koko kurssi)
+   - 11.6. (ensimmäiset 7 viikkoa tai koko kurssi)
+- Ohjeet tentteihin ilmoittautumisesta julkaistaan tällä sivulla myöhemmin.
+- Arvostelu:
+   - Arvosana 1: Vähintään 75 % jokaisen viikon tehtäväpisteistä, sekä vähintään 50 % kummankin koeosuuden koepisteistä
+   - Arvosana 2: Vähintään 75 % jokaisen viikon tehtäväpisteistä, sekä vähintään 60 % kummankin koeosuuden koepisteistä
+   - Arvosana 3: Vähintään 75 % jokaisen viikon tehtäväpisteistä, sekä vähintään 70 % kummankin koeosuuden koepisteistä
+   - Arvosana 4: Vähintään 75 % jokaisen viikon tehtäväpisteistä, sekä vähintään 80 % kummankin koeosuuden koepisteistä
+   - Arvosana 5: Vähintään 90 % jokaisen viikon tehtäväpisteistä, sekä vähintään 90 % kummankin koeosuuden koepisteistä
+
+   
 ## Opintojasi (Helsingin yliopisto) varten
 
 - Jos olet läsnäoleva Helsingin yliopiston opiskelija, suosittelemme että osallistut tietojenkäsittelytieteen laitoksen normaalisti järjestämille kursseille <a href="http://www.cs.helsinki.fi/courses/581325/" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ohpe')">Ohjelmoinnin perusteet</a> ja <a href="http://www.cs.helsinki.fi/courses/582103/" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ohja')">Ohjelmoinnin jatkokurssi</a>,.
