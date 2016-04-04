@@ -15,7 +15,7 @@ MOOC-kurssi on osa <a href="http://www.helsinki.fi/ml/valinnat/hakeminen.html" t
 
 MOOC-kurssin kautta saatu opinto-oikeus on voimassa yhden vuoden kurssin suorituksesta. Sinun tulee siis saavuttaa korkeakoulukelpoisuus (esim. ylioppilas- tai ammattikoulututkinto) vuoden sisällä kurssin päättymisestä. Tämä tarkoittaa sitä, että mikäli valmistut lukiosta keväällä 2017, voit hakea opiskelupaikkaa jo nyt (*). Mikäli olet jo valmiiksi korkeakoulukelpoinen, sovelletaan normaaleja opintopaikan vastaanottamiseen liittyviä sääntöjä.
 
-* Syksyn 2016 tai kevään 2017 abit voivat hakea ensi vuonna oikeutta tänä vuonna suoritetun MOOCin perusteella, mikäli he menestyvät kevään 2016 näyttökokeessa. Käytännössä tämä toimii niin, että opiskelija suorittaa nyt MOOC-kurssin sekä osallistuu näyttökokeeseen. Mikäli osallistuja menestyy kiitettävästi näyttökokeessa, on opiskelupaikka vuoden 2017 yhteishaussa taattu.
+(*) Syksyn 2016 tai kevään 2017 abit voivat hakea ensi vuonna oikeutta tänä vuonna suoritetun MOOCin perusteella, mikäli he menestyvät kevään 2016 näyttökokeessa. Käytännössä tämä toimii niin, että opiskelija suorittaa nyt MOOC-kurssin sekä osallistuu näyttökokeeseen. Mikäli osallistuja menestyy kiitettävästi näyttökokeessa, on opiskelupaikka vuoden 2017 yhteishaussa taattu.
 
 # Hyödyllistä tietoa
 
