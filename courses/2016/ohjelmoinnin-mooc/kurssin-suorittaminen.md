@@ -31,7 +31,7 @@ Ohjelmoinnin MOOC -kurssin voi suorittaa neljällä tavalla:
    - 21.5. (ensimmäiset 7 viikkoa tai koko kurssi)
    - 28.5. (ensimmäiset 7 viikkoa tai koko kurssi)
    - 11.6. (ensimmäiset 7 viikkoa tai koko kurssi)
-- Ohjeet tentteihin ilmoittautumisesta julkaistaan tällä sivulla myöhemmin.
+- Ohjeet tentteihin ilmoittautumisesta löytyy <a href="https://docs.google.com/document/d/1W0sLTQeNJlPc2P50qbJJLlyOTuDIpnRq5S1D5tXzkN8/edit?usp=sharing" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-avoin-ohje')">tällä sivulla</a>.
 - Arvostelu:
    - Arvosana 1: Vähintään 75 % jokaisen viikon tehtäväpisteistä, sekä vähintään 50 % kummankin koeosuuden koepisteistä
    - Arvosana 2: Vähintään 75 % jokaisen viikon tehtäväpisteistä, sekä vähintään 60 % kummankin koeosuuden koepisteistä
