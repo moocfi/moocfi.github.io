@@ -9,7 +9,7 @@ Keväällä 2016 järjestettävä ohjelmoinnin MOOC antaa mahdollisuuden pääst
 
 Jos opiskelet ahkerasti ja saat kurssin kolmeltatoista ensimmäiseltä viikolta kultakin vähintään 90 % saatavissa olevista pisteistä, saat kutsun näyttökokeeseen. Näyttökokeen menestyksekkäästi suorittamalla sinulla on mahdollisuus saada opinto-oikeus tietojenkäsittelytieteen luonnontieteen kandidaatin (LuK) ja filosofian maisterin (FM) tutkintoihin. Näyttökokeeseen kuuluu ohjelmointitehtävä ja haastattelu, jonka lisäksi hakijoita pyydetään näyttökoekutsun yhteydessä lähettämään motivaatiokirje.
 
-**Huom:** opiskelupaikan voi saada vain kurssin aikarajallisen version kautta. Varmista siis että teet kurssin oikeaa versiota, joka on työympäristössä nimellä **2016-ohjelomointi**.
+**Huom:** opiskelupaikan voi saada vain kurssin aikarajallisen version kautta. Varmista siis että teet kurssin oikeaa versiota, joka on työympäristössä nimellä **2016-ohjelmointi**.
 
 MOOC-kurssi on osa <a href="http://www.helsinki.fi/ml/valinnat/hakeminen.html" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ml-hakeminen')">yhteishakua</a>. Käytännössä tämä tarkoittaa sitä, että sinun tulee täyttää yhteishakulomake, jossa asetat Helsingin Yliopiston tietojenkäsittelytieteen ohjelman haluamallesi prioriteetille. Tutustu sivuun <a href="http://www.helsinki.fi/ml/valinnat/hakeminen.html" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ml-hakeminen')">http://www.helsinki.fi/ml/valinnat/hakeminen.html</a>. Yhteishaun hakuaika alkaa 16.3.2016 ja päättyy 6.4.2016 kello 15.00.
 
