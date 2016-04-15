@@ -27,7 +27,7 @@ Viikko 9    | 11.3.     | 4.4.      |  Yliluokka Object, rajapinnat, geneerisyys
 Viikko 10   | 18.3.     | 11.4.     |  Ohjelmien suunnittelusta, pakkausten käyttö, poikkeustilanteet
 Viikko 11   | 1.4.      | 18.4.     |  Olio-ohjelmointi jatkuu, perintä
 Viikko 12   | 8.4.      | 25.4.     |  Tiedostoon kirjoittaminen, käyttöliittymät ja piirtämisen alkeet
-Viikko 13   | 15.4.     | 2.5.      |  *TBA*
+Viikko 13   | 15.4.     | 2.5.      |  Kertausta, säännölliset lausekkeet, hyödyllisiä tekniikoita
 Viikko 14   | 22.4.     | 9.5       |  *TBA*
 
 **Huom: Tehtäväsarjojen viimeiset palautuspäivämäärät (deadlinet) ovat ehdottomat opinto-oikeutta anoville, eikä niistä voida joustaa. Määräaikojen kellonajat ovat aina 23:59:00 -- viikkojen 1-4 määräaika on siis 29.2. klo 23:59:00. Virallisena määräaikana käytetään tehtäväpalvelimen kelloa, joka on Suomen ajassa. Huomaa, että oman koneesi kello voi olla jäljessä tai edellä, joten älä jätä tehtävien tekemistä ja palauttamista viime hetkeen.**
