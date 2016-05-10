@@ -38,6 +38,7 @@ Ohjelmoinnin MOOC -kurssin voi suorittaa neljällä tavalla:
    - Arvosana 3: Vähintään 75 % jokaisen viikon tehtäväpisteistä, sekä vähintään 70 % kummankin koeosuuden koepisteistä
    - Arvosana 4: Vähintään 75 % jokaisen viikon tehtäväpisteistä, sekä vähintään 80 % kummankin koeosuuden koepisteistä
    - Arvosana 5: Vähintään 90 % jokaisen viikon tehtäväpisteistä, sekä vähintään 90 % kummankin koeosuuden koepisteistä
+- Huom! Jos kävit näyttökokeessa ja hait Helsingin yliopistoon, otetaan tehtäväpisteissä huomioon vain kurssin ensimmäiset 13 viikkoa.
 
    
 ## Opintojasi (Helsingin yliopisto) varten
