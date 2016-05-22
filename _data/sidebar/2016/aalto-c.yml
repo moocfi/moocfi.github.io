@@ -1,0 +1,24 @@
+header: C MOOC
+path: /courses/2016/aalto-c
+navigation:
+  -
+    name: Alkutoimet
+    path: http://c-mooc.tmchq.co/instructions/index.html
+    ext: true
+    target: _blank
+  -
+    name: Materiaali
+    path: http://c-mooc.tmchq.co/Module_1/index.html
+    ext: true
+    target: _blank
+  -
+    name: Ohjeita ohjelmointiin
+    path: /courses/general/ohjelmointi/ukk/
+    base: true
+  -
+    name: Kurssin suorittaminen
+    path: /kurssin-suorittaminen.html
+  -
+    name: Tulostaulu
+    path: /tulostaulu.html
+
