@@ -5,7 +5,12 @@ main-class: has-aside
 sidenav: 2016/aalto-c
 ---
 
-C MOOC -kurssin suorittaa kolmella tavalla:
+Kurssilla voit edetä omassa tahdissa, mutta toistaiseksi kurssi on tarjolla kesän loppuun (31.8.2016) saakka. Tämän jälkeen tehtäviä ei siis voi palauttaa.
+
+Edetäksesi viikolta seuraavalle, tulee kulloiseltakin viikolta olla 80% tehtäväpisteistä kasassa.
+
+
+# C MOOC -kurssin suorittaa kolmella tavalla:
 
 ## Fiilispohjalta tai olemassaolevan ohjelmointitaidon kertaamiseksi
 
