@@ -5,12 +5,20 @@ main-class: has-aside
 sidenav: 2016/aalto-c
 ---
 
-Aalto-yliopiston Sähkötekniikan korkeakoulu järjestää yhteistyössä
-Helsingin Yliopiston Tietojenkäsittelytieteen laitoksen
-kanssa C kielisen MOOC ohjelmointi -kurssin.
+Aalto-yliopiston Sähkötekniikan korkeakoulu järjestää yhteistyössä Helsingin Yliopiston Tietojenkäsittelytieteen laitoksen kanssa C-kielisen ohjelmoinnin MOOC -kurssin.
 
-Kurssilla tutustutaan C-ohjelmointikielen perusteisiin.
-Kurssi vastaa pitkälti Aalto-yliopiston Sähkötekniikan korkeakoulun C-ohjelmoinnin peruskurssia, ja Helsingin Yliopiston Tietojenkäsittelytieteen laitoksen C-ohjelmointi -kurssia.
+Kurssilla tutustutaan C-ohjelmointikielen perusteisii ja se vastaa pitkälti Aalto-yliopiston Sähkötekniikan korkeakoulun C-ohjelmoinnin peruskurssia sekä Helsingin Yliopiston Tietojenkäsittelytieteen laitoksen C-ohjelmointi -kurssia.
 
-Kurssilla voit edetä omassa tahdissa, mutta kurssi on tarjolla kesän loppuun (31.8.2016) asti. Tämän jälkeen tehtäviä ei siis voi palauttaa.
+Kurssi on tehtävissä 31.8.2016 asti, mutta muita aikarajoja tehtäviin liittyen ei ole. Voit siis edetä täysin omaan tahtiisi, kunhan saat kaiken valmiiksi kesän loppuun mennessä.
 
+<div class="actions">
+	<a class="action primary" href="http://c-mooc.tmchq.co/instructions/index.html" onclick="ga('send', 'event', 'button', 'click', 'outbound-c2016-alkutoimet')" target="_blank">Alkutoimet</a>
+</div>
+
+# Materiaali
+
+Tehtyäsi kaikki asennustoimenpiteet ja rekisteröityäsi käyttäjätunnuksen TestMyCode -palveluun, voit jatkaa materiaalin ja aloittaa kurssin suorittamisen. Onnea kurssille!
+
+<div class="actions">
+	<a class="action" href="http://c-mooc.tmchq.co/Module_1/index.html" onclick="ga('send', 'event', 'button', 'click', 'outbound-c2016-materiaali')">Materiaaliin</a>
+</div>

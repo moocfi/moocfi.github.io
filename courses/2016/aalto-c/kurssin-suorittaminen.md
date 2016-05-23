@@ -5,28 +5,26 @@ main-class: has-aside
 sidenav: 2016/aalto-c
 ---
 
-Kurssilla voit edetä omassa tahdissa, mutta toistaiseksi kurssi on tarjolla kesän loppuun (31.8.2016) saakka. Tämän jälkeen tehtäviä ei siis voi palauttaa.
+Kurssin ainoa aikaraja on 31.8.2016, jonka jälkeen tehtäviä ei voi enää palauttaa. Muuten kurssilla ei ole aikarajoja, vaan voit edetä täysin omaan tahtiisi.
 
-Edetäksesi viikolta seuraavalle, tulee kulloiseltakin viikolta olla 80% tehtäväpisteistä kasassa.
+Lisäksi sinun tulee saada kultakin viikolta vähintään 80 % tehtäväpisteistä jotta seuraava viikko avautuu tehtäväksi.
 
-
-# C MOOC -kurssin suorittaa kolmella tavalla:
+# Suoritustavat
 
 ## Fiilispohjalta tai olemassaolevan ohjelmointitaidon kertaamiseksi
 
 - Kurssille ilmoittautuminen ei velvoita mihinkään, eli osallistua voi ihan vain huvin vuoksi.
 - Nimeään tai yhteystietojaan (sähköpostia lukuunottamatta) ei tarvitse ilmoittaa.
-- Eteneminen kurssilla ei edellytä tehtävien palauttamista. Voit siis jatkaa kurssilla vaikka jollakin viikolla tehtävien tekeminen jäisi vähemmälle.
+- Seuraavan viikon tehtävät aukeavat aina kun edelliseltä viikolta on saatu vähintään 80 % tehtäväpisteistä.
 
 ## Opintojasi (muu kuin Helsingin yliopisto) varten
 
 - Pakollinen minimimäärä tehtyjen tehtävien suhteen riippuu koulustasi -- me emme sitä aseta. Kurssin menestyksekäs suoritus on tyypillisesti kuitenkin mahdollista vain kun teet säännöllisesti suurimman osan viikoittaisista tehtävistä.
 - Kurssin lopuksi saat diplomin, joka sisältää tiedon tekemiesi tehtävien määrästä, sekä kokeen yhteydessä myös koearvosanasi.
+- Mikäli haluat kurssista oppilaitoksesi hyväksymän suorituksen, tulee sinun etsiä oppilaitoksestasi opettaja joka suostuu hyväksilukemaan kurssisuorituksen.
 
 ## Opintojasi (Helsingin Yliopisto) varten (alustava!)
 
-Kurssi tarjotaan osana Helsingin Yliopiston tietojenkäsittelytieteen laitoksen kesäopintoja; ilmoittaudu kurssille ilmossa ja osallistu kesän lopussa järjestettävään kokeeseen. Lisätietoja ja suoritusmahdollisuuden vahvistus myöhemmin.
+Kurssi tarjotaan osana Helsingin yliopiston tietojenkäsittelytieteen laitoksen kesäopintoja; ilmoittaudu kurssille ilmossa ja osallistu kesän lopussa järjestettävään kokeeseen.
 
-Jokatapauksessa, kurssin suoritettuasi, voit Helsingin Yliopiston opiskelijana osallistua kurssin erilliskokeeseen.
-Ilmoita tällöin koepapereissasi tehneesi mooc.fi kautta tämän kurssin ja kerro myös tmc-tunnuksesi, jotta tehtäväpisteet saadaan yhdistettyä sinuun.
-
+Lisätietoja kurssin suorittamisesta osana Helsingin yliopiston opintoja ilmoitetaan myöhemmin tällä sivulla.
