@@ -4,11 +4,11 @@ baseurl: ""
 url: "http://mooc.fi"
 
 # Build settings
-markdown: redcarpet
-redcarpet:
-  extensions:
-    - tables
-    - with_toc_data
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
 gems:
   - jekyll-redirect-from
 
