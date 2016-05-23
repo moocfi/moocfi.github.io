@@ -5,8 +5,10 @@ main-class: has-aside
 sidenav: 2016/ohjelmoinnin-mooc
 ---
 
-Kurssi koostuu neljästätoista tehtäväsarjasta. 
-Kunkin tehtäväsarjan tekemiseen kannattaa varata aikaa noin 5-20 tuntia. 
+<strong>Kurssin aikarajallinen versio on päättynyt. Kiitos kaikille osallistujille. Aikarajaton versio on kuitenkin yhä tehtävissä.</strong>
+
+Kurssi koostuu neljästätoista tehtäväsarjasta.
+Kunkin tehtäväsarjan tekemiseen kannattaa varata aikaa noin 5-20 tuntia.
 Varaamme oikeuden aikataulun ja aiheiden muutoksiin, kuitenkin niin, että jokaista tehtäväsettiä on mahdollista suorittaa vähintään kahden viikon ajan, eivätkä alla nähdyt palautusten takarajat tule aikaistumaan.
 
 Aikataulun deadlinet koskevat vain kurssia ***2016-ohjelmointi***, kurssilla ***2016-nodl-ohjelmointi*** ei ole erillisiä aikarajoja.

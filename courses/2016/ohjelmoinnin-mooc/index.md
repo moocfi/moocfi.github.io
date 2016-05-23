@@ -14,9 +14,9 @@ Ohjelmoinnin MOOC on verkkokurssi, jossa perehdytään algoritmien laatimiseen j
 
 Kurssilla käytettävässä työvälineessä on tarjolla kaksi rinnakkaista versiota Ohjelmoinnin MOOC 2016 -kurssista.
 
-**Mikäli suoritat MOOCia tavoitteenasi opinto-oikeuden saaminen, tai haluat rytmitystä opiskeluusi, valitse kurssiksi <em>2016-ohjelmointi</em>**. Tällä kurssilla on ehdottomat deadlinet.
+**Mikäli aloitat kurssin vasta nyt, tulee sinun valita kurssiksi** ***2016-nodl-ohjelmointi***. Kurssin tämän version kautta ei ole mahdollista saada opiskelupaikkaa Helsingin yliopistoon.
 
-Mikäli suoritat kurssia omaksi iloksesi, voit valita kurssin ***2016-nodl-ohjelmointi***. Tällä kurssilla ei ole viikoittaisia deadlineja, vaan seuraava viikko aukeaa aina kun olet saanut vähintään 75 % edeltävän viikon pisteistä. Kurssimateriaali julkaistaan kuitenkin samaa tahtia aikarajallisen kurssin kanssa. Kurssin ***2016-nodl-ohjelmointi*** kautta **EI** ole mahdollista hakea opinto-oikeutta Helsingin Yliopistolle.
+Kurssin aikarajallinen versio -- jolta oli mahdollista saada opiskelupaikka Helsingin yliopistoon -- on päättynyt.
 
 # Tervetuloa ohjelmoimaan!
 
