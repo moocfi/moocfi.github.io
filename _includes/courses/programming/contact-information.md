@@ -7,11 +7,7 @@
 - [Google Groups]({{"/courses/general/programming/google-groups.html" | prepend: site.baseurl }})
 	-  Average response time 2 working days
 
-# Technical issues and bugs
-
-- Use our [ticket system](https://sourceforge.net/p/mooc-issues/tickets/) to report the issue
-
-# Other business
+# Other business and bug reports
 
 - Send mail to <mooc@cs.helsinki.fi>
 	- The email address is intended for administrative use only. For assistance with exercises see above.

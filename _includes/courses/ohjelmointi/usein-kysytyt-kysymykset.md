@@ -8,15 +8,13 @@
 
 	*"Don't ask to ask, just ask"*
 
-	Esitä ongelmasi suoraan, kanavalla joku vastaa sinulle aikanaan (arviolta noin 5-20 minuutin kuluessa). 
+	Esitä ongelmasi suoraan, kanavalla joku vastaa sinulle aikanaan (arviolta noin 5-20 minuutin kuluessa).
 
 	Mikäli kurssilla on käytössä NetBeans-ohjelmointiympäristö ja kysymyksesi koskee koodia, jaa koodi seuraavasti: NetBeanssissa paina **TMC -> Send code to TMC Pastebin -> Send ->** kopioi saamasi linkki ja lähetä se kysymyksesi yhteydessä.
 
 3. Tehtävän N testeissä on ongelma?
 
-	Jos huomaat, että jonkun tehtävän testissä on ongelma, esim. huono virheilmoitus, voit pyytää kurssihenkilökuntaa tarkastamaan asian tekemällä virheilmoituksen. 
-
-	Käytä ongelmien raportointiin osoitteessa <http://sourceforge.net/p/mooc-issues/tickets/> olevaa bugiträkkeriä
+	Jos huomaat, että jonkun tehtävän testissä on ongelma, esim. huono virheilmoitus, voit pyytää kurssihenkilökuntaa tarkastamaan asian tekemällä virheilmoituksen. Tee virheilmoitus sivun alareunassa olevaan sähköpostiosoitteeseen.
 
 4. Mistä näen mitä tehtäviä olen jo palauttanut ja milloin tehtävät pitäisi palauttaa?
 

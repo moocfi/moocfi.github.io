@@ -4,7 +4,7 @@ layout: course
 main-class: has-aside
 sidenav: general/ohjeita
 ---
-Kun käynnistät TMC-liitännäisen sisältävän NetBeansin ensimmäistä kertaa, pitäisi TMC:n asetusnäkymän aueta automaattisesti. Mikäli näin ei kuitenkaan tapahdu, valitse NetBeansin valikosta TMC | Settings.
+Kun käynnistät TMC-liitännäisen sisältävän NetBeansin ensimmäistä kertaa, pitäisi TMC:n asetusnäkymän aueta automaattisesti. Mikäli näin ei kuitenkaan tapahdu, valitse NetBeansin valikosta TMC \| Settings.
 
 1. Syötä TMC-palvelimelle rekisteröimäsi käyttäjätunnus kenttään *Username*
 2. Syötä käyttäjätunnusta vastaava salasana kenttään *Password*
