@@ -20,7 +20,7 @@ Lisäksi sinun tulee saada kultakin viikolta vähintään 80 % tehtäväpisteist
 ## Opintojasi (muu kuin Helsingin yliopisto) varten
 
 - Pakollinen minimimäärä tehtyjen tehtävien suhteen riippuu koulustasi -- me emme sitä aseta. Kurssin menestyksekäs suoritus on tyypillisesti kuitenkin mahdollista vain kun teet säännöllisesti suurimman osan viikoittaisista tehtävistä.
-- Kurssin lopuksi saat diplomin, joka sisältää tiedon tekemiesi tehtävien määrästä, sekä kokeen yhteydessä myös koearvosanasi.
+- Kurssin lopuksi saat diplomin, joka sisältää tiedon tekemiesi tehtävien määrästä.
 - Mikäli haluat kurssista oppilaitoksesi hyväksymän suorituksen, tulee sinun etsiä oppilaitoksestasi opettaja joka suostuu hyväksilukemaan kurssisuorituksen.
 
 ## Opintojasi (Helsingin Yliopisto) varten (alustava!)
