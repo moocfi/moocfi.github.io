@@ -28,5 +28,6 @@ navigation:
     target: _blank
   -
     name: Scoreboard
-    path: /scoreboard.html
+    base: true
+    path: /courses/2016/aalto-c/en/scoreboard.html
 
