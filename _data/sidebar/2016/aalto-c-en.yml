@@ -1,0 +1,33 @@
+header: C MOOC
+path: /courses/2016/aalto-c
+navigation:
+  -
+    name: How to Get Started
+    path: http://2016-aalto-c.mooc.fi/en/instructions/index.html
+    ext: true
+    target: _blank
+  -
+    name: Material
+    path: http://2016-aalto-c.mooc.fi/en/Module_1/index.html
+    ext: true
+    target: _blank
+  -
+    name: Instructions
+    path: /courses/general/programming/
+    base: true
+    target: _blank
+  -
+    name: IRC guide
+    path: /courses/general/programming/irc-guide.html
+    base: true
+    target: _blank
+  -
+    name: Google Groups
+    path: /courses/general/programming/google-groups.html
+    base: true
+    target: _blank
+  -
+    name: Scoreboard
+    base: true
+    path: /courses/2016/aalto-c/en/scoreboard.html
+
