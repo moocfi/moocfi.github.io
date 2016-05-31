@@ -5,9 +5,17 @@ main-class: has-aside
 sidenav: 2016/aalto-c-en
 ---
 
-Aalto University School of Electrical Engineering in collaboration with University of Helsinki Department of Computer Science presents a C programming MOOC -course.
+**Welcome to [Aalto University](http://www.aalto.fi/en/)'s massive open online course (MOOC) on C prorgamming!**
 
-The course covers basics of the C programming language,  matching the C programming courses offered by Aalto University of School of Electrical Engineering and University of Helsinki Department of Computer Science.
+During this course you will learn all the basics of computer programming and algorithms using the C programming language. The course includes comprehensive course materials and plenty of programming exercises, each tested using our automatic testing service [Test My Code](https://github.com/testmycode/tmc-server).
+
+**Anyone can join - no previous programming knowledge is required.**
+
+Unlike many programming courses found online, ours is completely unabridged: the course's scope and material are **identical to our own C programming** programming courses.
+
+This course is natural continuation for our Java MOOC courses but can also be taken without having taken the Java MOOCs.
+
+This course is organized in collaboration with Aalto University and University of Helsinki, this course covers basics of the C programming language.
 
 The course must be completed by 31.8.2016 but there are no other deadlines so you may progress at your own pace. To proceed from one module to the next one you must get at least 80% of exercise points of the module.
 
