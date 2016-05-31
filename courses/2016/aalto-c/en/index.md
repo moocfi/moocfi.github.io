@@ -7,17 +7,17 @@ sidenav: 2016/aalto-c-en
 
 **Welcome to [Aalto University](http://www.aalto.fi/en/)'s massive open online course (MOOC) on C prorgamming!**
 
-During this course you will learn all the basics of computer programming and algorithms using the C programming language. The course includes comprehensive course materials and plenty of programming exercises, each tested using our automatic testing service [Test My Code](https://github.com/testmycode/tmc-server).
+This course will teach you the basics of the C programming language. There are no special prerequisites, but some previous programming experience will be helpful. Students that have taken the Java MOOC classes offered by mooc.fi are more than well equipped to tackle this course, but the contents of the Java course are **not** prerequisites.
 
-**Anyone can join - no previous programming knowledge is required.**
+The course includes comprehensive online materials and plenty of programming exercises, each tested using our automatic testing service [Test My Code](https://github.com/testmycode/tmc-server). If you have previously taken the Java MOOC, then you should be familiar with most of the tools used.
 
-Unlike many programming courses found online, ours is completely unabridged: the course's scope and material are **identical to our own C programming** programming courses.
+The course is presented to you jointly by the Aalto University and the <a href="http://cs.helsinki.fi/en/" onclick="ga('send', 'event', 'link', 'click', 'outbound-c2016-hy-en')" target="_blank">University of Helsinki</a>, and the material is identical to the C programming courses offered by said universities.
 
-This course is natural continuation for our Java MOOC courses but can also be taken without having taken the Java MOOCs.
-
-This course is organized in collaboration with Aalto University and University of Helsinki, this course covers basics of the C programming language.
+# Deadlines
 
 The course must be completed by 31.8.2016 but there are no other deadlines so you may progress at your own pace. To proceed from one module to the next one you must get at least 80% of exercise points of the module.
+
+# Getting started
 
 <div class="actions">
 	<a class="action primary" href="http://2016-aalto-c.mooc.fi/en/instructions/index.html" onclick="ga('send', 'event', 'button', 'click', 'outbound-c2016-alkutoimet-en')" target="_blank">How to get started</a>
