@@ -5,7 +5,7 @@ main-class: has-aside
 sidenav: 2016/aalto-c-en
 ---
 
-**Welcome to [Aalto University](http://www.aalto.fi/en/)'s massive open online course (MOOC) on C prorgamming!**
+**Welcome to [Aalto University](http://www.aalto.fi/en/)'s massive open online course (MOOC) on C programming!**
 
 This course will teach you the basics of the C programming language. There are no special prerequisites, but some previous programming experience will be helpful. Students that have taken the Java MOOC classes offered by mooc.fi are more than well equipped to tackle this course, but the contents of the Java course are **not** prerequisites.
 
