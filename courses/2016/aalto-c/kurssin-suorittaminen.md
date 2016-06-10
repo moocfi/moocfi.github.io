@@ -23,8 +23,11 @@ Lisäksi sinun tulee saada kultakin viikolta vähintään 80 % tehtäväpisteist
 - Kurssin lopuksi saat diplomin, joka sisältää tiedon tekemiesi tehtävien määrästä.
 - Mikäli haluat kurssista oppilaitoksesi hyväksymän suorituksen, tulee sinun etsiä oppilaitoksestasi opettaja joka suostuu hyväksilukemaan kurssisuorituksen.
 
-## Opintojasi (Helsingin Yliopisto) varten (alustava!)
+## Opintojasi (Helsingin Yliopisto) varten
 
-Kurssi tarjotaan osana Helsingin yliopiston tietojenkäsittelytieteen laitoksen kesäopintoja; ilmoittaudu kurssille ilmossa ja osallistu kesän lopussa järjestettävään kokeeseen.
+Kurssi tarjotaan osana Helsingin yliopiston tietojenkäsittelytieteen laitoksen kesäopintoja; ilmoittaudu kurssille ilmossa! Lisätietoja suorittamisesta <a class="action primary" href="https://www.cs.helsinki.fi/courses/58127/2016/v/k/1" onclick="ga('send', 'event', 'button', 'click', 'c2016-cs-kurssisivu')" target="_blank">tietojenkäsittelytieteen laitoksen kurssisivuilla</a>
 
-Lisätietoja kurssin suorittamisesta osana Helsingin yliopiston opintoja ilmoitetaan myöhemmin tällä sivulla.
+
+## Opintojasi (Aalto Yliopisto) varten
+
+Ota yhteyttä Aalto Yliopiston vastaavan kurssin vastuuopettajaan.
