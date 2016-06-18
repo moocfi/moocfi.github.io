@@ -17,6 +17,8 @@ The course is presented to you jointly by the Aalto University and the <a href="
 
 The course must be completed by 31.8.2016 but there are no other deadlines so you may progress at your own pace. To proceed from one module to the next one you must get at least 80% of exercise points of the module.
 
+It usually takes 10 - 15 hours for completing each exercise set. However, this greatly depends on previous experience.
+
 # Getting started
 
 <div class="actions">
