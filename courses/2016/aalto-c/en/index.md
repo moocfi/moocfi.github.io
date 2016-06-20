@@ -31,4 +31,5 @@ After installing the required tools and signing up to the TestMyCode service, yo
 
 <div class="actions">
 	<a class="action" href="http://2016-aalto-c.mooc.fi/en/Module_1/index.html" onclick="ga('send', 'event', 'button', 'click', 'outbound-c2016-materiaali-en')" target="_blank">To the material</a>
+	<a class="action" href="http://2016-aalto-c.mooc.fi/en/Module_1/index.html" onclick="ga('send', 'event', 'button', 'click', 'outbound-c2016-backup-materiaali-en')" target="_blank">To the backup material</a>
 </div>
