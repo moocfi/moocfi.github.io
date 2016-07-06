@@ -45,12 +45,14 @@ Ohjelmoinnin MOOC -kurssin voi suorittaa neljällä tavalla:
 
 - Jos olet läsnäoleva Helsingin yliopiston opiskelija, suosittelemme että osallistut tietojenkäsittelytieteen laitoksen normaalisti järjestämille kursseille <a href="http://www.cs.helsinki.fi/courses/581325/" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ohpe')">Ohjelmoinnin perusteet</a> ja <a href="http://www.cs.helsinki.fi/courses/582103/" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ohja')">Ohjelmoinnin jatkokurssi</a>,.
 - MOOC-kurssin voi suorittaa osallistumalla MOOC:n jälkeen tietojenkäsittelytieteen laitoksen erilliskokeeseen. Kurssin laajuus on joko 5 opintopistettä (7 ensimmäistä viikkoa, ohjelmoinnin perusteet) tai 5+5 opintopistettä (koko kurssi, ohjelmoinnin perusteet ja jatkokurssi).
-- Hyväksyttyyn kurssisuoritukseen (arvosana "Hyv.") vaaditaan:
-   - jokaisen viikon tehtäväpisteistä vähintään 75 % ja
-   - jokaisesta kurssin kokeesta vähintään 50 % pisteistä.
-- Kiitettävästi hyväksyttyyn kurssisuoritukseen (arvosana 5) vaaditaan:
-   - jokaisen viikon tehtäväpisteistä vähintään 90 % ja
-   - kurssin kokeista yhteensä vähintään 90 % pisteistä.
+- Ennen heinäkuuta 2016 tehdyissä suorituksissa arvostelu tapahtuu asteikolla Hylätty / Hyväksytty / 5:
+   - Hyväksyttyyn kurssisuoritukseen (arvosana "Hyv.") vaaditaan:
+      - jokaisen viikon tehtäväpisteistä vähintään 75 % ja
+      - jokaisesta kurssin kokeesta vähintään 50 % pisteistä.
+   - Kiitettävästi hyväksyttyyn kurssisuoritukseen (arvosana 5) vaaditaan:
+      - jokaisen viikon tehtäväpisteistä vähintään 90 % ja
+      - kurssin kokeista yhteensä vähintään 90 % pisteistä.
+- Heinäkuusta 2016 lähtien arvostelu on numeroperustainen. Asteikko vastaa yllä kuvattua Helsingin yliopiston Avoimen yliopiston arvosteluasteikkoa.
 
 ## Opinto-oikeutta Helsingin yliopistoon hakien
 
