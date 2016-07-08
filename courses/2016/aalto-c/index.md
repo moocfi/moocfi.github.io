@@ -22,8 +22,7 @@ Aiemmasta kokemuksesta riippuen kurssin yhden tehtäväsetin tekemiseen voi arvi
 Tehtyäsi kaikki asennustoimenpiteet ja rekisteröityäsi käyttäjätunnuksen TestMyCode -palveluun, voit jatkaa materiaalin ja aloittaa kurssin suorittamisen. Onnea kurssille!
 
 <div class="actions">
-	<a class="action" href="http://2016-aalto-c.mooc.fi/Module_1/index.html" onclick="ga('send', 'event', 'button', 'click', 'outbound-c2016-materiaali')" target="_blank">Materiaaliin</a>
-	
+	<a class="action" href="http://2016-aalto-c.mooc.fi/fi/Module_1/index.html" onclick="ga('send', 'event', 'button', 'click', 'outbound-c2016-materiaali')" target="_blank">Materiaaliin</a>
+
 	<a class="action" href="http://2016-aalto-c.tmchq.co/fi/Module_1/index.html" onclick="ga('send', 'event', 'button', 'click', 'outbound-c2016-varamateriaali')" target="_blank">Varamateriaaliin</a>
 </div>
-
