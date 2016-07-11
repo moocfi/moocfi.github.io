@@ -14,7 +14,7 @@ Kurssi on tehtävissä 31.8.2016 asti, mutta muita aikarajoja tehtäviin liittye
 Aiemmasta kokemuksesta riippuen kurssin yhden tehtäväsetin tekemiseen voi arvioida menevän 10-15 tuntia.
 
 <div class="actions">
-	<a class="action primary" href="http://2016-aalto-c.mooc.fi/instructions/index.html" onclick="ga('send', 'event', 'button', 'click', 'outbound-c2016-alkutoimet')" target="_blank">Alkutoimet</a>
+	<a class="action primary" href="http://2016-aalto-c.mooc.fi/fi/instructions/index.html" onclick="ga('send', 'event', 'button', 'click', 'outbound-c2016-alkutoimet')" target="_blank">Alkutoimet</a>
 </div>
 
 # Materiaali
