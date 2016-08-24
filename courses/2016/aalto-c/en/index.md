@@ -33,3 +33,19 @@ After installing the required tools and signing up to the TestMyCode service, yo
 	<a class="action" href="http://2016-aalto-c.mooc.fi/en/Module_1/index.html" onclick="ga('send', 'event', 'button', 'click', 'outbound-c2016-materiaali-en')" target="_blank">To the material</a>
 	<a class="action" href="http://2016-aalto-c.tmchq.co/en/Module_1/index.html" onclick="ga('send', 'event', 'button', 'click', 'outbound-c2016-backup-materiaali-en')" target="_blank">To the backup material</a>
 </div>
+
+# Only for enrolled University of Helsinki students
+
+There will be two exam options available:
+
+-  Tuesday 30.8. at 17.00 in CK112 (exam time 2,5 h) or
+-  Friday 9.9. at 16.00 at B123 (exam time 3,5 h).
+
+Please participate to only one of these exams. If you participate to both exams then we will use either the worse answer only or the average of both answers. There will be renewal (make-up) exam available later in the Fall.
+
+Please note, that you need to register for the exam on Friday 9.9. at the latest on Monday 29.8. You are already counted as registered for the Tuesday exam. This makes it possible for us to estimate the amount of printed question papers for both exams.
+
+You are allowed to bring one A4 note sheet with you. A good note sheet contains material you feel valuable for you. It should not just contain random content about the language. Return the note sheet with your answer sheets.
+
+Remember to write your MOOC account name and the period you took the course to your answer sheet. This is especially important if your account name is not your student number.
+
