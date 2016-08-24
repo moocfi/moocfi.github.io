@@ -49,7 +49,7 @@ Tässä vaiheessa voit siirtyä [seuraavaan vaiheeseen](#seuraavaksi).
 - Anna näidenkin olla, ja paina vaan "Next: Featured plugins"
 - Tällä ruudulla asenna Scala, Live Edit Tool, Node.JS ja Angular. Jätä IdeaVim-liitännäinen asentamatta. Liitännäisten asennuttua paina "Start using IntelliJ IDEA".
 
-Asetusten jälkeen IntelliJ avaa Welcome-screenin. IntelliJ IDEA on nyt onnistuneesti assennettu, ja seuraavaksi asennamme TestMyCode-liitännäisen.
+Asetusten jälkeen IntelliJ avaa Welcome-screenin. IntelliJ IDEA on nyt onnistuneesti asennettu, ja seuraavaksi asennamme TestMyCode-liitännäisen.
 
 <div class="actions">
 	<a class="action" href="/courses/general/ohjelmointi/asentaminen/intellij/tmc/">TestMyCode -liitännäisen asentaminen</a>
