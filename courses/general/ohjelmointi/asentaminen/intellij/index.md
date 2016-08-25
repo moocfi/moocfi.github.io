@@ -5,12 +5,20 @@ main-class: has-aside
 sidenav: general/ohjeita
 ---
 
-Jotta saisit IntelliJ IDEA:n Ultimate-version käyttöösi ilmaiseksi, sinun tarvitsee tehdä opiskelija-tili Jetbrainsille (yritykselle, joka kehittää ohjelmointiympäristöä).
+IntelliJ:stä on olemassa kaksi eri versiota - Ultimate ja Community. Community-versio on täysin ilmainen kaikille, ja sillä pystyy tekemään ainakin ohjelmoinnin
+perusteiden ja sen jatkokurssin tehtävät hyvin. Web-juttuja (esim. Web-palvelinohjelmoinnin kurssin tehtäviä) sillä ei kuitenkaan välttämättä pysty tekemään niin helposti.
 
-Mene osoitteeseen <https://www.jetbrains.com/shop/eform/students> ja täytä lomake tiedoillasi. Saat opiskelijalisenssin käyttöösi, kun käytät joko @helsinki.fi- 
-tai @cs.helsinki.fi-päätteistä sähköpostiosoitetta. Lomakkeen täytettyäsi saat ohjeet antamaasi sähköpostiosoitteeseen jatkotoimista opiskelijalisenssin saamisesta.
+Ultimate-versio pystyy myös tähän kuitenkin, ja se on suositeltu versio mikäli olet opiskelija. Opiskelijalisenssin saamiseksi sinun tarvitsee tehdä opiskelija-tili
+Jetbrainsille (yritykselle, joka kehittää kyseistä ohjelmointiympäristöä).
 
-Kun olet saanut opiskelijalisenssin käyttöösi, ladataan ja asennetaan IntelliJ IDEA -ohjelmistoympäristö. Ympäristön asentamisen alkutoimet tapahtuvat hieman eri tavalla eri käyttöjärjestelmillä. Valitse alta oma käyttöjärjestelmäsi:
+Mikäli et ole opiskelija, siirry asennusohjeisiin valitsemalla käyttöjärjestelmäsi alla olevasta valikosta.
+
+Jos olet opiskelija, tee opiskelija-tili Jetbrainsille menemällä osoitteeseen <https://www.jetbrains.com/shop/eform/students> ja täyttällä lomake tiedoillasi.
+Saat opiskelijalisenssin käyttöösi, kun käytät joko @helsinki.fi- tai @cs.helsinki.fi-päätteistä sähköpostiosoitetta. Myös muiden oppilaitosten sähköpostiosoitteiden
+pitäisi kelvata. Lomakkeen täytettyäsi saat ohjeet antamaasi sähköpostiosoitteeseen jatkotoimista opiskelijalisenssin saamisesta.
+
+Kun olet saanut opiskelijalisenssin käyttöösi (tai mikäli haluat käyttää Community-versiota), ladataan ja asennetaan IntelliJ IDEA -ohjelmistoympäristö. 
+Ympäristön asentamisen alkutoimet tapahtuvat hieman eri tavalla eri käyttöjärjestelmillä. Valitse alta oma käyttöjärjestelmäsi:
 
 <div class="actions">
 	<a class="action" href="#windows">Windows</a>
@@ -20,7 +28,7 @@ Kun olet saanut opiskelijalisenssin käyttöösi, ladataan ja asennetaan Intelli
 
 # Windows
 
-1. Mene osoitteeseen <https://www.jetbrains.com/idea/download/#section=windows> ja paina Download-nappia Ultimate-tekstin alla.
+1. Mene osoitteeseen <https://www.jetbrains.com/idea/download/#section=windows> ja paina Download-nappia haluamasi version alla (Community tai Ultimate).
 
 2. Lataa exe-tiedosto haluamaasi paikkaan. Tiedoston latauduttua asenna IntelliJ IDEA tuplaklikkaamalla ladattua tiedostoa.
 
@@ -39,7 +47,7 @@ Tässä vaiheessa voit siirtyä [seuraavaan vaiheeseen](#seuraavaksi).
 
 # Linux
 
-1. Mene osoitteeseen <https://www.jetbrains.com/idea/download/#section=linux> ja paina Download-nappia Ultimate-tekstin alla.
+1. Mene osoitteeseen <https://www.jetbrains.com/idea/download/#section=linux> ja paina Download-nappia haluamasi version alla (Community tai Ultimate).
 
 2. Talleta pakattu tar.gz-tiedosto haluaamasi paikkaan ja mene paikkaan johon sen latasit. Tiedoston ladauduttua pura (extract) tiedosto haluaamasi paikkaan.
 
