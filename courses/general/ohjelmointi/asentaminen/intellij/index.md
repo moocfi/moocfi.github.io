@@ -5,6 +5,12 @@ main-class: has-aside
 sidenav: general/ohjeita
 ---
 
+Jos sinulla ei ole vielä JDK:ta (Java Development Kit) asennettuna koneellasi, asenna se ensimmäiseksi. Jos on, niin voit hypätä seuraavan linkin ohi.
+
+<div class="actions">
+	<a class="action" href="/courses/general/ohjelmointi/asentaminen/intellij/java">Javan asentaminen</a>
+</div>
+
 IntelliJ:stä on olemassa kaksi eri versiota - Ultimate ja Community. Community-versio on täysin ilmainen kaikille, ja sillä pystyy tekemään ainakin ohjelmoinnin
 perusteiden ja sen jatkokurssin tehtävät hyvin. Web-juttuja (esim. Web-palvelinohjelmoinnin kurssin tehtäviä) sillä ei kuitenkaan välttämättä pysty tekemään niin helposti.
 
@@ -62,7 +68,7 @@ Tässä vaiheessa voit siirtyä [seuraavaan vaiheeseen](#seuraavaksi).
 
 2. Talleta .dmg-hakemisto haluamaasi paikkaan.
 
-3. Avaa ladattu .dmg-hakemisto ja siirrä IDEA-app omaan Applications-hakemistoosi.
+3. Avaa ladattu .dmg-paketti ja siirrä IDEA-app omaan Applications-hakemistoosi.
 
 4. Aja ohjelma.
 
