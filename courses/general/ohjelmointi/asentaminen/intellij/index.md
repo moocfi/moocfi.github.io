@@ -30,7 +30,7 @@ Ympäristön asentamisen alkutoimet tapahtuvat hieman eri tavalla eri käyttöj�
 
 1. Mene osoitteeseen <https://www.jetbrains.com/idea/download/#section=windows> ja paina Download-nappia haluamasi version alla (Community tai Ultimate).
 
-2. Lataa exe-tiedosto haluamaasi paikkaan. Tiedoston latauduttua asenna IntelliJ IDEA tuplaklikkaamalla ladattua tiedostoa.
+2. Lataa exe-tiedosto haluamaasi paikkaan. Tiedoston latauduttua asenna IntelliJ IDEA ajamalla tiedosto.
 
 3. Intallation Setup Wizard aukeaa. Paina Next.
 
@@ -49,13 +49,22 @@ Tässä vaiheessa voit siirtyä [seuraavaan vaiheeseen](#seuraavaksi).
 
 1. Mene osoitteeseen <https://www.jetbrains.com/idea/download/#section=linux> ja paina Download-nappia haluamasi version alla (Community tai Ultimate).
 
-2. Talleta pakattu tar.gz-tiedosto haluaamasi paikkaan ja mene paikkaan johon sen latasit. Tiedoston ladauduttua pura (extract) tiedosto haluaamasi paikkaan.
+2. Talleta pakattu tar.gz-tiedosto haluaamasi paikkaan ja siirry paikkaan johon sen latasit. Tiedoston latauduttua pura (extract) tiedosto haluaamasi paikkaan.
 
-3. Avaa komentorivi, siirry puretun kansion sisälle (cd-komennolla, esim. cd idea-IU-162.1628.40, mikäli purit tiedoston Home-hakemistosi juureen), ja siellä bin-kansioon ja kirjoita ./idea.sh
+3. Avaa komentorivi, siirry puretun kansion sisälle (cd-komennolla, esim. cd idea-IU-162.1628.40, mikäli purit tiedoston Home-hakemistosi juureen),
+ja siellä bin-kansioon ja kirjoita ./idea.sh
 
 Tässä vaiheessa voit siirtyä [seuraavaan vaiheeseen](#seuraavaksi).
 
 # Mac OS X
+
+1. Mene osoitteeseen <https://www.jetbrains.com/idea/download/#section=mac> ja paina Download-nappia haluamasi version alla (Community tai Ultimate).
+
+2. Talleta .dmg-hakemisto haluamaasi paikkaan.
+
+3. Avaa ladattu .dmg-hakemisto ja siirrä IDEA-app omaan Applications-hakemistoosi.
+
+4. Aja ohjelma.
 
 Tässä vaiheessa voit siirtyä [seuraavaan vaiheeseen](#seuraavaksi).
 
