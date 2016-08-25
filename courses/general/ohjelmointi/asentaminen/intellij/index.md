@@ -32,7 +32,7 @@ Ympäristön asentamisen alkutoimet tapahtuvat hieman eri tavalla eri käyttöj�
 
 2. Lataa exe-tiedosto haluamaasi paikkaan. Tiedoston latauduttua asenna IntelliJ IDEA ajamalla tiedosto.
 
-3. Intallation Setup Wizard aukeaa. Paina Next.
+3. Installation Setup Wizard aukeaa. Paina Next.
 
 4. Valitse paikka, mihin haluat ohjelmointiympäristön asennettavan. Paina Next.
 
