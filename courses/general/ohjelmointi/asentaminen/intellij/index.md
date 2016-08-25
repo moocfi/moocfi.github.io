@@ -20,7 +20,22 @@ Kun olet saanut opiskelijalisenssin käyttöösi, ladataan ja asennetaan Intelli
 
 # Windows
 
+1. Mene osoitteeseen <https://www.jetbrains.com/idea/download/#section=windows> ja paina Download-nappia Ultimate-tekstin alla.
+
+2. Lataa exe-tiedosto haluamaasi paikkaan. Tiedoston latauduttua asenna IntelliJ IDEA tuplaklikkaamalla ladattua tiedostoa.
+
+3. Intallation Setup Wizard aukeaa. Paina Next.
+
+4. Valitse paikka, mihin haluat ohjelmointiympäristön asennettavan. Paina Next.
+
+5. Valitse 64-bit launcher, mikäli sellainen vaihtoehto on näkyvillä. Jos ei, valitse 32-bit launcher. "Create assosiations" -kohdan voit jättää huomiotta. Paina Next.
+
+6. Valitse Start menu folder (oletuksena annettu Jetbrains on hyvä, ellet halua jotakin muuta). Valitse Install lopuksi.
+
+7. Kestää hetki kun IntelliJ asentuu. Sen asennuttua ruksita laatikko IntelliJ:n käynnistämisestä lopetettuasi, ja lopeta asennus painamalla "Finish"-nappia.
+
 Tässä vaiheessa voit siirtyä [seuraavaan vaiheeseen](#seuraavaksi).
+
 
 # Linux
 
