@@ -15,7 +15,7 @@ Mikäli et ole opiskelija, siirry asennusohjeisiin valitsemalla käyttöjärjest
 
 Jos olet opiskelija, tee opiskelija-tili Jetbrainsille menemällä osoitteeseen <https://www.jetbrains.com/shop/eform/students> ja täyttällä lomake tiedoillasi.
 Saat opiskelijalisenssin käyttöösi, kun käytät joko @helsinki.fi- tai @cs.helsinki.fi-päätteistä sähköpostiosoitetta. Myös muiden oppilaitosten sähköpostiosoitteiden
-pitäisi kelvata. Lomakkeen täytettyäsi saat ohjeet antamaasi sähköpostiosoitteeseen jatkotoimista opiskelijalisenssin saamisesta.
+pitäisi kelvata. Lomakkeen täytettyäsi saat ohjeet antamaasi sähköpostiosoitteeseen jatkotoimista opiskelijalisenssin saamiseksi.
 
 Kun olet saanut opiskelijalisenssin käyttöösi (tai mikäli haluat käyttää Community-versiota), ladataan ja asennetaan IntelliJ IDEA -ohjelmistoympäristö. 
 Ympäristön asentamisen alkutoimet tapahtuvat hieman eri tavalla eri käyttöjärjestelmillä. Valitse alta oma käyttöjärjestelmäsi:
