@@ -70,7 +70,7 @@ Tässä vaiheessa voit siirtyä [seuraavaan vaiheeseen](#seuraavaksi).
 
 # Seuraavaksi
 
-1. Ensimmäisen kerran IntelliJ:tä avattaessa, IntelliJ kysyy onko sinulla valmiita asetuksia jotka haluaisit importata ohjelmistoympäristöön. Valitse vaihtoehto "I do not have a previous version of IntelliJ IDEA or I do not want to import my settings" ja paina OK.
+1. Ensimmäisen kerran IntelliJ:tä avattaessa, IntelliJ kysyy onko sinulla valmiita asetuksia jotka haluaisit tuoda ohjelmistoympäristöön. Valitse vaihtoehto "I do not have a previous version of IntelliJ IDEA or I do not want to import my settings" ja paina OK.
 
 2. Tämän jälkeen sinulta kysytään lisenssiä. Avautuneessa ikkunassa oletuksena on "Activate license with Jetbrains Account", tämä on hyvä. Täytä lomake aiemmin tehdyn Jetbrains-tilin tiedoilla ja paina "Activate".
 
