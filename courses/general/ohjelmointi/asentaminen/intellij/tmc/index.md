@@ -22,8 +22,6 @@ Mikäli et ole tehnyt aiemmin yhtäkään projektia IntelliJ:llä, IntelliJ avaa
 
 # Seuraavaksi
 
-# Seuraavaksi
-
 Onnistuneen asennuksen jälkeen, siirry luomaan itsellesi käyttäjätunnusta TestMyCode -tarkistusjärjestelmäämme. 
 
 Mikäli olet jo aiemmin luonut käyttäjätunnuksen esimerkiksi jotain toista kurssiamme varten, voit käyttää sitä ja siirtyä takaisin kurssille.
