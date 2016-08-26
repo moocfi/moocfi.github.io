@@ -86,7 +86,7 @@ Press the button "refresh list" and select course from "Current course".
 
 By pressing "ok" the assignment "projects" are downloaded to your computer.
 
-The next video shows how to program and submit the assignments using TMC/NetBeans. The process is mostly the same in IntelliJ, except ,**important**,
+The next video shows how to program and submit the assignments using TMC/NetBeans. The process is mostly the same in IntelliJ, except, **important**,
 for the first time you open up an exercise, you need to set the JDK that you installed earlier. IntelliJ should ask you give it, but if not,
 you can set it from File / Project Structure at "Project SDK" part.
 
