@@ -65,7 +65,7 @@ Download button.
       - The script can be executed only if it has been given right permissions eg. with command `chmod +x bin/idea.sh`.
       - In Ubuntu, for example, the execution permissions can be given using the File browser  by right clicking the script and selecting Properties / Permissions / Allow executing file as program. After doing this, the script can be executed by clicking it.
 
-Then, download the the TestMyCode plugin. 
+Then, download the the TestMyCode plugin:
 
 When IntelliJ opens for the first time, you get to a welcome screen. At the bottom, choose Configure / Plugins. At the bottom of the window that opens,
 choose "Browse repositories" and type something like "TMC" to the search field. Install the plugin and restart IntelliJ.
