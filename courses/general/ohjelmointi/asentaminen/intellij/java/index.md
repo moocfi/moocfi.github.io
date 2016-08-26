@@ -24,5 +24,5 @@ käyttöjärjestelmällesi x86-versio.
 Voit nyt siirtyä takaisin IntelliJ:n asentamiseen.
 
 <div class="actions">
-	<a class="action" href="/courses/general/ohjelmointi/asentaminen/intellij/">IntelliJ IDEA:n asentaminen</a>
+    <a class="action" href="/courses/general/ohjelmointi/asentaminen/intellij/">IntelliJ IDEA:n asentaminen</a>
 </div>

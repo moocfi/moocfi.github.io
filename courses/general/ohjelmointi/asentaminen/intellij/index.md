@@ -8,7 +8,7 @@ sidenav: general/ohjeita
 Jos sinulla ei ole vielä JDK:ta (Java Development Kit) asennettuna koneellasi, asenna se ensimmäiseksi. Jos on, niin voit hypätä seuraavan linkin ohi.
 
 <div class="actions">
-	<a class="action" href="/courses/general/ohjelmointi/asentaminen/intellij/java">Javan asentaminen</a>
+    <a class="action" href="/courses/general/ohjelmointi/asentaminen/intellij/java">Javan asentaminen</a>
 </div>
 
 IntelliJ:stä on olemassa kaksi eri versiota - Ultimate ja Community. Community-versio on täysin ilmainen kaikille, ja sillä pystyy tekemään ainakin ohjelmoinnin
@@ -27,9 +27,9 @@ Kun olet saanut opiskelijalisenssin käyttöösi (tai mikäli haluat käyttää 
 Ympäristön asentamisen alkutoimet tapahtuvat hieman eri tavalla eri käyttöjärjestelmillä. Valitse alta oma käyttöjärjestelmäsi:
 
 <div class="actions">
-	<a class="action" href="#windows">Windows</a>
-	<a class="action" href="#mac-os-x">Max OS X</a>
-	<a class="action" href="#linux">Linux</a>
+    <a class="action" href="#windows">Windows</a>
+    <a class="action" href="#mac-os-x">Max OS X</a>
+    <a class="action" href="#linux">Linux</a>
 </div>
 
 # Windows
@@ -90,6 +90,6 @@ Tässä vaiheessa voit siirtyä [seuraavaan vaiheeseen](#seuraavaksi).
 Asetusten jälkeen IntelliJ avaa Welcome-screenin. IntelliJ IDEA on nyt onnistuneesti asennettu, ja seuraavaksi asennamme TestMyCode-liitännäisen.
 
 <div class="actions">
-	<a class="action" href="/courses/general/ohjelmointi/asentaminen/intellij/tmc/">TestMyCode -liitännäisen asentaminen</a>
+    <a class="action" href="/courses/general/ohjelmointi/asentaminen/intellij/tmc/">TestMyCode -liitännäisen asentaminen</a>
 </div>
 
