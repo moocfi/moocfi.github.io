@@ -71,7 +71,7 @@ When IntelliJ opens for the first time, you get to a welcome screen. At the bott
 choose "Browse repositories" and type something like "TMC" to the search field. Install the plugin and restart IntelliJ.
 
 
-# Completing and submitting the programming assignments with Netbeans
+# Completing and submitting the programming assignments with Netbeans or IntelliJ
 
 If you're using **Netbeans** with TMC, the first time you start it, the below window should open. If it does not open, you can find it from the TMC / Settings. If you're
 using **IntelliJ**, you get to a Welcome screen, in which you can press the "Get started with TMC" button.
