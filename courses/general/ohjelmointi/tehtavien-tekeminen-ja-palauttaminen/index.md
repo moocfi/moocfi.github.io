@@ -23,7 +23,9 @@ Seuraavat kohdat menevät samalla tavalla:
 	- Mikäli suoritat jotain muuta kurssia, katso kurssisi tunnus kurssin sivuilta
 6. Olet nyt valmis ja Netbeansissä voit aloittaa tehtävien tekemisen painamalla *OK*. IntelliJ:ssä paina *Download course exercises*.
 
-Seuraavalla videolla näytetään miten tehtävien tekeminen ja palauttaminen NetBeansilla ja TMC:llä tapahtuu. IntelliJ:tä käyttäessä prosessi on pitkälti samanlainen.
+Seuraavalla videolla näytetään miten tehtävien tekeminen ja palauttaminen NetBeansilla ja TMC:llä tapahtuu. IntelliJ:tä käyttäessä prosessi on pitkälti samanlainen,
+mutta **HUOM.** ensimmäistä tehtävää tehdessäsi joudut asettamaan IntelliJ:lle aiemmin asentamasi JDK:n. IntelliJ:n pitäisi pyytää sinua
+suoraan antamaan se, mutta jos ei, niin voit asettaa sen avaamalla File / Project Structure -ikkunan, ja asettamalla sen kohdassa "Project SDK".
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/sQYq2LISMRU" frameborder="0" allowfullscreen></iframe>
 
