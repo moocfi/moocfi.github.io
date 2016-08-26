@@ -14,7 +14,7 @@ If you already have an account in TMC, you do not need a new one. Ensure that yo
 
 In the course we'll be using version 8.0 of the NetBeans Integrated Development Enviroinment and the TMC plugin to download and submit the programming assignments. NetBeans requires Java development kit (JDK) to be installed.
 
-As an alternative to Netbeans, you may also use Jetbrains's IntelliJ IDEA, which has a commercial Ultimate version, but also a completely free Community version (which is fine for this course).
+As an alternative to Netbeans, you may use Jetbrains's IntelliJ IDEA, which has a commercial Ultimate version, but also a completely free Community version (which is fine for this course).
 
 **NOTE:** If you have an old version of NetBeans on your computer, we recommend that you remove it before installing the new version. When the installation procedure asks  if the old setting should be imported, answer "no".
 
@@ -36,7 +36,7 @@ As an alternative to Netbeans, you may also use Jetbrains's IntelliJ IDEA, which
 
 **Next**, choose one of 2a or 2b Depending on which programming environment you're using
 
-2a. Installing NetBeans
+### 2a. Installing NetBeans
 
    **JDK must be installed before installing NetBeans.**
 
@@ -51,7 +51,7 @@ As an alternative to Netbeans, you may also use Jetbrains's IntelliJ IDEA, which
       - The script can be executed only if it has been given right permissions eg. with command `chmod o+x tmc-netbeans_mooc_tmcbeans-linux.sh`.
       - In Ubuntu, for example, the execution permissions can be given using the File browser  by right clicking the script and selecting Properties / Permissions / Allow executing file as program. After doing this, the script can be executed by clicking it.
 
-2b. Installing IntelliJ IDEA
+### 2b. Installing IntelliJ IDEA
 
 First, download IntelliJ IDEA Community version. Choose your operating system and in the address linked, press the
 Download button.
