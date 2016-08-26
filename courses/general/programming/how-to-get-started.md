@@ -68,7 +68,7 @@ Download button.
 Then, download the the TestMyCode plugin. 
 
 When IntelliJ opens for the first time, you get to a welcome screen. At the bottom, choose Configure / Plugins. At the bottom of the window that opens,
-choose "Browser repositores" and type something like "TMC" to the search field. Install the plugin and restart IntelliJ.
+choose "Browse repositories" and type something like "TMC" to the search field. Install the plugin and restart IntelliJ.
 
 
 # Completing and submitting the programming assignments with Netbeans
