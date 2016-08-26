@@ -78,8 +78,6 @@ using **IntelliJ**, you get to a Welcome screen, in which you can press the "Get
 
 ![tmc-settings]({{ "/img/programming/tmc-settings.png" | prepend: site.baseurl }})
 
-Now move on to the next phase
-
 Give the Username and Password that you gave during registration.
 
 Press the button "refresh list" and select course from "Current course".
