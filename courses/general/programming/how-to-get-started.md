@@ -57,11 +57,11 @@ First, download IntelliJ IDEA Community version. Choose your operating system an
 Download button.
 
    - [Windows](https://www.jetbrains.com/idea/download/#section=windows)
-      - The installation is done by opening the downloaded executable file
+      - The installation is done by opening the downloaded executable file.
    - [OS X (Mac)](https://www.jetbrains.com/idea/download/#section=linux)
-      - The installation is done the same way as any .dmg package. Move the IDEA app inside the downloaded package to your Applications folder
+      - The installation is done the same way as any .dmg package. Move the IDEA app inside the downloaded package to your Applications folder.
    - [Linux](https://www.jetbrains.com/idea/download/#section=linux)
-      - The installation is done by executing the installation script by giving the command `./bin/idea.sh` in the directory where the file is located
+      - The installation is done by executing the installation script by giving the command `./bin/idea.sh` in the directory where the file is located.
       - The script can be executed only if it has been given right permissions eg. with command `chmod +x bin/idea.sh`.
       - In Ubuntu, for example, the execution permissions can be given using the File browser  by right clicking the script and selecting Properties / Permissions / Allow executing file as program. After doing this, the script can be executed by clicking it.
 
