@@ -23,7 +23,7 @@ Jos olet opiskelija, tee opiskelija-tili Jetbrainsille menemällä osoitteeseen 
 Saat opiskelijalisenssin käyttöösi, kun käytät joko @helsinki.fi- tai @cs.helsinki.fi-päätteistä sähköpostiosoitetta. Myös muiden oppilaitosten sähköpostiosoitteiden
 pitäisi kelvata. Lomakkeen täytettyäsi saat ohjeet antamaasi sähköpostiosoitteeseen jatkotoimista opiskelijalisenssin saamiseksi.
 
-Kun olet saanut opiskelijalisenssin käyttöösi (tai mikäli haluat käyttää Community-versiota), ladataan ja asennetaan IntelliJ IDEA -ohjelmistoympäristö. 
+Kun olet saanut opiskelijalisenssin käyttöösi (tai mikäli haluat käyttää Community-versiota), ladataan ja asennetaan IntelliJ IDEA -ohjelmistoympäristö.
 Ympäristön asentamisen alkutoimet tapahtuvat hieman eri tavalla eri käyttöjärjestelmillä. Valitse alta oma käyttöjärjestelmäsi:
 
 <div class="actions">
@@ -78,12 +78,12 @@ Tässä vaiheessa voit siirtyä [seuraavaan vaiheeseen](#seuraavaksi).
 
 1. Ensimmäisen kerran IntelliJ:tä avattaessa, IntelliJ kysyy onko sinulla valmiita asetuksia jotka haluaisit tuoda ohjelmistoympäristöön. Valitse vaihtoehto "I do not have a previous version of IntelliJ IDEA or I do not want to import my settings" ja paina OK.
 
-2. Tämän jälkeen sinulta kysytään lisenssiä. Avautuneessa ikkunassa oletuksena on "Activate license with Jetbrains Account", tämä on hyvä. Täytä lomake aiemmin tehdyn Jetbrains-tilin tiedoilla ja paina "Activate".
+2. **Jos** asensit Ultimate-version, tässä vaiheessa sinulta kysytään lisenssiä. Avautuneessa ikkunassa oletuksena on "Activate license with Jetbrains Account", tämä on hyvä. Täytä lomake aiemmin tehdyn Jetbrains-tilin tiedoilla ja paina "Activate".
 
-3. Tämän jälkeen IntelliJ kysyy sekalaisia kysymyksiä asetuksiin liittyen. Älä skippaa näitä. 
-- Ensimmäisen kohdalla voit valita teeman (IntelliJ on hyvä, mutta tumman teeman halutessasi valitse Darcula (tätä voi muuttaa myöhemmin). Paina "Next: Desktop Entry". 
-- Seuraavalla ruudulla anna oletuksen olla (ellei koneellasi ole useampi ihminen joka käyttäisi ohjelmistoympäristöä) ja paina "Next: Launcher Script". 
-- Tälläkin ruudulla paina vaan "Next: Default plugins". 
+3. Tämän jälkeen IntelliJ kysyy sekalaisia kysymyksiä asetuksiin liittyen. Älä skippaa näitä.
+- Ensimmäisen kohdalla voit valita teeman (IntelliJ on hyvä, mutta tumman teeman halutessasi valitse Darcula (tätä voi muuttaa myöhemmin). Paina "Next: Desktop Entry".
+- Seuraavalla ruudulla anna oletuksen olla (ellei koneellasi ole useampi ihminen joka käyttäisi ohjelmistoympäristöä) ja paina "Next: Launcher Script".
+- Tälläkin ruudulla paina vaan "Next: Default plugins".
 - Anna näidenkin olla, ja paina vaan "Next: Featured plugins"
 - Tällä ruudulla asenna Scala, Live Edit Tool, Node.JS ja Angular. Jätä IdeaVim-liitännäinen asentamatta. Liitännäisten asennuttua paina "Start using IntelliJ IDEA".
 
@@ -92,4 +92,3 @@ Asetusten jälkeen IntelliJ avaa Welcome-screenin. IntelliJ IDEA on nyt onnistun
 <div class="actions">
     <a class="action" href="/courses/general/ohjelmointi/asentaminen/intellij/tmc/">TestMyCode -liitännäisen asentaminen</a>
 </div>
-
