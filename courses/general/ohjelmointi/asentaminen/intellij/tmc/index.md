@@ -12,7 +12,7 @@ Mikäli et ole tehnyt aiemmin yhtäkään projektia IntelliJ:llä, IntelliJ avaa
 
 1. Valitse alapalkista Configure / Plugins.
 
-2. Paina Browser Repositories-nappia alhaalla.
+2. Paina Browse Repositories-nappia alhaalla.
 
 3. Kirjoita hakukenttään TMC, ja tulokseksi pitäisi tulla TMC Plugin for IntelliJ.
 
@@ -22,7 +22,7 @@ Mikäli et ole tehnyt aiemmin yhtäkään projektia IntelliJ:llä, IntelliJ avaa
 
 # Seuraavaksi
 
-Onnistuneen asennuksen jälkeen, siirry luomaan itsellesi käyttäjätunnusta TestMyCode -tarkistusjärjestelmäämme. 
+Onnistuneen asennuksen jälkeen, siirry luomaan itsellesi käyttäjätunnusta TestMyCode-tarkistusjärjestelmäämme.
 
 Mikäli olet jo aiemmin luonut käyttäjätunnuksen esimerkiksi jotain toista kurssiamme varten, voit käyttää sitä ja siirtyä takaisin kurssille.
 
