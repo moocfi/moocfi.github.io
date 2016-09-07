@@ -9,9 +9,7 @@ During the course series, participants learn relevant legislation within EU, too
 
 We will start on 25th of October, 2016. Stay tuned.
 
-<br>
-
-<div class="actions">
+<div class="actions" style="margin: 80px 0 80px 0;">
 <form action="http://jamo.us8.list-manage.com/subscribe/post?u=db82662e446284fd41bd8370e&amp;id=c37b72ffb9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate >
     <p>Leave us your email and we will send you updates about this course.</p>
     <p>
@@ -19,4 +17,8 @@ We will start on 25th of October, 2016. Stay tuned.
       <input class="action primary" type="submit" value="Subscribe" onclick="ga('send','event','button','click','subscribe')">
     </p>
 </form>
+</div>
+
+<div class="videowrapper">
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/TIYDi4WxQpU" frameborder="0" allowfullscreen></iframe>
 </div>
