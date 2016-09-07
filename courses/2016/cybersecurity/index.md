@@ -5,7 +5,12 @@ layout: course
 
 *Cyber Security Base with F-Secure* is a course series by <a href="https://www.cs.helsinki.fi/en" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'oubound-tktl-en')">University of Helsinki</a> in collaboration with <a href="https://www.f-secure.com/en/welcome" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'oubound-fsecure')">F&#8209;Secure</a> Cyber Security Academy that focuses on building core knowledge and abilities related to the work of a cyber security professional.
 
+<iframe style="display: block; margin: 40px auto 40px auto; " width="640" height="360" src="https://www.youtube.com/embed/TIYDi4WxQpU" frameborder="0" allowfullscreen></iframe>
+
+
 During the course series, participants learn relevant legislation within EU, tools used to analyse flaws in software systems, necessary knowledge to build secure software systems (esp. within Web), and the skills needed to perform risk and threat analysis on existing systems. At the end of the course series, the participants are expected to be able to work as junior security consultants.
+
+
 
 We will start on 25th of October, 2016. Stay tuned.
 
@@ -17,8 +22,4 @@ We will start on 25th of October, 2016. Stay tuned.
       <input class="action primary" type="submit" value="Subscribe" onclick="ga('send','event','button','click','subscribe')">
     </p>
 </form>
-</div>
-
-<div class="videowrapper">
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/TIYDi4WxQpU" frameborder="0" allowfullscreen></iframe>
 </div>
