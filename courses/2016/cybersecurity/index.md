@@ -1,6 +1,7 @@
 ---
 title: Cyber Security Base with F&#8209;Secure
 layout: course
+english: true
 ---
 
 *Cyber Security Base with F-Secure* is a course series by <a href="https://www.cs.helsinki.fi/en" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'oubound-tktl-en')">University of Helsinki</a> in collaboration with <a href="https://www.f-secure.com/en/welcome" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'oubound-fsecure')">F&#8209;Secure</a> Cyber Security Academy that focuses on building core knowledge and abilities related to the work of a cyber security professional.
