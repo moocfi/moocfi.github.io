@@ -4,7 +4,14 @@ layout: course
 main-class: has-aside
 sidenav: general/ohjeita
 ---
-Kun käynnistät TMC-liitännäisen sisältävän NetBeansin ensimmäistä kertaa, pitäisi TMC:n asetusnäkymän aueta automaattisesti. Mikäli näin ei kuitenkaan tapahdu, valitse NetBeansin valikosta TMC \| Settings.
+
+Ohjelmistoympäristön aloittaminen menee hieman eri tavalla riippuen ohjelmistoympäristöstäsi.
+
+Mikäli käytät **Netbeansia**, ensimmäistä kertaa TMC-liitännäisen sisältävän Netbeansin käynnistäessä TMC:n asetusnäkymän pitäisi aueta automaattisesti. Mikäli näin ei kuitenkaan tapahdu, valitse NetBeansin valikosta TMC \| Settings.
+
+Jos käytät **IntelliJ:tä**, käynnistäessä kyseistä ohjelmistoympäristöä ensimmäistä kertaa TMC-liitännäisen kanssa, sinun täytyy valita *Get started with TMC* -vaihtoehto.
+
+Seuraavat kohdat menevät samalla tavalla:
 
 1. Syötä TMC-palvelimelle rekisteröimäsi käyttäjätunnus kenttään *Username*
 2. Syötä käyttäjätunnusta vastaava salasana kenttään *Password*
@@ -14,9 +21,11 @@ Kun käynnistät TMC-liitännäisen sisältävän NetBeansin ensimmäistä kerta
 5. Valitse suoritettava kurssi *Current course* -pudotusvalikosta. 
 	- Mikäli suoritat kevään 2016 ohjelmoinnin MOOC -kurssia, valitse **2016-ohjelmointi** tai **2016-nodl-ohjelmointi**.
 	- Mikäli suoritat jotain muuta kurssia, katso kurssisi tunnus kurssin sivuilta
-6. Olet nyt valmis ja voit aloittaa tehtävien tekemisen painamalla *OK*
+6. Olet nyt valmis ja Netbeansissä voit aloittaa tehtävien tekemisen painamalla *OK*. IntelliJ:ssä paina *Download course exercises*.
 
-Seuraavalla videolla näytetään miten tehtävien tekeminen ja palauttaminen NetBeansilla ja TMC:llä tapahtuu.
+Seuraavalla videolla näytetään miten tehtävien tekeminen ja palauttaminen NetBeansilla ja TMC:llä tapahtuu. IntelliJ:tä käyttäessä prosessi on pitkälti samanlainen,
+mutta **HUOM.** ensimmäistä tehtävää tehdessäsi joudut asettamaan IntelliJ:lle aiemmin asentamasi JDK:n. IntelliJ:n pitäisi pyytää sinua
+suoraan antamaan se, mutta jos ei, niin voit asettaa sen avaamalla File / Project Structure -ikkunan, ja asettamalla sen kohdassa "Project SDK".
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/sQYq2LISMRU" frameborder="0" allowfullscreen></iframe>
 
