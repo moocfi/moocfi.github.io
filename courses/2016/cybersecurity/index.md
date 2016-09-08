@@ -11,7 +11,7 @@ english: true
 </div>
 
 
-Learn about tools used to analyse flaws in software systems, necessary knowledge to build secure software systems (esp. within Web), the skills needed to perform risk and threat analysis on existing systems and the  relevant legislation within EU. By the end of the course, hard working participants are expected to possess the skills required from those that work as Junior Security Consultants in the industry.
+Learn about tools used to analyse flaws in software systems, necessary knowledge to build secure software systems (esp. within Web), the skills needed to perform risk and threat analysis on existing systems and the  relevant legislation within EU. By the end of the course, hard working participants are expected to possess the skills required from those who work as Junior Security Consultants in the industry, for example at F&#8209;Secure.
 
 We will start on 25th of October, 2016. Stay tuned, and prepare to work hard!
 
