@@ -5,7 +5,8 @@ main-class: has-aside
 sidenav: general/ohjeita
 ---
 
-Tämä ohje on IntelliJ IDEAn asennusta varten, sillä siinä ei tule JDK:ta (Java Development Kit) mukana. 
+Tämä ohje on IntelliJ IDEAn asennusta varten, sillä siinä ei tule JDK:ta (Java Development Kit) mukana.
+Mikäli olet jo asentanut Javan voit edetä InntelliJ IDEA:n asentamiseen
 Jos olet asentamassa Netbeansiä, tai jos sinulla on jo koneellasi JDK, jätä tämä huomiotta.
 
 1. Mene osoitteeseen <http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html>
@@ -16,6 +17,7 @@ Jos olet asentamassa Netbeansiä, tai jos sinulla on jo koneellasi JDK, jätä t
 
 - Jos käytät Windowsia tai Linuxia, etkä ole varma onko koneesi 32- vai 64-bittinen, valitse
 käyttöjärjestelmällesi x86-versio.
+- Riippuen linux jakelusta Java voi olla saatavilla ohjelmistojakelun kautta, suosittelemme hakemaan linuxversiollesi sopivan java 8 asennusohjeen netistä. Esimerkiksi Ubuntulle suosittelemme: http://www.webupd8.org/2012/09/install-oracle-java-8-in-ubuntu-via-ppa.html
 - Jos käytät Linuxia, valitse .tar.gz-päätteinen pakattu tiedosto
   - Pura tiedosto haluamaasi paikkaan
 - Jos käytät Maccia, asennus tapahtuu samalla tavoin kuin minkä tahansa .dmg-paketin asennus

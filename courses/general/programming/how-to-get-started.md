@@ -12,9 +12,9 @@ If you already have an account in TMC, you do not need a new one. Ensure that yo
 
 # Installation of the programming environment
 
-In the course we'll be using version 8.0 of the NetBeans Integrated Development Enviroinment and the TMC plugin to download and submit the programming assignments. NetBeans requires Java development kit (JDK) to be installed.
+In the course we'll be using version 8.1 of the NetBeans Integrated Development Enviroinment and the TMC plugin to download and submit the programming assignments. NetBeans requires Java development kit (JDK) to be installed.
 
-As an alternative to Netbeans, you may use Jetbrains's IntelliJ IDEA, which has a commercial Ultimate version, but also a completely free Community version (which is fine for this course).
+As an alternative to Netbeans, you may use Jetbrains's IntelliJ IDEA, which has a commercial Ultimate version, but also a completely free Community version (which perfect for this course).
 
 **NOTE:** If you have an old version of NetBeans on your computer, we recommend that you remove it before installing the new version. When the installation procedure asks  if the old setting should be imported, answer "no".
 
@@ -42,7 +42,7 @@ As an alternative to Netbeans, you may use Jetbrains's IntelliJ IDEA, which has 
 
    Download the NetBeans/TMC-bundle suitable for your computer by right clicking and selecting "save link as":
 
-	 - [Windows](http://update.testmycode.net/installers/tmc-netbeans_mooc/tmc-netbeans_mooc_tmcbeans-windows.exe)
+   - [Windows](http://update.testmycode.net/installers/tmc-netbeans_mooc/tmc-netbeans_mooc_tmcbeans-windows.exe)
        - The installation is done by opening the downloaded executable file
    - [OS X (Mac)](http://update.testmycode.net/installers/tmc-netbeans_mooc/tmc-netbeans_mooc_tmcbeans-macosx.tgz)
       - The installation is done by extracting the contents of the downloaded package and then running the *Netbeans with TMC Installer.app*. The installer installs TMC-NetBeans to your computer. After the installation, the program is found from the Applications-folder.

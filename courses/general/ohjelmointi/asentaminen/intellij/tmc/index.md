@@ -4,7 +4,8 @@ layout: course
 main-class: has-aside
 sidenav: general/ohjeita
 ---
-Jotta tehtävien palauttaminen onnistuisi, on IntelliJ:hin asennettava TMC-liitännäinen.
+
+IntelliJ IDEA ohjelmointiympäristöön tulee vielä asentaa TMC-liitännäinen, jotta kurssin tehtävien tekeminen sujuu mahdollisimman mukavasti.
 
 Käynnistä IntelliJ IDEA -ohjelmointiympäristö.
 

@@ -18,9 +18,7 @@ Seuraavat kohdat menevät samalla tavalla:
 3. Varmista että *Server address* kentässä oleva osoite on <https://tmc.mooc.fi/mooc>
 4. Paina *Refresh list* kurssilistauksen päivittämiseksi
     ![TMC Settings esimerkki]({{"/img/install/tmc-setup/setup-3.png" | prepend: site.baseurl}})
-5. Valitse suoritettava kurssi *Current course* -pudotusvalikosta. 
-	- Mikäli suoritat kevään 2016 ohjelmoinnin MOOC -kurssia, valitse **2016-ohjelmointi** tai **2016-nodl-ohjelmointi**.
-	- Mikäli suoritat jotain muuta kurssia, katso kurssisi tunnus kurssin sivuilta
+5. Valitse suoritettava kurssi *Current course* -pudotusvalikosta. Oikea kurssi riippuu tekemästäsi kurssista, kurssisivulla pitäisi olla maininta minkä TMC kurssin haluat valita.
 6. Olet nyt valmis ja Netbeansissä voit aloittaa tehtävien tekemisen painamalla *OK*. IntelliJ:ssä paina *Download course exercises*.
 
 Seuraavalla videolla näytetään miten tehtävien tekeminen ja palauttaminen NetBeansilla ja TMC:llä tapahtuu. IntelliJ:tä käyttäessä prosessi on pitkälti samanlainen,
