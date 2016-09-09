@@ -5,9 +5,9 @@ main-class: has-aside
 sidenav: general/ohjeita
 ---
 
-Tämä ohje on IntelliJ IDEAn asennusta varten, sillä siinä ei tule JDK:ta (Java Development Kit) mukana.
-Mikäli olet jo asentanut Javan voit edetä InntelliJ IDEA:n asentamiseen
-Jos olet asentamassa Netbeansiä, tai jos sinulla on jo koneellasi JDK, jätä tämä huomiotta.
+**Huom**: Tämä ohje on tarkoitettu osaksi TMC:n IntelliJ-liitännäisen asennusohjetta. Mikäli olet asentamassa NetBeans-kehitysympäristö, tulisi sinun olla sivulla <a href="/courses/general/ohjelmointi/asentaminen/netbeans/">Ympäristön asentaminen – Netbeans & Java</a>.
+
+Mikäli olet jo aiemmin asentanut Java Development Kitin, voit ohittaa tämän vaiheen.
 
 1. Mene osoitteeseen <http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html>
 
@@ -15,15 +15,10 @@ Jos olet asentamassa Netbeansiä, tai jos sinulla on jo koneellasi JDK, jätä t
 
 3. Valitse käyttöjärjestelmällesi sopiva versio ja asenna se.
 
-- Jos käytät Windowsia tai Linuxia, etkä ole varma onko koneesi 32- vai 64-bittinen, valitse
-käyttöjärjestelmällesi x86-versio.
-- Riippuen linux jakelusta Java voi olla saatavilla ohjelmistojakelun kautta, suosittelemme hakemaan linuxversiollesi sopivan java 8 asennusohjeen netistä. Esimerkiksi Ubuntulle suosittelemme: http://www.webupd8.org/2012/09/install-oracle-java-8-in-ubuntu-via-ppa.html
-- Jos käytät Linuxia, valitse .tar.gz-päätteinen pakattu tiedosto
-  - Pura tiedosto haluamaasi paikkaan
-- Jos käytät Maccia, asennus tapahtuu samalla tavoin kuin minkä tahansa .dmg-paketin asennus
-- Windowsissa asennus myös tapahtuu samalla tavoin kuin minkä tahansa Windows-ohjelman asennus (aja ladattu .exe-tiedosto)
+    - Mikäli käytät Windowsia tai Linuxia, mutta et ole varma onko koneesi 32- vai 64-bittinen, valitse x86-versio.
+    - Riippuen Linux-jakelustasi, JDK voi olla saatavilla ohjelmistojakelun kautta. Myös OpenJDK-projektin <a href="http://openjdk.java.net/install/" target="_blank">versio</a> sopii hyvin tehtävien tekemiseen.
 
-Voit nyt siirtyä takaisin IntelliJ:n asentamiseen.
+Asennettuasi JDK:n, voit jatkaa IntelliJ:n ja TMC-liitännäisen asentamiseen.
 
 <div class="actions">
     <a class="action" href="/courses/general/ohjelmointi/asentaminen/intellij/">IntelliJ IDEA:n asentaminen</a>

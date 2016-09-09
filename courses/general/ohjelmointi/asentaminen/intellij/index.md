@@ -5,22 +5,24 @@ main-class: has-aside
 sidenav: general/ohjeita
 ---
 
-Jos sinulla ei ole vielä JDK:ta (Java Development Kit) asennettuna koneellasi, asenna se ensimmäiseksi. Jos on, niin voit hypätä seuraavan linkin ohi.
+<div class="warning-banner">
+  <p>Liitännäinen on vielä testausvaiheessa: erilaiset ongelmatilanteet ovat todennäköisempiä kuin NetBeans-liitännäisen kanssa.</p>
+  <p>Käyttäjiltä toivotaan palautetta liitännäisen toiminnasta, sekä erityisesti raportteja sen kanssa ilmenevistä ongelmatilanteista.</p>
+</div>
+
+Mikäli et ole aiemmin asentanut Java Development Kit -ohjelmapakettia (JDK), tulee se asentaa ensimmäisenä:
 
 <div class="actions">
     <a class="action" href="/courses/general/ohjelmointi/asentaminen/intellij/java">Javan asentaminen</a>
 </div>
 
-IntelliJ:stä on olemassa kaksi eri versiota: Ultimate ja Community. Community-versio on täysin ilmainen kaikille ja sillä pystyy tekemään ainakin Java MOOC -kurssien tehtävät. Web-juttuja (esim. Web-palvelinohjelmoinnin kurssin tehtäviä) emme kuitenkaan suosittele sillä tehtävän.
+Siirrymme seuraavaksi asentamaan IntelliJ IDEA -kehitysympäristön. Mikäli koneltasi löytyy valmiiksi ympäristön uusin versio, voit ohittaa tämän vaiheen.
 
-Ultimate-versio pystyy myös tähän ja suosittelemme sitä, mikäli olet opiskelija. Saadaksesi opiskelijalisenssin sinun tulee tehdä opiskelijatili Jetbrainsille (yritykselle, joka kehittää kyseistä ohjelmointiympäristöä).
+IntelliJ IDEA:sta on tarjolla sekä maksullinen *Ultimate*-versio, sekä maksuton *Community*-versio. TMC-liitännäisemme toimii molempien versioiden kanssa, ja Community-version toiminnallisuus riittää esimerkiksi Ohjelmoinnin MOOC-kurssien suorittamiseen. Mikäli suoritat esimerkiksi Web-palvelinohjelmoinnin MOOC-kurssia, suosittelemme käyttämään joko Ultimate-versiota tai NetBeansia.
 
-Mikäli et ole opiskelija, siirry asennusohjeisiin valitsemalla käyttöjärjestelmäsi alla olevasta valikosta.
+IntelliJ IDEA:n kehittäjä, JetBrains tarjoaa kaikkien kehitysympäristöjensä maksulliset versiot ilmaiseksi tiettyjen korkeakouluopiskelijaryhmien käyttöön. Voit tarkastaa oletko tarjouksen piirissä sivulta <a href="https://www.jetbrains.com/student/" target="_blank">https://www.jetbrains.com/student/</a>. Mooc.fi tai Helsingin Yliopisto ei ole erityisessä yhteistössä JetBrainsin kanssa, mutta Helsingin Yliopiston opiskelijat ovat ainakin toistaiseksi oikeutettuja tarjoukseen.
 
-Jos olet opiskelija, tee opiskelijatili Jetbrainsille menemällä osoitteeseen <https://www.jetbrains.com/shop/eform/students> ja seuraa sivuston antamia ohjeita. Opiskelijastatuksesi varmistamiseksi käytä oppilaitoksesi sähköpostiosoitetta, esim. @helsinki.fi tai @cs.helsinki.fi
-
-Kun olet saanut opiskelijalisenssin käyttöösi (tai mikäli käytät Community-versiota), lataa ja asenna IntelliJ IDEA -ohjelmistoympäristö koneellesi.
-Ympäristön asentamisen alkutoimet tapahtuvat hieman eri tavalla eri käyttöjärjestelmillä. Valitse alta oma käyttöjärjestelmäsi:
+Kehitysympäristön asentamisen alkutoimet tapahtuvat hieman eri tavalla eri käyttöjärjestelmillä. Valitse alta oma käyttöjärjestelmäsi:
 
 <div class="actions">
     <a class="action" href="#windows">Windows</a>
@@ -34,7 +36,7 @@ Ympäristön asentamisen alkutoimet tapahtuvat hieman eri tavalla eri käyttöj�
 
 2. Lataa exe-tiedosto haluamaasi paikkaan. Tiedoston latauduttua asenna IntelliJ IDEA ajamalla tiedosto. Asennus tapahtuu kuten normaalin Windows-ohjelman asentaminen. Huomaa kuitenkin seuraava kohta: Valitse 64-bit launcher, mikäli sellainen vaihtoehto on näkyvillä. Jos ei, valitse 32-bit launcher. "Create assosiations" -kohdan voit jättää huomiotta. Paina Next.
 
-Tässä vaiheessa voit siirtyä [seuraavaan vaiheeseen](#seuraavaksi).
+Tässä vaiheessa voit siirtyä [ensimmäiseen käynnistykseen](#seuraavaksi).
 
 # Linux
 
@@ -44,7 +46,7 @@ Tässä vaiheessa voit siirtyä [seuraavaan vaiheeseen](#seuraavaksi).
 
 3. Avaa komentorivi, siirry puretun kansion sisälle (cd-komennolla, esim. cd idea-IU-162.1628.40, mikäli purit tiedoston Home-hakemistosi juureen), ja siellä bin-kansioon ja kirjoita ./idea.sh ja etene asennuswizardin ohjeiden mukaan.
 
-Tässä vaiheessa voit siirtyä [seuraavaan vaiheeseen](#seuraavaksi).
+Tässä vaiheessa voit siirtyä [ensimmäiseen käynnistykseen](#seuraavaksi).
 
 # Mac OS X
 
@@ -54,22 +56,18 @@ Tässä vaiheessa voit siirtyä [seuraavaan vaiheeseen](#seuraavaksi).
 
 3. Avaa ladattu .dmg-paketti ja siirrä IDEA-app omaan Applications-hakemistoosi.
 
-Tässä vaiheessa voit siirtyä [seuraavaan vaiheeseen](#seuraavaksi).
+Tässä vaiheessa voit siirtyä [ensimmäiseen käynnistykseen](#seuraavaksi).
 
-# Seuraavaksi
+# Ensimmäinen käynnistyskerta
 
-1. Ensimmäisen kerran IntelliJ:tä avattaessa, IntelliJ kysyy onko sinulla valmiita asetuksia jotka haluaisit tuoda ohjelmistoympäristöön. Suosittelemme valitsemaan vaihtoehdon "I do not have a previous version of IntelliJ IDEA or I do not want to import my settings" ja paina OK.
+1. Ensimmäisen kerran IntelliJ:tä avattaessa, ohjelma kysyy onko sinulla valmiita asetuksia jotka haluaisit tuoda ohjelmistoympäristöön. Valitse "I do not have a previous version of IntelliJ IDEA or I do not want to import my settings" ja paina OK.
 
-2. **Jos** asensit Ultimate-version, tässä vaiheessa sinulta kysytään lisenssiä. Avautuneessa ikkunassa oletuksena on "Activate license with Jetbrains Account", tämä on hyvä. Täytä lomake aiemmin tehdyn Jetbrains-tilin tiedoilla ja paina "Activate".
+2. **Jos asensit Ultimate-version**, tässä vaiheessa sinulta kysytään lisenssiä: syötä lisenssisi tiedot jotta pääset jatkamaan. Mikäli loit tunnuksesi äskettäin, on oikea aktivointitapa todennäköisesti "Activate license with Jetbrains Account".
 
-3. Tämän jälkeen IntelliJ kysyy sekalaisia kysymyksiä asetuksiin liittyen. Älä skippaa näitä.
-- Ensimmäisen kohdalla voit valita teeman (IntelliJ on hyvä). Paina "Next: Desktop Entry".
-- Seuraavalla ruudulla anna oletuksen olla (ellei koneellasi ole useampi ihminen joka käyttäisi ohjelmistoympäristöä) ja paina "Next: Launcher Script".
-- Tälläkin ruudulla paina vaan "Next: Default plugins".
-- Anna näidenkin olla, ja paina vaan "Next: Featured plugins"
-- Tällä ruudulla asenna Scala, Live Edit Tool, Node.JS ja Angular. Suosittelemme jättämään IdeaVim-liitännäinen asentamatta. Liitännäisten asennuttua paina "Start using IntelliJ IDEA".
+3. Vastaa IntelliJ:n asetusvelhon kysymyksiin. Suosittelemme asentamaan kohdassa "Featured Plugins" liitännäiset *Scala*, *Live Edit Tool*, *Node.JS* ja *Angular*. Suosittelemme että **et** asenna liitännäistä *IdeaVIM*, jollet ole kokenut VIM-käyttäjä.
 
-Asetusten jälkeen IntelliJ avaa Welcome-screenin. IntelliJ IDEA on nyt onnistuneesti asennettu, ja seuraavaksi asennamme TestMyCode-liitännäisen.
+
+Asetusten jälkeen IntelliJ avaa Tervetuloa-ikkunan. Siirrymme nyt asentamaan TestMyCode-liitännäistä.
 
 <div class="actions">
     <a class="action" href="/courses/general/ohjelmointi/asentaminen/intellij/tmc/">TestMyCode -liitännäisen asentaminen</a>

@@ -5,27 +5,25 @@ main-class: has-aside
 sidenav: general/ohjeita
 ---
 
-IntelliJ IDEA ohjelmointiympäristöön tulee vielä asentaa TMC-liitännäinen, jotta kurssin tehtävien tekeminen sujuu mahdollisimman mukavasti.
+IntelliJ IDEA -ohjelmointiympäristöön tulee vielä asentaa TMC-liitännäinen, jotta kurssin tehtävien tekeminen sujuu mahdollisimman mukavasti.
 
-Käynnistä IntelliJ IDEA -ohjelmointiympäristö.
+Mikäli IntelliJ IDEA ei ole käynnissä, käynnistä se. Mikäli et ole aiemmin käyttänyt IntelliJ IDEA:a, avautuu sinulle tervetuloa-ikkuna. Voit tehdä TMC-liitännäisen asennuksen tästä ikkunasta.
 
-Mikäli et ole tehnyt aiemmin yhtäkään projektia IntelliJ:llä, IntelliJ avaa Welcome screenin. Aloitetaan TMC-liitännäisen asennus.
+1. Valitse alapalkista *Configure / Plugins*.
 
-1. Valitse alapalkista Configure / Plugins.
+2. Paina *Browse Repositories* -nappia alhaalla.
 
-2. Paina Browse Repositories-nappia alhaalla.
+3. Kirjoita hakukenttään "TMC". Tulosten joukossa pitäisi olla liitännäinen nimeltä *TMC Plugin for IntelliJ*.
 
-3. Kirjoita hakukenttään TMC, ja tulokseksi pitäisi tulla TMC Plugin for IntelliJ.
+4. Valitse kyseinen liitännäinen ja klikkaa *Install*. Anna liitännäisen latautua ja asentua.
 
-4. Valitse Install. Anna pluginin latautua (siinä ei pitäisi kestää kauaa).
-
-5. Valitse Restart IntelliJ IDEA käynnistääksesi IntelliJ:n uudestaan.
+5. Valitse lopuksi *Restart IntelliJ IDEA* käynnistääksesi IntelliJ:n uudestaan.
 
 # Seuraavaksi
 
 Onnistuneen asennuksen jälkeen, siirry luomaan itsellesi käyttäjätunnusta TestMyCode-tarkistusjärjestelmäämme.
 
-Mikäli olet jo aiemmin luonut käyttäjätunnuksen esimerkiksi jotain toista kurssiamme varten, voit käyttää sitä ja siirtyä takaisin kurssille.
+Mikäli olet jo aiemmin luonut käyttäjätunnuksen esimerkiksi jotain toista kurssiamme varten, voit siirtyä suoraan kurssille.
 
 <div class="actions">
     <a class="action" href="/courses/general/ohjelmointi/rekisteroityminen/">Siirry luomaan tunnuksia</a>
