@@ -5,22 +5,23 @@ main-class: has-aside
 sidenav: general/ohjeita
 ---
 
+<div class="warning">
+  <p>Liitännäinnen on vielä testauvaiheessa ja erilaiset ongelmatilanteet ovat todennäköisempiä kuin NetBeans-liitännäisen kanssa. Käyttäjiltä toivotaan palautetta liitännäisen toiminnasta, sekä erityisesti raportteja sen kanssa ilmenevistä ongelmatilanteista.</p>
+</div>
+
+
+
 Jos sinulla ei ole vielä JDK:ta (Java Development Kit) asennettuna koneellasi, asenna se ensimmäiseksi. Jos on, niin voit hypätä seuraavan linkin ohi.
 
 <div class="actions">
     <a class="action" href="/courses/general/ohjelmointi/asentaminen/intellij/java">Javan asentaminen</a>
 </div>
 
-IntelliJ:stä on olemassa kaksi eri versiota: Ultimate ja Community. Community-versio on täysin ilmainen kaikille ja sillä pystyy tekemään ainakin Java MOOC -kurssien tehtävät. Web-juttuja (esim. Web-palvelinohjelmoinnin kurssin tehtäviä) emme kuitenkaan suosittele sillä tehtävän.
+IntelliJ IDEA:sta on tarjolla sekä maksullinen *Ultimate*-versio, sekä maksuton *Community*-versio. TMC-liitännäisemme toimii molempien versioiden kanssa, ja Community-version toiminnallisuus riittää esimerkiksi Ohjelmoinnin MOOC-kurssien suorittamiseen. Mikäli suoritat esimerkiksi Web-palvelinohjelmoinnin MOOC-kurssia, suosittelemme käyttämään joko Ultimate-versiota tai NetBeansia.
 
-Ultimate-versio pystyy myös tähän ja suosittelemme sitä, mikäli olet opiskelija. Saadaksesi opiskelijalisenssin sinun tulee tehdä opiskelijatili Jetbrainsille (yritykselle, joka kehittää kyseistä ohjelmointiympäristöä).
+IntelliJ IDEA:n kehittäjä, JetBrains tarjoaa kaikkien kehitysympäristöjensä maksulliset versiot ilmaiseksi tiettyjen korkeakouluopiskelijaryhmien käyttöön. Voit tarkastaa oletko tarjouksen piirissä sivulta <a href="https://www.jetbrains.com/student/" target="_blank">https://www.jetbrains.com/student/</a>. Mooc.fi tai Helsingin Yliopisto ei ole erityisessä yhteistössä JetBrainsin kanssa, mutta Helsingin Yliopiston opiskelijat ovat ainakin toistaiseksi oikeutettuja tarjoukseen.
 
-Mikäli et ole opiskelija, siirry asennusohjeisiin valitsemalla käyttöjärjestelmäsi alla olevasta valikosta.
-
-Jos olet opiskelija, tee opiskelijatili Jetbrainsille menemällä osoitteeseen <https://www.jetbrains.com/shop/eform/students> ja seuraa sivuston antamia ohjeita. Opiskelijastatuksesi varmistamiseksi käytä oppilaitoksesi sähköpostiosoitetta, esim. @helsinki.fi tai @cs.helsinki.fi
-
-Kun olet saanut opiskelijalisenssin käyttöösi (tai mikäli käytät Community-versiota), lataa ja asenna IntelliJ IDEA -ohjelmistoympäristö koneellesi.
-Ympäristön asentamisen alkutoimet tapahtuvat hieman eri tavalla eri käyttöjärjestelmillä. Valitse alta oma käyttöjärjestelmäsi:
+Lataa ja asenna joko Community- tai Ultimate-versio IntelliJ IDEA:sta tietokoneellesi. Ympäristön asentamisen alkutoimet tapahtuvat hieman eri tavalla eri käyttöjärjestelmillä. Valitse alta oma käyttöjärjestelmäsi:
 
 <div class="actions">
     <a class="action" href="#windows">Windows</a>

@@ -24,4 +24,10 @@ Mikäli tietokoneellasi on jo valmiiksi asennettuna Java 8 -ohjelmistokehityspak
 	<a class="action" href="/courses/general/ohjelmointi/asentaminen/tmcbeans/">TMCBeans</a>
 </div>
 
+Hieman kokeneemmat käyttäjät voivat halutessaan koekäyttää IntelliJ-kehitysympäristön TMC-liitännäistä. Huomaathan että tämä tuote on vielä testausvaiheessa, eikä siten yhtä viimeistelty kuin NetBeans-liitännäinen.
+
+<div class="actions">
+	<a class="action" href="/courses/general/ohjelmointi/asentaminen/intellij/">IntelliJ ja TMC</a>
+</div>
+
 Ulkopuoliset tahot ovat myös tuottaneet komentorivikäyttöisen [TMC.py](https://github.com/JuhaniImberg/tmc.py)-python asiakasohjelman. MOOC.FI ei kuitenkaan tarjoa tämän työkalun käyttöön mitään tukea.
