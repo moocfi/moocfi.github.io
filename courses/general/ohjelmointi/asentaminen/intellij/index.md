@@ -36,7 +36,7 @@ Kehitysympäristön asentamisen alkutoimet tapahtuvat hieman eri tavalla eri kä
 
 2. Lataa exe-tiedosto haluamaasi paikkaan. Tiedoston latauduttua asenna IntelliJ IDEA ajamalla tiedosto. Asennus tapahtuu kuten normaalin Windows-ohjelman asentaminen. Huomaa kuitenkin seuraava kohta: Valitse 64-bit launcher, mikäli sellainen vaihtoehto on näkyvillä. Jos ei, valitse 32-bit launcher. "Create assosiations" -kohdan voit jättää huomiotta. Paina Next.
 
-Tässä vaiheessa voit siirtyä [ensimmäiseen käynnistykseen](#seuraavaksi).
+Tässä vaiheessa voit siirtyä [ensimmäiseen käynnistykseen](#ensimminen-kynnistyskerta).
 
 # Linux
 
@@ -46,7 +46,7 @@ Tässä vaiheessa voit siirtyä [ensimmäiseen käynnistykseen](#seuraavaksi).
 
 3. Avaa komentorivi, siirry puretun kansion sisälle (cd-komennolla, esim. cd idea-IU-162.1628.40, mikäli purit tiedoston Home-hakemistosi juureen), ja siellä bin-kansioon ja kirjoita ./idea.sh ja etene asennuswizardin ohjeiden mukaan.
 
-Tässä vaiheessa voit siirtyä [ensimmäiseen käynnistykseen](#seuraavaksi).
+Tässä vaiheessa voit siirtyä [ensimmäiseen käynnistykseen](#ensimminen-kynnistyskerta).
 
 # Mac OS X
 
@@ -56,7 +56,7 @@ Tässä vaiheessa voit siirtyä [ensimmäiseen käynnistykseen](#seuraavaksi).
 
 3. Avaa ladattu .dmg-paketti ja siirrä IDEA-app omaan Applications-hakemistoosi.
 
-Tässä vaiheessa voit siirtyä [ensimmäiseen käynnistykseen](#seuraavaksi).
+Tässä vaiheessa voit siirtyä [ensimmäiseen käynnistykseen](#ensimminen-kynnistyskerta).
 
 # Ensimmäinen käynnistyskerta
 
