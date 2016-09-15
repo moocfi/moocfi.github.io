@@ -17,5 +17,8 @@ navigation:
     name: Usein kysyttyjä kysymyksiä
     path: /ukk/
   -
+    name: Kurssitodistus
+    path: /kurssitodistus/
+  -
     name: Ohjeita kokeeseen
     path: /ohjeita-kokeeseen/
