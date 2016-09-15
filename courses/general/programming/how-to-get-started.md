@@ -89,6 +89,8 @@ By pressing "ok" the assignment "projects" are downloaded to your computer.
 
 The next video shows how to program and submit the assignments using TMC/NetBeans. The process is mostly the same in IntelliJ, but with one **important** distinction: The first time you open up an exercise, you need to set the JDK that you installed earlier. IntelliJ should ask you to give it, but if not, you can set it from File / Project Structure at "Project SDK" part. This step is not required for those that use NetBeans.
 
+<div class="videowrapper">
 <iframe width="560" height="315" src="//www.youtube.com/embed/ZFsg0Uh0UVE" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Now you are finally ready to start the course!
