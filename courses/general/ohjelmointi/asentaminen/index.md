@@ -30,4 +30,4 @@ Hieman kokeneemmat käyttäjät voivat halutessaan koekäyttää IntelliJ-kehity
 	<a class="action" href="/courses/general/ohjelmointi/asentaminen/intellij/">IntelliJ ja TMC</a>
 </div>
 
-Ulkopuoliset tahot ovat myös tuottaneet komentorivikäyttöisen [TMC.py](https://github.com/JuhaniImberg/tmc.py)-python asiakasohjelman. MOOC.FI ei kuitenkaan tarjoa tämän työkalun käyttöön mitään tukea.
+TestMyCodesta on tarjolla myös komentorivipohjainen työkalu osoitteessa <https://github.com/testmycode/tmc-cli>. 
