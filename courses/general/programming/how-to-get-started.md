@@ -14,7 +14,7 @@ If you already have an account in TMC, you do not need a new one. Ensure that yo
 
 In the course we'll be using version 8.1 of the NetBeans Integrated Development Enviroinment and the TMC plugin to download and submit the programming assignments. NetBeans requires Java development kit (JDK) to be installed.
 
-As an alternative to Netbeans, you may use Jetbrains's IntelliJ IDEA, which has a commercial Ultimate version, but also a completely free Community version (which perfect for this course).
+As an alternative to NetBeans, you may use Jetbrains's IntelliJ IDEA. Both the commercial Ultimate version and the free Community edition of IntelliJ IDEA will work with our TMC plugin.
 
 **NOTE:** If you have an old version of NetBeans on your computer, we recommend that you remove it before installing the new version. When the installation procedure asks  if the old setting should be imported, answer "no".
 
@@ -53,8 +53,12 @@ As an alternative to Netbeans, you may use Jetbrains's IntelliJ IDEA, which has 
 
 ### 2b. Installing IntelliJ IDEA
 
-First, download IntelliJ IDEA Community version. Choose your operating system and in the address linked, press the
-Download button.
+<div class="warning-banner">
+  <p>The IntelliJ IDEA plugin is still in development, and it is provided to you as an open beta. You are less likely to encounter problems using the NetBeans plugin. We recommend that those new to programming use NetBeans.</p>
+  <p>If you feel comfortable using a not-yet-ready product, we ask you to kindly submit any feedback you have, as well as details on any problems you encounter to us via email. This will help the active development of this product.</p>
+</div>
+
+First, download IntelliJ IDEA Community version. Choose your operating system and in the address linked, press the Download button.
 
    - [Windows](https://www.jetbrains.com/idea/download/#section=windows)
       - The installation is done by opening the downloaded executable file.
@@ -68,13 +72,12 @@ Download button.
 Then, download the TestMyCode plugin:
 
 When IntelliJ opens for the first time, you get to a welcome screen. At the bottom, choose Configure / Plugins. At the bottom of the window that opens,
-choose "Browse repositories" and type something like "TMC" to the search field. Install the plugin and restart IntelliJ.
+choose "Browse repositories" and type "TMC" to the search field. Install "TestMyCode plugin for IntelliJ" and restart the program.
 
 
 # Completing and submitting the programming assignments with Netbeans or IntelliJ
 
-If you're using **Netbeans** with TMC, the first time you start it, the below window should open. If it does not open, you can find it from the TMC / Settings. If you're
-using **IntelliJ**, you get to a Welcome screen, in which you can press the "Get started with TMC" button.
+If you're using **Netbeans** with TMC, the first time you start it, the below window should open. If it does not open, you can find it from the TMC / Settings. If you're using **IntelliJ**, you get to a Welcome screen, in which you can press the "Get started with TMC" button.
 
 ![tmc-settings]({{ "/img/programming/tmc-settings.png" | prepend: site.baseurl }})
 
@@ -84,10 +87,10 @@ Press the button "refresh list" and select course from "Current course".
 
 By pressing "ok" the assignment "projects" are downloaded to your computer.
 
-The next video shows how to program and submit the assignments using TMC/NetBeans. The process is mostly the same in IntelliJ, however, there's
-one **important** thing: For the first time you open up an exercise, you need to set the JDK that you installed earlier. IntelliJ should ask you to give it, but if not,
-you can set it from File / Project Structure at "Project SDK" part.
+The next video shows how to program and submit the assignments using TMC/NetBeans. The process is mostly the same in IntelliJ, but with one **important** distinction: The first time you open up an exercise, you need to set the JDK that you installed earlier. IntelliJ should ask you to give it, but if not, you can set it from File / Project Structure at "Project SDK" part. This step is not required for those that use NetBeans.
 
+<div class="videowrapper">
 <iframe width="560" height="315" src="//www.youtube.com/embed/ZFsg0Uh0UVE" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Now you are finally ready to start the course!

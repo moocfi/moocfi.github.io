@@ -1,12 +1,10 @@
 .warning-banner {
-	max-width: 900px;
-	margin: 10px auto 0 auto;
-	border: 1px solid #c0c0c0;
-	background: white;
-	display: none;
-}
-
-warning-banner p {
-	color: red;
-	font-size: 0.75em;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #d32F2f;
+	border-radius: 5px;
+	color: white;
+	margin-bottom: 25px;
+	font-weight: 600;
 }

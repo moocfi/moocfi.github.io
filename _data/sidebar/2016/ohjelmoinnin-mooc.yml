@@ -22,6 +22,10 @@ navigation:
     name: Kurssin suorittaminen
     path: /kurssin-suorittaminen.html
   -
+    name: Kurssitodistus
+    path: /courses/general/ohjelmointi/kurssitodistus/
+    base: true
+  -
     name: Väylänä yliopistoon
     path: /opinto-oikeus.html
   -
