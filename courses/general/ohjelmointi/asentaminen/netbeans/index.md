@@ -9,7 +9,7 @@ Ympäristön asentaminen tapahtuu eri tavalla eri käyttöjärjestelmillä. Vali
 
 <div class="actions">
 	<a class="action" href="#windows">Windows</a>
-	<a class="action" href="#mac-os-x">Max OS X</a>
+	<a class="action" href="#mac-os-x">Mac OS X</a>
 	<a class="action" href="#linux">Linux</a>
 </div>
 

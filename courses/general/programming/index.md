@@ -7,7 +7,7 @@ english: true
 ---
 # Frequently asked questions
 
-1. I don't know how to solve assignement N?
+1. I don't know how to solve assignment N
 	- Read the course material
 	- You may also find help from internet by Google etc.
 	- Join [IRC]({{"/courses/general/programming/irc-guide.html" | prepend: site.baseurl }}) (Internet Relay Chat)
@@ -29,7 +29,7 @@ english: true
 
 4. I have forgotten my password
 
-	You can reset yout password in <https://tmc.mooc.fi/mooc/password_reset_keys/new>
+	You can reset your password in <https://tmc.mooc.fi/mooc/password_reset_keys/new>
 
 5. How do I share my code to others so they can help me with an assignment?
 
@@ -48,7 +48,7 @@ english: true
 			- If you haven't completed the assignment yet, the template will be downloaded along with the other uncompleted assignments automatically
 			- If you have completed the assignment, check "Download old completed exercises" in the TMC menu in order to download the template
 		- You can download the solutions you have submitted from <https://tmc.mooc.fi/mooc>. By logging in, you can see all the solutions you have submitted. You can either copy the code from the browser or download the solution as a zip file.
-	- Using an exteral server
+	- Using an external server
 		- You can use a file sharing service, such as DropBox (<http://www.dropbox.com>)  to easily access your solutions on any computer with a network connection. For synchronizing your solutions, you need to locate the exercise directory by checking the TMC settings.
 	- USB flash drive
 		- You can use a flash drive to move your project files between multiple computers.
@@ -76,7 +76,7 @@ english: true
 
 3. Autocomplete
 
-	There is a really useful tool in NetBeans called auto-complete. If you have, for example, a variable String familyName;in your code, you do not need to always write it all. See what happens when you type and after that press ctrl and space simultaniously. Similarly NetBeans can auto-complete other names as well, for example to get the command while, you need to type only <kbd>w</kbd> and press <kbd>ctrl</kbd> + <kbd>space</kbd>...
+	There is a really useful tool in NetBeans called auto-complete. If you have, for example, a variable `String familyName` in your code, you do not need to always write it all. See what happens when you type and after that press ctrl and space simultaneously. Similarly NetBeans can auto-complete other names as well, for example to get the command while, you need to type only <kbd>w</kbd> and press <kbd>ctrl</kbd> + <kbd>space</kbd>...
 
 4. Renaming
 
