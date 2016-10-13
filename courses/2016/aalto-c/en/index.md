@@ -15,7 +15,7 @@ The course is presented to you jointly by the Aalto University and the <a href="
 
 # Deadlines
 
-The course must be started by 31.8.2016 and current participants may return exercises untill 31.10.2016. However, there are no other deadlines so you may progress at your own pace. To proceed from one module to the next one you must get at least 80% of exercise points of the module.
+The course must be started by 31.8.2016 and current participants may return exercises until 31.10.2016. However, there are no other deadlines so you may progress at your own pace. To proceed from one module to the next one you must get at least 80% of exercise points of the module.
 
 It usually takes 10 - 15 hours for completing each exercise set. However, this greatly depends on previous experience.
 
@@ -48,4 +48,3 @@ Please note, that you need to register for the exam on Friday 9.9. at the latest
 You are allowed to bring one A4 note sheet with you. A good note sheet contains material you feel valuable for you. It should not just contain random content about the language. Return the note sheet with your answer sheets.
 
 Remember to write your MOOC account name and the period you took the course to your answer sheet. This is especially important if your account name is not your student number.
-

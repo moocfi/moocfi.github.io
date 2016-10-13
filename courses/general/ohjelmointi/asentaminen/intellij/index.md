@@ -26,7 +26,7 @@ Kehitysympäristön asentamisen alkutoimet tapahtuvat hieman eri tavalla eri kä
 
 <div class="actions">
     <a class="action" href="#windows">Windows</a>
-    <a class="action" href="#mac-os-x">Max OS X</a>
+    <a class="action" href="#mac-os-x">Mac OS X</a>
     <a class="action" href="#linux">Linux</a>
 </div>
 
@@ -62,7 +62,7 @@ Tässä vaiheessa voit siirtyä [ensimmäiseen käynnistykseen](#ensimminen-kynn
 
 1. Ensimmäisen kerran IntelliJ:tä avattaessa, ohjelma kysyy onko sinulla valmiita asetuksia jotka haluaisit tuoda ohjelmistoympäristöön. Valitse "I do not have a previous version of IntelliJ IDEA or I do not want to import my settings" ja paina OK.
 
-2. **Jos asensit Ultimate-version**, tässä vaiheessa sinulta kysytään lisenssiä: syötä lisenssisi tiedot jotta pääset jatkamaan. Mikäli loit tunnuksesi äskettäin, on oikea aktivointitapa todennäköisesti "Activate license with Jetbrains Account".
+2. **Jos asensit Ultimate-version**, tässä vaiheessa sinulta kysytään lisenssiä: syötä lisenssisi tiedot jotta pääset jatkamaan. Mikäli loit tunnuksesi äskettäin, on oikea aktivointitapa todennäköisesti "Activate license with JetBrains Account".
 
 3. Vastaa IntelliJ:n asetusvelhon kysymyksiin. Suosittelemme asentamaan kohdassa "Featured Plugins" liitännäiset *Scala*, *Live Edit Tool*, *Node.JS* ja *Angular*. Suosittelemme että **et** asenna liitännäistä *IdeaVIM*, jollet ole kokenut VIM-käyttäjä.
 
