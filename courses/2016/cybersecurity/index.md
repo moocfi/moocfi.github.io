@@ -22,6 +22,12 @@ The course series consists of multiple smaller courses, each centered around a s
 
 There will be a few case studies as well as projects that participants can work on. At the end of the course series, we’ll also organize a friendly competition where participants get to find and fix vulnerabilities within a limited time-frame.
 
+Click the link below to view the course serie's web page and to start your journey into becoming a cyber security expert!
+
+<div class="actions">
+    <a class="action primary" href="https://cybersecuritybase.github.io/" onclick="ga('send', 'event', 'link', 'click', 'oubound-cybersecurity-github-io')">Start learning</a>
+</div>
+
 ## Work load and prerequisites
 
 There will be programming assignments, essays, quizzes and puzzles throughout the courses, and completing a specific part of a course means working and completing most if not all of them. We expect that individuals work some 2-10 hours per week on the courses depending on their background. Some programming background and ICT experience will be very beneficial.
