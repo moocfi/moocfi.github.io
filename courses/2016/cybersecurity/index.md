@@ -39,7 +39,7 @@ If you reside in Finland, you can get a total of 10 ECTS credits for the course 
 We will start on 25th of October, 2016. A link to the stream / recording of the event (event starting 10AM GMT+3): <a href="https://www.helsinki.fi/fi/unitube/video/20543" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'oubound-stream')">https://www.helsinki.fi/fi/unitube/video/20543</a>.
 
 <div class="actions" style="margin: 80px 0 80px 0;">
-<form action="http://jamo.us8.list-manage.com/subscribe/post?u=db82662e446284fd41bd8370e&amp;id=c37b72ffb9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate >
+<form action="https://jamo.us8.list-manage.com/subscribe/post?u=db82662e446284fd41bd8370e&amp;id=c37b72ffb9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate >
     <p>Leave us your email and we will send you updates about Cyber Security Base with F&#8209;Secure.</p>
     <p>
       <input class="action" style="text-transform:none;" type="text" name="EMAIL" id="EMAIL" placeholder="example@example.com"><br>
