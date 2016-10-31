@@ -9,7 +9,7 @@ Aalto-yliopiston Sähkötekniikan korkeakoulu järjestää yhteistyössä Helsin
 
 Kurssilla tutustutaan C-ohjelmointikielen perusteisiin ja se vastaa pitkälti Aalto-yliopiston Sähkötekniikan korkeakoulun C-ohjelmoinnin peruskurssia sekä Helsingin yliopiston Tietojenkäsittelytieteen laitoksen C-ohjelmointi -kurssia.
 
-Kurssin voi aloittaa 31.8.2016 asti ja nykyiset osallistujat voivat palauttaa tehtäviä 31.10.2016 asti. Muita aikarajoja tehtäviin liittyen ei ole. Voit siis edetä täysin omaan tahtiisi.
+Kurssin voi aloittaa 31.8.2016 asti ja nykyiset osallistujat voivat palauttaa tehtäviä 31.12.2016 asti. Muita aikarajoja tehtäviin liittyen ei ole. Voit siis edetä täysin omaan tahtiisi.
 
 Aiemmasta kokemuksesta riippuen kurssin yhden tehtäväsetin tekemiseen voi arvioida menevän 10-15 tuntia.
 
