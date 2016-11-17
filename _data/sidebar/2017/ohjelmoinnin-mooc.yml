@@ -1,0 +1,12 @@
+header: Ohjelmoinnin MOOC
+path: /courses/2017/ohjelmoinnin-mooc
+navigation:
+  -
+    name: Aikataulu ja sisältö
+    path: /aikataulu.html
+  -
+    name: Kurssin suorittaminen
+    path: /kurssin-suorittaminen.html
+  -
+    name: Väylänä yliopistoon
+    path: /opinto-oikeus.html
