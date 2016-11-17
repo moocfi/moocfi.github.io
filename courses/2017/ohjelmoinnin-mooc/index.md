@@ -12,7 +12,7 @@ Ohjelmoinnin MOOC on verkkokurssi, jossa perehdytään algoritmien laatimiseen j
 
 # Kurssista julkaistaan kaksi versiota
 
-Kurssista julkaistaan kaksi versiota. Toinen versio on aikarajaton ja sitä voi tehdä vuoden 2017 loppuun asti. Toisessa versiossa on aikataulut, joita tulee noudattaa kurssilla etenemiseksi.
+Kurssista julkaistaan kaksi versiota 16.1.2017. Toinen versio on aikarajaton ja sitä voi tehdä vuoden 2017 loppuun asti. Toisessa versiossa on aikataulut, joita tulee noudattaa kurssilla etenemiseksi.
 
 Opinto-oikeutta haetaan aikataulutetun kurssiversion kautta. 
 
