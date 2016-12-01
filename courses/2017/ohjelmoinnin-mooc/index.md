@@ -7,7 +7,7 @@ sidenav: 2017/ohjelmoinnin-mooc
 
 Ohjelmoinnin MOOC on verkkokurssi, jossa perehdytään algoritmien laatimiseen ja nykyaikaisen ohjelmoinnin perusideoihin. Opiskelijalta ei edellytetä ennakkotietoja ohjelmoinnista.
 
-- Kurssi vastaa sisällöltään Helsingin yliopiston tetojenkäsittelytieteen laitoksen kursseja <a href="http://www.cs.helsinki.fi/courses/581325/" target="_blank"  onclick="ga('send', 'event', 'link', 'click', 'outbound-ohpe')">Ohjelmoinnin perusteet</a> ja <a href="http://www.cs.helsinki.fi/courses/582103/" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ohja')">Ohjelmoinnin jatkokurssi</a>, jotka ovat 5 opintopisteen laajuisia perusopintotason kursseja.
+- Kurssi vastaa sisällöltään Helsingin yliopiston tietojenkäsittelytieteen laitoksen kursseja <a href="http://www.cs.helsinki.fi/courses/581325/" target="_blank"  onclick="ga('send', 'event', 'link', 'click', 'outbound-ohpe')">Ohjelmoinnin perusteet</a> ja <a href="http://www.cs.helsinki.fi/courses/582103/" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ohja')">Ohjelmoinnin jatkokurssi</a>, jotka ovat 5 opintopisteen laajuisia perusopintotason kursseja.
 - Tekemällä kurssin tehtävät ja osallistumalla kurssin näyttökokeeseen menestyksekkäästi, [osallistuja voi saada pääaineen opinto-oikeuden](opinto-oikeus.html) tietojenkäsittelytieteeseen Helsingin yliopistoon. Mikäli haet kurssin kautta opinto-oikeutta, lue kaikki [opinto-oikeuden hakemiseen liittyvät tiedot huolellisesti](opinto-oikeus.html). Esimerkiksi tehtävien aikarajoista EI voida joustaa lainkaan.
 
 # Kurssista julkaistaan kaksi versiota
