@@ -7,7 +7,7 @@ english: true
 ---
 Post your question to our Google Groups. You may also access it through [Google's interface](https://groups.google.com/forum/#!forum/moocfi).
 
-**Average response time is 2 working days.** For more immediate help and guidance please refer to the IRC (see IRC link on the right)
+At the moment, this is an *unofficial* support channel. For more immediate help and guidance please refer to the IRC (see IRC link on the right)
 
 
 <iframe id="forum_embed"

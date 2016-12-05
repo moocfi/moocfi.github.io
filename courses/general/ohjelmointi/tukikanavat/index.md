@@ -9,7 +9,7 @@ Tarjoamme kurssimateriaalin lisäksi käyttöösi kaksi eri tukikanavaa. Voit va
 
 # IRC
 
-**IRC** eli Internet Relay Chat on pikaviestipalvelu, jossa käyttäjät viestivät reaaliaikaisesti toistensa kanssa. 
+**IRC** eli Internet Relay Chat on pikaviestipalvelu, jossa käyttäjät viestivät reaaliaikaisesti toistensa kanssa.
 
 Keskimääräinen vastausaika IRC:ssä on vuorokaudenajasta riippuen **5-20 minuuttia**. Et kuitenkaan voi palata seuraamaan poissaollessasi tapahtuvaa keskustelua, joten et voi vain kysyä kysymystäsi ja poistua tietokoneelta.
 
@@ -22,9 +22,9 @@ Voit käyttää IRC:ä joko tietokoneelle asennettavan asiakasohjelman kautta, t
 
 # Google Groups
 
-**Google Groups** on Googlen tarjoama keskustelupalsta jota voit käyttää sekä selaimen että sähköpostin kautta. 
+**Google Groups** on Googlen tarjoama keskustelupalsta jota voit käyttää sekä selaimen että sähköpostin kautta.
 
-Vastausaikamme Google Groupsissa on keskimäärin **2 työpäivää**, joten aivan kriittiseen hätään emme sitä suosittele. Voit kuitenkin selata palstan aiempaa keskustelua &mdash; ehkä joku on törmännyt samaan ongelmaan aikaisemmin. 
+Google Groups toimii tällä hetkellä epävirallisena tukikanavana ja tällä hetkellä meillä ei ole resursseja vastata kysymyksiin siellä.
 
 Voit käyttää Google Groupsia joko normaalina sivustona tai sivustomme osana toimivan upotteen kautta.
 
