@@ -13,7 +13,7 @@ Varaamme oikeuden aikataulun ja aiheiden muutoksiin, kuitenkin niin, että jokai
 
 Aikataulu   | Julkaisu  | Deadline  | Aiheet
 :---------  |:--------- |:--------  |:-------
-Viikko 1    | 16.1.     | 26.2.     |  Syöte, tulostus, valintalause, toiston alkeet
+Viikko 1    | 16.1.     | 26.2.     |  Syöte, tulostus, valintalause
 Viikko 2    | 23.1.     | 26.2.     |  Toistolause, metodien alkeet
 Viikko 3    | 30.1.     | 26.2.     |  Metodit ja listat (ArrayList)
 Viikko 4    | 6.2.      | 26.2.     |  Olioiden alkeet
