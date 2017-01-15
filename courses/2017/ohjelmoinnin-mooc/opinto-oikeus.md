@@ -7,9 +7,9 @@ sidenav: 2017/ohjelmoinnin-mooc
 
 Keväällä 2017 järjestettävä aikataulutettu ohjelmoinnin MOOC antaa mahdollisuuden päästä opiskelemaan tietojenkäsittelytieteen laitokselle, matemaattis-luonnontieteelliseen tiedekuntaan, [Helsingin yliopistoon](http://www.helsinki.fi).
 
-Jos opiskelet ahkerasti ja saat kurssin kolmeltatoista ensimmäiseltä viikolta kultakin vähintään 90 % saatavissa olevista pisteistä, saat kutsun näyttökokeeseen. Näyttökokeen menestyksekkäästi suorittamalla sinulla on mahdollisuus saada opinto-oikeus tietojenkäsittelytieteen luonnontieteen kandidaatin (LuK) ja filosofian maisterin (FM) tutkintoihin. Näyttökokeeseessa tehdään kurssitehtävien kaltainen hieman laajempi ohjelmointitehtävä, jonka lisäksi hakijoita pyydetään näyttökoekutsun yhteydessä lähettämään motivaatiokirje.
+Jos opiskelet ahkerasti ja saat kurssin kolmeltatoista ensimmäiseltä viikolta (osat 1-13) kultakin vähintään 90 % saatavissa olevista pisteistä, saat kutsun näyttökokeeseen. Näyttökokeen menestyksekkäästi suorittamalla sinulla on mahdollisuus saada opinto-oikeus tietojenkäsittelytieteen luonnontieteen kandidaatin (LuK) ja filosofian maisterin (FM) tutkintoihin. Näyttökokeeseessa tehdään kurssitehtävien kaltainen hieman laajempi ohjelmointitehtävä, sekä kirjoitetaan lyhyt kirjoitelma. Hakijoita pyydetään näyttökoekutsun yhteydessä lähettämään lisäksi motivaatiokirje.
 
-**Huom:** opiskelupaikan voi saada vain kurssin aikarajallisen version kautta. Varmista siis että teet kurssin oikeaa versiota. Julkaisemme lisätietoja kurssin alkaessa.
+**Huom:** opiskelupaikan voi saada vain kurssin aikarajallisen version kautta. Varmista siis että teet kurssin oikeaa versiota, eli kurssia **2017-ohjelmointi**.
 
 MOOC-kurssi on osa <a href="http://www.helsinki.fi/ml/valinnat/hakeminen.html" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ml-hakeminen')">yhteishakua</a>. Käytännössä tämä tarkoittaa sitä, että sinun tulee täyttää yhteishakulomake, jossa asetat Helsingin Yliopiston tietojenkäsittelytieteen ohjelman haluamallesi prioriteetille. Tutustu sivuun <a href="http://www.helsinki.fi/ml/valinnat/hakeminen.html" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ml-hakeminen')">http://www.helsinki.fi/ml/valinnat/hakeminen.html</a>. Yhteishaku tapahtuu tyypillisesti maalis-huhtikuussa.
 
