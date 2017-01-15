@@ -28,5 +28,5 @@ Viikko 12   | 3.4.      | 23.4.     |  Tiedostoon kirjoittaminen, käyttöliitty
 Viikko 13   | 10.4.     | 30.5.      |  Kertausta, säännölliset lausekkeet, hyödyllisiä tekniikoita
 Viikko 14   | 17.4.     | 7.5.       |  *TBA*
 
-** Määräaikojen kellonajat ovat aina 23:59:00 -- viikkojen 1-4 määräaika on siis 26.2. klo 23:59:00. Virallisena määräaikana käytetään tehtäväpalvelimen kelloa, joka on Suomen ajassa. Huomaa, että oman koneesi kello voi olla jäljessä tai edellä, joten älä jätä tehtävien tekemistä ja palauttamista viime hetkeen.**
+**Määräaikojen kellonajat ovat aina 23:59:00 -- viikkojen 1-4 määräaika on siis 26.2. klo 23:59:00. Virallisena määräaikana käytetään tehtäväpalvelimen kelloa, joka on Suomen ajassa. Huomaa, että oman koneesi kello voi olla jäljessä tai edellä, joten älä jätä tehtävien tekemistä ja palauttamista viime hetkeen.**
 
