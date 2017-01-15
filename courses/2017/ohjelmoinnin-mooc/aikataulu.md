@@ -27,8 +27,11 @@ Viikko 9    | 13.3.     | 2.4.      |  Yliluokka Object, rajapinnat, geneerisyys
 Viikko 10   | 20.3.     | 9.4.     |  Ohjelmien suunnittelusta, pakkausten käyttö, poikkeustilanteet
 Viikko 11   | 27.3.     | 16.4.     |  Olio-ohjelmointi jatkuu, perintä
 Viikko 12   | 3.4.      | 23.4.     |  Tiedostoon kirjoittaminen, käyttöliittymät ja piirtämisen alkeet
-Viikko 13   | 10.4.     | 30.5.      |  Kertausta, säännölliset lausekkeet, hyödyllisiä tekniikoita
+Viikko 13   | 10.4.     | 30.4.      |  Kertausta, säännölliset lausekkeet, hyödyllisiä tekniikoita
 Viikko 14   | 17.4.     | 7.5.       |  *TBA*
 
 **Määräaikojen kellonajat ovat aina 23:59:00 -- viikkojen 1-4 määräaika on siis 26.2. klo 23:59:00. Virallisena määräaikana käytetään tehtäväpalvelimen kelloa, joka on Suomen ajassa. Huomaa, että oman koneesi kello voi olla jäljessä tai edellä, joten älä jätä tehtävien tekemistä ja palauttamista viime hetkeen.**
 
+Kutsuja näyttökokeisiin lähetetään päivittäin osallistujille, jotka ovat keränneet riittävän määrän pisteitä viikkoon 12 asti. Vaatimuksena näyttökokeeseen osallistumiselle ja mahdollisen opinto-oikeuden saamiselle on 90% pisteistä jokaiselta ensimmäiseltä 13 kurssiviikolta.
+
+Näyttökokeet alkavat alustavasti viikolla 17 (24.4.) ja päättyvät viikolla 19 (12.5.).
