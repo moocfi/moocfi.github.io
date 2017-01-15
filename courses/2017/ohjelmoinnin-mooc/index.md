@@ -17,12 +17,10 @@ Kurssista julkaistaan kaksi versiota 16.1.2017. Toinen versio on aikarajaton (**
 
 # Tervetuloa ohjelmoimaan!
 
-Oleellinen ohjeistus on koottu sivulle <a class="action" href="https://2017-ohjelmointi.github.io/"  onclick="ga('send', 'event', 'button', 'click', 'outbound-materiaali')">https://2017-ohjelmointi.github.io/</a>. Kurssin sivu sisältää tarvitut asennustoimenpiteet sekä käyttäjätunnuksen luomisohjeet, sekä linkin materiaaliin.
-
-Onnea kurssille!
+Oleellinen ohjeistus on koottu sivulle <a class="action" href="https://2017-ohjelmointi.github.io/"  onclick="ga('send', 'event', 'button', 'click', 'outbound-materiaali')">https://2017-ohjelmointi.github.io/</a>. Kurssin sivu sisältää tarvitut asennustoimenpiteet sekä käyttäjätunnuksen luomisohjeet, sekä linkin materiaaliin. Onnea kurssille!
 
 <div class="actions">
-	<a class="action" href="https://2017-ohjelmointi.github.io/"  onclick="ga('send', 'event', 'button', 'click', 'outbound-materiaali')">https://2017-ohjelmointi.github.io/</a>
+	<a class="action" href="https://2017-ohjelmointi.github.io/"  onclick="ga('send', 'event', 'button', 'click', 'outbound-materiaali')">Kurssille!</a>
 </div>
 
 
