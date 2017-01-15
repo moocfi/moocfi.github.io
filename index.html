@@ -14,7 +14,7 @@ resources:
 
 <article>
 	<header>
-		<h1>Tulossa</h1>
+		<h1>Juuri nyt</h1>
 	</header>
 
   <ul class="course-teasers">
@@ -25,7 +25,11 @@ resources:
         <img class="organiser" src="img/hy_liekki.svg" alt="University of Helsinki">
         <h1 class="name">Ohjelmoinnin MOOC</h1>
         <p class="description">Ohjelmointia Javalla perusteista lähtien sekä mahdollisuus opinto-oikeuteen. </p>
-        <p class="additional-info">Klikkaa tästä aloittaaksesi!</p>
+        <section class="call_to_action">
+	  <a  href="{{ "/courses/2017/ohjelmoinnin-mooc/" | prepend: site.baseurl }}">
+	    Klikkaa tästä aloittaaksesi!
+	  </a>
+	</section>
       </a>
     </li>
 
