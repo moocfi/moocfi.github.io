@@ -16,19 +16,19 @@ Aikataulun deadlinet koskevat vain kurssia **2017-ohjelmointi**, kurssilla 2016-
 Aikataulu   | Julkaisu  | Deadline  | Aiheet
 :---------  |:--------- |:--------  |:-------
 Viikko 1    | 16.1.     | 26.2.     |  Syöte, tulostus, valintalause
-Viikko 2    | 23.1.     | 26.2.     |  Toistolause, metodien alkeet
-Viikko 3    | 30.1.     | 26.2.     |  Metodit ja listat (ArrayList)
-Viikko 4    | 6.2.      | 26.2.     |  Olioiden alkeet
-Viikko 5    | 13.2.     | 5.3.      |  Satunnaisuus, olioihin tutustuminen jatkuu
-Viikko 6    | 20.2.     | 12.3.     |  Tiedostosta lukeminen, olioihin tutustuminen jatkuu, taulukot
-Viikko 7    | 27.2.     | 19.3.     |  Debuggauksesta, taulukot jatkuu, oliot jatkuu
-Viikko 8    | 6.3.      | 26.3.     |  Kertausta, muuttujien ja metodien tyypit, HashMap, oliot jatkuu
-Viikko 9    | 13.3.     | 2.4.      |  Yliluokka Object, rajapinnat, geneerisyys, kokoelmat
-Viikko 10   | 20.3.     | 9.4.     |  Ohjelmien suunnittelusta, pakkausten käyttö, poikkeustilanteet
-Viikko 11   | 27.3.     | 16.4.     |  Olio-ohjelmointi jatkuu, perintä
-Viikko 12   | 3.4.      | 23.4.     |  Tiedostoon kirjoittaminen, käyttöliittymät ja piirtämisen alkeet
-Viikko 13   | 10.4.     | 30.4.      |  Kertausta, säännölliset lausekkeet, hyödyllisiä tekniikoita
-Viikko 14   | 17.4.     | 7.5.       |  *TBA*
+Viikko 2    | 23.1.     | 26.2.     |  Toistolause, Listat (ArrayList)
+Viikko 3    | 30.1.     | 26.2.     |  Luokat ja oliot I
+Viikko 4    | 6.2.      | 26.2.     |  Luokat ja oliot II
+Viikko 5    | 13.2.     | 5.3.      |  *TBA*
+Viikko 6    | 20.2.     | 12.3.     |  *TBA*
+Viikko 7    | 27.2.     | 19.3.     |  *TBA*
+Viikko 8    | 6.3.      | 26.3.     |  *TBA*
+Viikko 9    | 13.3.     | 2.4.      |  *TBA*
+Viikko 10   | 20.3.     | 9.4.      |  *TBA*
+Viikko 11   | 27.3.     | 16.4.     |  *TBA*
+Viikko 12   | 3.4.      | 23.4.     |  *TBA*
+Viikko 13   | 10.4.     | 30.4.     |  *TBA*
+Viikko 14   | 17.4.     | 7.5.      |  *TBA*
 
 **Määräaikojen kellonajat ovat aina 23:59:00 -- viikkojen 1-4 määräaika on siis 26.2. klo 23:59:00. Virallisena määräaikana käytetään tehtäväpalvelimen kelloa, joka on Suomen ajassa. Huomaa, että oman koneesi kello voi olla jäljessä tai edellä, joten älä jätä tehtävien tekemistä ja palauttamista viime hetkeen.**
 
