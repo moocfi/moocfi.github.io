@@ -19,7 +19,7 @@ Viikko 1    | 16.1.     | 26.2.     |  Syöte, tulostus, valintalause
 Viikko 2    | 23.1.     | 26.2.     |  Toistolause, Listat (ArrayList)
 Viikko 3    | 30.1.     | 26.2.     |  Luokat ja oliot I
 Viikko 4    | 6.2.      | 26.2.     |  Luokat ja oliot II
-Viikko 5    | 13.2.     | 5.3.      |  *TBA*
+Viikko 5    | 13.2.     | 5.3.      |  Merkkijonot, Virrat (Stream)
 Viikko 6    | 20.2.     | 12.3.     |  *TBA*
 Viikko 7    | 27.2.     | 19.3.     |  *TBA*
 Viikko 8    | 6.3.      | 26.3.     |  *TBA*
