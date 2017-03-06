@@ -22,7 +22,7 @@ Osa 4    | 6.2.      | 26.2.     |  Luokat ja oliot II
 Osa 5    | 13.2.     | 5.3.      |  Merkkijonot, Virrat (Stream)
 Osa 6    | 20.2.     | 12.3.     |  Lukeminen (tiedosto, verkko), Taulukot, Järjestäminen ja etsiminen
 Osa 7    | 27.2.     | 19.3.     |  Yleistä tietoa ohjelman rakenteesta. Tiedostoon kirjoittaminen. Kertausta
-Osa 8    | 6.3.      | 26.3.     |  *TBA*
+Osa 8    | 6.3.      | 26.3.     |  Hajautustaulu, Object-luokka, Rajapinnat
 Osa 9    | 13.3.     | 2.4.      |  *TBA*
 Osa 10   | 20.3.     | 9.4.      |  *TBA*
 Osa 11   | 27.3.     | 16.4.     |  *TBA*
