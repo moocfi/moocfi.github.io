@@ -23,8 +23,8 @@ Osa 5    | 13.2.     | 5.3.      |  Merkkijonot, Virrat (Stream)
 Osa 6    | 20.2.     | 12.3.     |  Lukeminen (tiedosto, verkko), Taulukot, Järjestäminen ja etsiminen
 Osa 7    | 27.2.     | 19.3.     |  Yleistä tietoa ohjelman rakenteesta. Tiedostoon kirjoittaminen. Kertausta
 Osa 8    | 6.3.      | 26.3.     |  Hajautustaulu, Object-luokka, Rajapinnat
-Osa 9    | 13.3.     | 2.4.      |  *TBA*
-Osa 10   | 20.3.     | 9.4.      |  *TBA*
+Osa 9    | 13.3.     | 2.4.      |  Pakkaukset ja poikkeukset. Rajapinnat jatkuu.
+Osa 10   | 20.3.     | 9.4.      |  Ryhmittely hajautustaulun avulla, olioiden monimuotoisuus, perintä.
 Osa 11   | 27.3.     | 16.4.     |  *TBA*
 Osa 12   | 3.4.      | 23.4.     |  *TBA*
 Osa 13   | 10.4.     | 30.4.     |  *TBA*
@@ -32,6 +32,6 @@ Osa 14   | 17.4.     | 7.5.      |  *TBA*
 
 **Määräaikojen kellonajat ovat aina 23:59:00 -- osien 1-4 määräaika on siis 26.2. klo 23:59:00. Virallisena määräaikana käytetään tehtäväpalvelimen kelloa, joka on Suomen ajassa. Huomaa, että oman koneesi kello voi olla jäljessä tai edellä, joten älä jätä tehtävien tekemistä ja palauttamista viime hetkeen.**
 
-Kutsuja näyttökokeisiin lähetetään päivittäin osallistujille, jotka ovat keränneet riittävän määrän pisteitä osaan 12 asti. Vaatimuksena näyttökokeeseen osallistumiselle ja mahdollisen opinto-oikeuden saamiselle on 90% pisteistä jokaiselta ensimmäiseltä 13 osalta.
+Kutsuja näyttökokeisiin lähetetään päivittäin osallistujille, jotka ovat keränneet riittävän määrän pisteitä osaan 12 asti. Vaatimuksena näyttökokeeseen osallistumiselle ja mahdollisen opinto-oikeuden saamiselle on 90% pisteistä jokaiselta ensimmäiseltä 13 osalta. Konekokeiden suorittamista ei näyttökokeissa vaadita.
 
-Näyttökokeet alkavat alustavasti viikolla 17 (24.4.) ja päättyvät viikolla 19 (12.5.).
+Näyttökokeet alkavat alustavasti viikolla 17 (24.4.) ja päättyvät viikolla 19 (11.5.).
