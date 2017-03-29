@@ -25,7 +25,7 @@ Osa 7    | 27.2.     | 19.3.     |  Yleistä tietoa ohjelman rakenteesta. Tiedos
 Osa 8    | 6.3.      | 26.3.     |  Hajautustaulu, Object-luokka, Rajapinnat
 Osa 9    | 13.3.     | 2.4.      |  Pakkaukset ja poikkeukset. Rajapinnat jatkuu.
 Osa 10   | 20.3.     | 9.4.      |  Ryhmittely hajautustaulun avulla, olioiden monimuotoisuus, perintä.
-Osa 11   | 27.3.     | 16.4.     |  *TBA*
+Osa 11   | 27.3.     | 16.4.     |  Virrat ja rajapinnat, hyödyllisiä tekniikoita
 Osa 12   | 3.4.      | 23.4.     |  *TBA*
 Osa 13   | 10.4.     | 30.4.     |  *TBA*
 Osa 14   | 17.4.     | 7.5.      |  *TBA*
