@@ -27,8 +27,8 @@ Osa 9    | 13.3.     | 2.4.      |  Pakkaukset ja poikkeukset. Rajapinnat jatkuu
 Osa 10   | 20.3.     | 9.4.      |  Ryhmittely hajautustaulun avulla, olioiden monimuotoisuus, perintä.
 Osa 11   | 27.3.     | 16.4.     |  Virrat ja rajapinnat, hyödyllisiä tekniikoita
 Osa 12   | 3.4.      | 23.4.     |  Graafiset käyttöliittymät I
-Osa 13   | 10.4.     | 30.4.     |  *TBA*
-Osa 14   | 17.4.     | 7.5.      |  *TBA*
+Osa 13   | 10.4.     | 30.4.     |  Graafiset käyttöliittymät II
+Osa 14   | 17.4.     | 7.5.      |  Testaamisen alkeet, sovellusten jakaminen, seuraavat askeleet.
 
 **Määräaikojen kellonajat ovat aina 23:59:00 -- osien 1-4 määräaika on siis 26.2. klo 23:59:00. Virallisena määräaikana käytetään tehtäväpalvelimen kelloa, joka on Suomen ajassa. Huomaa, että oman koneesi kello voi olla jäljessä tai edellä, joten älä jätä tehtävien tekemistä ja palauttamista viime hetkeen.**
 
