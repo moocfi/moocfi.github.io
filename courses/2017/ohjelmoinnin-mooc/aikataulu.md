@@ -34,4 +34,4 @@ Osa 14   | 17.4.     | 7.5.      |  Testaamisen alkeet, sovellusten jakaminen, s
 
 Kutsuja näyttökokeisiin lähetetään päivittäin osallistujille, jotka ovat keränneet riittävän määrän pisteitä osaan 12 asti. Vaatimuksena näyttökokeeseen osallistumiselle ja mahdollisen opinto-oikeuden saamiselle on 90% pisteistä jokaiselta ensimmäiseltä 13 osalta. Konekokeiden suorittamista ei näyttökokeissa vaadita.
 
-Näyttökokeet alkavat alustavasti viikolla 17 (24.4.) ja päättyvät viikolla 19 (11.5.).
+Näyttökokeet alkavat alustavasti viikolla 18 (2.5.) ja päättyvät viikolla 20 (15.5.).
