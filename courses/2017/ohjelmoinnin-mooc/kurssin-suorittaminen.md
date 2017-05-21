@@ -25,7 +25,19 @@ Ohjelmoinnin MOOC -kurssin voi suorittaa neljällä tavalla:
 
 - Kuka tahansa voi suorittaa MOOC-kurssin ilmaiseksi. Osallistu tällöin aikataulutettuun MOOC-kurssiin ja tee siihen liittyvät konekokeet. 
 - Kurssin laajuus on joko 5 opintopistettä (7 ensimmäistä viikkoa, vastaa kurssia Ohjelmoinnin perusteet) tai 5+5 opintopistettä (koko kurssi, vastaa kursseja Ohjelmoinnin perusteet ja Ohjelmoinnin jatkokurssi).
-- Aikatauluttomaan MOOC-kurssiin liittyvistä tenttimahdollisuuksista tiedotetaan lisää myöhemmin.
+
+- Helsingin yliopiston Avoin yliopisto tarjoaa kursseille Ohjelmoinnin perusteet ja Ohjelmoinnin jatkokurssi kaksi tenttimahdollisuutta. Tentit järjestetään sunnuntaina 27.5. ja lauantaina 10.6. Avoimen yliopiston MOODLE-järjestelmässä. Tentteihin osallistuminen vaatii ilmoittautumisen sekä Helsingin yliopiston käyttäjätunnuksen.
+
+- Ilmoittautuminen tapahtuu seuraavilla lomakkeilla:
+
+  - <a href="https://www.avoin.helsinki.fi/palvelut/ilmo/index.aspx?id=23420" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ohpe-avoin-ilmoittautuminen')">Ohjelmoinnin perusteet (MOOC) ilmoittautumislomake</a> 
+  - <a href="https://www.avoin.helsinki.fi/palvelut/ilmo/index.aspx?id=23422" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ohja-avoin-ilmoittautuminen')">Ohjelmoinnin jatkokurssi (MOOC) ilmoittautumislomake</a> 
+
+- Aktivoi Helsingin yliopiston käyttäjätunnus seuraavia ohjeita seuraten ilmoittautumista seuraavana päivänä.
+
+  - <a href="https://helpdesk.it.helsinki.fi/ohjeet/kirjautuminen-ja-yhteydet/kayttajatunnus/ohjeet-yliopiston-kayttajatunnuksen-aktivointiin" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-tunnuksen-aktivointi')">Ohjeet Helsingin yliopiston käyttäjätunnusten aktivointiin</a> 
+
+- Tunnusten aktivoinnin jälkeen pääset Avoimen yliopiston MOODLEen ja sen tenttitilaan. Linkit lisätään tänne.
    
 ## Opintojasi (Helsingin yliopisto) varten
 
