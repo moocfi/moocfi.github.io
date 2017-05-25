@@ -38,6 +38,9 @@ Ohjelmoinnin MOOC -kurssin voi suorittaa neljällä tavalla:
   - <a href="https://helpdesk.it.helsinki.fi/ohjeet/kirjautuminen-ja-yhteydet/kayttajatunnus/ohjeet-yliopiston-kayttajatunnuksen-aktivointiin" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-tunnuksen-aktivointi')">Ohjeet Helsingin yliopiston käyttäjätunnusten aktivointiin</a> 
 
 - Tunnusten aktivoinnin jälkeen pääset Avoimen yliopiston MOODLEen ja sen tenttitilaan. Linkit lisätään tänne.
+
+  - <a href="https://moodle.helsinki.fi/course/view.php?id=22330" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-moodle')">Tentin tekemisessä käytettävä MOODLE-alusta (kurssiavain on MOOC)</a> 
+
    
 ## Opintojasi (Helsingin yliopisto) varten
 
