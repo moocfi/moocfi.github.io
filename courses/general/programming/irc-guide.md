@@ -11,8 +11,8 @@ Our courses use IRC where you can discuss course topics and get support for the 
 
 If you are unfamiliar with IRC, you can reach our channel by using third party IRC clients:
 
-- [#mooc.fi @IRCnet](http://chat.mibbit.com/?server=ircnet.eversible.com&channel=%23mooc.fi) (Other courses and public conversation)
-- [#tktl-clojure @IRCnet](http://chat.mibbit.com/?server=ircnet.eversible.com&channel=%23tktl-clojure) (Clojure course)
+- [#mooc.fi @IRCnet](http://chat.mibbit.com/?server=open.ircnet.net&channel=%23mooc.fi) (Other courses and public conversation)
+- [#tktl-clojure @IRCnet](http://chat.mibbit.com/?server=open.ircnet.net&channel=%23tktl-clojure) (Clojure course)
 
 You can see the people on the channel on the right. Users with an @ sign in front of their nickname are course staff and channel operators. To send messages to the channel, just type it in the box at the bottom of the screen.
 
