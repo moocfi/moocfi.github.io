@@ -26,7 +26,7 @@ Ohjelmoinnin MOOC -kurssin voi suorittaa neljällä tavalla:
 - Kuka tahansa voi suorittaa MOOC-kurssin ilmaiseksi. Osallistu tällöin aikataulutettuun MOOC-kurssiin ja tee siihen liittyvät konekokeet. 
 - Kurssin laajuus on joko 5 opintopistettä (7 ensimmäistä viikkoa, vastaa kurssia Ohjelmoinnin perusteet) tai 5+5 opintopistettä (koko kurssi, vastaa kursseja Ohjelmoinnin perusteet ja Ohjelmoinnin jatkokurssi).
 
-- Helsingin yliopiston Avoin yliopisto tarjoaa kursseille Ohjelmoinnin perusteet ja Ohjelmoinnin jatkokurssi muutamia tenttimahdollisuuksia. Seuraavat tenttimahdollisuudet ovat 19.8. ja 20.8. Tentit tehdään Avoimen yliopiston MOODLE-järjestelmässä. Tentteihin osallistuminen vaatii ilmoittautumisen sekä Helsingin yliopiston käyttäjätunnuksen.
+- Helsingin yliopiston Avoin yliopisto tarjoaa kursseille Ohjelmoinnin perusteet ja Ohjelmoinnin jatkokurssi muutamia tenttimahdollisuuksia. Seuraavat tenttimahdollisuudet ovat 2.12. ja 3.12. Tentit tehdään Avoimen yliopiston MOODLE-järjestelmässä. Tentteihin osallistuminen vaatii ilmoittautumisen sekä Helsingin yliopiston käyttäjätunnuksen.
 
 - Ilmoittautuminen tapahtuu seuraavilla lomakkeilla:
 
