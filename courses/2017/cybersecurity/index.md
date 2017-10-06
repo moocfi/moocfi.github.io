@@ -22,11 +22,11 @@ The course series consists of multiple smaller courses, each centered around a s
 
 There will be a few case studies as well as projects that participants can work on. At the end of the course series, we’ll also organize a friendly competition where participants get to find and fix vulnerabilities within a limited time-frame.
 
-Click the link below to view the course serie's web page and to start your journey into becoming a cyber security expert!
+<!-- Click the link below to view the course serie's web page and to start your journey into becoming a cyber security expert!
 
 <div class="actions">
     <a class="action primary" href="https://cybersecuritybase.github.io/" onclick="ga('send', 'event', 'link', 'click', 'oubound-cybersecurity-github-io')">Start learning</a>
-</div>
+</div> -->
 
 ## Work load and prerequisites
 
