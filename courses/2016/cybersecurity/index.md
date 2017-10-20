@@ -4,6 +4,10 @@ layout: course
 english: true
 ---
 
+<div class="outdated-course-warning">
+  Please note that this is an old version of the course! For the latest version, please visit here: <a href="http://mooc.fi/courses/2017/cybersecurity/">http://mooc.fi/courses/2017/cybersecurity/</a>
+</div>
+
 *Cyber Security Base with F-Secure* is a course series by <a href="https://www.cs.helsinki.fi/en" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'oubound-tktl-en')">University of Helsinki</a> in collaboration with <a href="https://www.f-secure.com/en/welcome" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'oubound-fsecure')">F&#8209;Secure</a> Cyber Security Academy that focuses on building core knowledge and abilities related to the work of a cyber security professional. The course series is free and open for anyone to attend.
 
 Learn about tools used to analyse flaws in software systems, necessary knowledge to build secure software systems (esp. within Web), the skills needed to perform risk and threat analysis on existing systems and the  relevant legislation within EU. By the end of the course, hard working participants are expected to possess the skills required from those who work as Junior Security Consultants in the industry, for example at F&#8209;Secure.

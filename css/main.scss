@@ -24,7 +24,9 @@
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"normalize"
-	,"layout"
+    ,"layout"
+    ,"outdated"
+    ,"syntax-highlighting"
     ,"typography"
     ,"theme"
     ,"widgets/site-header"
@@ -43,5 +45,4 @@
     ,"widgets/course_teasers"
     ,"widgets/video"
     ,"widgets/warning-banner"
-    ,"syntax-highlighting"
 ;
