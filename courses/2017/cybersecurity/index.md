@@ -4,7 +4,7 @@ layout: course
 english: true
 ---
 
-*Cyber Security Base with F-Secure* is a course series by <a href="https://www.cs.helsinki.fi/en" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'oubound-tktl-en')">University of Helsinki</a> in collaboration with <a href="https://www.f-secure.com/en/welcome" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'oubound-fsecure')">F&#8209;Secure</a> Cyber Security Academy that focuses on building core knowledge and abilities related to the work of a cyber security professional. The course series is free and open for anyone to attend.
+*Cyber Security Base with F-Secure* is a course series by <a href="https://www.cs.helsinki.fi/en" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'oubound-tktl-en')">University of Helsinki</a> in collaboration with <a href="https://www.f-secure.com/en/welcome" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'oubound-fsecure')">F&#8209;Secure</a> Cyber Security Academy that focuses on building core knowledge and abilities related to the work of a cyber security professional. The course series is free and open for anyone to attend. There is no registration and the number of participants is not limited.
 
 Learn about tools used to analyse flaws in software systems, necessary knowledge to build secure software systems (esp. within Web), the skills needed to perform risk and threat analysis on existing systems and the  relevant legislation within EU. By the end of the course, hard working participants are expected to possess the skills required from those who work as Junior Security Consultants in the industry, for example at F&#8209;Secure.
 
@@ -36,7 +36,7 @@ There will be programming assignments, essays, quizzes and puzzles throughout th
 
 If you reside in Finland, you can get a total of 10 ECTS credits for the course from the <a href="https://www.helsinki.fi/en/open-university" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'oubound-avoin')">Open University of University of Helsinki</a>. Your own school, college or university has the option of accepting these as a part of your studies -- you have to, however, ask your local administration whether they will do so. We are looking into the possibility of offering certificates for completion of the course series to all participants as well.
 
-We will start on 31st of October, 2017. A link to the stream / recording of the event (TBA).
+We will start on 31st of October, 2017 with a kick-off seminar. Register here: <a href="https://www.lyyti.in/cyber_security_base_registration">https://www.lyyti.in/cyber_security_base_registration</a> or follow live stream: <a href="https://www.helsinki.fi/fi/ajankohtaista/unitube">https://www.helsinki.fi/fi/ajankohtaista/unitube</a>. Please note that attending the seminar / watching it is not mandatory for the course.
 
 <div class="actions" style="margin: 80px 0 80px 0;">
 <form action="https://jamo.us8.list-manage.com/subscribe/post?u=db82662e446284fd41bd8370e&amp;id=c37b72ffb9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate >
