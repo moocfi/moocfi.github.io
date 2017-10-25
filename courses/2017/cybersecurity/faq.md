@@ -12,6 +12,10 @@ A: Massive Open Online Courses (MOOCs) are as the name says they open, free, and
 
 A: Yes.
 
+## Q: How many students can attend? 
+
+A: There is no limit how many students can take part.
+
 ## Q: How many hours of work should I be prepared to put in?
 
 A: This will vary from person to person. But students should expect to spend 2-10 hours per week on the course.
