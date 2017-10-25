@@ -60,7 +60,7 @@ A: The grading is passed or not. You can see your grading once it is ready at: h
 
 ## Q: Why isn’t the course graded yet?
 
-A: We have a lot of students and grading takes time. Please be patient!
+A: We have a lot of students and grading takes time. Please be patient! To make things easier and faster use your real name, email, and student number when registering to TMC.
 
 ## Q: What kind of assignments does the course include?
 
