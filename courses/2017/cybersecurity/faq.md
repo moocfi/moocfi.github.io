@@ -96,7 +96,7 @@ A: This pops up regularly and the answer is no. No extensions, No extra work.
 
 ## Q: Is it possible for me to catch up if I join the course after it begins or miss part of it?
 
-A: Yes. The course consists of different modules, and they can be taken independently. So if you miss one module or don’t finish it for some reason, you can still take the others. _But do remember that If you study at University of Helsinki CS department and need the TKT20009 or CSM13204 course you need to complete the modules within a year_.
+A: Yes. The course consists of different modules, and they can be taken independently. So if you miss one module or don’t finish it for some reason, you can still take the others. _But do remember that If you study at University of Helsinki CS department and need the TKT20009 or CSM13204 course you need to complete the modules within a year otherwise the modules are not accepted as parts of that course (but you still get to keep the ECTS)_.
 
 ## Q: Is there going to be a CTF again?
 
