@@ -82,6 +82,10 @@ A: The grading and certificates for all the parts of the course will be availabl
 
 A: We are working in cooperation with the Open University of Helsinki (OUH) and they will register the ECTS. Once a course part is finished and the list of students entitled to ECTS and their information is passed to the OUH. They will contact the email addresses used on the course and give the detailed instructions. So if you used an email address created just for this course, please, check it's inbox and use it as your communication mail. 
 
+## Q: How soon should I ask the registration of the ECTS to WebOodi?
+
+A: As soon as the Open University of Helsinki (OUH) contacts you you will have three (3) months time to aks the registration of the ECTS to WebOodi. After that we will not register them. You will still get the certificate. 
+
 ## Q: Can I get the ECTS registered in my home university if I do not study in Finland?
 
 A: It is possible and it has been done. Sometimes extra paper work is needed. It really depends on the University in question. We suggest discussing with your local study counselor beforehand.  
