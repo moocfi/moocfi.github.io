@@ -48,4 +48,6 @@ We will start on 31st of October, 2017 with a kick-off seminar. Register here: <
 </form>
 </div>
 
+<a class="action primary" href="http://mooc.fi/courses/2017/cybersecurity/faq.html" onclick="ga('send', 'event', 'link', 'click', 'oubound-cybersecurity-github-io')">FAQ of the course</a>
+
 If you would like to hear about our other upcoming courses as well, remember to join our general mailing list at the bottom of this page too!
