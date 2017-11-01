@@ -30,7 +30,7 @@ There will be programming assignments, essays, quizzes and puzzles throughout th
 
 If you reside in Finland, you can get a total of 10 ECTS credits for the course from the <a href="https://www.helsinki.fi/en/open-university" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'oubound-avoin')">Open University of University of Helsinki</a>. Your own school, college or university has the option of accepting these as a part of your studies -- you have to, however, ask your local administration whether they will do so. We are looking into the possibility of offering certificates for completion of the course series to all participants as well.
 
-We will start on 31st of October, 2017 with a kick-off seminar. Register here: <a href="https://www.lyyti.in/cyber_security_base_registration">https://www.lyyti.in/cyber_security_base_registration</a> or follow live stream: <a href="https://www.helsinki.fi/fi/ajankohtaista/unitube">https://www.helsinki.fi/fi/ajankohtaista/unitube</a>. Please note that attending the seminar / watching it is not mandatory for the course.
+The course has started! **You don't need to register to start doing the course. There is an optional registration for those who want ECTS credits that can be done AFTER completing the course.** More instructions in the material. So just head to the material and start doing the courses!
 
 <div class="actions" style="margin: 80px 0 80px 0;">
 <form action="https://jamo.us8.list-manage.com/subscribe/post?u=db82662e446284fd41bd8370e&amp;id=c37b72ffb9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate >
