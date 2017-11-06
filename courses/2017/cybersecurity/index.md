@@ -53,3 +53,5 @@ Click the link below to view the course series' web page and to start your journ
 <div class="actions">
     <a class="action primary" href="https://cybersecuritybase.github.io/" onclick="ga('send', 'event', 'link', 'click', 'oubound-cybersecurity-github-io')">Start learning</a>
 </div>
+
+There was a <i>NON-MANDATORY</i> motivational kick-off event on October 31st. You can view its recording <a href="https://www.helsinki.fi/fi/unitube/video/b7601297-d474-406e-b774-a4227a009a78">here</a>.
