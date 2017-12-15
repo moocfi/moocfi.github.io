@@ -24,7 +24,7 @@ There will be a few case studies as well as projects that participants can work 
 
 ## Work load and prerequisites
 
-There will be programming assignments, essays, quizzes and puzzles throughout the courses, and completing a specific part of a course means working and completing most if not all of them. We expect that individuals work some 2-10 hours per week on the courses depending on their background. Some programming background and ICT experience will be very beneficial.
+There will be programming assignments, essays, quizzes and puzzles throughout the courses, and completing a specific part of a course means working and completing most if not all of them. We expect that individuals work some 2-10 hours per week on the courses depending on their background. Some programming background and ICT experience is required.
 
 ## ECTS credits for Finnish residents
 
