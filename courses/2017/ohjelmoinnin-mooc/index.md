@@ -24,11 +24,11 @@ Oleellinen ohjeistus on koottu sivulle <a class="action" href="https://2017-ohje
 </div>
 
 
-Opinto-oikeutta haetaan aikataulutetun kurssiversion kautta. 
+Opinto-oikeutta haetaan aikataulutetun kurssiversion kautta.
 
 # Opettaja tai opinto-ohjaaja!
 
 Haluatko ottaa kurssin tai sen osan osaksi lukiosi kurssitarjontaa? Sano opiskelijoillesi, että he osallistuvat kurssille ja järjestä halutessasi yhteisiä aikoja tehtävien tekemiseen. Jos haluat että kurssillasi on myös koe, ota meihin yhteyttä (<mooc@cs.helsinki.fi>) ja lähetämme sinulle kurssikokeen. Korjaamme kokeet puolestasi ilmaiseksi.
 
-Useat lukiot ovat tarjonneet ohjelmointikurssin suorituksesta lukiokursseja. Tämän lisäksi kurssisuorituksen voi hyväksilukea osaksi Helsingin yliopiston opintoja. 
+Useat lukiot ovat tarjonneet ohjelmointikurssin suorituksesta lukiokursseja. Tämän lisäksi kurssisuorituksen voi hyväksilukea osaksi Helsingin yliopiston opintoja.
 
