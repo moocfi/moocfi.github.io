@@ -1,7 +1,6 @@
 ---
 title: Ohjelmoinnin MOOC &ndash; 2018
 layout: course
-main-class: has-aside
 sidenav: 2018/ohjelmoinnin-mooc
 ---
 
