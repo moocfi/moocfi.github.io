@@ -15,13 +15,8 @@ navigation:
     base: true
     target: _blank
   -
-    name: IRC guide
+    name: Chatroom
     path: /courses/general/programming/irc-guide.html
-    base: true
-    target: _blank
-  -
-    name: Google Groups
-    path: /courses/general/programming/google-groups.html
     base: true
     target: _blank
   -

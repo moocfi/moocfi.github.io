@@ -1,11 +1,9 @@
 # Help with the exercises
 
-- [IRC]({{"/courses/general/programming/irc-guide.html" | prepend: site.baseurl }}) (Internet Relay Chat)
-	- Average response time 20 minutes
-	- The official course staff are moderators and have an @ sign in front of their name.
+- Support channel
+	- Primary support channel is through chatroom: [#mooc.fi:matrix.org]({{"https://riot.im/app/#/room/#mooc.fi:matrix.org"}})
+	- Also accessable through [IRC]({{"/courses/general/programming/irc-guide.html" | prepend: site.baseurl }}) (Internet Relay Chat)
 	- Channel #mooc.fi @IRCnet
-- [Google Groups]({{"/courses/general/programming/google-groups.html" | prepend: site.baseurl }})
-	-  Average response time 2 working days
 
 # Other business and bug reports
 

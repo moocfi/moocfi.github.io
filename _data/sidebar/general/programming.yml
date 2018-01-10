@@ -8,8 +8,5 @@ navigation:
     name: Certificates
     path: /certificates.html
   -
-    name: IRC guide
+    name: Chatroom
     path: /irc-guide.html
-  -
-    name: Google Groups
-    path: /google-groups.html

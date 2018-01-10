@@ -10,18 +10,15 @@ english: true
 1. I don't know how to solve assignement N?
 	- Read the course material
 	- You may also find help from internet by Google etc.
-	- Join [IRC]({{"/courses/general/programming/irc-guide.html" | prepend: site.baseurl }}) (Internet Relay Chat)
+	- Join [Chatroom]({{"/courses/general/programming/irc-guide.html" | prepend: site.baseurl }}) (Internet Relay Chat)
 		- Average response time 20 minutes
 		- The official course staff are moderators and have an @ sign in front of their name
 		- Channel #mooc.fi @IRCnet
-	- Join [Google Groups]({{"/courses/general/programming/google-groups.html" | prepend: site.baseurl }}) 
-		- Average response time 2 working days
-		- Course discussion forum
 2. I suspect that the tests of assignment N have some problems
 
 	It is possible that tests have some problems. If you think that is the case, ask the course personnel to check the issue.
 
-	Problems should be reported to us by email to <a href="mailto:mooc@cs.helsinki.fi">mooc@cs.helsinki.fi</a>. For general help with exercises, please check out our <a href="/courses/general/programming/irc-guide.html">IRC-guide</a> and <a href="/courses/general/programming/google-groups.html">Google Groups discussion forum</a>.
+	Problems should be reported to us by email to <a href="mailto:mooc@cs.helsinki.fi">mooc@cs.helsinki.fi</a>. For general help with exercises, please check out our <a href="/courses/general/programming/irc-guide.html">Chatroom</a>.
 
 3. How do I see what assignments I have already completed?
 
@@ -99,4 +96,4 @@ english: true
 # Links to other netbeans resources
 
 - [Keyboard shortcuts](http://netbeans.org/project_downloads/www/shortcuts.pdf)
-- [Information for Mac OS X users](http://netbeans.org/kb/articles/mac.html)
+- [Information for macOS users](http://netbeans.org/kb/articles/mac.html)

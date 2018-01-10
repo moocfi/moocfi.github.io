@@ -10,7 +10,7 @@ redirect_from:
 ---
 **Welcome to [University of Helsinki](http://helsinki.fi/university)'s massive open online course (MOOC) on object-oriented programming!**
 
-During this course you will learn all the basics of computer programming, algorithms and object-oriented programming using the Java programming language. The course includes comprehensive course materials and plenty of programming exercises, each tested using our automatic testing service [Test My Code](https://github.com/testmycode/tmc-server).
+During this course you will learn all the basics of computer programming, algorithms and object-oriented programming using the Java programming language. The course includes comprehensive course materials and plenty of programming exercises, each tested using our automatic testing service [Test My Code](https://tmc.mooc.fi/).
 
 **Anyone can join - no previous programming knowledge is required.**
 
