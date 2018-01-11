@@ -8,8 +8,7 @@ Ohjelmoinnin MOOC on ilmainen verkkokurssi, jossa perehdytään algoritmien laat
 - Ohjelmoinnin MOOC vastaa sisällöltään Helsingin yliopiston tietojenkäsittelytieteen laitoksen kursseja <a href="https://courses.helsinki.fi/fi/tkt10002" target="_blank"  onclick="ga('send', 'event', 'link', 'click', 'outbound-ohpe-tkt10002')">Ohjelmoinnin perusteet</a> ja <a href="https://courses.helsinki.fi/fi/tkt10003" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ohja-tkt10003')">Ohjelmoinnin jatkokurssi</a>. Kurssit vastaavat yhteensä kymmentä opintopistettä (5+5).
 - Ohjelmoinnin MOOC tarjoaa mahdollisuuden opinto-oikeuteen tietojenkäsittelytieteen opintoihin Helsingin yliopistolla. Mikäli haet kurssin kautta opinto-oikeutta, lue kaikki [opinto-oikeuden hakemiseen liittyvät tiedot huolellisesti](opinto-oikeus.html). Esimerkiksi tehtävien aikarajoista EI voida joustaa lainkaan. Ehdot opinto-oikeuden saamiseksi päivittyvät lähempänä yhteishakua.
 
-
-*Linkki materiaaliin lisätään tähän 12.1.2018*
+**<a href="https://materiaalit.github.io/ohjelmointi-18/" target="_blank"  onclick="ga('send', 'event', 'link', 'click', 'outbound-ohjelmointi-2018')">Tästä materiaaliin!</a>**
 
 # Kurssin kaksi versiota
 
@@ -26,22 +25,22 @@ Kurssi koostuu neljästätoista tehtäväsarjasta. Kunkin tehtäväsarjan tekemi
 Kurssin sisältö tarkentuu kurssin edetessä. Tietoa kurssin aikatauluista sekä sisällöstä lisätään tälle sivulle kurssin alettua.
 
 
-Aikataulu   | Julkaisu  | Deadline  | Aiheet
-:---------  |:--------- |:--------  |:-------
-Osa 1    | 12.1.     | 26.2.     |  julkaistaan myöhemmin
-Osa 2    | 19.1.     | 26.2.     |  -
-Osa 3    | 26.1.     | 26.2.     |  -
-Osa 4    | 2.2.      | 26.2.     |  -
-Osa 5    | 9.2.      | 5.3.      |  -
-Osa 6    | 16.2.     | 12.3.     |  -
-Osa 7    | 23.2.     | 19.3.     |  -
-Osa 8    | 9.3.      | 26.3.     |  -
-Osa 9    | 16.3.     | 2.4.      |  -
-Osa 10   | 23.3.     | 9.4.      |  -
-Osa 11   | 30.3.     | 16.4.     |  -
-Osa 12   | 6.4.      | 23.4.     |  -
-Osa 13   | 13.4.     | 30.4.     |  -
-Osa 14   | 20.4.     | 7.5.      |  -
+Aikataulu   | Julkaisu  | Deadline
+:---------  |:--------- |:--------
+Osa 1    | 12.1.     | 26.2.
+Osa 2    | 19.1.     | 26.2.
+Osa 3    | 26.1.     | 26.2.
+Osa 4    | 2.2.      | 26.2.
+Osa 5    | 9.2.      | 5.3. 
+Osa 6    | 16.2.     | 12.3.
+Osa 7    | 23.2.     | 19.3.
+Osa 8    | 9.3.      | 26.3.
+Osa 9    | 16.3.     | 2.4. 
+Osa 10   | 23.3.     | 9.4. 
+Osa 11   | 30.3.     | 16.4.
+Osa 12   | 6.4.      | 23.4.
+Osa 13   | 13.4.     | 30.4.
+Osa 14   | 20.4.     | 7.5. 
 
 **Määräajat ovat aina maanantaisin. Määräaikojen kellonajat ovat aina 23:59:00 -- osien 1-4 määräaika on siis maanantai 26.2. klo 23:59:00. Virallisena määräaikana käytetään tehtäväpalvelimen kelloa, joka on Suomen ajassa. Huomaa, että oman koneesi kello voi olla jäljessä tai edellä, joten älä jätä tehtävien tekemistä ja palauttamista viime hetkeen.**
 
