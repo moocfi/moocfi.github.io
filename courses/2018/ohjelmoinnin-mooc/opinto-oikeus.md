@@ -3,7 +3,7 @@ title: MOOC on väylä yliopistoon
 layout: course
 ---
 
-Keväällä 2018 järjestettävä aikataulutettu Ohjelmoinnin MOOC antaa mahdollisuuden päästä opiskelemaan tietojenkäsittelytieteen osastolle, matemaattis-luonnontieteelliseen tiedekuntaan, [Helsingin yliopistoon](http://www.helsinki.fi).
+Keväällä 2018 järjestettävä aikataulutettu Ohjelmoinnin MOOC antaa mahdollisuuden päästä opiskelemaan tietojenkäsittelytieteen kandiohjelmaan, matemaattis-luonnontieteelliseen tiedekuntaan, [Helsingin yliopistoon](http://www.helsinki.fi).
 
 Opinto-oikeuden hakeminen Ohjelmoinnin MOOCin kautta edellyttää osallistumista aikataulutettuun versioon, tehtävien tekemistä annetussa aikataulussa, sekä osallistumista toukokuussa järjestettävään näyttökokeeseen.
 
@@ -11,11 +11,11 @@ Saat kutsun näyttökokeeseen tekemällä aikataulutetun kurssin jokaisesta osas
 
 Näyttökokeen menestyksekkäästi suorittamalla sinulla on mahdollisuus saada opinto-oikeus tietojenkäsittelytieteen luonnontieteen kandidaatin (LuK) ja filosofian maisterin (FM) tutkintoihin. Näyttökokeeseessa tehdään kurssitehtävien kaltainen hieman laajempi ohjelmointitehtävä, sekä kirjoitetaan lyhyt kirjoitelma.
 
-MOOC-kurssi on osa yhteishakua. Sinun tulee siis täyttää yhteishakulomake, jossa asetat Helsingin Yliopiston tietojenkäsittelytieteen ohjelman haluamallesi prioriteetille.
+MOOC-kurssin perusteella haetaan päähaussa, joka on osa yhteishakua. Sinun tulee siis täyttää päähaun hakulomake, jossa asetat Helsingin Yliopiston tietojenkäsittelytieteen ohjelman haluamallesi prioriteetille.
 
 **Yhteishaun hakuaika on 14.3.2018 klo 8:00 - 28.3.2018 klo 15:00**
 
-Yhteishakulomake sekä lisää tietoa yhteishausta sekä opinnoista löytyy osoitteesta <a href="https://opintopolku.fi/app/#!/korkeakoulu/1.2.246.562.17.256840708710" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-opintopolku-tkt-2018')">https://opintopolku.fi/app/#!/korkeakoulu/1.2.246.562.17.256840708710</a>.
+Hakulomake sekä lisää tietoa päähausta ja opinnoista löytyy osoitteesta <a href="https://www.helsinki.fi/fi/tietojenkasittelytieteen-kandiohjelma-luonnontieteiden-kandidaatti-ja-filosofian-maisteri-3-v-2-v/1.2.246.562.17.256840708710" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-opintopolku-tkt-2018')">https://www.helsinki.fi/fi/tietojenkasittelytieteen-kandiohjelma-luonnontieteiden-kandidaatti-ja-filosofian-maisteri-3-v-2-v/1.2.246.562.17.256840708710</a>.
 
 <!-- MOOC-kurssin ja siihen liittyvän näyttökokeen hyväksytysti suorittaneet korkeakoulukelpoiset hakijat voivat hakea opinto-oikeutta kevään 2018 yhteishaussa. Opinto-oikeutta on haettava vuoden kuluessa MOOC-kurssin suorittamisesta.
 
@@ -28,7 +28,7 @@ MOOC-kurssin kautta opintopaikan varmistamalla olet jo hoitanut osan tärkeistä
 
 **Opinto-oikeuteen liittyvät säännöt ovat tarkkoja ja pysyviä, eikä niistä voida joustaa.** Tee siis kaikki tehtävät hyvissä ajoin, äläkä jätä niitä viimeiseen iltaan. Lisäaikaa tehtävien tekoon **EI** voida antaa! <!--Pisteitä saa yhden jokaisesta tehtävän alakohdasta, ja alakohdattomista tehtävistä saa yhden pisteen. -->
 
-Suosittelemme, että vaikka haet opiskelupaikkaa MOOCin kautta, niin haet paikkaa myös yhteishaussa olevan valintakokeen kautta. Tämä siksi, että mikäli kurssi jää sinulta jostakin syystä kesken, niin sinulla on varasuunnitelma olemassa. Lisäksi MOOCin kautta on tarjolla vain rajallinen määrä opinto-oikeuksia. Tuloksen saat tietää ennen yhteisvalinnan valintakoetta, jolloin voit olla osallistumatta pääsykokeeseen mikäli sait opiskelupaikan MOOCin kautta.
+Suosittelemme, että vaikka haet opiskelupaikkaa MOOCin kautta, niin haet paikkaa myös päähaussa olevan valintakokeen kautta. Tämä siksi, että mikäli kurssi jää sinulta jostakin syystä kesken, niin sinulla on varasuunnitelma olemassa. Lisäksi MOOCin kautta on tarjolla vain rajallinen määrä opinto-oikeuksia. Tuloksen saat tietää ennen päähaun valintakoetta, jolloin voit olla osallistumatta valintakokeeseen mikäli sait opiskelupaikan MOOCin kautta.
 
 Lisätietoa tietojenkäsittelytieteen pääaineesta [Helsinkin yliopiston sivuilla](https://www.helsinki.fi/fi/ohjelmat/kandi/tietojenkasittelytieteen-kandiohjelma).
 
