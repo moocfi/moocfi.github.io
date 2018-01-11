@@ -8,7 +8,7 @@ Ohjelmoinnin MOOC on ilmainen verkkokurssi, jossa perehdytään algoritmien laat
 - Ohjelmoinnin MOOC vastaa sisällöltään Helsingin yliopiston tietojenkäsittelytieteen laitoksen kursseja <a href="https://courses.helsinki.fi/fi/tkt10002" target="_blank"  onclick="ga('send', 'event', 'link', 'click', 'outbound-ohpe-tkt10002')">Ohjelmoinnin perusteet</a> ja <a href="https://courses.helsinki.fi/fi/tkt10003" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ohja-tkt10003')">Ohjelmoinnin jatkokurssi</a>. Kurssit vastaavat yhteensä kymmentä opintopistettä (5+5).
 - Ohjelmoinnin MOOC tarjoaa mahdollisuuden opinto-oikeuteen tietojenkäsittelytieteen opintoihin Helsingin yliopistolla. Mikäli haet kurssin kautta opinto-oikeutta, lue kaikki [opinto-oikeuden hakemiseen liittyvät tiedot huolellisesti](opinto-oikeus.html). Esimerkiksi tehtävien aikarajoista EI voida joustaa lainkaan. Ehdot opinto-oikeuden saamiseksi päivittyvät lähempänä yhteishakua.
 
-**<a href="https://materiaalit.github.io/ohjelmointi-18/" target="_blank"  onclick="ga('send', 'event', 'link', 'click', 'outbound-ohjelmointi-2018')">Tästä materiaaliin!</a>**
+**<a href="https://materiaalit.github.io/ohjelmointi-18/" target="_blank"  onclick="ga('send', 'event', 'link', 'click', 'outbound-ohjelmointi-2018')" class="to-material-button">Tästä materiaaliin!</a>**
 
 # Kurssin kaksi versiota
 
