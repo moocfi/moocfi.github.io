@@ -54,7 +54,9 @@ Kurssin aloittaminen on suoraviivaista, mutta suoritusmerkintä ja mahdollinen o
 
 Kurssille osallistuminen ei velvoita mihinkään, eli ohjelmoinnin MOOCiin voi osallistua ihan vain huvin vuoksi. Saat valita vapaasti joko aikataulutetun version (suosittelemme tätä!) tai aikatauluttamattoman version.
 
-Jos haluat kurssista suoritusmerkinnän Helsingin yliopiston Avoimelta yliopistolta, tulee kurssin lopulla osallistua Helsingin yliopiston Avoimen yliopiston tarjoamaan verkossa tehtävään ilmaiseen kokeeseen. Kokeeseen osallistuminen vaatii tietyn määrän kurssitehtävien suorittamista. Lisätietoja tästä kurssin edetessä.
+Jos haluat kurssista suoritusmerkinnän Helsingin yliopiston Avoimelta yliopistolta, tulee kurssin lopulla osallistua Helsingin yliopiston Avoimen yliopiston tarjoamaan verkossa tehtävään ilmaiseen kokeeseen. Kokeeseen osallistuminen vaatii tietyn määrän kurssitehtävien suorittamista. Avoimen yliopiston kokeissa suoritetaan kurssit Ohjelmoinnin perusteet ja Ohjelmoinnin jatkokurssi erillisinä kursseina -- voit halutessasi suorittaa Ohjelmoinnin MOOCissa vain kurssin Ohjelmoinnin perusteet.
+
+Lisätietoja tästä kurssin edetessä. 
 
 <!--
 - Ilmoittautuminen tapahtuu seuraavilla lomakkeilla:
