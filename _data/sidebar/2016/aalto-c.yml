@@ -3,12 +3,12 @@ path: /courses/2016/aalto-c
 navigation:
   -
     name: Alkutoimet
-    path: http://2016-aalto-c.tmchq.co/fi/instructions/index.html
+    path: http://2016-aalto-c.mooc.fi/en/instructions/index.html
     ext: true
     target: _blank
   -
     name: Materiaali
-    path: http://2016-aalto-c.tmchq.co/fi/Module_1/index.html
+    path: http://2016-aalto-c.mooc.fi/en/instructions/index.html
     ext: true
     target: _blank
   -
