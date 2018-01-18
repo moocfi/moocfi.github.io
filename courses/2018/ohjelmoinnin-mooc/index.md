@@ -31,16 +31,16 @@ Osa 1    | 12.1.     | 26.2.
 Osa 2    | 19.1.     | 26.2.
 Osa 3    | 26.1.     | 26.2.
 Osa 4    | 2.2.      | 26.2.
-Osa 5    | 9.2.      | 5.3. 
+Osa 5    | 9.2.      | 5.3.
 Osa 6    | 16.2.     | 12.3.
 Osa 7    | 23.2.     | 19.3.
 Osa 8    | 9.3.      | 26.3.
-Osa 9    | 16.3.     | 2.4. 
-Osa 10   | 23.3.     | 9.4. 
+Osa 9    | 16.3.     | 2.4.
+Osa 10   | 23.3.     | 9.4.
 Osa 11   | 30.3.     | 16.4.
 Osa 12   | 6.4.      | 23.4.
 Osa 13   | 13.4.     | 30.4.
-Osa 14   | 20.4.     | 7.5. 
+Osa 14   | 20.4.     | 7.5.
 
 **Määräajat ovat aina maanantaisin. Määräaikojen kellonajat ovat aina 23:59:00 -- osien 1-4 määräaika on siis maanantai 26.2. klo 23:59:00. Virallisena määräaikana käytetään tehtäväpalvelimen kelloa, joka on Suomen ajassa. Huomaa, että oman koneesi kello voi olla jäljessä tai edellä, joten älä jätä tehtävien tekemistä ja palauttamista viime hetkeen.**
 
@@ -56,7 +56,7 @@ Kurssille osallistuminen ei velvoita mihinkään, eli ohjelmoinnin MOOCiin voi o
 
 Jos haluat kurssista suoritusmerkinnän Helsingin yliopiston Avoimelta yliopistolta, tulee kurssin lopulla osallistua Helsingin yliopiston Avoimen yliopiston tarjoamaan verkossa tehtävään ilmaiseen kokeeseen. Kokeeseen voivat osallistua sekä aikataulutettua että aikarajatonta versiota tehneet opiskelijat. Kokeeseen osallistuminen vaatii tietyn määrän kurssitehtävien suorittamista. Avoimen yliopiston kokeissa suoritetaan kurssit Ohjelmoinnin perusteet ja Ohjelmoinnin jatkokurssi erillisinä kursseina -- voit halutessasi suorittaa Ohjelmoinnin MOOCissa vain kurssin Ohjelmoinnin perusteet.
 
-Lisätietoja tästä kurssin edetessä. 
+Lisätietoja tästä kurssin edetessä.
 
 <!--
 - Ilmoittautuminen tapahtuu seuraavilla lomakkeilla:
@@ -79,6 +79,8 @@ Jos olet läsnäoleva Helsingin yliopiston opiskelija, suosittelemme että osall
 ## Opinto-oikeutta Helsingin yliopistoon hakien
 
 Kurssin suorittamalla voi hakea opinto-oikeutta Helsingin yliopistoon. Lue tarkemmat tiedot sivulta [MOOC väylänä yliopistoon](opinto-oikeus.html). Huomaathan, että opinto-oikeutta voi hakea vain kurssin aikataulutetun version kautta.
+
+**<a href="opinto-oikeus.html" target="_blank"  onclick="ga('send', 'event', 'link', 'click', 'outbound-ohjelmointi-2018')" class="to-material-button">MOOC väylänä yliopistoon</a>**
 
 
 # Opettaja tai opinto-ohjaaja!
