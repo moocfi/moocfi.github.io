@@ -71,8 +71,6 @@ Kokeeseen voivat osallistua sekä aikataulutettua että aikarajatonta versiota t
 
   - <a href="https://moodle.helsinki.fi/course/view.php?id=27722" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-moodle-2008')">Tentin tekemisessä käytettävä MOODLE-alusta (kurssiavain on "MOOCs18")</a>
 
-Jos olet läsnäoleva Helsingin yliopiston opiskelija, suosittelemme että osallistut Ohjelmoinnin MOOCin sijaan tietojenkäsittelytieteen osaston järjestämille kursseille. Nämä löytyvät WebOodista kurssikoodeilla TKT10002 ja TKT10003.
-
 **Arvostelu**
 
 Sekä Ohjelmoinnin perusteet (osat 1-7) että Ohjelmoinnin jatkokurssi (osat 8-14) arvioidaan asteikolla 0-5. Arvosteluasteikko on seuraava. 
