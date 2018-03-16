@@ -26,7 +26,7 @@ Kurssin sisältö on sama kun Helsingin Yliopiston Tietojenkäsittelytieteen lai
 
 ## Yliopistokurssin opiskelijoilta saamaa palautetta
 
-- Erittäin hyvät materiaalit! Sopivan fokusoidut ja ytimekkäät, keskittyen tismalleen olennaisiin asioihin. Ikinä en uskonut että oppisin tykkäämään websovellusten tekemisestä, mutta kurssi osoitti toisin.
+- _Erittäin hyvät materiaalit! Sopivan fokusoidut ja ytimekkäät, keskittyen tismalleen olennaisiin asioihin. Ikinä en uskonut että oppisin tykkäämään websovellusten tekemisestä, mutta kurssi osoitti toisin.
 - Olin jo ennen kurssia tehnyt muutamia React-sovelluksia ja tuntui, että hyvän ja kaikenkattavan materiaalin löytäminen edes englanniksi oli välillä erittäin vaikeaa. Jos tämä kurssi olisi ollut olemassa silloin kuin aloin opettelemaan web-sovelluskehitystä, olisin varmasti säästänyt kymmeniä tunteja monien asioiden oppimisessa. Lisäksi opin erittäin paljon uusia asioita joista en tiennyt aikaisemmin. Vaikka olen jo töissä web-sovelluskehittäjänä, tämä materiaali toi minulle todella paljon lisää osaamista.
 - Mukava kurssi vaikkakin melko työläs. Oma mielikuva oli melko väärä siitä, että kurssi on helppo suorittaa muiden kurssien ohessa. Piristävää, että rankkojen teoriapitoisten kurssien lisäksi sai tehdä tällaisen enemmän käytännönläheisemmän kurssin.
 - Erittäin hyödyllinen ja kattava kurssi. Myös vaikein tähän mennessä, vaikka onkin ennestään web-sovelluskehitykseen kokemusta.
@@ -37,4 +37,4 @@ Kurssin sisältö on sama kun Helsingin Yliopiston Tietojenkäsittelytieteen lai
 - Sain töitä mm. tämän kurssin ansiosta, kiitos järjestäjille!
 - Harjoitustehtävissä riitti tekemistä, mutta toisaalta niiden kautta asiaa myös oppi yllättävän hyvin.
 - Ensimmäistä kertaa ikinä en vihannut koodata javascriptiä!
-- Todella, todella kovatasoinen kurssi ja hienosti ajan tasalla, kaikki tekniikat ovat moderneita ja niitä jopa päivitettiin kurssin aikana. 
+- Todella, todella kovatasoinen kurssi ja hienosti ajan tasalla, kaikki tekniikat ovat moderneita ja niitä jopa päivitettiin kurssin aikana._ 
