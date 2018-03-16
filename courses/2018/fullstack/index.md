@@ -20,7 +20,7 @@ Osallistujilta edellytetään vahvaa ohjelmointirutiinia, web-ohjelmoinnin ja ti
 
 Kurssi koostuu koostuu kahdeksasta osasta, joista jokaisen suorittamiseen kannattaa varata aikaa noin 5-20 tuntia. Etenemisnopeus kurssilla on vapaa. Kurssi on suorittavissa 15.12. asti.
 
-Kurssi alkaa 1.4. ja päättyy 15.12. Erillistä ilmoittautumista ei ennen kokeen suorittamista tarvita!
+_Kurssi alkaa 1.4. ja päättyy 15.12. Erillistä ilmoittautumista ei ennen kokeen suorittamista tarvita!_
 
 Kurssin sisältö on sama kun Helsingin Yliopiston Tietojenkäsittelytieteen laitoksen kurssi [Full Stack -websovelluskehitys](https://fullstack-hy.github.io). Kurssista on mahdollista saada suoritusmerkintä [Avoimen yliopiston kautta](https://courses.helsinki.fi/fi/aytkt21009/123929162). Suorituksen laajuus on 3-7 opintopistettä riippuen tehtyjen harjoitustehtävien määrästä. Kurssin suorittaminen on kaikille ilmaista, mutta suoritusmerkintä maksaa 45 euroa Helsingin Yliopiston ulkopuolisille opiskelijoille.
 
