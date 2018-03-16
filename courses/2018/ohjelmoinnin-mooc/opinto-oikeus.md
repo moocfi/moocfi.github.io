@@ -21,6 +21,16 @@ Hakulomake sekä lisää tietoa päähausta ja opinnoista löytyy osoitteesta <a
 
 Syksyn 2018 tai kevään 2018 abit voivat hakea ensi kevään yhteishaussa oikeutta tänä vuonna suoritetun MOOCin perusteella, mikäli he menestyvät kevään 2018 näyttökokeessa. Käytännössä tämä toimii niin, että opiskelija suorittaa nyt MOOC-kurssin sekä osallistuu näyttökokeeseen. Mikäli osallistuja menestyy kiitettävästi näyttökokeessa, hänet voidaan hakijan niin halutessa huomioida kevään 2018 yhteishaussa näyttökokeen perusteella. -->
 
+# Näyttökoe
+
+**Näyttökokeet järjestetään 8.5.-16.5. välillä.**
+
+Tuolla välillä tulee olemaan useampi eri näyttökoeaika, joista yhteen pitää ilmoittautua. Kun saat kutsun näyttökokeeseen, voit ilmoittautua yhteen tarjolla olevista näyttökoeajoista.
+
+Koe järjestetään Helsingin yliopiston matemaattis-luonnontieteellisellä kampuksella Kumpulassa. Tarkemmat koeajat, ilmoittautumisohjeet sekä koesali kerrotaan näyttökoekutsussa.
+
+Näyttökoekutsu lähetetään kaikille, jotka ovat saaneet vähintään 90% kaikkien kurssin 14 osan pisteistä. Kutsu tulee pian sen jälkeen, kun saat 14. osan pisteistä 90%.
+
 
 # Hyödyllistä tietoa
 
