@@ -48,39 +48,53 @@ Yllä kuvatut määräajat koskevat vain kurssia aikataulutettua versiota, aikat
 
 # Kurssin suorittaminen
 
-Kurssin aloittaminen on suoraviivaista, mutta suoritusmerkintä ja mahdollinen opinto-oikeus vaatii työtä.
-
-## Fiilispohjalta tai opintojasi varten
+Kurssin aloittaminen on suoraviivaista, mutta suoritusmerkintä ja mahdollinen opinto-oikeus vaatii työtä. 
 
 Kurssille osallistuminen ei velvoita mihinkään, eli ohjelmoinnin MOOCiin voi osallistua ihan vain huvin vuoksi. Saat valita vapaasti joko aikataulutetun version (suosittelemme tätä!) tai aikatauluttamattoman version.
 
-Jos haluat kurssista suoritusmerkinnän Helsingin yliopiston Avoimelta yliopistolta, tulee kurssin lopulla osallistua Helsingin yliopiston Avoimen yliopiston tarjoamaan verkossa tehtävään ilmaiseen kokeeseen. Kokeeseen voivat osallistua sekä aikataulutettua että aikarajatonta versiota tehneet opiskelijat. Kokeeseen osallistuminen vaatii tietyn määrän kurssitehtävien suorittamista. Avoimen yliopiston kokeissa suoritetaan kurssit Ohjelmoinnin perusteet ja Ohjelmoinnin jatkokurssi erillisinä kursseina -- voit halutessasi suorittaa Ohjelmoinnin MOOCissa vain kurssin Ohjelmoinnin perusteet.
+## Suoritusmerkintää hakien
 
-Lisätietoja tästä kurssin edetessä.
+Mikäli haluat kurssista suoritusmerkinnän, tulee kurssin lopulla osallistua Helsingin yliopiston Avoimen yliopiston tarjoamaan verkossa tehtävään ilmaiseen kokeeseen. Suoritusmerkintä tulee viralliseen opintorekisteriin, jolloin yliopisto-opintoihin on lentävä lähtö. Ohjelmoinnin MOOCin suoritusmerkintä on tyypillisesti hyväksy osaksi opintoja myös muissa korkeakouluissa (ja toisen asteen oppilaitoksissa).
 
-<!--
+Kokeeseen voivat osallistua sekä aikataulutettua että aikarajatonta versiota tehneet opiskelijat. Kokeeseen osallistuminen vaatii tietyn määrän kurssitehtävien suorittamista (kts. alla kohta Arvostelu). Avoimen yliopiston kokeissa suoritetaan kurssit Ohjelmoinnin perusteet ja Ohjelmoinnin jatkokurssi erillisinä kursseina -- voit halutessasi suorittaa Ohjelmoinnin MOOCissa vain kurssin Ohjelmoinnin perusteet.
+
 - Ilmoittautuminen tapahtuu seuraavilla lomakkeilla:
 
-  - <a href="https://www.avoin.helsinki.fi/palvelut/ilmo/index.aspx?id=23420" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ohpe-avoin-ilmoittautuminen')">Ohjelmoinnin perusteet (MOOC) ilmoittautumislomake</a>
-  - <a href="https://www.avoin.helsinki.fi/palvelut/ilmo/index.aspx?id=23422" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ohja-avoin-ilmoittautuminen')">Ohjelmoinnin jatkokurssi (MOOC) ilmoittautumislomake</a>
+  - <a href="https://www.avoin.helsinki.fi/palvelut/esittely.aspx?o=123098160" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ohpe-avoin-ilmoittautuminen-2018')">Ohjelmoinnin perusteet (MOOC) ilmoittautumislomake</a>
+  - <a href="https://www.avoin.helsinki.fi/palvelut/esittely.aspx?o=123098811" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ohja-avoin-ilmoittautuminen-2018')">Ohjelmoinnin jatkokurssi (MOOC) ilmoittautumislomake</a>
 
 - Aktivoi Helsingin yliopiston käyttäjätunnus seuraavia ohjeita seuraten ilmoittautumista seuraavana päivänä.
 
-  - <a href="https://helpdesk.it.helsinki.fi/ohjeet/kirjautuminen-ja-yhteydet/kayttajatunnus/ohjeet-yliopiston-kayttajatunnuksen-aktivointiin" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-tunnuksen-aktivointi')">Ohjeet Helsingin yliopiston käyttäjätunnusten aktivointiin</a>
+  - <a href="https://helpdesk.it.helsinki.fi/ohjeet/kirjautuminen-ja-yhteydet/kayttajatunnus/ohjeet-yliopiston-kayttajatunnuksen-aktivointiin" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-tunnuksen-aktivointi-2018')">Ohjeet Helsingin yliopiston käyttäjätunnusten aktivointiin</a>
 
 - Tunnusten aktivoinnin jälkeen pääset Avoimen yliopiston MOODLEen ja sen tenttitilaan. Linkit lisätään tänne.
 
-  - <a href="https://moodle.helsinki.fi/course/view.php?id=22330" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-moodle')">Tentin tekemisessä käytettävä MOODLE-alusta (kurssiavain on "MOOCs16")</a>
--->
-
+  - <a href="https://moodle.helsinki.fi/course/view.php?id=27722" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-moodle-2008')">Tentin tekemisessä käytettävä MOODLE-alusta (kurssiavain on "MOOCs18")</a>
 
 Jos olet läsnäoleva Helsingin yliopiston opiskelija, suosittelemme että osallistut Ohjelmoinnin MOOCin sijaan tietojenkäsittelytieteen osaston järjestämille kursseille. Nämä löytyvät WebOodista kurssikoodeilla TKT10002 ja TKT10003.
+
+**Arvostelu**
+
+Sekä Ohjelmoinnin perusteet (osat 1-7) että Ohjelmoinnin jatkokurssi (osat 8-14) arvioidaan asteikolla 0-5. Arvosteluasteikko on seuraava. 
+
+* Arvosana 1: Vähintään 75 % jokaisen osan tehtäväpisteistä, sekä vähintään 50 % koepisteistä
+* Arvosana 2: Vähintään 75 % jokaisen osan tehtäväpisteistä, sekä vähintään 60 % koepisteistä
+* Arvosana 3: Vähintään 75 % jokaisen osan tehtäväpisteistä, sekä vähintään 70 % koepisteistä
+* Arvosana 4: Vähintään 75 % jokaisen osan tehtäväpisteistä, sekä vähintään 80 % koepisteistä
+* Arvosana 5: Vähintään 90 % jokaisen osan tehtäväpisteistä, sekä vähintään 90 % koepisteistä
+
+**Tenttipäivämäärät**
+
+Alustavat tenttipäivämäärät ovat seuraavat: 24.3., 21.4., 20.5., 20.6., 20.7., 20.8., ja 20.9. Tenteistä lisätietoa yllä linkatulla Moodle-sivulla.
+
 
 ## Opinto-oikeutta Helsingin yliopistoon hakien
 
 Kurssin suorittamalla voi hakea opinto-oikeutta Helsingin yliopistoon. Lue tarkemmat tiedot sivulta [MOOC väylänä yliopistoon](opinto-oikeus.html). Huomaathan, että opinto-oikeutta voi hakea vain kurssin aikataulutetun version kautta.
 
 **<a href="opinto-oikeus.html" target="_blank"  onclick="ga('send', 'event', 'link', 'click', 'outbound-ohjelmointi-2018')" class="to-material-button">MOOC väylänä yliopistoon</a>**
+
+Mikäli haet opinto-oikeutta, suosittelemme vahvasti että osallistut myös yllä kuvattuihin Helsingin yliopiston Avoimen yliopiston tentteihin.
 
 
 # Opettaja tai opinto-ohjaaja!
