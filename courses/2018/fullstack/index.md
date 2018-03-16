@@ -6,15 +6,13 @@ english: false
 
 _**Maailman raskain React/Node.js-tutoriaali. Varaa aikaa vähintään 100 tuntia, ota hyvä asento, kääri hihat ja aloita koodaaminen!**_
 
-![](https://fullstackopen.github.io/images/fso.png)
-
 ## Sisältö
 
 Kurssilla tutustutaan Javascriptilla tapahtuvaan moderniin websovelluskehitykseen. Pääpaino on React-kirjaston avulla toteutettavissa single page -sovelluksissa, ja niitä tukevissa Node.js:llä toteutetuissa REST-rajapinnoissa. 
 
 ## Esitietovaatimukset
 
-Osallistujilta edellytetään vahvaa ohjelmointirutiinia, web-ohjelmoinnin ja tietokantojen perustuntemusta sekä valmiutta omatoimiseen tiedonhakuun. Osallistuminen ei kuitenkaan edellytä kurssilla käsiteltävien tekniikoiden tai Javascript-kielen hallintaa.  
+Osallistujilta edellytetään vahvaa ohjelmointirutiinia, web-ohjelmoinnin ja tietokantojen perustuntemusta, kykyä pitkäjänteiseen työskentelyyn sekä valmiutta omatoimiseen tiedonhakuun. Osallistuminen ei kuitenkaan edellytä kurssilla käsiteltävien tekniikoiden tai Javascript-kielen hallintaa.  
 
 ## Suorittaminen
 
@@ -22,7 +20,7 @@ Kurssi koostuu koostuu kahdeksasta osasta, joista jokaisen suorittamiseen kannat
 
 Kurssi alkaa 1.4. ja päättyy 15.12. Erillistä ilmoittautumista ei ennen kokeen suorittamista tarvita!
 
-Kurssin sisältö on sama kun Helsingin Yliopiston Tietojenkäsittelytieteen laitoksen kurssi [Full Stack -websovelluskehitys](https://fullstack-hy.github.io). Kurssista on mahdollista saada suoritusmerkintä [Avoimen yliopiston kautta](https://courses.helsinki.fi/fi/aytkt21009/123929162). Kurssin suorittaminen on kaikille ilmaista, mutta suoritusmerkintä maksaa 45 euroa Helsingin Yliopiston ulkopuolisille opiskelijoille.
+Kurssin sisältö on sama kun Helsingin Yliopiston Tietojenkäsittelytieteen laitoksen kurssi [Full Stack -websovelluskehitys](https://fullstack-hy.github.io). Kurssista on mahdollista saada suoritusmerkintä [Avoimen yliopiston kautta](https://courses.helsinki.fi/fi/aytkt21009/123929162). Suorituksen laajuus on 3-7 opintopistettä riippuen tehtyjen harjoitustehtävien määrästä. Kurssin suorittaminen on kaikille ilmaista, mutta suoritusmerkintä maksaa 45 euroa Helsingin Yliopiston ulkopuolisille opiskelijoille.
 
 ## Yliopistokurssin opiskelijoilta saamaa palautetta
 
