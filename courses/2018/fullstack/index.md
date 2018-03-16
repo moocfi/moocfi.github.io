@@ -4,7 +4,9 @@ layout: course
 english: false
 ---
 
-_**Maailman raskain React/Node.js-tutoriaali. Varaa aikaa 100 tuntia, ota hyvä asento, kääri hihat ja aloita koodaaminen!**_
+_**Maailman raskain React/Node.js-tutoriaali. Varaa aikaa vähintään 100 tuntia, ota hyvä asento, kääri hihat ja aloita koodaaminen!**_
+
+![](https://fullstackopen.github.io/images/fso.png)
 
 ## Sisältö
 
