@@ -1,5 +1,5 @@
 ---
-title: Full Stack Open
+title: Full Stack Open 2018
 layout: course
 english: false
 ---
