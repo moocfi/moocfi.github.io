@@ -26,12 +26,10 @@ Kurssin sisältö on sama kun Helsingin Yliopiston Tietojenkäsittelytieteen lai
 
 - _Erittäin hyvät materiaalit! Sopivan fokusoidut ja ytimekkäät, keskittyen tismalleen olennaisiin asioihin. Ikinä en uskonut että oppisin tykkäämään websovellusten tekemisestä, mutta kurssi osoitti toisin._
 - _Olin jo ennen kurssia tehnyt muutamia React-sovelluksia ja tuntui, että hyvän ja kaikenkattavan materiaalin löytäminen edes englanniksi oli välillä erittäin vaikeaa. Jos tämä kurssi olisi ollut olemassa silloin kuin aloin opettelemaan web-sovelluskehitystä, olisin varmasti säästänyt kymmeniä tunteja monien asioiden oppimisessa. Lisäksi opin erittäin paljon uusia asioita joista en tiennyt aikaisemmin. Vaikka olen jo töissä web-sovelluskehittäjänä, tämä materiaali toi minulle todella paljon lisää osaamista._
-- _Erittäin hyödyllinen ja kattava kurssi. Myös vaikein tähän mennessä, vaikka onkin ennestään web-sovelluskehitykseen kokemusta._
 - _Kurssi oli yllättävän laaja ja työläs, joten kurssilla korostuivat omat opiskelutaidot ja taito vetää työmäärän kanssa raja johonkin. Vanhempana opiskelijana siihen on jo tottunut ja runsaudensarvi ei ahdista. Kurssi oli ajankohtainen ja kiinnostava!_
 - _Erittäin hyödyllinen ja ajankohtainen kurssi. Asiaa on paljon, ja moneen aiheeseen pitää palata sisäistäkseen niiden roolin. Kurssin avulla sovelluskehityksestä muodostui kuitenkin hyvä yleiskuva, jonka osia voi jäsentää itselleen rauhassa kurssin jälkeenkin. Muutamia kertoja jäin kyllä tuntikausiksi jumiin, enkä voinut edetä tehtävien teossa ennen kuin bugi oli selvinnyt._
 - _Kovasti sai tehdä töitä 5 opintopisteen eteen. Kuitenkin kurssin aikana tuli opittua todella paljon äärimmäisen hyödyllisiä taitoja. Enemmän kuin joillain kursseilla jotka kestävät useita periodeja..._ 
 - _Erinomainen ja opettavainen paketti Reactista. Työläs mutta palkitseva paketti, joka sai peukkuja myös reactia työkseen tekevältä tutulta._
-- _Sain töitä mm. tämän kurssin ansiosta_
 - _Harjoitustehtävissä riitti tekemistä, mutta toisaalta niiden kautta asiaa myös oppi yllättävän hyvin._
 - _Ensimmäistä kertaa ikinä en vihannut koodata javascriptiä!_
 - _Todella, todella kovatasoinen kurssi ja hienosti ajan tasalla, kaikki tekniikat ovat moderneita ja niitä jopa päivitettiin kurssin aikana._ 
