@@ -4,7 +4,7 @@ layout: course
 english: false
 ---
 
-_**Maailman raskain React/Node.js-tutoriaali. Varaa aikaa vähintään 100 tuntia, ota hyvä asento, kääri hihat ja aloita koodaaminen!**_
+_**Syväsukellus moderniin websovelluskehitykseen — ota haltuusi React, Redux, Node.js ja MongoDB!**_
 
 ## Sisältö
 
