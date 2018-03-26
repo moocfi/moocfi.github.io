@@ -18,7 +18,7 @@ Osallistujilta edellytetään vahvaa ohjelmointirutiinia, web-ohjelmoinnin ja ti
 
 ## Suorittaminen
 
-Kurssi koostuu koostuu kahdeksasta osasta, joista jokaisen suorittamiseen kannattaa varata aikaa noin 5-20 tuntia. Etenemisnopeus kurssilla on vapaa. Kurssi on suoritettavissa 15.12. asti.
+Kurssi koostuu koostuu kahdeksasta osasta, joista jokaisen suorittamiseen kannattaa varata aikaa noin 5-20 tuntia. Etenemisnopeus kurssilla on vapaa. 
 
 _Kurssi alkaa 1.4. ja päättyy 15.12. Erillistä ilmoittautumista ei ennen kokeen suorittamista tarvita!_
 
