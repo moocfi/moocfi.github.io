@@ -31,6 +31,10 @@ Koe järjestetään Helsingin yliopiston matemaattis-luonnontieteellisellä kamp
 
 Näyttökoekutsu lähetetään kaikille, jotka ovat saaneet vähintään 90% kaikkien kurssin 14 osan pisteistä. Kutsu tulee pian sen jälkeen, kun saat 14. osan pisteistä 90%.
 
+Mikäli saat opinto-oikeuden näyttökokeen perusteella, saat samalla kurssisuoritukset kursseista Ohjelmoinnin perusteet ja Ohjelmoinnin jatkokurssi kiitettävin arvosanoin.
+
+Jos et saa opinto-oikeutta näyttökokeesta, saat suoritusmerkinnät suorittamalla Helsingin yliopiston Avoimen yliopiston tarjoamat verkkotentit. Verkkotenteistä lisätietoa [kurssisivulla](http://mooc.fi/courses/2018/ohjelmoinnin-mooc/).
+
 
 # Hyödyllistä tietoa
 
