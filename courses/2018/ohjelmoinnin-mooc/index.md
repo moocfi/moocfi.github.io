@@ -83,7 +83,9 @@ Sekä Ohjelmoinnin perusteet (osat 1-7) että Ohjelmoinnin jatkokurssi (osat 8-1
 
 **Tenttipäivämäärät**
 
-Alustavat tenttipäivämäärät ovat seuraavat: 24.3., 21.4., 20.5., 20.6., 20.7., 20.8., ja 20.9. Tenteistä lisätietoa yllä linkatulla Moodle-sivulla.
+Tenttipäivämäärät ovat seuraavat: 24.3., 21.4., 20.5., 20.6., 20.7., 20.8., ja 20.9.
+
+Tenteistä lisätietoa yllä linkatulla Moodle-sivulla.
 
 
 ## Opinto-oikeutta Helsingin yliopistoon hakien
