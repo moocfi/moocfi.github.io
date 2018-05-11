@@ -35,6 +35,8 @@ Mikäli saat opinto-oikeuden näyttökokeen perusteella, saat samalla kurssisuor
 
 Jos et saa opinto-oikeutta näyttökokeesta, saat suoritusmerkinnät suorittamalla Helsingin yliopiston Avoimen yliopiston tarjoamat verkkotentit. Verkkotenteistä lisätietoa [kurssisivulla](http://mooc.fi/courses/2018/ohjelmoinnin-mooc/).
 
+Näyttökoetulokset ilmoitetaan sähköpostitse osallistujille.
+
 
 # Hyödyllistä tietoa
 
