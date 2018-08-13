@@ -83,7 +83,7 @@ Sekä Ohjelmoinnin perusteet (osat 1-7) että Ohjelmoinnin jatkokurssi (osat 8-1
 
 **Tenttipäivämäärät**
 
-Tenttipäivämäärät ovat seuraavat: 24.3., 21.4., 20.5., 20.6., 20.7., 20.8., ja 20.9.
+Tenttipäivämäärät ovat seuraavat: 24.3., 21.4., 20.5., 20.6., 20.7., 20.8., 20.9., 20.11., ja 20.1.2019. Tammikuussa 2019 alkaa uusi Ohjelmoinnin MOOC, jonka jälkeen vuoden 2018 MOOCin tenttejä ei enää järjestetä.
 
 Tenteistä lisätietoa yllä linkatulla Moodle-sivulla.
 
