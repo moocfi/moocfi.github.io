@@ -8,6 +8,11 @@ redirect_from:
   - /programming-part1/
   - /programming-part1.html
 ---
+
+<div class="outdated-course-warning">
+  If you understand finnish, please check out our newer and much better version of this course "Ohjelmoinnin MOOC 2019": <a href="https://ohjelmointi-19.mooc.fi/">https://ohjelmointi-19.mooc.fi/</a>.
+</div>
+
 **Welcome to [University of Helsinki](http://helsinki.fi/university)'s massive open online course (MOOC) on object-oriented programming!**
 
 During this course you will learn all the basics of computer programming, algorithms and object-oriented programming using the Java programming language. The course includes comprehensive course materials and plenty of programming exercises, each tested using our automatic testing service [Test My Code](https://tmc.mooc.fi/).
