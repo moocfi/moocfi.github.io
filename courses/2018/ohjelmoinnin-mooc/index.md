@@ -3,6 +3,10 @@ title: Ohjelmoinnin MOOC &ndash; 2018
 layout: course
 ---
 
+<div class="outdated-course-warning">
+  Tämä ei ole uusin versio kurssista, katsothan myös kurssin Ohjelmoinnin MOOC 2019: <a href="https://ohjelmointi-19.mooc.fi/">https://ohjelmointi-19.mooc.fi/</a> (alkaa 14.12.2018).
+</div>
+
 Ohjelmoinnin MOOC on ilmainen verkkokurssi, jossa perehdytään algoritmien laatimiseen ja nykyaikaisen ohjelmoinnin perusideoihin. Opiskelijalta ei edellytetä ennakkotietoja ohjelmoinnista.
 
 - Ohjelmoinnin MOOC vastaa sisällöltään Helsingin yliopiston tietojenkäsittelytieteen laitoksen kursseja <a href="https://courses.helsinki.fi/fi/tkt10002" target="_blank"  onclick="ga('send', 'event', 'link', 'click', 'outbound-ohpe-tkt10002')">Ohjelmoinnin perusteet</a> ja <a href="https://courses.helsinki.fi/fi/tkt10003" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'outbound-ohja-tkt10003')">Ohjelmoinnin jatkokurssi</a>. Kurssit vastaavat yhteensä kymmentä opintopistettä (5+5).
@@ -48,7 +52,7 @@ Yllä kuvatut määräajat koskevat vain kurssia aikataulutettua versiota, aikat
 
 # Kurssin suorittaminen
 
-Kurssin aloittaminen on suoraviivaista, mutta suoritusmerkintä ja mahdollinen opinto-oikeus vaatii työtä. 
+Kurssin aloittaminen on suoraviivaista, mutta suoritusmerkintä ja mahdollinen opinto-oikeus vaatii työtä.
 
 Kurssille osallistuminen ei velvoita mihinkään, eli ohjelmoinnin MOOCiin voi osallistua ihan vain huvin vuoksi. Saat valita vapaasti joko aikataulutetun version (suosittelemme tätä!) tai aikatauluttamattoman version.
 
@@ -73,7 +77,7 @@ Kokeeseen voivat osallistua sekä aikataulutettua että aikarajatonta versiota t
 
 **Arvostelu**
 
-Sekä Ohjelmoinnin perusteet (osat 1-7) että Ohjelmoinnin jatkokurssi (osat 8-14) arvioidaan asteikolla 0-5. Arvosteluasteikko on seuraava. 
+Sekä Ohjelmoinnin perusteet (osat 1-7) että Ohjelmoinnin jatkokurssi (osat 8-14) arvioidaan asteikolla 0-5. Arvosteluasteikko on seuraava.
 
 * Arvosana 1: Vähintään 75 % jokaisen osan tehtäväpisteistä, sekä vähintään 50 % koepisteistä
 * Arvosana 2: Vähintään 75 % jokaisen osan tehtäväpisteistä, sekä vähintään 60 % koepisteistä
