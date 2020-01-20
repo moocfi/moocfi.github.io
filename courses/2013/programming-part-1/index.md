@@ -10,7 +10,11 @@ redirect_from:
 ---
 
 <div class="outdated-course-warning">
-  If you understand finnish, please check out our newer and much better version of this course "Ohjelmoinnin MOOC 2020": <a href="https://ohjelmointi-20.mooc.fi/">https://ohjelmointi-20.mooc.fi/</a>.
+  <p>
+    This course is outdated and has been replaced with this course: <a href="https://programming-20.mooc.fi/">https://programming-20.mooc.fi/</a>
+  </p>
+
+  <p>If you understand finnish, please check out our newer and much better version of this course "Ohjelmoinnin MOOC 2020": <a href="https://ohjelmointi-20.mooc.fi/">https://ohjelmointi-20.mooc.fi/</a>.</p>
 </div>
 
 **Welcome to [University of Helsinki](http://helsinki.fi/university)'s massive open online course (MOOC) on object-oriented programming!**
